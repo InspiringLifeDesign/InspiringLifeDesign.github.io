@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if gt IE 9]> <html lang="en" class="ie"> <![endif]-->
+<!--[if !IE]><!-->
+<html dir="ltr" lang="en">
+	<!--<![endif]-->
+
+	<head>
+		<meta charset="utf-8">
+		<title>{{ site.title }}</title>
+		<meta name="description" content="The Project a Bootstrap-based, Responsive HTML5 Template">
+		<meta name="author" content="htmlcoder.me">
+
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="/images/favicon.ico">
+
+    {% include styles.html %}
+
+	</head>
+
+	<!-- body classes:  -->
+	<!-- "boxed": boxed layout mode e.g. <body class="boxed"> -->
+	<!-- "pattern-1 ... pattern-9": background patterns for boxed layout mode e.g. <body class="boxed pattern-1"> -->
+	<!-- "transparent-header": makes the header transparent and pulls the banner to top -->
+	<!-- "gradient-background-header": applies gradient background to header -->
+	<!-- "page-loader-1 ... page-loader-6": add a page loader to the page (more info @components-page-loaders.html) -->
+	<body class="no-trans    ">
+
+		<!-- scrollToTop -->
+		<!-- ================ -->
+		<div class="scrollToTop circle"><i class="icon-up-open-big"></i></div>
+
+		<!-- page wrapper start -->
+		<!-- ================ -->
+		<div class="page-wrapper">
+
+			<!-- header-container start -->
+			<div class="header-container">
+
+        {% include header_top.html %}
+        {% include header.html %}
+
+			</div>
+			<!-- header-container end -->
+
+			{% include breadcrumb.html %}
+
+			<!-- main-container start -->
+			<!-- ================ -->
+			<section class="main-container">
+
+				<div class="container">
+					<div class="row">
+
+						<!-- main start -->
+						<!-- ================ -->
+						<div class="main col-md-8">
+
+							<!-- page-title start -->
+							<!-- ================ -->
+							<h1 class="page-title">{{ page.title }}</h1>
+							<!-- page-title end -->
+
+							<!-- blogpost start -->
+							<!-- ================ -->
+							<article class="blogpost full">
+								<header>
+                  {% include post-info.html date=page.date %}
+								</header>
+								<div class="blogpost-content">
+                  {{ content }}
+								</div>
+								<footer class="clearfix">
+									{% if page.categories %}
+									<div class="tags pull-left"><i class="icon-tags"></i>
+										{% for category in page.categories %}
+										<a href="#">{{ category }}</a>{% unless forloop.last %},{% endunless %}
+										{% endfor %}
+									</div>
+									{% endif %}
+									<div class="link pull-right">
+										<ul class="social-links circle small colored clearfix margin-clear text-right animated-effect-1">
+											<li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
+											<li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
+											<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+										</ul>
+									</div>
+								</footer>
+							</article>
+							<!-- blogpost end -->
+
+							<!-- comments start -->
+							<!-- ================ -->
+							<div id="comments" class="comments">
+								<h2 class="title">There are 3 comments</h2>
+
+								<!-- comment start -->
+								<div class="comment clearfix">
+									<div class="comment-avatar">
+										<img class="img-circle" src="/images/avatar.jpg" alt="avatar">
+									</div>
+									<header>
+										<h3>Comment title</h3>
+										<div class="comment-meta">By <a href="#">admin</a> | Today, 12:31</div>
+									</header>
+									<div class="comment-content">
+										<div class="comment-body clearfix">
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
+											<a href="blog-post.html" class="btn-sm-link link-dark pull-right"><i class="fa fa-reply"></i> Reply</a>
+										</div>
+									</div>
+
+									<!-- comment start -->
+									<div class="comment clearfix">
+										<div class="comment-avatar">
+											<img class="img-circle" src="/images/avatar.jpg" alt="avatar">
+										</div>
+										<header>
+											<h3>Comment title</h3>
+											<div class="comment-meta">By <a href="#">admin</a> | Today, 12:31</div>
+										</header>
+										<div class="comment-content">
+											<div class="comment-body clearfix">
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
+												<a href="blog-post.html" class="btn-sm-link link-dark pull-right"><i class="fa fa-reply"></i> Reply</a>
+											</div>
+										</div>
+									</div>
+									<!-- comment end -->
+
+								</div>
+								<!-- comment end -->
+
+								<!-- comment start -->
+								<div class="comment clearfix">
+									<div class="comment-avatar">
+										<img class="img-circle" src="/images/avatar.jpg" alt="avatar">
+									</div>
+									<header>
+										<h3>Comment title</h3>
+										<div class="comment-meta">By <a href="#">admin</a> | Today, 12:31</div>
+									</header>
+									<div class="comment-content">
+										<div class="comment-body clearfix">
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
+											<a href="blog-post.html" class="btn-sm-link link-dark pull-right"><i class="fa fa-reply"></i> Reply</a>
+										</div>
+									</div>
+								</div>
+								<!-- comment end -->
+
+							</div>
+							<!-- comments end -->
+
+							<!-- comments form start -->
+							<!-- ================ -->
+							<div class="comments-form">
+								<h2 class="title">Add your comment</h2>
+								<form role="form" id="comment-form">
+									<div class="form-group has-feedback">
+										<label for="name4">Name</label>
+										<input type="text" class="form-control" id="name4" placeholder="" name="name4" required>
+										<i class="fa fa-user form-control-feedback"></i>
+									</div>
+									<div class="form-group has-feedback">
+										<label for="subject4">Subject</label>
+										<input type="text" class="form-control" id="subject4" placeholder="" name="subject4" required>
+										<i class="fa fa-pencil form-control-feedback"></i>
+									</div>
+									<div class="form-group has-feedback">
+										<label for="message4">Message</label>
+										<textarea class="form-control" rows="8" id="message4" placeholder="" name="message4" required></textarea>
+										<i class="fa fa-envelope-o form-control-feedback"></i>
+									</div>
+									<input type="submit" value="Submit" class="btn btn-default">
+								</form>
+							</div>
+							<!-- comments form end -->
+						</div>
+						<!-- main end -->
+
+            {% include sidebar.html %}
+
+					</div>
+				</div>
+			</section>
+			<!-- main-container end -->
+
+      {% include footer_top.html %}
+
+      {% include footer.html %}
+
+		</div>
+		<!-- page-wrapper end -->
+
+    {% include scripts.html %}
+
+	</body>
+</html>

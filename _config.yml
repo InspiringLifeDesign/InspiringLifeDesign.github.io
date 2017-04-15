@@ -1,0 +1,25 @@
+# Site title
+title: Inspiring Life Design
+
+# Social Media accounts
+social-media:
+  facebook:  https://facebook.com/inspiringlifedesign
+  instagram: https://instagram.com/inspiringlifedesign
+  twitter:   https://twitter.com/inspiringlifedesign
+  youtube:   https://youtube.com/inspiringlifedesign
+
+# Default post URLs
+permalink: /posts/:title.html
+
+# Home page pagination settings
+paginate: 5
+paginate_path: "/page/:num/"
+
+# Files to exclude from build
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - docker-compose.yml
+
+gems: [jekyll-paginate]

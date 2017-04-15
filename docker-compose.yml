@@ -1,0 +1,8 @@
+inspiringlifedesign:
+    container_name: inspiringlifedesign
+    image: jekyll/jekyll:pages
+    command: jekyll serve --watch --incremental
+    ports:
+        - 4001:4000
+    volumes:
+        - .:/srv/jekyll

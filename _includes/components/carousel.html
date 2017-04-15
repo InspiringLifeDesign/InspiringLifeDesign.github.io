@@ -1,0 +1,21 @@
+{% assign images = include.images | split:"," %}
+<div id="carousel-blog-post" class="carousel slide mb-20" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    {% for image in images %}
+    <li data-target="#carousel-blog-post" data-slide-to="{{ forloop.index0 }}" {% if forloop.index0 == 0 %}class="active"{% endif %}></li>
+    {% endfor %}
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    {% for image in images %}
+    <div class="item {% if forloop.index0 == 0 %}active{% endif %}">
+      <div class="overlay-container">
+        <img src="{{ image }}" alt="">
+        <a class="overlay-link popup-img" href="{{ image }}"><i class="fa fa-search-plus"></i></a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
