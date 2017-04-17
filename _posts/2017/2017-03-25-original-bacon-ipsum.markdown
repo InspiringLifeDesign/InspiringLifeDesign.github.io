@@ -1,14 +1,12 @@
 ---
 layout: "post"
-title: "Bacon Ipsum"
+title: "Original Bacon Ipsum"
 categories:
-  - bacon
-  - pork
-  - rashers
-  - streaky
+  - 2017
+  - First Post
+  - About Corinna
+  - Freedom Plan
 ---
-Bacon ipsum dolor amet filet mignon brisket strip steak doner, pig meatloaf burgdoggen tail drumstick bacon alcatra prosciutto. Pork chop shankle ground round filet mignon boudin meatball short loin strip steak beef ribs rump sausage pastrami ham hock. Andouille filet mignon bacon ribeye pork loin sausage turducken pig cupim flank short loin short ribs pork. Ball tip leberkas tail jerky tongue, turducken short ribs drumstick.
-
 ![Mmmmm, Bacon](http://www.drinkamara.com/wp-content/uploads/2015/03/bacon_blog_post.jpg)
 
 T-bone salami ham hock shoulder. Capicola swine sausage, alcatra turkey strip steak andouille t-bone bresaola pork loin tri-tip kevin. Salami short loin venison capicola beef ribs cupim pancetta brisket jowl chicken. Jerky beef ribs tenderloin, strip steak kevin landjaeger sausage shoulder tail shankle. Frankfurter cupim beef turducken porchetta. Pancetta fatback t-bone, burgdoggen short ribs porchetta chuck pastrami shankle jowl beef rump kevin. Jerky ham hock porchetta, shank bacon landjaeger ground round jowl meatball.
