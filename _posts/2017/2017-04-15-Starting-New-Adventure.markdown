@@ -7,17 +7,19 @@ categories:
   - About Corinna
   - Freedom Plan
 ---
-![Mmmmm, Bacon](http://www.drinkamara.com/wp-content/uploads/2015/03/bacon_blog_post.jpg)
+![Inspiring Life Design logo](/i/Mainlogo1500x500.jpg)
 
-Hello and welcome to my brand new website, designed to give you inspiration and guidance in how to <b>start making your own money</b> from lots of different types of income generating activities. 
+Hello and welcome to my brand new website, designed to give you inspiration and guidance in how to <b>start making your own money</b> from lots of different income generating activities. 
 
+<h3>Allow me to introduce myself</h3>
+![Photo of Corinna](/i/Cory.jpg){:style="width: 100px; height: 100px; margin: 0 10px 10px 0; float: left;"}
 My name is <b>Corinna</b>, and I'm embarking on a journey of exploration and experimentation into as many different ways as I can find for how to make money, without having to work for someone else. In short, I want to become self sufficient and make money through my own independent means - no more working for *The Boss* or struggling through the daily grind of a 5 day week. As I pursue my <b>2 year Freedom Plan</b> to become financially free, I'm going to share all of my successes and failures with you, as well as recommendations for how you can get started with your own journey to freedom.
 
 <h3>So where did the idea for this site come from?</h3>
 
 I've spent the past year reading financial blogs and books learning of ways to be able to escape the rat race. While I determined that it could be possible to save and invest toward an "early" retirement by age 50 (I'm currently 41), that still felt like a relatively long and slow journey to pursue, so alongside my saving endeavours, I started to look for alternative ways to make my dreams a reality sooner.
 
-Having focussed on reducing my expenses as much as possible, the next obvious thing to do was determine ways that I can achieve additional income. This led me to having a try at a couple of income generating ventures, while I was still working a full time work contract. The beauty of this is that I still have a regular income to sustain my current lifestyle. The downside is that the amount of time I have available to work on any extra curricular endeavours is limited to evenings and whatever free time I can manage on weekends, ultimately resulting in my progress being slower than I would like
+Having focussed on reducing my expenses as much as possible, the next obvious thing to do was determine ways that I can achieve additional income. This led me to having a try at a couple of income generating ventures, while I was still working a full time work contract. The beauty of this is that I still have a regular income to sustain my current lifestyle. The downside is that the amount of time I have available to work on any extra curricular endeavours is limited to evenings and whatever free time I can manage on weekends, ultimately resulting in my progress being slower than I would like.
 
 My journey toward "income independence" was born around April 2016, but I still consider myself right near the beginning of what I hope will be an exciting and prosperous adventure into the world of entrepreneurial business. 
 
