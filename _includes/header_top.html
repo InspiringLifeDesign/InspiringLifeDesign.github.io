@@ -19,10 +19,9 @@
             <div class="btn-group dropdown">
               <button type="button" class="btn dropdown-toggle" data-toggle="dropdown"><i class="fa fa-share-alt"></i></button>
               <ul class="dropdown-menu dropdown-animation">
-                <li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
-                <li class="youtube"><a target="_blank" href="http://www.youtube.com"><i class="fa fa-youtube-play"></i></a></li>
-                <li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
-                <li class="pinterest"><a target="_blank" href="http://www.instagram.com"><i class="fa fa-instagram"></i></a></li>
+                {% for account in site.social-media %}
+                <li class="{{ account[0] }}"><a target="_blank" href="{{ account[1] }}"><i class="fa fa-{{ account[0] }}"></i></a></li>
+                {% endfor %}
               </ul>
             </div>
           </div>
