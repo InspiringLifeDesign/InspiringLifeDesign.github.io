@@ -5,7 +5,6 @@ categories:
   - 2017
   - First Post
   - About Corinna
-  - Freedom Plan
 ---
 ![Inspiring Life Design logo](/i/Mainlogo1500x500.jpg)
 
