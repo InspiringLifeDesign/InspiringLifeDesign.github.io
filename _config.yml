@@ -3,10 +3,10 @@ title: Inspiring Life Design
 
 # Social Media accounts
 social-media:
-  facebook:  https://facebook.com/inspiringlifedesign/
+  youtube:   https://www.youtube.com/channel/UCFMCt3HfmLwWyqr5QSETThQ
   instagram: https://www.instagram.com/inspiringlifedesign/
   twitter:   https://twitter.com/lifedesigntoday
-  youtube:   https://www.youtube.com/channel/UCFMCt3HfmLwWyqr5QSETThQ
+  facebook:  https://facebook.com/inspiringlifedesign/
 
 # Default post URLs
 permalink: /posts/:title.html
