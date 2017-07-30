@@ -6,9 +6,9 @@
       <h3 class="title">Tags</h3>
       <div class="separator-2"></div>
       <div class="tags-cloud">
-        {% for category in site.categories %}
+        {% for tag in site.tags %}
         <div class="tag">
-          <a href="#">{{ category | first }}</a>
+          <a href="#">{{ tag | first }}</a>
         </div>
         {% endfor %}
       </div>

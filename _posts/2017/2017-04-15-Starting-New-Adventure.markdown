@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Starting A New Adventure"
-categories:
+tags:
   - 2017
   - First Post
   - About Corinna
