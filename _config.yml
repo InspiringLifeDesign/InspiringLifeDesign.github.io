@@ -8,6 +8,9 @@ social-media:
   twitter:   https://twitter.com/lifedesigntoday
   facebook:  https://facebook.com/inspiringlifedesign/
 
+# Contact email address
+email: hello@inspiringlifedesign.com
+
 # Default post URLs
 permalink: /posts/:title.html
 
