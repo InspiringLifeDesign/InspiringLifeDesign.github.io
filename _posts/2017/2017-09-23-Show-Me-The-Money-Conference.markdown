@@ -1,7 +1,8 @@
 ---
 layout: "post"
 title: "Show Me The Money Bloggers 3 Conference AND the SHOMO Awards 2017!"
-categories:
+tags:
+  - 2017
   - Events
   - Money Blogging
 ---
