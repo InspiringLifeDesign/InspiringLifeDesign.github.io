@@ -11,6 +11,9 @@ social-media:
 # Contact email address
 email: hello@inspiringlifedesign.com
 
+# Google analytics ID
+google-analytics: UA-103634480-1
+
 # Default post URLs
 permalink: /posts/:title.html
 
