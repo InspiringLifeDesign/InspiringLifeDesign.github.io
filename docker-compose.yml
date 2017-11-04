@@ -1,7 +1,7 @@
 inspiringlifedesign:
     container_name: inspiringlifedesign
-    image: jekyll/jekyll:pages
-    command: jekyll serve --watch --incremental
+    image: jekyll/jekyll
+    command: jekyll serve
     ports:
         - 4001:4000
     volumes:
