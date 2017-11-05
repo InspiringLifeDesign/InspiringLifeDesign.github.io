@@ -67,8 +67,10 @@
 								<footer class="clearfix">
 									{% if page.tags %}
 									<div class="tags pull-left"><i class="icon-tags"></i>
-										{% for tag in page.tags %}
-										<a href="#">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
+										{% for tag_page in site.tag_pages %}
+										{% if page.tags contains tag_page.title %}
+										<a href="{{ tag_page.url }}">{{ tag_page.title }}</a>{% unless forloop.last %},{% endunless %}
+										{% endif %}
 										{% endfor %}
 									</div>
 									{% endif %}
