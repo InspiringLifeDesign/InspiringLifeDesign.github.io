@@ -15,7 +15,7 @@ email: hello@inspiringlifedesign.com
 google-analytics: UA-103634480-1
 
 # Default post URLs
-permalink: /posts/:title.html
+permalink: /posts/:title
 
 # Home page pagination settings
 paginate: 5
