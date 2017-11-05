@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if gt IE 9]> <html lang="en" class="ie"> <![endif]-->
+<!--[if !IE]><!-->
+<html dir="ltr" lang="en">
+	<!--<![endif]-->
+
+	<head>
+		<meta charset="utf-8">
+		<title>{{ site.title }}</title>
+		<meta name="description" content="The Project a Bootstrap-based, Responsive HTML5 Template">
+		<meta name="author" content="htmlcoder.me">
+
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="/images/favicon.ico">
+
+    {% include styles.html %}
+	</head>
+
+	<!-- body classes:  -->
+	<!-- "boxed": boxed layout mode e.g. <body class="boxed"> -->
+	<!-- "pattern-1 ... pattern-9": background patterns for boxed layout mode e.g. <body class="boxed pattern-1"> -->
+	<!-- "transparent-header": makes the header transparent and pulls the banner to top -->
+	<!-- "gradient-background-header": applies gradient background to header -->
+	<!-- "page-loader-1 ... page-loader-6": add a page loader to the page (more info @components-page-loaders.html) -->
+	<body class="no-trans front-page page-loader-4">
+
+		<!-- scrollToTop -->
+		<!-- ================ -->
+		<div class="scrollToTop circle"><i class="icon-up-open-big"></i></div>
+
+		<!-- page wrapper start -->
+		<!-- ================ -->
+		<div class="page-wrapper">
+
+			<!-- header-container start -->
+			<div class="header-container">
+
+        {% include header_top.html %}
+        {% include header.html %}
+
+			</div>
+			<!-- header-container end -->
+
+			<!-- main-container start -->
+			<!-- ================ -->
+			<section class="main-container">
+
+				<div class="container">
+					<div class="row">
+
+						<!-- main start -->
+						<!-- ================ -->
+						<div class="main col-md-8">
+
+              {{ content }}
+
+						</div>
+						<!-- main end -->
+
+						{% include sidebar.html %}
+
+					</div>
+				</div>
+			</section>
+			<!-- main-container end -->
+
+      {% include footer.html %}
+
+		</div>
+		<!-- page-wrapper end -->
+
+		{% include scripts.html %}
+		{% include google-analytics.html %}
+
+	</body>
+</html>
