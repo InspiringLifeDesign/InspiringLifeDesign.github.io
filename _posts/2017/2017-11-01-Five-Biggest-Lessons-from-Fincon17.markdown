@@ -2,7 +2,7 @@
 layout: "post"
 title: "The 5 Biggest Lessons From Fincon 2017"
 tags:
-  - 2017
+  - "2017"
   - Events
   - Money Blogging
 ---
