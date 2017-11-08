@@ -66,22 +66,22 @@
 											<article class="blogpost shadow light-gray-bg bordered object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="100">
 												<header>
 													<h2><a href="blog-post.html">{{post.title}}</a></h2>
-													<div class="post-info">
-														<span class="post-date">
-															<i class="icon-calendar"></i>
-															<span class="day">09</span>
-															<span class="month">May 2015</span>
-														</span>
-														<span class="submitted"><i class="icon-user-1"></i> by <a href="#">John Doe</a></span>
-														<span class="comments"><i class="icon-chat"></i> <a href="#">22 comments</a></span>
-													</div>
+													{% include post-info.html date=post.date %}
 												</header>
 												<div class="blogpost-content">
-													<p>Mauris dolor sapien, malesuada at interdum ut, hendrerit eget lorem. Nunc interdum mi neque, et  sollicitudin purus fermentum ut. Suspendisse faucibus nibh odio, a vehicula eros pharetra in. Maecenas  ullamcorper commodo rutrum. In iaculis lectus vel augue eleifend dignissim. Aenean viverra semper sollicitudin.</p>
+													{{ post.excerpt }}
 												</div>
 												<footer class="clearfix">
-													<div class="tags pull-left"><i class="icon-tags"></i> <a href="#">tag 1</a>, <a href="#">tag 2</a>, <a href="#">long tag 3</a></div>
-													<div class="link pull-right"><i class="icon-link"></i><a href="#">Read More</a></div>
+													{% if post.tags %}
+													<div class="tags pull-left"><i class="icon-tags"></i>
+														{% for tag_page in site.tag_pages %}
+														{% if post.tags contains tag_page.title %}
+														<a href="{{ tag_page.url }}">{{ tag_page.title }}</a>{% unless forloop.last %},{% endunless %}
+														{% endif %}
+														{% endfor %}
+													</div>
+													{% endif %}
+													<div class="link pull-right"><i class="icon-link"></i><a href="{{ post.url }}">Read More</a></div>
 												</footer>
 											</article>
 											<!-- blogpost end -->
