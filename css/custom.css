@@ -7,3 +7,12 @@ Created:December 2014
 License URI:http://support.wrapbootstrap.com/
 File Description: Place here your custom CSS styles
 */
+header.header {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e9a382+0,a54274+50,40374e+100 */
+  background: #e9a382; /* Old browsers */
+  background: -moz-linear-gradient(45deg, #e9a382 0%, #a54274 50%, #40374e 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(45deg, #e9a382 0%,#a54274 50%,#40374e 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(45deg, #e9a382 0%,#a54274 50%,#40374e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e9a382', endColorstr='#40374e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  border-top: 0px;
+}
