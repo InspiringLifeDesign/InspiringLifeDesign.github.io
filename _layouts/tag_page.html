@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if gt IE 9]> <html lang="en" class="ie"> <![endif]-->
+<!--[if !IE]><!-->
+<html dir="ltr" lang="en">
+	<!--<![endif]-->
+
+	<head>
+		{% include head.html %}
+		{% include opengraph.html %}
+    {% include twittercard.html %}
+    {% include styles.html %}
+	</head>
+
+	<!-- body classes:  -->
+	<!-- "boxed": boxed layout mode e.g. <body class="boxed"> -->
+	<!-- "pattern-1 ... pattern-9": background patterns for boxed layout mode e.g. <body class="boxed pattern-1"> -->
+	<!-- "transparent-header": makes the header transparent and pulls the banner to top -->
+	<!-- "gradient-background-header": applies gradient background to header -->
+	<!-- "page-loader-1 ... page-loader-6": add a page loader to the page (more info @components-page-loaders.html) -->
+	<body class="no-trans front-page page-loader-4">
+
+		<!-- scrollToTop -->
+		<!-- ================ -->
+		<div class="scrollToTop circle"><i class="icon-up-open-big"></i></div>
+
+		<!-- page wrapper start -->
+		<!-- ================ -->
+		<div class="page-wrapper">
+
+			<!-- header-container start -->
+			<div class="header-container">
+
+        {% include header_top.html %}
+        {% include header.html %}
+
+			</div>
+			<!-- header-container end -->
+
+			<!-- main-container start -->
+			<!-- ================ -->
+			<section class="main-container">
+
+				<div class="container">
+					<div class="row">
+
+						<!-- main start -->
+						<!-- ================ -->
+						<div class="main col-md-12">
+
+							<!-- page-title start -->
+							<!-- ================ -->
+							<h1 class="page-title">{{ page.title }}</h1>
+							<div class="separator-2"></div>
+							<!-- page-title end -->
+
+							<!-- timeline grid start -->
+							<!-- ================ -->
+							<div class="timeline clearfix">
+
+								{% for post in site.posts %}
+									{% if post.tags contains page.title %}
+										<!-- timeline grid item start -->
+										<div class="timeline-item {% cycle '', 'pull-right' %}">
+											<!-- blogpost start -->
+											<article class="blogpost shadow light-gray-bg bordered object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="100">
+												<header>
+													<h2><a href="blog-post.html">{{post.title}}</a></h2>
+													{% include post-info.html date=post.date %}
+												</header>
+												<div class="blogpost-content">
+													{{ post.excerpt }}
+												</div>
+												<footer class="clearfix">
+													{% if post.tags %}
+													<div class="tags pull-left"><i class="icon-tags"></i>
+														{% for tag_page in site.tag_pages %}
+														{% if post.tags contains tag_page.title %}
+														<a href="{{ tag_page.url }}">{{ tag_page.title }}</a>{% unless forloop.last %},{% endunless %}
+														{% endif %}
+														{% endfor %}
+													</div>
+													{% endif %}
+													<div class="link pull-right"><i class="icon-link"></i><a href="{{ post.url }}">Read More</a></div>
+												</footer>
+											</article>
+											<!-- blogpost end -->
+										</div>
+										<!-- timeline grid item end -->
+									{% endif %}
+								{% endfor %}
+
+							</div>
+							<!-- timeline grid end -->
+
+						</div>
+						<!-- main end -->
+
+					</div>
+				</div>
+			</section>
+			<!-- main-container end -->
+
+      {% include footer.html %}
+
+		</div>
+		<!-- page-wrapper end -->
+
+		{% include scripts.html %}
+		{% include google-analytics.html %}
+
+	</body>
+</html>

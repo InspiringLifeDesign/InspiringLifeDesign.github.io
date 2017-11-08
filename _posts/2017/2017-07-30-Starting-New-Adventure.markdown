@@ -2,7 +2,7 @@
 layout: "post"
 title: "Starting A New Adventure"
 tags:
-  - 2017
+  - "2017"
   - First Post
   - About Corinna
 ---

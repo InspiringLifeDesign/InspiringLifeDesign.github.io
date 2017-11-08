@@ -20,6 +20,12 @@ google-analytics: UA-103634480-1
 # Default post URLs
 permalink: /posts/:title
 
+# Collections
+collections:
+  tag_pages:
+    output: true
+    permalink: /tag/:title
+
 # Home page pagination settings
 paginate: 5
 paginate_path: "/page/:num/"

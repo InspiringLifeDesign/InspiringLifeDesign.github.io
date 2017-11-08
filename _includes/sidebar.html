@@ -6,9 +6,9 @@
       <h3 class="title">Tags</h3>
       <div class="separator-2"></div>
       <div class="tags-cloud">
-        {% for tag in site.tags %}
+        {% for tag_page in site.tag_pages %}
         <div class="tag">
-          <a href="#">{{ tag | first }}</a>
+          <a href="{{ tag_page.url }}">{{ tag_page.title }}</a>
         </div>
         {% endfor %}
       </div>
