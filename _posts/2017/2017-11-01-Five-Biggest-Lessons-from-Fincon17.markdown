@@ -5,6 +5,7 @@ tags:
   - "2017"
   - Events
   - Money Blogging
+  - Lessons Learned
 ---
 
 <img src='/i/Fincon17_logo.jpg' alt='missing' />
