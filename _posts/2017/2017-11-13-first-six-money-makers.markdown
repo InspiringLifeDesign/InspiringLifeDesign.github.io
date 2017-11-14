@@ -2,7 +2,7 @@
 layout: "post"
 title: "The First 6 Money Makers I've Tried"
 tags:
-  - Making money
+  - Making Money
 ---
 ![Inspiring Life Design logo](/i/6_Money_Makers.png)
 
@@ -102,7 +102,7 @@ At this point you have **2 options** depending on your strategy and attitude to 
 
 There is quite a community of people making a lot of money from matched betting. If you are prepared to put in the time and effort it's possible to make **thousands of pounds** per month. 
 
-**To get started with Matched Betting:** There are websites you can sign-up to who will help you find offers and place suitable bets. I would highly recommend that you use one of these sites because they step you through the process and make it so easy. The one I have tried is <a href="https://www.oddsmonkey.com/" target="_blank">**OddsMonkey**</a> who offer introductory training guides and walk you through your first couple of offers for free. If you choose to sign-up with them, they offer options of monthly or annual subscription packages and it's easy to earn back the subscription cost very quickly using matched betting, after which it's all pure profit. Lovely.
+**To get started with Matched Betting:** There are websites you can sign-up to who will help you find offers and place suitable bets. I would highly recommend that you use one of these sites because they step you through the process and make it so easy. The one I have tried is <a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187" target="_blank">**OddsMonkey**</a>[^1] who offer introductory training guides and walk you through your first couple of offers for free. If you choose to sign-up with them, they offer options of monthly or annual subscription packages and it's easy to earn back the subscription cost very quickly using matched betting, after which it's all pure profit. Lovely.
 
 
 ### 5. Ebay:  PROFIT = **£79.22** in 12 months
