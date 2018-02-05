@@ -251,7 +251,7 @@ During February I plan to focus my efforts on the following money generating act
 
 ##### TO ACHIEVE MY FEBRUARY TARGET
 
-- Sign-up with a site to help me make money from Matched Betting. I've used [**Odds Monkey**](https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187){:target="_blank" rel="nofollow"} in the past, and this is who I plan to sign up with again. I anticipate that Matched Betting will need to be my main money generator this month
+- Sign-up with a site to help me make money from Matched Betting. I've used [**Odds Monkey**](https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187){:target="_blank" rel="nofollow"}[^1] in the past, and this is who I plan to sign up with again. I anticipate that Matched Betting will need to be my main money generator this month
 - Research more affiliate and/or advertising opportunities that complement my content on Inspiring Life Design, and implement these
 - Carry out as many surveys and free draws as I can
 - Add a Coaching area to Inspiring Life Design so that I have a sales page to be able to offer coaching
@@ -261,6 +261,7 @@ During February I plan to focus my efforts on the following money generating act
 - Promoting existing kindle books (won't have an impact on February's income but should hopefully start to boost income for March and April)
 - Work on a new book to launch on Kindle and paperback
 
+[^1]: Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.
 
     
 *How has your income and profit been for January? Have you started any Side Hustles yet? If there are any Side Hustles you're particularly interested in finding out about please let me know. I'd love to hear from you in the comments below...*
