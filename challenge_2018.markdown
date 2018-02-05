@@ -2,7 +2,7 @@
 layout: "default"
 title: "#Challenge2018 Progress"
 tags:
-  - #Challenge2018
+  - Challenge2018
   - Saving Money
   
 ---
