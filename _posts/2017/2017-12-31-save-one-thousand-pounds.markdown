@@ -5,6 +5,7 @@ tags:
   - Saving Money
   - Challenges
   - Challenge2018
+  - 2017
 ---
 ![Challenge 2018 image](/i/Challenge_2018.png)
 

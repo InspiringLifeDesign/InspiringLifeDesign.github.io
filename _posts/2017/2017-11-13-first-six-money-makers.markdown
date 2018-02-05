@@ -3,6 +3,7 @@ layout: "post"
 title: "The First 6 Money Makers I've Tried"
 tags:
   - Making Money
+  - 2017
 ---
 ![Inspiring Life Design logo](/i/6_Money_Makers.png)
 
