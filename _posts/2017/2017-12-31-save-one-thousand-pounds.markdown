@@ -5,7 +5,7 @@ tags:
   - Saving Money
   - Challenges
   - Challenge2018
-  - 2017
+  - "2017"
 ---
 ![Challenge 2018 image](/i/Challenge_2018.png)
 
@@ -78,7 +78,3 @@ IMPORTANT NOTE: If you sign-up for the challenge your **name** and **amount save
 
 ---
 <br>
-
-
-
-
