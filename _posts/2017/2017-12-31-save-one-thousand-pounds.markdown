@@ -53,11 +53,13 @@ To make things a bit more interesting, I thought it would be fun to track our pr
 
 All you need to do to is:
 
-1. Sign-up to the challenge here:
-<script async id="_ck_317554" src="https://forms.convertkit.com/317554?v=6"></script>
+1.  Sign-up to the challenge.
+*Unfortunately sign-ups for #Challenge2018 are now closed. However you can join the waitlist for future challenges here:*
+<script async id="_ck_337007" src="https://forms.convertkit.com/337007?v=6"></script>
 2. Make your copy of the [Google Sheet](https://docs.google.com/spreadsheets/d/1i1E-jIoObX94_FcJNrnCRZKrzkx1hG89UYs8aj-sd0w/edit?usp=sharing){:target="_blank" rel="nofollow"} and start saving
-2. Whenever you save a new amount (or as often as you choose to let me know) email me how much you have saved
-3. Check back regularly on my [Challenge 2018](http://inspiringlifedesign.com/challenge_2018.html){:target="_blank"} page to see how everyone is doing! (You may want to bookmark this page)
+
+3. Whenever you save a new amount (or as often as you choose to let me know) email me how much you have saved
+4. Check back regularly on my [Challenge 2018](http://inspiringlifedesign.com/challenge_2018.html){:target="_blank"} page to see how everyone is doing! (You may want to bookmark this page)
 
 I will be keeping the page updated on a regular basis, so you can see how well you're doing alongside the other participants.
 

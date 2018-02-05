@@ -71,16 +71,9 @@ It could be as easy as making your own hot drink to take with you from home each
 ### But I Hate Going Without!
 That's ok. You can set your mission to **make the money** you need each week. There are many ways to make money whether online or out in the *real world*! All it takes is a bit of time and effort once you know what your money making options are! That's where  **InspiringLifeDesign** comes in. My passion is finding and experimenting with new ways to make money, and I'm sharing all my learnings with you. 
 
-If you haven't done so already, you can sign-up to  **#Challenge2018** - I'm keeping this open to new sign-ups until **Wednesday 31st January 2018**. So don't miss out if you want to give it a go! Once you've signed up you'll receive weekly emails from me, with money making ideas to ensure your success.
+Sign-ups for **#Challenge2018** closed on 31st January 2018, however you can join the waitlist for future challenges, that way I can let you know as soon as they're about to start:
 
-All you need to do to is:
-
-1. Sign-up to the challenge here:
-<script async id="_ck_317554" src="https://forms.convertkit.com/317554?v=6"></script>
-2. Make your copy of the [Google Sheet](https://docs.google.com/spreadsheets/d/1i1E-jIoObX94_FcJNrnCRZKrzkx1hG89UYs8aj-sd0w/edit?usp=sharing){:target="_blank" rel="nofollow"} and start saving
-2. Whenever you save a new amount (or as often as you choose to let me know) email me how much you have saved
-3. Check back regularly on my [Challenge 2018](http://inspiringlifedesign.com/challenge_2018.html){:target="_blank"} page to see how everyone is doing! (You may want to bookmark that page)
-
+<script async id="_ck_337007" src="https://forms.convertkit.com/337007?v=6"></script>
 
 ### Week 3 Progress
 If you follow me on [Instagram](https://www.instagram.com/inspiringlifedesign/){:target="_blank"} or [Facebook](https://www.facebook.com/inspiringlifedesign/){:target="_blank"}, you'll already know that I've been keeping everyone updated with how much I've been saving each week.
