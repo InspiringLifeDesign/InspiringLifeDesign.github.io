@@ -2,6 +2,7 @@
 layout: "post"
 title: "Let's get £1,000 richer this year!"
 tags:
+  - "2018"
   - Saving Money
   - Challenges
   - Challenge2018
