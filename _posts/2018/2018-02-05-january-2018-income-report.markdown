@@ -21,6 +21,10 @@ The first thing that I do when I set myself an annual goal is to see how that br
 
 This means that my target profit for January would ideally be in the region of £333.33. So how did I do?
 
+<center>
+<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_26" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/Web Banner - 728x90.png" width="728" height="90" alt="OddsMonkey"></a>
+</center>
+
 ### INCOME REPORT
 First let's take a look at my Income for January.
 
@@ -247,6 +251,11 @@ So all that's left to do is calculate the profit for January and weigh this up a
 
 As you can see, I haven't hit my profit target for January. I managed about 70% of my target amount. It's not a bad start, but given that most of this income came from the proceeds of book sales made in November and December (the best months for sales due to Black Friday and Christmas) I have a LOT of work to do to hit my targets in future months as well as catch up for January.
 
+<center>
+<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_14" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/728x90_free_tutorials.jpg" width="728" height="90" alt=""></a>
+</center>
+<br>
+
 During February I plan to focus my efforts on the following money generating activities:
 
 ##### TO ACHIEVE MY FEBRUARY TARGET
@@ -265,5 +274,7 @@ During February I plan to focus my efforts on the following money generating act
 
     
 *How has your income and profit been for January? Have you started any Side Hustles yet? If there are any Side Hustles you're particularly interested in finding out about please let me know. I'd love to hear from you in the comments below...*
+
+
 
 
