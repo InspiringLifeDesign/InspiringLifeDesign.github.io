@@ -75,6 +75,10 @@ Some key things to say about cashback sites:
 
 [^1]: Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.
 
+<center>
+<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_25" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/Web Banner - 600x222.png" width="600" height="222" alt="OddsMonkey"></a>
+</center>
+
 ### 4. Matched Betting:  PROFIT = **£87.19** in 12 months
 
 This particular side hustle, as far as I am aware, is only for people living in the UK. For anyone already familiar with Matched Betting, my profits will appear miniscule compared to what can be achieved. This is because I haven't spent *that* much time doing it, I've just dabbled so far.
