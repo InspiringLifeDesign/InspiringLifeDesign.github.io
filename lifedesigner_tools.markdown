@@ -129,7 +129,12 @@ I love the pastel pens so much I'm almost certain to buy these bright dual brush
 <!-- Tombow pens START -->
 <a target="_blank"  href="https://www.amazon.co.uk/gp/product/B00JVB8FBA/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00JVB8FBA&linkCode=as2&tag=ild0b-21&linkId=c554de1df48d9cdc1d37c243356c43c8"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B00JVB8FBA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B00JVB8FBA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <!-- Tombow pens END -->
-
+<br>
+#### Rode Smartlav+ Lavalier Microphone for Smartphone
+Several people have recommended Rode as a good brand to me, so I've found this microphone which I think will be perfect for Youtube videos.
+<!-- Rode Lapel mic START -->
+<a target="_blank"  href="https://www.amazon.co.uk/gp/product/B00EO4A7L0/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00EO4A7L0&linkCode=as2&tag=ild0b-21&linkId=0e78f0bc6087a603b52f6530306eb34f"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B00EO4A7L0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B00EO4A7L0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<!-- Rode Lapel mic END -->
 
 ### Life Designer Books
  <div class="separator-2"></div>
