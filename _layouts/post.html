@@ -60,6 +60,9 @@
 							<article class="blogpost full">
 								<header>
                   {% include post-info.html date=page.date %}
+									{% if page.affiliate %}
+									<div>This post may contain affiliate links</div>
+									{% endif %}
 								</header>
 								<div class="blogpost-content">
                   {{ content }}
