@@ -7,7 +7,7 @@ tags:
   - Planning
 affiliate: true
 ---
-![Make Your Financial Freedom Plan, background sunny beach scene](/i/Freedom_plan_1.png)
+![Make Your Financial Freedom Plan, background sunny beach scene](/i/Freedom_Plan_1.png)
 
 ### Achieving financial freedom is no small undertaking. It takes time, focus and discipline. In Part One of this two part series we discuss how to calculate your total annual expenses, as the first step to creating your plan for financial freedom.
 
