@@ -6,7 +6,7 @@ title: "Resources Page"
 
 As a **thank you** for being one of my #lifedesigners, you receive access to this exclusive resources area of the site. Here you will find the tools and printables that I create to help you achieve your **Freedom Plan**.
 
-If you have any ideas for things you would like to see here, then [email me](hello@inspiringlifedesign.com) to let me know or leave a comment below.
+If you have any ideas for things you would like to see here, then [email me](mailto:hello@inspiringlifedesign.com) to let me know or leave a comment below.
 
  <div class="separator-2"></div>
 
