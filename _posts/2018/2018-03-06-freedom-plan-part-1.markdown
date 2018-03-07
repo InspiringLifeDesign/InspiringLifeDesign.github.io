@@ -49,7 +49,7 @@ I have outlined below the steps I recommend for calculating your expenses.
 ### Calculating Your Expenses
 Since there's going to be some sums involved in this section, you may want to create a spreadsheet to log your expenses in. Alternatively, I have already created a **template spreadsheet** for my #lifedesigner subscribers. If you would like me to send you a copy of the template you can join my mailing list where you will be subscribed to receive updates from me about blog posts, side hustles and any fantastic offers I receive that I can pass onto you.
 <script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
-<div class="ck_form_container ck_inline" data-ck-version="7">
+<div class="ck_form_container ck_inline" data-ck-version="6">
   <div class="ck_form ck_naked">
   <div class="ck_form_fields">
     <div id="ck_success_msg" style="display:none;">
@@ -246,6 +246,11 @@ Since there's going to be some sums involved in this section, you may want to cr
     right: 35px;
   }
 }
+
+
+
+
+
 </style>
 <sub>Please also see my [privacy policy](/policies/privacy){:target="_blank"} for how I will use your data</sub> 
 <br><br>
