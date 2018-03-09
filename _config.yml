@@ -37,4 +37,4 @@ exclude:
   - Gemfile.lock
   - docker-compose.yml
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
