@@ -13,7 +13,7 @@ affiliate: true
 
 ***  
 
-*This is **Part One** of a two part series discussing how to create your Freedom Plan. Part Two will follow next week.*
+*This is **Part One** of a two part series discussing how to create your Freedom Plan. You can read [**Part Two here**](/posts/freedom-plan-part-2).*
 
 ### Setting The Scene
 
