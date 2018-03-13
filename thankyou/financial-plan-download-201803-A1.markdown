@@ -14,7 +14,7 @@ Access the **Financial Freedom Plan spreadsheet** below:
 #### Excel
 Follow this link to download the spreadsheet in Microsoft Excel format:
 
-[**Financial Freedom Plan** (Excel Spreadsheet)](/downloads/Financial_Freedom_Calculator.xlsx){:target="_blank"}
+[**Financial Freedom Plan** (Excel Spreadsheet)](/downloads/Financial_Freedom_calculator.xlsx){:target="_blank"}
 
 
 #### Google Sheets
