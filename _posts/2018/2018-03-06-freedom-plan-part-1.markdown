@@ -351,7 +351,7 @@ Using the above example this would be:
 The amount you have here is your **TOTAL MONTHLY EXPENSES**.
 <br><br>
 ### You're Halfway To Creating Your Freedom Plan!
-That's all there is to it for calculating your expenses. In **Part Two** we'll use the figures you've just calculated to create a plan for how you intend to cover your expenses, to ultimately become financially free. We will further discuss the two terms mentioned at the start of this post **Financial Freedom** and **Income Freedom**, covering aspects such as investing and generating income from side hustles. By the end of Part Two you'll have your Freedom Plan! Check back next week for the second installment or [join my mailing list](/signup/signup_page) to be notified of new posts as they are published.
+That's all there is to it for calculating your expenses. In [**Part Two**](/posts/freedom-plan-part-2) we'll use the figures you've just calculated to create a plan for how you intend to cover your expenses, to ultimately become financially free. We will further discuss the two terms mentioned at the start of this post **Financial Freedom** and **Income Freedom**, covering aspects such as investing and generating income from side hustles. By the end of Part Two you'll have your Freedom Plan! Check back next week for the second installment or [join my mailing list](/signup/signup_page) to be notified of new posts as they are published.
 <br><br>
 
 <!-- START ADVERTISER: Fiverr (Global) from awin.com -->
