@@ -1,7 +1,7 @@
 inspiringlifedesign:
     container_name: inspiringlifedesign
-    image: starefossen/github-pages
+    image: davidforster/github-pages
     ports:
         - 4001:4000
     volumes:
-        - .:/usr/src/app
+        - .:/home/jekyll/src
