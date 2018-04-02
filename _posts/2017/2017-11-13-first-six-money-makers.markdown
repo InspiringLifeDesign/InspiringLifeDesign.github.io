@@ -39,7 +39,7 @@ I like the potential this side hustle offers. Let's just say I take a pessimisti
 
 Getting 100 books published may sound like a lot, but chances are, somewhere in your list of books will be a few that are **superstars** and generate significantly more income, so it's unlikely 100 would be needed to be generating £100,000 in this example. I imagine most people would be able to transition from their current job to full time publishing way before the £100K profit point, which means that they would have more free time to create additional books. Win win!
 
-**To get started with Self Publishing:** <a href="http://inspiringlifedesign.com/signup/signup_page.html">Join my mailing list</a> because I will be writing lots more about my publishing business in future posts. In the meantime, please feel free to ask me any questions you may have in the **comments** below.
+**To get started with Self Publishing:** <a href="/signup/signup_page.html">Join my mailing list</a> because I will be writing lots more about my publishing business in future posts. In the meantime, please feel free to ask me any questions you may have in the **comments** below.
 
 ### 2. Free Gambling:  PROFIT = **£349.56** in 12 months
 
@@ -124,7 +124,7 @@ Making money from blogging is very new to me. I am still learning of different m
 
 My initial thoughts on making money from blogging is that there is a lot of time to be put in with setting up a blog, and consistently writing articles, before it's possible to start making money. There are different monetising models which can be used such as advertising, writing sponsored posts, using affiliate links and selling your own products.
 
-**To get started with making money from blogging:** There is so much involved with this particular money making method that it really requires a blog post (or several) to do it justice. I would recommend <a href="http://inspiringlifedesign.com/signup/signup_page.html">signing up to my mailing list</a> or checking back regularly to my blog to see future posts about this. If you have any immediate questions about getting started with blogging, please let me know in the comments below.
+**To get started with making money from blogging:** There is so much involved with this particular money making method that it really requires a blog post (or several) to do it justice. I would recommend <a href="/signup/signup_page.html">signing up to my mailing list</a> or checking back regularly to my blog to see future posts about this. If you have any immediate questions about getting started with blogging, please let me know in the comments below.
 
 
 <br>

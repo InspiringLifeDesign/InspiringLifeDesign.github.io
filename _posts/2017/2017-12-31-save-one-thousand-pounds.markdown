@@ -51,7 +51,7 @@ I'm planning on updating mine in the [Google Sheet](https://docs.google.com/spre
 In order to use this chart, you will need to be able to access Google sheets (you can sign up for your own [google email address](https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fe-11-1505756f1d3ea4e19169ac43a009cd7c-d7683e716eb4588c9df79cfa25791b5a46a33096&lp=1&hl=en-GB){:target="_blank" rel="nofollow"} for free if you don't already have one). Once you have followed the link, you can then make a copy of the spreadsheet and then you will have full edit rights to your version. There are instructions at the top of the spreadsheet for how to make a copy.
 
 ### Tracking our success together
-To make things a bit more interesting, I thought it would be fun to track our progress together. For this reason, I've set-up a [page](http://inspiringlifedesign.com/challenge_2018.html){:target="_blank"} where you can view everyone participating in the challenge and their progress to-date. I really hope you'll join in!
+To make things a bit more interesting, I thought it would be fun to track our progress together. For this reason, I've set-up a [page](/challenge_2018.html){:target="_blank"} where you can view everyone participating in the challenge and their progress to-date. I really hope you'll join in!
 
 All you need to do to is:
 
@@ -61,7 +61,7 @@ All you need to do to is:
 2. Make your copy of the [Google Sheet](https://docs.google.com/spreadsheets/d/1i1E-jIoObX94_FcJNrnCRZKrzkx1hG89UYs8aj-sd0w/edit?usp=sharing){:target="_blank" rel="nofollow"} and start saving
 
 3. Whenever you save a new amount (or as often as you choose to let me know) email me how much you have saved
-4. Check back regularly on my [Challenge 2018](http://inspiringlifedesign.com/challenge_2018.html){:target="_blank"} page to see how everyone is doing! (You may want to bookmark this page)
+4. Check back regularly on my [Challenge 2018](/challenge_2018.html){:target="_blank"} page to see how everyone is doing! (You may want to bookmark this page)
 
 I will be keeping the page updated on a regular basis, so you can see how well you're doing alongside the other participants.
 
