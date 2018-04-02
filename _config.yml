@@ -33,8 +33,6 @@ paginate_path: "/page/:num/"
 # Files to exclude from build
 exclude:
   - CNAME
-  - Gemfile
-  - Gemfile.lock
   - docker-compose.yml
 
 plugins: [jekyll-paginate]
