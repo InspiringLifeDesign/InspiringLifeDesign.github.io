@@ -59,7 +59,7 @@ I got the 10 Brilliant Colours version of these pens. There's a nice selection o
 <br>
 #### The Miracle Morning - Hal Elrod
 <!-- Miracle Morning START -->
-<a target="_blank"  href="https://www.amazon.co.uk/gp/product/1473668948/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1473668948&linkCode=as2&tag=ild0b-21&linkId=43be7ba221e6b4fdc370b381574ea5f1"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=1473668948&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=1473668948" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" http://bit.ly/miracle__morning"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=1473668948&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=1473668948" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <!-- Miracle Morning END -->
 <br>
 #### The Seven Habits Of Highly Effective People - Stephen Covey
