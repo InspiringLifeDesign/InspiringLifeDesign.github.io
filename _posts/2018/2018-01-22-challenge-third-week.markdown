@@ -95,7 +95,7 @@ Here are my totals so far:
 
 
 <br>
-The #LifeDesigners who've opted to join in on the [#Challenge2018 page](http://inspiringlifedesign.com/challenge_2018.html){:target="_blank"} are doing fantastically well. With total savings at week 3 ranging from £31 to £47. Well done everyone - huge pats on the back all round.
+The #LifeDesigners who've opted to join in on the [#Challenge2018 page](/challenge_2018.html){:target="_blank"} are doing fantastically well. With total savings at week 3 ranging from £31 to £47. Well done everyone - huge pats on the back all round.
 
 ![#Challenge2018 participant progress](/i/Challenge2018_Participant_Progress_22_Jan.jpg)
 

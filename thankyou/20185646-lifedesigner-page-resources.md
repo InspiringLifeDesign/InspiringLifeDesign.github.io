@@ -11,7 +11,7 @@ If you have any ideas for things you would like to see here, then [email me](mai
  <div class="separator-2"></div>
 
 ### Calculate Your Expenses Spreadsheet
-As featured in [Create Your Freedom Plan - Part One](http://inspiringlifedesign.com/posts/freedom-plan-part-1.html){:target="_blank"}
+As featured in [Create Your Freedom Plan - Part One](/posts/freedom-plan-part-1.html){:target="_blank"}
 
 #### Excel
 Follow this link to download the spreadsheet in Microsoft Excel format:
@@ -29,7 +29,7 @@ In order to make edits to the spreadsheet you will need to make a copy (select "
  <div class="separator-2"></div>
 
 ### Freedom Plan Calculator
-As featured in [Create Your Freedom Plan - Part Two](http://inspiringlifedesign.com/posts/freedom-plan-part-2.html){:target="_blank"}
+As featured in [Create Your Freedom Plan - Part Two](/posts/freedom-plan-part-2.html){:target="_blank"}
 
 #### Excel
 Follow this link to download the spreadsheet in Microsoft Excel format:
@@ -47,7 +47,7 @@ In order to make edits to the spreadsheet you will need to make a copy (select "
  <div class="separator-2"></div>
 
 ### Freedom Plan Wall Prints
-As featured in [Create Your Freedom Plan - Part Two](http://inspiringlifedesign.com/posts/freedom-plan-part-2.html){:target="_blank"}
+As featured in [Create Your Freedom Plan - Part Two](/posts/freedom-plan-part-2.html){:target="_blank"}
 
 ![Printable For Wall For Pure Financial Freedom Plan](/i/Freedom_WallPlan_1.png){:style="width: 320px; height: 500px; margin: 0 10px 10px 0;"}
 [**Download: Pure Financial Freedom Plan Printable**](/printables/Freedom_Plan_1.pdf){:target="_blank"}
