@@ -241,9 +241,9 @@ Here's how my profit is looking now that April is taken into account.
       <td style="text-align: center">April</td>
       <td style="text-align: center">£333.33</td>
       <td style="text-align: center"><b>£212.62</b></td>
-      <td style="text-align: center">-£122.38</td>
+      <td style="text-align: center">-£120.71</td>
       <td style="text-align: center">£685.32</td>
-      <td style="text-align: center">-£654.68</td>
+      <td style="text-align: center">-£648.00</td>
     </tr>
     <tr>
       <td style="text-align: center">May</td>
