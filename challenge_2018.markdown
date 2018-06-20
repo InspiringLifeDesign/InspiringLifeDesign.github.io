@@ -8,8 +8,9 @@ tags:
 ---
 ![Challenge 2018 image](/i/Challenge_2018.png)
 
-I will be keeping this page updated on a regular basis, so you can see how well you're doing alongside the other participants.
-<br>
+I keep this page updated on a regular basis, so you can see how well all the #challenge2018 participants are doing alongside each other.
+<br><br>
+As a recap, the goal of #challenge2018 is to save **£1,000** during the year, putting aside a bit of money each week.
 <iframe width="100%" height="250px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTULar3uUeUvpk9r7AOSkHvZuitAmea14GHnZOsfQncv96VDEppMwyDLaQ3CrJJGUtpn38vbjyA-Tio/pubhtml?widget=true&amp;headers=false"></iframe>
 <br>
 
