@@ -4,7 +4,7 @@ title: "5 Things You Need To Get Started With Online Publishing"
 tags:
   - "2018"
   - Making Money
-  - Self Publishing
+  - Online Publishing
 ---
 <center>
 <iframe width="270" height="480" src="https://www.youtube-nocookie.com/embed/aq2qRe-dGXY?rel=0&amp;showinfo=0&amp;start=4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -77,6 +77,10 @@ The final thing you will need before you decide to venture into the world of sel
 <br>
 *Hopefully this list of 5 things you need to get started with online publishing has been helpful for you. You may have questions about things in this post, or about other aspects of online publishing - please feel free to drop these in the comments below and I will get back to you...*
 <br>
+### Do You Want To Get Started With Online Publishing?
+
+I plan to launch a program later this year called **#publishin8**. I will show you over 8 weeks how to create and publish your very own book. If you'd like to find out more when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}. Those on the waitlist will get the opportunity to join a small test group for the first #publishin8 cycle, at a massively discounted price as I perfect the program content.
+
 
 ****
 
