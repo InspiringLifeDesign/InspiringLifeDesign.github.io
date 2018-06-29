@@ -26,13 +26,14 @@ I didn't achieve the ideal monthly target in both January and February, which ha
 Let's see how I got on...
 
 <center>
-<!-- START ADVERTISER: Sellto from awin.com -->
+<!-- START ADVERTISER: Turn Your Dreams Into Money -->
 
-<a href="https://www.awin1.com/cread.php?s=2101745&v=6736&q=330089&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=2101745&v=6736&q=330089&r=452089" border="0">
-</a>
+<center>
+<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+</center>
 
-<!-- END ADVERTISER: Sellto from awin.com -->
+
+<!-- END ADVERTISER: Turn Your Dreams Into Money -->
 </center>
 
 ### INCOME REPORT
