@@ -47,13 +47,12 @@ It took me some time to start earning any decent money for my first book (I took
 As I began my fledgling book publishing business, the thought struck me that I was entirely dependent on Amazon for my additional income. This worried me a bit. 
 
 
-<!-- START ADVERTISER: Sellto from awin.com -->
+<!-- START ADVERTISER: Turn Your Dreams Into Money -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=2101744&v=6736&q=330088&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=2101744&v=6736&q=330088&r=452089" border="0">
-</a>
+<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
 </center>
-<!-- END ADVERTISER: Sellto from awin.com -->
+
+<!-- END ADVERTISER: Turn Your Dreams Into Money -->
 <br>
 I've made it part of my personal mission statement for the past 2 years to help others with their search for freedom. This got me thinking, perhaps I could combine my mission to help others with my desire to de-risk my side-line business and diversify a bit.
 
