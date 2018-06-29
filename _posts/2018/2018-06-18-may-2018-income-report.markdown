@@ -313,7 +313,9 @@ So my profit for May was **£162.75**. This is my 3rd highest profit month of th
 
 <br>
 <center>
+<!-- START ADVERTISER: Odds Monkey -->
 <a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_14" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/728x90_free_tutorials.jpg" width="728" height="90" alt=""></a>
+<!-- END ADVERTISER: Odds Monkey -->
 </center>
 <br>
 
