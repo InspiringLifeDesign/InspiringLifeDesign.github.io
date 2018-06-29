@@ -103,7 +103,7 @@ Below are a list of service providers in various categories who are useful in th
 Useful for logo designs, book cover creation, editing and copy writing services
 <br><br>
 <!-- START ADVERTISER: Fiverr (Global) from awin.com -->
-<a href="https://www.awin1.com/cread.php?s=527841&v=6288&q=256737&r=452089">
+<a href="http://www.awin1.com/cread.php?awinmid=6288&awinaffid=452089&clickref=&p=https%3A%2F%2Fwww.fiverr.com%2F%3Fshow_join%3Dtrue" target="_blank" rel="nofollow">
     <img src="https://www.awin1.com/cshow.php?s=527841&v=6288&q=256737&r=452089" border="0">
 </a>
 <!-- END ADVERTISER: Fiverr (Global) from awin.com -->
