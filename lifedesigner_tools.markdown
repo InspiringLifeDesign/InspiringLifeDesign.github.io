@@ -1,16 +1,54 @@
 ---
 layout: "no_sidebar"
-title: "LifeDesigner Resources Page"
+title: "LifeDesigner Useful Tools Page"
 tags:
   - Tools for LifeDesigners
   - Books for LifeDesigners
   
 ---
-I always find it useful to see what resources other money makers have been using. On this page I list anything which I've found to be particularly useful. This page does contain affiliate links which means that if you click on one of the products and then make a purchase I will receive a small amount of commission for the sale. I put any money made from referrals toward my profit goal for the year!
+I always find it useful to see what resources other money makers have been using. On this page I list anything which I've found to be particularly useful. This page contains affiliate links which means that if you click on one of the products and then make a purchase I will receive a small amount of commission for the sale. I put any money made from referrals toward my profit goal for the year!
 
-## Things I am using or have previously tried
+## Life Designer Services
+*These service providers are useful in the pursuit of making money.*
+ <div class="separator-2"></div>
 
+### Book Publishing
+#### KindleSpy - for researching profitable book niches
+<a href="URL" target="_blank"><img src='/aff/kdspy.png' alt='Kindle Spy link'/></a>
 
+<br>
+#### Fiverr - for logo designs, book cover creation, editing and copy writing services
+<!-- START ADVERTISER: Fiverr (Global) from awin.com -->
+<a href="http://www.awin1.com/cread.php?awinmid=6288&awinaffid=452089&clickref=&p=https%3A%2F%2Fwww.fiverr.com%2F%3Fshow_join%3Dtrue" target="_blank" rel="nofollow">
+    <img src="https://www.awin1.com/cshow.php?s=527841&v=6288&q=256737&r=452089" border="0">
+</a>
+<!-- END ADVERTISER: Fiverr (Global) from awin.com -->
+<br>
+### Blogging
+#### Turn Your Dreams Into Money - for learning how to create a successfully profitable blog<center>
+<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+<br>
+### Making Life Easier
+#### Amazon Prime Subscription - Free 30 day trial
+<!-- Amazon Prime START -->
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=c4da0a87fa5730994343f2104344d511&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<!-- Amazon Prime END -->
+<br>
+### Matched Betting
+#### OddsMonkey
+<!-- START AFFILIATE ADVERT: Oddsmonkey -->
+<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_25" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/Web Banner - 600x222.png" width="600" height="222" alt="OddsMonkey"></a>
+<!-- END AFFILIATE ADVERT: Oddsmonkey -->   
+<br>
+### Affiliate Marketing
+#### AWIN - sign up to be an affiliate for multiple companies through this one service
+<!-- START ADVERTISER: Awin from awin.com -->
+<a href="https://www.awin1.com/cread.php?s=39106&v=3&q=10&r=452089">
+    <img src="https://www.awin1.com/cshow.php?s=39106&v=3&q=10&r=452089" border="0">
+</a>
+<!-- END ADVERTISER: Awin from awin.com -->
+
+<br>
 ### Life Designer Tools
  <div class="separator-2"></div>
 
@@ -42,7 +80,6 @@ I got the 10 Brilliant Colours version of these pens. There's a nice selection o
 <br>
 ### Life Designer Books
  <div class="separator-2"></div>
-<br>
 #### The 1 Thing - Gary Keller with Jay Papasan
 <!-- The One Thing START -->
 <a target="_blank"  href="https://www.amazon.co.uk/gp/product/1848549253/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1848549253&linkCode=as2&tag=ild0b-21&linkId=76765be29c7b907ffa9327eb03d9a68f"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=1848549253&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=1848549253" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -79,48 +116,22 @@ This was the first ever personal development book I read and I still love it to 
 <a target="_blank"  href="https://www.amazon.co.uk/gp/product/0743409396/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0743409396&linkCode=as2&tag=ild0b-21&linkId=66f24febba0fd6f6f57431e70dac4e2c"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=0743409396&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=0743409396" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <!-- Unlimited Power end -->
 <br>
+#### Unshakeable - Tony Robbins
+I listened to this using Audible!
+<!-- Unshakeable starts -->
+<a target="_blank"  href="https://www.amazon.co.uk/gp/product/1471164934/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1471164934&linkCode=as2&tag=ild0b-21&linkId=9fb3004771bb19f8edbf006a6b95d125"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=1471164934&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=1471164934" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<!-- Unshakeable ends -->
+<br>
+#### Money: Master The Game - Tony Robbins
+<!-- Money starts -->
+<a target="_blank"  href="https://www.amazon.co.uk/gp/product/B00NZWPRW6/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00NZWPRW6&linkCode=as2&tag=ild0b-21&linkId=f785ba6294fdee5b788222d5b5f0f035"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B00NZWPRW6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B00NZWPRW6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<!-- Money ends -->
 
-### Life Designer Services
- <div class="separator-2"></div>
-Below are a list of service providers in various categories who are useful in the pursuit of making money. 
-#### Making Life Easier
-<br>
-##### Amazon Prime Subscription - Free 30 day trial
-<!-- Amazon Prime START -->
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=c4da0a87fa5730994343f2104344d511&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-<!-- Amazon Prime END -->
-<br>
-#### Matched Betting
-<br>
-##### OddsMonkey
-<!-- START AFFILIATE ADVERT: Oddsmonkey -->
-<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_25" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/Web Banner - 600x222.png" width="600" height="222" alt="OddsMonkey"></a>
-<!-- END AFFILIATE ADVERT: Oddsmonkey -->   
-<br>
-#### Book Publishing
-<br>
-##### Fiverr
-Useful for logo designs, book cover creation, editing and copy writing services
-<br><br>
-<!-- START ADVERTISER: Fiverr (Global) from awin.com -->
-<a href="http://www.awin1.com/cread.php?awinmid=6288&awinaffid=452089&clickref=&p=https%3A%2F%2Fwww.fiverr.com%2F%3Fshow_join%3Dtrue" target="_blank" rel="nofollow">
-    <img src="https://www.awin1.com/cshow.php?s=527841&v=6288&q=256737&r=452089" border="0">
-</a>
-<!-- END ADVERTISER: Fiverr (Global) from awin.com -->
-<br>
-#### Affiliate Marketing
-<br>
-##### AWIN
-Awin is great because you can sign up to be an affiliate for multiple companies through their service. It's really easy to use even for beginners.
-<!-- START ADVERTISER: Awin from awin.com -->
-<a href="https://www.awin1.com/cread.php?s=39106&v=3&q=10&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=39106&v=3&q=10&r=452089" border="0">
-</a>
-<!-- END ADVERTISER: Awin from awin.com -->
+
 
 
 <br><br>
-## Things I have not yet tried (but probably will at some point)
+## And here's a few things currently on my wishlist!
 
 ### Life Designer Tools
  <div class="separator-2"></div>
@@ -137,43 +148,16 @@ Several people have recommended Rode as a good brand to me, so I've found this m
 <a target="_blank"  href="https://www.amazon.co.uk/gp/product/B00EO4A7L0/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00EO4A7L0&linkCode=as2&tag=ild0b-21&linkId=0e78f0bc6087a603b52f6530306eb34f"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B00EO4A7L0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B00EO4A7L0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <!-- Rode Lapel mic END -->
 
-### Life Designer Books
- <div class="separator-2"></div>
-<br>
-#### Unshakeable - Tony Robbins
-After attending Tony's Unleash The Power Within event in London last year, I want to eventually have read all of his books. This one is next on my list.
-<!-- Unshakeable starts -->
-<a target="_blank"  href="https://www.amazon.co.uk/gp/product/1471164934/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1471164934&linkCode=as2&tag=ild0b-21&linkId=9fb3004771bb19f8edbf006a6b95d125"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=1471164934&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=1471164934" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<!-- Unshakeable starts -->
-<br>
-#### Money: Master The Game - Tony Robbins
-<!-- Money starts -->
-<a target="_blank"  href="https://www.amazon.co.uk/gp/product/B00NZWPRW6/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00NZWPRW6&linkCode=as2&tag=ild0b-21&linkId=f785ba6294fdee5b788222d5b5f0f035"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B00NZWPRW6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B00NZWPRW6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<!-- Money ends -->
-
 ### Life Designer Services
  <div class="separator-2"></div>
-<br>
-#### Book Publishing
-<br>
-##### IngramSpark - for reaching a wider audience of readers than just on Amazon
-
+#### IngramSpark - for reaching a wider audience of readers than just on Amazon
 <!-- START ADVERTISER: IngramSpark (Global) from awin.com -->
 <a href="https://www.awin1.com/cread.php?s=621986&v=6257&q=308248&r=452089">
     <img src="https://www.awin1.com/cshow.php?s=621986&v=6257&q=308248&r=452089" border="0">
 </a>
 <!-- END ADVERTISER: IngramSpark (Global) from awin.com -->
 <br>
-#### Selling Things To Make Money
-<br>
-##### Sellto - trading in old games for money
-<!-- START ADVERTISER: Sellto from awin.com -->
-<a href="https://www.awin1.com/cread.php?s=2101742&v=6736&q=330086&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=2101742&v=6736&q=330086&r=452089" border="0">
-</a>
-<!-- END ADVERTISER: Sellto from awin.com -->
-<br>
-##### Preloved - selling items online
+#### Preloved - selling items online
 <!-- START ADVERTISER: Preloved UK from awin.com -->
 <a href="https://www.awin1.com/cread.php?s=454255&v=5834&q=218805&r=452089">
     <img src="https://www.awin1.com/cshow.php?s=454255&v=5834&q=218805&r=452089" border="0">
