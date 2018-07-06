@@ -55,6 +55,12 @@ It's worth trying a few different search terms for the book topic you're researc
 
 If you decide to get into online publishing, it's seriously worth investing in a fantastic tool called [**Kindle Spy**](http://bit.ly/ILDkdspy){:target="_blank" rel="nofollow"} (or KDSpy). This takes a lot of the time out of doing niche research. It's available as a browser extension/plug-in. If there's interest I will write a future post showing exactly what it looks like and how it works, but in summary, it allows you to quickly see the rankings, popularity and money potential for books returned in your amazon searches - without having to click through into each book! I would highly recommend buying yourself a copy, this has saved me **so much time**. It sells for a one-off cost and this is often discounted if you can catch it at the right time. At the time of writing the cost was $47 reduced from $97, a whole $50 saving!
 
+<!-- START ADVERTISER: KDSpy -->
+<center>
+<a href="http://bit.ly/ILDkdspy" target="_blank"><img src='/aff/kdspy.png' alt='Kindle Spy link'/></a>
+</center>
+<!-- END ADVERTISER: KDSpy -->
+
 #### Deciding on your first book
 I would recommend that you do your research for at least 3-5 ideas on your list. This will take some time, but you will get faster at it the more practice you get. Once you've researched a few ideas you'll have a good idea of which niche feels like the better option to launch your first book in.
 
@@ -73,11 +79,7 @@ Sometimes it's easy to get sucked into *analysis paralysis* so don't over resear
 
 I plan to launch a program later this year called **#publishin8**. I will show you over 8 weeks how to create and publish your very own book. If you'd like to find out more when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}. Those on the waitlist will get the opportunity to join a small test group for the first #publishin8 cycle, at a massively discounted price as I perfect the program content.
 
-<!-- START ADVERTISER: Fiverr (Global) from awin.com -->
-<a href="http://www.awin1.com/cread.php?awinmid=6288&awinaffid=452089&clickref=&p=https%3A%2F%2Fwww.fiverr.com%2F%3Fshow_join%3Dtrue">
-    <img src="https://www.awin1.com/cshow.php?s=527817&v=6288&q=256739&r=452089" border="0">
-</a>
-<!-- END ADVERTISER: Fiverr (Global) from awin.com -->
+
 
 ****
 

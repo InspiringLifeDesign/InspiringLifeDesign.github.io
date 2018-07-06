@@ -14,7 +14,7 @@ I always find it useful to see what resources other money makers have been using
 
 ### Book Publishing
 #### KindleSpy - for researching profitable book niches
-<a href="URL" target="_blank"><img src='/aff/kdspy.png' alt='Kindle Spy link'/></a>
+<a href="http://bit.ly/ILDkdspy" target="_blank"><img src='/aff/kdspy.png' alt='Kindle Spy link'/></a>
 
 <br>
 #### Fiverr - for logo designs, book cover creation, editing and copy writing services
