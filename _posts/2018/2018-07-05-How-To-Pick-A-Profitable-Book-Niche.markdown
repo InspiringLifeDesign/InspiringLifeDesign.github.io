@@ -53,7 +53,7 @@ You can use this [handy tool at kindlepreneur.com](https://kindlepreneur.com/ama
 
 It's worth trying a few different search terms for the book topic you're researching, as each different combination of search words will bring back slightly different results.
 
-If you decide to get into online publishing, it's seriously worth investing in a fantastic tool called [**Kindle Spy**](https://www.kdspy.com/){:target="_blank" rel="nofollow"} (or KDSpy). This takes a lot of the time out of doing niche research. It's available as a browser extension/plug-in. If there's interest I will write a future post showing exactly what it looks like and how it works, but in summary, it allows you to quickly see the rankings, popularity and money potential for books returned in your amazon searches - without having to click through into each book! I would highly recommend buying yourself a copy, this has saved me **so much time**. It sells for a one-off cost and this is often discounted if you can catch it at the right time. At the time of writing the cost was $47 reduced from $97, a whole $50 saving!
+If you decide to get into online publishing, it's seriously worth investing in a fantastic tool called [**Kindle Spy**](http://bit.ly/ILDkdspy){:target="_blank" rel="nofollow"} (or KDSpy). This takes a lot of the time out of doing niche research. It's available as a browser extension/plug-in. If there's interest I will write a future post showing exactly what it looks like and how it works, but in summary, it allows you to quickly see the rankings, popularity and money potential for books returned in your amazon searches - without having to click through into each book! I would highly recommend buying yourself a copy, this has saved me **so much time**. It sells for a one-off cost and this is often discounted if you can catch it at the right time. At the time of writing the cost was $47 reduced from $97, a whole $50 saving!
 
 #### Deciding on your first book
 I would recommend that you do your research for at least 3-5 ideas on your list. This will take some time, but you will get faster at it the more practice you get. Once you've researched a few ideas you'll have a good idea of which niche feels like the better option to launch your first book in.
@@ -66,7 +66,7 @@ Sometimes it's easy to get sucked into *analysis paralysis* so don't over resear
 <br>
 *This has been a brief introduction to the niche selection process. It's simple in theory, but when you come to give it a go you may find you have lots of questions - so please do send these my way and I will do my best to help.*
 
-*Let me know in the comments if you are interested in a future post going into more detail about Kindle Spy and it's advantages!*
+*Let me know in the comments if you are interested in a future post going into more detail about [Kindle Spy](http://bit.ly/ILDkdspy){:target="_blank" rel="nofollow"} and it's advantages!*
 <br>
 
 ### Do You Want To Get Started With Online Publishing?
