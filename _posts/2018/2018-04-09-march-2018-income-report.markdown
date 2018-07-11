@@ -409,6 +409,8 @@ Here's a review of how I got on with the plans I made last month:
 - Grow Instagram following from 782 to 900+ followers
 - Get at least 50% of the way through Turn Your Dreams Into Money course (I'm currently 31% through)
 
+<br>    
+*Well that's my income, profit and plans for another month. How did your first quarter of the year go? I'd love to hear from you in the comments below...*
 <br>
 
 <!-- START ADVERTISER: Preloved UK from awin.com -->
@@ -419,12 +421,25 @@ Here's a review of how I got on with the plans I made last month:
 
 <!-- END ADVERTISER: Preloved UK from awin.com -->
 
+### Join the #lifedesigner list!
 
+If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+
+- Updates on how to make money
+- Invite to private Facebook Group
+- Advance access to Challenges, Coaching & Courses
+- Notifications whenever a new post comes out
+
+[**Join the #lifedesigner mailing list here**](/signup/signup_page).
 <br>
+
+***
+
 <sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
 
-<br>    
-*Well that's my income, profit and plans for another month. How did your first quarter of the year go? I'd love to hear from you in the comments below...*
+***
+
+![Income & Profit pinterest image](/i/income_report/2018/pin201803income_profit.png)
 
 
 

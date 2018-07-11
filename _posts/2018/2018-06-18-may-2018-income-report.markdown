@@ -342,7 +342,11 @@ I didn't actually set specific actions for May due to being so busy in April and
 
 *Five months through the year and a long way to go to achieve my 2018 goal, but it's still achievable. If you have any comments on my progress, or updates on your own side income ventures I'd love to hear from you in the comments below...*
 
-______
+<!-- START ADVERTISER: Emma Drew turn your dreams course -->
+
+<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+
+<!-- END ADVERTISER: Emma Drew turn your dreams course -->
 
 ### Join the #lifedesigner list!
 
@@ -357,21 +361,11 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 ____
 
+<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
 
-<br>
-<br>
+____
 
-<!-- START ADVERTISER: Emma Drew turn your dreams course -->
-
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
-
-<!-- END ADVERTISER: Emma Drew turn your dreams course -->
-
-
-<br>
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub> 
-
-
+![Income & Profit pinterest image](/i/income_report/2018/pin201805income_profit.png)
 
 
 
