@@ -130,10 +130,14 @@ Online publishing can sometimes feel like a lonely endeavour. For much of the ti
 Everyone I've come across in this field has been super friendly and helpful. I'm a member of several Facebook groups specifically for book publishing. I also have my own beginners [Publishing Facebook Group](https://www.facebook.com/groups/inspiringlifedesignpublishers/){:target="_blank" rel="nofollow"} where everyone can feel comfortable asking their "stupid" questions, which we all have from time to time. This is open to any of my #lifedesigners who have subscribed to receive Inspiring Life Design updates.
 
 [**Subscribe here**](/signup/signup_page){:target="_blank"} to receive updates from me if you haven't done so already.
-<br>
+<br><br>
+I’m taking part in the Monday Money linky with [Lynn from Mrs Mummy Penny](https://www.mrsmummypenny.co.uk/){:target="_blank"} and [Faith from Much More With Less](https://www.muchmorewithless.co.uk/){:target="_blank"}.
+
 <center>
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=26&l=ez&f=ifr&linkID=5484940a31e66d8fc233710c0cf07df7&t=ild0b-21&tracking_id=ild0b-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 </center>
+
+***
 
 ## Are You Interested In Trying Online Publishing?
 You will find that there are already plenty of great courses and books available to learn about online publishing. However it's not always easy to succeed doing it by yourself. It can be difficult to maintain momentum when you hit a problem, or have questions you're not sure the answers to. Sometimes you don't even know the right questions to ask! I know that I certainly hit roadblocks along my way, in fact I still do sometimes. That's perfectly normal.
@@ -180,15 +184,17 @@ It's still a pipeline idea at the moment, but as a rough guide the Publish Mate 
 <sub>*NOTE: This does not include any of the costs associated with publishing a book that I mentioned earlier in the post, these would be down to individual participants to decide what strategy they wanted to follow and therefore how much to spend per book.*</sub>
 
 <br>
-If you've already decided that this is of interest to you, then you can **join the Publish Mate wait list**:
+If you've already decided that this is of interest to you, then you can **join the Publish Mate/#Publishin8 wait list**:
 
 <script async id="_ck_365306" src="https://forms.convertkit.com/365306?v=7"></script>
+
+*So my question for you is, would you be interested in the Publish Mate package? How about the #publishin8 cycles? Are there certain bits you like the sound of but not others? Please let me know in the comments - any programme I build will be based on your feedback!....*
 
 ![Pinterest image showing 5 reasons you will love publishing books to make money on a background of book pages](/i/2018/5-reasons-youll-love-publishing-books-to-make-money-pin.jpg)
 
 <sub>Please note that referral links and advertisements have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
 
 <br>
-*So my question for you is, would you be interested in the Publish Mate package? How about the #publishin8 cycles? Are there certain bits you like the sound of but not others? Please let me know in the comments - any programme I build will be based on your feedback!....*
+
 
 
