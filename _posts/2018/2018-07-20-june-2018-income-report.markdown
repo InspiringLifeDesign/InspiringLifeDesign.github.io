@@ -363,17 +363,11 @@ Here's how I got on:
 * Grow my [**YouTube**](https://www.youtube.com/channel/UCFMCt3HfmLwWyqr5QSETThQ){:target="_blank" rel="nofollow"} subscribers from 3 to 4 (since I'm not posting much/any content on YouTube at the moment it's difficult to grow, hence the small goal)
 
 <br>
+![Income & Profit pinterest image](/i/income_report/2018/pin201806income_profit.png)
+
 *So that's my income and profit report for another month, marking the half-way point through 2018.* 
 
 *Have you done a 6 month stock-take of how you're getting on? I'd love to hear how you've been doing with your goals. If you have any comments on my progress, or updates on your own side income ventures please let me know in the comments below...*
-
-***
-
-<!-- START ADVERTISER: Emma Drew turn your dreams course -->
-<center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
-</center>
-<!-- END ADVERTISER: Emma Drew turn your dreams course -->
 
 ***
 
@@ -388,11 +382,24 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 [**Join the #lifedesigner mailing list here**](/signup/signup_page).
 
-____
+
+****
+
+### Previous Post
+
+In my last post I talked about [how to pick a profitable book niche](/posts/How-To-Pick-A-Profitable-Book-Niche.html){:target="_blank"}. If you're planning on getting started with online publishing I recommend you check it out! 
+
+***
+
+<!-- START ADVERTISER: Emma Drew turn your dreams course -->
+<center>
+<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+</center>
+<!-- END ADVERTISER: Emma Drew turn your dreams course -->
+
+***
 
 <sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
 
-____
 
-![Income & Profit pinterest image](/i/income_report/2018/pin201806income_profit.png)
 
