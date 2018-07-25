@@ -6,7 +6,7 @@ title: "5 Things Holding You Back From Living The Life You Want"
   <img src="/i/2018/5-things-holding-you-back-1.jpg" alt="magniying glass over business words">
 </a>
 
-### If you're unhappy with your current life, chances are that you will need to change your mindset before you can make significant progress. 
+### If you're unhappy with your current life, chances are that you will need to change your mindset before you can make significant progress.
 
 ***
 
