@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "5 Things Holding You Back From Living The Life You Want"
+date: 2018-07-25
 ---
 <a href="https://www.publicdomainpictures.net/en/view-image.php?image=212114&picture=the-analysis-of-success">
   <img src="/i/2018/5-things-holding-you-back-1.jpg" alt="magniying glass over business words">
