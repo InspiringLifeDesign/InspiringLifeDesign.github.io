@@ -113,7 +113,7 @@ Here's a break-down of where the income came from in May:
 
 ![May 2018 Income pie chart](/i/income_report/201805income_pie_chart.png)
 
-Income was split across various different streams including a nice £26 from survey site [**Prolific**](http://bit.ly/prolificsurveys){:target="_blank" rel="nofollow"}, £16.35 eBay income and £9.14 matched betting earnings using [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"}.
+Income was split across various different streams including a nice £26 from survey site [**Prolific**](http://bit.ly/prolificsurveys){:target="_blank" rel="nofollow"}, £16.35 eBay income and £9.14 matched betting earnings using [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"}. If you're interested in hearing about another Matched Betting **success story**, head over to see how much money [wannabedebtfree.com has made](https://wannabedebtfreeuk.com/2018/07/13/matched-betting-how-much-money-have-you-made/){:target="_blank"} (*SPOILER ALERT: it's a lot more than I've made*).
 
 ### EXPENSE REPORT
 Here's how my Side Hustle expenses panned out for May:
