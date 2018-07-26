@@ -12,7 +12,7 @@ It is important to make sure you [make the right kinds of financial decisions](h
 
 Many people spend their whole lives struggling with how to become financially free, and sadly some never fully accomplish it. There is a lot to think about when it comes to improving your financial situation and staying in control of your money moving forward. Read on for some fantastic financial ideas that will help you to understand and seize control of your finances. 
 
-![Idea plan work success image](/i/2018/financial-options-1.jpg)
+![Receipts in coffee shop](/i/2018/financial-options-1.jpg)
 
 ### Hire a Finance Coach
 So you need financial guidance, but you don’t really know where to start? The best thing to do is to [hire a finance coach](https://financialmentor.com/financial-coaching/benefits/top-15-reasons-to-hire-a-money-coach){:target="_blank"} to help you out. There are so many things to think about that it can sometimes feel a little bit overwhelming on your own - this is where a finance coach would come in handy for you, helping you to learn how to manage your money better. 
