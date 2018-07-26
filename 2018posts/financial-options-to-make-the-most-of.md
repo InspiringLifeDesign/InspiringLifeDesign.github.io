@@ -25,6 +25,28 @@ Saving money is actually more important than you might think, yet many find that
 
 If you can get saving, it will give you **peace of mind** and make things much more comfortable for you, giving you a **nice buffer** to fall back on should you need it.
 
+![Coins and notes in a savings jar](/i/2018/financial-options-2.jpg)
+
+### Make Smart Investments
+You also need to make sure you have some investments on standby as well. This is something you need to research thoroughly before parting with any cash. Yes, investments are going to cost you money, but they can also make you money in the future as well. Investing in coins or precious metals, such as [Scottsdale Mint](https://lpm.hk/silver/scottsdale-mint.html){:target="_blank"}, is a great way of generating investment opportunities. Then of course there is the stock market, or you may want to consider investing in cryptocurrency or real estate. Do make sure you carefully research before making any new investments, and don't risk any money that you can't afford to be without - at least in the short term. Investments can go down as well as up, and there are differing levels of risk associated. Overall investing is **one of the best ways** to increase your financial health.
+
+### Only Spend on Essentials
+Another way to boss your personal finances like a pro is to make sure you regulate your spending as much as possible. Make sure that you only spend on essentials. To do this it's best to compile a list of essentials that you need in your life. Think about everything you may normally spend money on and assess whether it is truly adding value to your life. It's a lot to think about, but once you know the essentials you can ensure you [stop spending on unnecessary things](https://www.moneysavingexpert.com/family/stop-spending-budgeting-tool/){:target="_blank"}. 
+
+### Start Your Own Business
+If you want to have more control over the amount of money you are making you might like to think about **starting your own business**. This is something that can have a serious impact on your personal finances. Running a startup may cost you money in the first instance, but it will also go a long way towards helping you make more money as well. The initial outlay of money upfront is something you have to make sure you factor in before you decide to become an entrepreneur. But, if you can get a small business off the ground, you'll be your own boss, setting your own rules and the money making potential is uncapped.
+
+### Be Positive About Money
+It actually might surprise you to know that a positive mindset is important with regards to finances. There are a lot of techniques that can go a long way towards helping you improve your financial situation, and a positive frame of mind is among the most important. You have to make sure you are doing everything you can to [be positive and upbeat about your financial situation](https://www.mint.com/vip-content/6-ways-to-instill-a-positive-money-mindset){:target="_blank"}. This will help you think more clearly, and look at your situation in a different way. 
+
+![Big stack of coins with clock in background](/i/2018/financial-options-3.jpg)
+
+### Plan and Budget for Everything 
+You need to start being proactive and looking at how you can plan and oversee your money. This means [budgeting for everything](https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/creating-a-budget){:target="_blank"} and doing as much as possible to improve and enhance your process of budgeting for your personal expenditure. 
+
+Working toward financial freedom in 2018 can often seem unattainable, but the truth is this is something that can be achieved much more easily these days. Make sure you're armed with all of the tips covered here and you'll be sure to improve your financial situation in no time. As you take control of your finances it will do you the world of good - financial freedom helps you to combat stress and worry, ultimately allowing you to find happiness doing the things that you love most. 
+
+
 *This is a collaborative post*
 
 ***
