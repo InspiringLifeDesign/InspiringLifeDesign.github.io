@@ -117,6 +117,8 @@ This is money which I have made simply by selling unwanted items on <a href="htt
 
 I haven't got lots of things for sale on Ebay, and I haven't put a lot of effort into making money through this medium as of yet. However I'm not ruling out looking into this more in the future. I like the idea of scouring shops for bargains to then resell for more on Ebay.
 
+There are many people who make a living from re-selling on Ebay so it's definitely a viable money making option if this is of interest to you. There's also **niche markets** that you can venture into which can be very lucrative such as [selling your old, smelly shoes](http://www.missmanypennies.com/selling-smelly-shoes/){:target="_blank"}!
+
 **To get started with Ebay selling:** Sign-up for an account with Ebay, and it's best to also set-up and link a Paypal account into which you can receive payments for items sold. Then simply list items you want to sell. You can choose to either set them up to run on an auction, or under the **Buy It Now** setting. Don't forget to factor in the costs of posting your item to make sure that you make a profit on your sales.
 
 ### 6. Blogging: PROFIT = **£50.00** in 12 months
