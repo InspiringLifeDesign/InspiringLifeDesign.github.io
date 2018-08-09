@@ -5,6 +5,7 @@ tags:
   - "2018"
   - Lifestyle
   - Disney
+  - Saving Money
 ---
 ![Image](/i/2018/disney/disneyland-hotel-day.png)
 
