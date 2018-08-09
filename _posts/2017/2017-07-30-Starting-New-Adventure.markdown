@@ -3,7 +3,6 @@ layout: "post"
 title: "Starting A New Adventure"
 tags:
   - "2017"
-  - First Post
   - About Corinna
 ---
 ![Inspiring Life Design logo](/i/Mainlogo1500x500.jpg)
