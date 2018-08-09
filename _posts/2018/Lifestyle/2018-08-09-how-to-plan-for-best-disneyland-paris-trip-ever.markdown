@@ -7,7 +7,7 @@ tags:
   - Disney
   - Saving Money
 ---
-![Image](/i/2018/disney/disneyland-hotel-day.png)
+![Disneyland Hotel Image](/i/2018/disney/disneyland-hotel-day.png)
 
 ### This summer I went to Disneyland Paris for the first time in years. Wanting to make the most of it I did a LOT of research! Here I share with you the things you should do *before* you go.
 
@@ -214,12 +214,6 @@ Another advantage of making dining reservations for your trip is that it gives y
 </figure>
 </center>
 <br>
-For our 4 night stay we had the Plus half-board package. With this we had a lovely buffet breakfast in our hotel each day (at the Newport Bay Hotel) apart from the day where we had upgraded to a character breakfast at the Plaza Gardens. We then chose to have an evening meal every day apart from our last day when we had lunch instead. We ate at:
-
-- **Silver Spur Steakhouse** in Frontierland
-- **Buffalo Bill's Wild West Show** in Disney Village (we paid extra to go to this). We went to the first sitting with category 2 seating which we found perfectly fine
-- **Bistrot Chez Remy** in the Toon Studio area of Walt Disney Studios
-- **Plaza Gardens** for lunch buffet, off Main Street USA, Disneyland
 <br>
 <center>
 <figure>
@@ -228,8 +222,18 @@ For our 4 night stay we had the Plus half-board package. With this we had a love
 </figure>
 </center>
 <br>
-<i>So that's it for the first in this Disneyland Paris series. In future posts I'll be covering what to pack to take with you, how to take advantage of all the Disney hotel perks, and how to make the most of your trip. Have you got any other tips on things you should do BEFORE you go on your Disneyland Paris holiday? I'd love to hear them in the comments...</i>
+For our 4 night stay we had the Plus half-board package. With this we had a lovely buffet breakfast in our hotel each day (at the Newport Bay Hotel) apart from the day where we had upgraded to a character breakfast at the Plaza Gardens. We then chose to have an evening meal every day apart from our last day when we had lunch instead. We ate at:
+
+- **Silver Spur Steakhouse** in Frontierland
+- **Buffalo Bill's Wild West Show** in Disney Village (we paid extra to go to this). We went to the first sitting with category 2 seating which we found perfectly fine
+- **Bistrot Chez Remy** in the Toon Studio area of Walt Disney Studios
+- **Plaza Gardens** for lunch buffet, off Main Street USA, Disneyland
+
 <br>
+<i>So that's it for the first in this Disneyland Paris series. In future posts I'll be covering what to pack to take with you, how to take advantage of all the Disney hotel perks, and how to make the most of your trip. Have you got any other tips on things you should do BEFORE you go on your Disneyland Paris holiday? I'd love to hear them in the comments...</i>
+<br><br>
+
+![Pinterest How To Plan For The Best Disneyland Paris Trip Ever image](/i/2018/disney/how-to-plan-for-dlp-pin.png)
 
 ***
 
