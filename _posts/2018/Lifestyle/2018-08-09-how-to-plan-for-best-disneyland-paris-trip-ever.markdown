@@ -86,7 +86,7 @@ These prices include 2 days of tickets for the parks, but do not include local t
 
 <center>
 <figure>
-    <img src='/i/2018/disney/disneyland-hotel-night.png' alt='Disneyland Hotel at Disneyland Paris' style='width:558.3px;height:321.3px;'>
+    <img src='/i/2018/disney/disneyland-hotel-night.png' alt='Disneyland Hotel at Disneyland Paris'>
     <figcaption>The Disneyland Hotel looking simply magical with all its lights in the evening.</figcaption>
 </figure>
 </center>
@@ -128,7 +128,7 @@ Next time we look to go I'll definitely be checking out a few other country's we
 
 <center>
 <figure>
-    <img src='/i/2018/disney/newyork-hotel.png' alt='Disney New York Hotel' style='width:551px;height:399.7px;'>
+    <img src='/i/2018/disney/newyork-hotel.png' alt='Disney New York Hotel'>
     <figcaption>The view of Disney's New York hotel as seen from across the lake at the Newport Bay hotel.</figcaption>
 </figure>
 </center>
@@ -170,7 +170,7 @@ Pre-booking a meal plan helps you budget for your holiday, and you will save mon
 
 <center>
 <figure>
-    <img src='/i/2018/disney/plaza-gardens.png' alt='Inside the Plaza Gardens restaurant in Disneyland Paris' style='width:551px;height:399.7px;'>
+    <img src='/i/2018/disney/plaza-gardens.png' alt='Inside the Plaza Gardens restaurant in Disneyland Paris'>
     <figcaption>Inside the delightful Plaza Gardens restaurant, in the Disneyland Park at the end of Main Street USA.</figcaption>
 </figure>
 </center>
@@ -184,7 +184,7 @@ Whether you pre-purchase a meal plan or not, even if you're not staying as a hot
 <br>
 <center>
 <figure>
-    <img src='/i/2018/disney/scrooge.png' alt='Scrooge at the character breakfast' style='width:211px;height:368.25px;'>
+    <img src='/i/2018/disney/scrooge.png' alt='Scrooge at the character breakfast'>
     <figcaption>Scrooge visiting our breakfast table<br>at the Plaza Gardens character breakfast.</figcaption>
 </figure>
 </center>
@@ -198,7 +198,7 @@ Making reservations is particularly important if you want to do any kind of **ch
 <br><br>
 <center>
 <figure>
-    <img src='/i/2018/disney/tigger.jpg' alt='Tigger at the character breakfast' style='width:267px;height:283.5px;'>
+    <img src='/i/2018/disney/tigger.jpg' alt='Tigger at the character breakfast'>
     <figcaption>Tigger signing my niece's autograph book at our table<br>at the Plaza Gardens character breakfast.</figcaption>
 </figure>
 </center>
@@ -209,16 +209,16 @@ Another advantage of making dining reservations for your trip is that it gives y
 <br>
 <center>
 <figure>
-    <img src='/i/2018/disney/bistrot-chez-remy.png' alt='Bistrot Chez Remy restaurant entrance' style='width:512px;height:341.25px;'>
-    <figcaption>The delightful Bistrot Chez Remy restaurant<br>themed around the film Ratatouille, in Walt Disney Studios.</figcaption>
+    <img src='/i/2018/disney/bistrot-chez-remy.png' alt='Bistrot Chez Remy restaurant entrance'>
+    <figcaption>The delightful Bistrot Chez Remy restaurant themed around the film Ratatouille, in Walt Disney Studios.</figcaption>
 </figure>
 </center>
 <br>
 <br>
 <center>
 <figure>
-    <img src='/i/2018/disney/bistrot-chez-remy-inside.png' alt='In the waiting area for Bistrot Chez Remy restaurant' style='width:470.5px;height:311.75px;'>
-    <figcaption>Inside Bistrot Chez Remy there's a wonderfully themed waiting area<br>for before you go to your table.</figcaption>
+    <img src='/i/2018/disney/bistrot-chez-remy-inside.png' alt='In the waiting area for Bistrot Chez Remy restaurant'>
+    <figcaption>Inside Bistrot Chez Remy there's a wonderfully themed waiting area for before you go to your table.</figcaption>
 </figure>
 </center>
 <br>
