@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: Lifestyle
+title: Disney Posts
 ---
 Hello, tag!
