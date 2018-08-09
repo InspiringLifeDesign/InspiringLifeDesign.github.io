@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: Disney Posts
+title: Disney
 ---
 Hello, tag!

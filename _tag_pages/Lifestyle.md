@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: Lifestyle Posts
+title: Lifestyle
 ---
 Hello, tag!
