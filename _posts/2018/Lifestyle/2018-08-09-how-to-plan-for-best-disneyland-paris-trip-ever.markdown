@@ -166,7 +166,7 @@ Your pre-purchase options are:
   - Half Board Premium (breakfast & 1 meal)
   - Full Board Premium (breakfast & 2 meals)
 
-Pre-booking a meal plan helps you budget for your holiday, and you will save money assuming you would have eaten at these restaurants anyway. The saving by pre-booking is up to 15% of what you would have paid (depending on which package you choose). To read more about the meal plans on the Disneyland Paris website visit this link [http://www.disneyholidays.co.uk/disneyland-paris/planning-holiday/meal-plans](http://www.disneyholidays.co.uk/disneyland-paris/planning-holiday/meal-plans/){:target="_blank" rel="nofollow"} (please note: for some reason when you click on this link the Disney site redirects to another page, but if you copy & paste this link into a new browser window you should be fine).
+Pre-booking a meal plan helps you budget for your holiday, and you will save money assuming you would have eaten at these restaurants anyway. The saving by pre-booking is up to 15% of what you would have paid (depending on which package you choose). To read more about the meal plans you can find them on the [Disneyland Paris website](http://www.disneyholidays.co.uk/disneyland-paris/planning-holiday/meal-plans/){:target="_blank" rel="nofollow"}.
 
 <center>
 <figure>
