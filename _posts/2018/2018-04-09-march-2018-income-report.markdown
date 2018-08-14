@@ -3,8 +3,8 @@ layout: "post"
 title: "March 2018 Income & Profit Report"
 tags:
   - "2018"
-  - Income Reports
-  - 
+  - income and profit reports
+affiliate: true
 ---
 ![Income & Profit header](/i/Income-and-profit-header.png)
 

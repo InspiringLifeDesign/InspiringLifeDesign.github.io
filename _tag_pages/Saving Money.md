@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: Saving Money
+title: saving money
 ---
 Hello, tag!

@@ -3,9 +3,8 @@ layout: "post"
 title: "The 5 Biggest Lessons From Fincon 2017"
 tags:
   - "2017"
-  - Events
-  - Money Blogging
-  - Lessons Learned
+  - blogging
+  - events
 ---
 
 <img src='/i/Fincon17_logo.jpg' alt='missing' />
@@ -67,7 +66,7 @@ On my flight home, I took some time to jot out profiles of 4 people who I want t
 ************
 
 <figure>
-    <img src='/i/Fincon_sign.jpg' alt='missing' />
+    <img src='/i/Fincon_sign.jpg' alt='Five Biggest Lessons From Fincon where money and media meet' />
     <figcaption>Fincon's tagline, "Where Money and Media Meet"</figcaption>
 </figure>
 

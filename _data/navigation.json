@@ -1,0 +1,66 @@
+{
+    "main": [
+        {
+          "title": "Financial Freedom",
+          "url": "/financial-freedom/index.html",
+          "submenu": [
+               {
+                 "title": "Become A #LifeDesigner",
+                 "url": "/signup/signup_page.html"
+               },
+               {
+                    "title": "Income & Profit Reports",
+                    "url": "/financial-freedom/income-and-profit-reports.html"
+               },
+               {
+                    "title": "#Challenge2018 Progress",
+                    "url": "/challenge_2018.html"
+               }
+            ]
+        },
+        {
+            "title": "Income Hustles",
+            "url": "/income-hustles/index.html",
+            "submenu": [
+                {
+                    "title": "Book Publishing",
+                    "url": "/income-hustles/book-publishing.html"
+                },
+                {
+                    "title": "Blogging",
+                    "url": "/income-hustles/blogging.html"
+                },
+                {
+                    "title": "Other Hustles",
+                    "url": "/income-hustles/other-hustles.html"
+                }
+            ]
+        },
+        {
+            "title": "Lifestyle",
+            "url": "/tag/lifestyle.html",
+            "submenu": [
+              {
+                "title": "Events",
+                "url": "/tag/events.html"
+              },
+              {
+                "title": "Disney",
+                "url": "/tag/disney.html"
+              }
+            ]
+        },
+        {
+            "title": "Learn With Me",
+            "url": "/learn-with-me.html"
+        },
+        {
+            "title": "Blogroll",
+            "url": "/blogroll.html"
+        },
+        {
+            "title": "About",
+            "url": "/tag/about-corinna.html"
+        }
+    ]
+}

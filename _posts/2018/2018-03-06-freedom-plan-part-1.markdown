@@ -3,8 +3,7 @@ layout: "post"
 title: "Create Your Freedom Plan - Part One"
 tags:
   - "2018"
-  - Financial Independence
-  - Planning
+  - financial freedom
 affiliate: true
 ---
 ![Make Your Financial Freedom Plan, background sunny beach scene](/i/Freedom_Plan_1.png)

@@ -3,8 +3,9 @@ layout: "post"
 title: "How To Pick A Profitable Book Niche"
 tags:
   - "2018"
-  - Making Money
-  - Online Publishing
+  - making money
+  - book publishing
+affiliate: true
 ---
 <center>
 <iframe width="270" height="480" src="https://www.youtube-nocookie.com/embed/p_pAzTTXb5Q?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

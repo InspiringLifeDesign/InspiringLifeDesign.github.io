@@ -3,7 +3,9 @@ layout: "post"
 title: "Get Extra Cash In Your Pocket This Week"
 tags:
   - "2018"
-  - Making Money
+  - making money
+  - other hustles
+affiliate: true
 ---
 ![Get Cash In Your Pocket Cover Photo](/i/Blog_Cash_This_Week.png)
 

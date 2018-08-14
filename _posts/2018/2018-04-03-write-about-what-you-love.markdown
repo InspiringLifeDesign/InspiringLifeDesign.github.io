@@ -3,8 +3,9 @@ layout: "post"
 title: "Write About What You Love And Make Money Too"
 tags:
   - "2018"
-  - Making Money
-  - Money Blogging
+  - making money
+  - blogging
+affiliate: true
 ---
 ![Headline image showing Write About What You Love And Make Money Too](/i/2018/write-about-what-you-love-and-make-money-too.jpg)
 
