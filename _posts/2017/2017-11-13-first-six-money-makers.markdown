@@ -3,8 +3,10 @@ layout: "post"
 title: "The First 6 Money Makers I've Tried"
 tags:
   - "2017"
-  - Making Money
- 
+  - making money
+  - book publishing
+  - other hustles
+affiliate: true 
 ---
 ![Inspiring Life Design logo](/i/6_Money_Makers.png)
 
@@ -73,7 +75,7 @@ Some key things to say about cashback sites:
 
 **To get started with Cashback sites:** Simply sign-up for accounts with **<a href="https://www.topcashback.co.uk/ref/corybabes" target="_blank">Topcashback</a>**[^1] and **<a href="https://www.quidco.com/user/501722/2564264/" target="_blank">Quidco</a>**[^1], then bookmark these in your web browser. Whenever you need to shop online in future, check your cashback websites first and if there's an offer follow the link. Simple! You'll soon see the money rolling in.
 
-[^1]: Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.
+[^1]: I've used referral links in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.
 
 <center>
 <a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_25" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/Web Banner - 600x222.png" width="600" height="222" alt="OddsMonkey"></a>

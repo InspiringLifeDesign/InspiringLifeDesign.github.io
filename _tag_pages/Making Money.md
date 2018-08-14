@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: Making Money
+title: making money
 ---
 Hello, tag!

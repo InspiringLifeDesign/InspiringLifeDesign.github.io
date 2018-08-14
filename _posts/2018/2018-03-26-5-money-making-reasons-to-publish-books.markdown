@@ -3,8 +3,9 @@ layout: "post"
 title: "5 Reasons You'll Love Publishing Books To Make Money"
 tags:
   - "2018"
-  - Making Money
-  - Online Publishing
+  - making money
+  - book publishing
+affiliate: true
 ---
 ![Headline image showing 5 reasons you will love publishing books to make money on a background of book pages](/i/2018/5-reasons-youll-love-publishing-books-to-make-money.jpg)
 

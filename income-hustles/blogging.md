@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: Money Blogging
+title: blogging
 ---
 Hello, tag!

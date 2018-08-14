@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: About Corinna
+title: about corinna
 ---
 Hello, tag!

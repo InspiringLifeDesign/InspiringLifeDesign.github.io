@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: Financial Independence
+title: blogging
 ---
 Hello, tag!

@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: Challenge2018
+title: challenge2018
 ---
 Hello, tag!

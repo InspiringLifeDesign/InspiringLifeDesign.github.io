@@ -3,9 +3,10 @@ layout: "post"
 title: "How To Plan For The Best Disneyland Paris Trip Ever"
 tags:
   - "2018"
-  - Lifestyle
-  - Disney
-  - Saving Money
+  - lifestyle
+  - disney
+  - saving money
+affiliate: true
 ---
 ![Disneyland Hotel Image](/i/2018/disney/disneyland-hotel-day.png)
 

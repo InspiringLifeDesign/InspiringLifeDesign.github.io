@@ -3,8 +3,9 @@ layout: "post"
 title: "My 10 Simple Life Changes Inspired By Tony Robbins"
 tags:
   - "2018"
-  - Events
-  - Lessons Learned
+  - events
+  - lifestyle
+affiliate: true
 ---
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QCYu8z9pQo4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

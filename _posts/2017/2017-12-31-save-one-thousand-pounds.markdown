@@ -2,10 +2,10 @@
 layout: "post"
 title: "How would you like to save an extra £1,000 in the New Year?"
 tags:
-  - Saving Money
-  - Challenges
-  - Challenge2018
   - "2017"
+  - saving money
+  - challenge2018
+
 ---
 ![Challenge 2018 image](/i/Challenge_2018.png)
 

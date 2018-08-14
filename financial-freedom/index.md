@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: lifestyle
+title: financial freedom
 ---
 Hello, tag!

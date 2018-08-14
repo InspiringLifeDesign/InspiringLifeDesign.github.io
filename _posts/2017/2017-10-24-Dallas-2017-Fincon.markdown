@@ -3,8 +3,8 @@ layout: "post"
 title: "Fincon 2017 and the Plutus Awards in Dallas"
 tags:
   - "2017"
-  - Events
-  - Money Blogging
+  - blogging
+  - events
 ---
 
 <img src='/i/Fincon17_logo.jpg' alt='missing' />

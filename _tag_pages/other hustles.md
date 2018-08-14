@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: lifestyle
+title: other hustles
 ---
 Hello, tag!
