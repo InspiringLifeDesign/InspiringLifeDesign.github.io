@@ -60,7 +60,13 @@
         },
         {
             "title": "About",
-            "url": "/tag/about-corinna.html"
-        }
+            "url": "/tag/about-corinna.html",
+            "submenu": [
+              {
+                "title": "Media Kit",
+                "url": "/printables/ILD_Media_Kit.pdf"
+              }
+            ]
+         }
     ]
 }
