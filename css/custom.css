@@ -16,3 +16,6 @@ header.header {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e9a382', endColorstr='#40374e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
   border-top: 0px;
 }
+.site-slogan {
+  color: white;
+}
