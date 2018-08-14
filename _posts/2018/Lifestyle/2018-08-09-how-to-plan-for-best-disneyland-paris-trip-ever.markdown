@@ -14,7 +14,7 @@ affiliate: true
 
 ***
 
-I've always planned to make Inspiring Life Design more than just about my financial independence journey and helping others to make money. I also want to inspire people to live the life of their dreams, to think big, take chances and most of all enjoy life! So I'm introducting a new area to my site for [**Lifestyle**](/tag/Lifestyle.html){:target="_blank"} posts.
+I've always planned to make Inspiring Life Design more than just about my financial independence journey and helping others to make money. I also want to inspire people to live the life of their dreams, to think big, take chances and most of all enjoy life! So I'm introducting a new area to my site for [**Lifestyle**](/tag/lifestyle.html){:target="_blank"} posts.
 
 This is the first in a series of lifestyle articles about creating a memorable and magical **Disneyland Paris** trip.
 
