@@ -19,3 +19,22 @@ header.header {
 .site-slogan {
   color: white;
 }
+@media (min-width: 768px) {
+  .navbar-default .navbar-nav > li > a,
+  .navbar-default .navbar-nav > li > a:hover,
+  .navbar-default .navbar-nav > li > a:focus,
+  .navbar-default .navbar-nav > .active > a,
+  .navbar-default .navbar-nav > .active > a:hover,
+  .navbar-default .navbar-nav > .active > a:focus {
+    color: white;
+  }
+  .fixed.header .main-navigation .navbar-nav > li:hover {
+    background-color: white;
+  }
+  .fixed.header .main-navigation .navbar-nav > li:hover > a {
+    color: #ab6cc6;
+  }
+  .navbar-nav {
+    float: right;
+  }
+}

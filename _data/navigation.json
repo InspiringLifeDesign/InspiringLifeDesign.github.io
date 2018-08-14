@@ -1,0 +1,38 @@
+{
+    "main": [
+        {
+            "title": "About",
+            "url": "/about.html"
+        },
+        {
+            "title": "Income Hustles",
+            "url": "/income-hustles/index.html",
+            "submenu": [
+                {
+                    "title": "Publishing",
+                    "url": "/income-hustles/publishing.html"
+                },
+                {
+                    "title": "Blogging",
+                    "url": "/income-hustles/blogging.html"
+                }
+            ]
+        },
+        {
+            "title": "Lifestyle",
+            "url": "/lifestyle.html"
+        },
+        {
+            "title": "Progress",
+            "url": "/progress.html"
+        },
+        {
+            "title": "Learn With Me",
+            "url": "/learn-with-me.html"
+        },
+        {
+            "title": "Blogroll",
+            "url": "/blogroll.html"
+        }
+    ]
+}
