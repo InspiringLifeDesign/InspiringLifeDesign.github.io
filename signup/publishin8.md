@@ -5,7 +5,7 @@ title: Join The PublishIn8 Waitlist
 
 ## Want To Create Your Own Book In 8 Weeks?
 
-Pop your name on the #PublishIn8 waitlist and be the first to know when this program kicks off.
+Pop your name on the #PublishIn8 waitlist to receive notifications of when future program cycles kick off.
 
 <script async id="_ck_365306" src="https://forms.convertkit.com/365306?v=7"></script>
 
