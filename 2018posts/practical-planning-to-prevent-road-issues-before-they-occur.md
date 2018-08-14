@@ -8,7 +8,7 @@ sitemap:
 ---
 ## Practical Planning To Prevent Road Issues Before They Occur
 
-![Woman driving](/i/2018/practical-planning-1.jpg)
+![Woman Driving](/i/2018/practical-planning-1.jpg)
 
 ### The old saying is that an ounce of prevention is worth a pound of cure. In the event of a road accident, an ounce of prevention is worth several hundred tonnes of cure.
 
