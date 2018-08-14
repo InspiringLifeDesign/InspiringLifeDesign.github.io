@@ -251,7 +251,7 @@ Since there's going to be some sums involved in this section, you may want to cr
 
 
 </style>
-<sub>Please also see my [privacy policy](/policies/privacy){:target="_blank"} for how I will use your data</sub> 
+<sub>Please also see my [privacy policy](/policies/privacy_v01){:target="_blank"} for how I will use your data</sub> 
 <br><br>
 Right, let's get started then...
 #### 1. List your automated regular monthly expenses
