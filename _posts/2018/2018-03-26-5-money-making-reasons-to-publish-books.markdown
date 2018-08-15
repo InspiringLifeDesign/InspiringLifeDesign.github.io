@@ -108,7 +108,7 @@ Although there is some free information available online and indeed on Amazon's 
 
 I waited until I had launched my first book before I decided to spend money on learning. I then invested £300 in being mentored which was honestly the best money I could have spent! Even if you don't invest in training at the beginning, do consider it later on to improve your profit potential.
 
-I went to a Tony Robbins Unleash The Power Within event last year, and one of the biggest takeaways for me was that **the learning never ends** - we should never stop seeking to learn and improve. Incidentally he also taught that getting a mentor can significantly improve chances of success in anything you are trying to achieve.
+I went to a [Tony Robbins](https://www.tonyrobbins.com/){:target="_blank"} Unleash The Power Within event last year, and one of the biggest takeaways for me was that **the learning never ends** - we should never stop seeking to learn and improve. Incidentally he also taught that getting a mentor can significantly improve chances of success in anything you are trying to achieve.
 
 #### Tools investment
 You will probably find that you have all the tools that you need to be able to get started with online publishing, without having to spend any money. As a minimum you need a computer with a word processor, a connection to the internet and access to the amazon suite of sites needed for publishing. You may want to set-up a couple of spreadsheets for tracking progress and if you're planning to create the cover yourself you will need suitable design software.
