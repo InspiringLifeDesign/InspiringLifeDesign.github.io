@@ -108,6 +108,9 @@ And that's it - **simple as that**. So consider signing up for [Prolific](https:
 Of course there are many other sites which offer payment for completing their surveys, if you would like to find out more you should check out [The 10 Survey Websites You Should Be Signed Up For](http://makemoneywithoutajob.com/the-top-10-survey-websites/){:target="_blank"}.
 
 <br>
+![Get Extra Cash In Your Pocket This Week Pinterest image](/i/2018/get-extra-cash-in-your-pocket-pin.png)
+
+***
 
 <!-- START ADVERTISER: Fiverr (Global) from awin.com -->
 
