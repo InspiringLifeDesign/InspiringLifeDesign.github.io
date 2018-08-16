@@ -59,10 +59,10 @@ The final thing I've changed is about pushing myself to go the extra mile in thi
 ****
 
 Unleash The Power Within 2018 in London starts on Thursday 19th April and runs for 4 days. I am extremely fortunate to be returning this year, but this time as a Crew member. I hope to learn a few things, discover some new products at the many stalls there, and most importantly have the opportunity to serve this year's attendees who I hope will have as an amazing experience as I did last year.
-
 <br>    
 *Have you ever attended one of Tony's events? Perhaps you too are a Firewalker? If you'd like to ask me any questions about the event I'd be happy to answer...*
-<br>
+<br><br>
+![10 Simple Life Changes After Tony Robbins Pinterest image](/i/2018/changes-after-tony-robbins-pin.png)
 <br>
 <center>
 <a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
