@@ -8,7 +8,7 @@ tags:
 affiliate: true
 ---
 <center>
-<iframe width="270" height="480" src="https://www.youtube-nocookie.com/embed/aq2qRe-dGXY?rel=0&amp;showinfo=0&amp;start=4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="625" height="480" src="https://www.youtube-nocookie.com/embed/aq2qRe-dGXY?rel=0&amp;showinfo=0&amp;start=4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 
 ### Online Publishing is an exciting Side Hustle with great potential for passive income. So what do you need to get started?
