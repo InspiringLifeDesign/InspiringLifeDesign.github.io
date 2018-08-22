@@ -15,7 +15,7 @@ If you do choose to make a contribution then I offer you my sincere thanks, as e
 
 ### Paypal Donation
 You can donate to me at Paypal:
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="VRFPN38MQ9VS4">
 <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
