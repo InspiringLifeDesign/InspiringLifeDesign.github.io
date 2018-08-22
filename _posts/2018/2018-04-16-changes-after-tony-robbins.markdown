@@ -8,7 +8,7 @@ tags:
 affiliate: true
 ---
 <center>
-<iframe height="194" width="345" src="https://www.youtube.com/embed/QCYu8z9pQo4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="345" height="194" src="https://www.youtube.com/embed/QCYu8z9pQo4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 
 ### In April 2017 I attended Tony Robbins' Unleash The Power Within event in London. It was a life changing experience. 
