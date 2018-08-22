@@ -60,7 +60,7 @@
                   {% assign navigation = site.data.navigation.main %}
                   {% for menu in navigation %}
                   <li class="{% if menu.submenu %}dropdown{% endif %} {% if page.url == menu.url %}active{% endif %}">
-                    <a href="{{ menu.url }}">{{ menu.title }}</a>
+                    <a href="{{ menu.url }}"{% if menu.submenu %} data-toggle="dropdown" class="dropdown-toggle"{% endif %}>{{ menu.title }}</a>
                     {% if menu.submenu %}
                     <ul class="dropdown-menu"><!-- TODO: Active -->
                       {% for link in menu.submenu %}

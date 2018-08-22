@@ -49,8 +49,10 @@
 		//-----------------------------------------------
 		if (Modernizr.mq('only all and (max-width: 767px)') || Modernizr.touch || $(".main-navigation.onclick").length>0 ) {
 			$('.header [data-toggle=dropdown], .header-top [data-toggle=dropdown]').on('click', function(event) {
-			// Avoid following the href location when clicking
-			event.preventDefault();
+			// Avoid following the href location when clicking, unless already open
+			if (!($(this).parent().hasClass('open'))) {
+				event.preventDefault();		
+			}
 			// Avoid having the menu to close when clicking
 			event.stopPropagation();
 			// close all the siblings
