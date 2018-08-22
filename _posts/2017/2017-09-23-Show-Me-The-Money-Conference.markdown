@@ -6,7 +6,7 @@ tags:
   - blogging
   - events
 ---
-![UK Money Bloggers logo](/i/UK-Money-Bloggers-Logo.png)
+![Show Me The Money Conference logo](/i/shomos2017.png)
 
 ### I am extremely proud and privileged to be a member of <a href="https://ukmoneybloggers.com" target="_blank">UK Money Bloggers</a>, a thriving community of bloggers, podcasters, youtubers and money entrepreneurs.
 
@@ -16,7 +16,12 @@ Once a year they hold their SHOMO (Show Me The Money) Conference and Awards cere
 
 This is my first year attending the conference. In fact the reason I know of this community at all is because I saw a fellow blogger post about last year's event, which prompted me to apply to join. So I'm very excited to be sat on a train on an adventure into London, ready to meet lots of new people and hopefully learn plenty of tips and skills which will help me improve my blogging and money making ventures.
 
-![Corinna on train to London](/i/20170923-On-Train-To-London.png)
+<center>
+<figure>
+    <img src='/i/show-me-the-money-conference.jpg' alt='Show Me The Money Conference - Corinna on train to London'>
+    <figcaption>On the train headed for the Shomos in London</figcaption>
+</figure>
+</center>
 
 
 
