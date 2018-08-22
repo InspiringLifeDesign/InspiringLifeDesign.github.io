@@ -7,9 +7,7 @@ tags:
   - book publishing
 affiliate: true
 ---
-<center>
-<iframe width="345" height="194" src="https://www.youtube-nocookie.com/embed/p_pAzTTXb5Q?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</center>
+{% include youtube.html videoid="p_pAzTTXb5Q" %}
 
 ### This week I'm talking about how to choose a topic or niche for your book that will allow you to make money.
 

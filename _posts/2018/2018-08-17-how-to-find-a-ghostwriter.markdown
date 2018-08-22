@@ -7,9 +7,7 @@ tags:
   - making money
 affiliate: true
 ---
-<center>
-<iframe width="345" height="194" src="https://www.youtube-nocookie.com/embed/rBsyBvRpVj8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</center>
+{% include youtube.html videoid="rBsyBvRpVj8" %}
 
 ### As part of my online book publishing series, today I'm talking about why you might want to consider the services of a ghost writer.
 

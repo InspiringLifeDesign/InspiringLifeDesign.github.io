@@ -6,9 +6,7 @@ tags:
     - financial freedom
 affiliate: true
 ---
-<center>
-<iframe width="345" height="194" src="https://www.youtube.com/embed/6yUruMchck8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</center>
+{% include youtube.html videoid="6yUruMchck8" %}
 
 ### In today's video I talk about what inspires me to make money from Side Hustles. This video was filmed back in December 2017 (so please excuse the Christmas decorations!)
 

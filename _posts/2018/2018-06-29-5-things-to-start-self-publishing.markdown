@@ -7,9 +7,7 @@ tags:
   - book publishing
 affiliate: true
 ---
-<center>
-<iframe width="345" height="194" src="https://www.youtube-nocookie.com/embed/aq2qRe-dGXY?rel=0&amp;showinfo=0&amp;start=4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</center>
+{% include youtube.html videoid="aq2qRe-dGXY" %}
 
 ### Online Publishing is an exciting Side Hustle with great potential for passive income. So what do you need to get started?
 
