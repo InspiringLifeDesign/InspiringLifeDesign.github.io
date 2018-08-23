@@ -11,3 +11,14 @@ layout: default
 ![Logo](/i/emails/background-dark-pink.png)
 
 ![Logo](/i/emails/background-purple.png)
+
+![Logo](/i/emails/star-white.png)
+
+![Logo](/i/emails/star-peach.png)
+
+![Logo](/i/emails/star-pale-pink.png)
+
+![Logo](/i/emails/star-dark-pink.png)
+
+![Logo](/i/emails/star-purple.png)
+
