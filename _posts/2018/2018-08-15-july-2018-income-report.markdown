@@ -134,9 +134,14 @@ If you're not already using cashback sites then **you absolutely should be!** I 
 - The cashback site tracks your spending and sometime later you will get a payout into your cashback account.
 - You can withdraw your earnings to your bank account, PayPal, or receive a bonus amount if you opt to take your payment in shop vouchers.
 
-When you're ready to start making money from cashback, sign-up using my [my referral link with Quidco](http://bit.ly/quidcosignup){:target="_blank"} and as a thank-you they'll give you **£10** (I will receive £10 too, so thanks!) - what a nice sign-up bonus. 
+When you're ready to start making money from cashback, sign-up using my [my referral link with Quidco](http://bit.ly/quidcosignup){:target="_blank"} and as a thank-you they'll give you **£5** (I will receive £5 too, so thanks!) - what a nice sign-up bonus.
 
-Sadly there's no sign-up bonus with [TopCashback](http://bit.ly/topcashbackjoin){:target="_blank"}, but I still think it's worth signing up as they often have slightly better deals and payout amounts. I always check both sites to be sure! 
+If you sign-up with my referral link at [TopCashback](http://bit.ly/topcashbackjoin){:target="_blank"} you will receive a £5 Zeek e-Gift card (and I will receive a referral commission too, thanks!)
+
+It's worth signing up to both as they often have slightly different deals and payout amounts. I always check both sites to be sure! 
+
+*EDIT: At the time of first writing this post the sign-up bonus for Quidco was £10, and there was no sign-up bonus for TopCashback. I notice later (on 23rd Aug 2018) that the amounts for both have changed. Therefore it's possible that there could be further changes in the future and I won't necessarily be updating this post again.*
+    
 
 ### EXPENSE REPORT
 Here's how my Side Hustle expenses panned out for July:
