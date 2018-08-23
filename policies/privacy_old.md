@@ -5,7 +5,7 @@ title: Privacy
 
 # Privacy
 
-<p>This Privacy Policy governs the manner in which Inspiring Life Design collects, uses, maintains and discloses information collected from users (each, a "User") of the http://inspiringlifedesign.com/ website ("Site").</p>
+<p>This Privacy Policy governs the manner in which Inspiring Life Design collects, uses, maintains and discloses information collected from users (each, a "User") of the https://inspiringlifedesign.com/ website ("Site").</p>
 
 <h3>Personal identification information</h3>
 <p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name and email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Site related activities.</p>
