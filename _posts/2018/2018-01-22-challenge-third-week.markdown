@@ -7,7 +7,7 @@ tags:
   - challenge2018
 affiliate: true
 ---
-![£1,000 challenge image](/i/one-thousand-challenge.png)
+![Let's get £1,000 richer this year £1,000 challenge image](/i/one-thousand-challenge.png)
 
 ### Now that we're three weeks into the new year, it's time to check in on #Challenge2018, where each participant has the target of saving £1,000 this year...
 
@@ -15,7 +15,7 @@ affiliate: true
 
 ### Recap - What's It All About?
 The beauty of this challenge is in its simplicity. I've created a chart for the challenge which has 52 boxes - one for each week of the year. 
-![Challenge 2018 Chart](/i/20171231_Challenge_Chart.jpg){:style="margin: 0 auto;"}
+![Let's get £1,000 richer this year Challenge 2018 Chart](/i/2018/challenge_chart.jpg){:style="margin: 0 auto;"}
 
 Inside each box is a monetary amount ranging from £1 to £48. Each week of the challenge all you must do is save the amount from one of the boxes, and then put a cross through the box. By the end of the year, all of the boxes will be crossed out and saved, amassing a whopping **£1,000** for you to then spend as you please in 2019.
 
@@ -89,7 +89,7 @@ Here are my totals so far:
 **TOTAL: £62** ***(6.2% of goal achieved)***
 
 <figure>
-    <img src='/i/Bullet_Journal_C18_22_Jan.jpg' alt='missing' />
+    <img src='/i/Bullet_Journal_C18_22_Jan.jpg' alt='Let's get £1,000 richer this year bullet journal chart image' />
     <figcaption>Marking my weekly progress in my #Challenge2018 Bullet Journal</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Here are my totals so far:
 <br>
 The #LifeDesigners who've opted to join in on the [#Challenge2018 page](/challenge_2018.html){:target="_blank"} are doing fantastically well. With total savings at week 3 ranging from £31 to £47. Well done everyone - huge pats on the back all round.
 
-![#Challenge2018 participant progress](/i/Challenge2018_Participant_Progress_22_Jan.jpg)
+![Let's get £1,000 richer this year #Challenge2018 participant progress](/i/2018/challenge2018_progress_22jan.jpg)
 
 
 ### A Novel Approach
@@ -114,13 +114,24 @@ If you're a #LifeDesigner participating in the challenge, you may want to consid
 <br>
 *Are you participating in #Challenge2018? Let me know how you're choosing to store the money you've saved? A money box, envelope or bank account perhaps! Or maybe you have opted to do a different challenge altogether this year? I'd love to hear from you in the comments below...*
 
----
-<br>
+***
+
+### Previous & Next Posts
+
+<a href="/posts/save-one-thousand-pounds.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/january-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post was introducing [the idea of the #Challenge2018 savings challenge](/posts/save-one-thousand-pounds.html).<br>
+&nbsp;&nbsp;In my next post you can find out [how I got on with my January 2018 income & profit](/posts/january-2018-income-report.html).
+
+***
+
 <!-- START ADVERTISER: Amazon Prime -->
 <center>
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 </center>
 <!-- END ADVERTISER: Amazon Prime -->
+
+***
 
 
 
