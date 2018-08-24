@@ -73,32 +73,31 @@ Another easy to use freelancer site is [**Upwork**](https://www.upwork.com){:tar
 #### 5. The Right Attitude: Perseverance and Tenacity
 The final thing you will need before you decide to venture into the world of self publishing is a commitment to see it through. Publishing books can be extremely rewarding both psychologically and financially, however it's not an easy ride. It will take effort to learn how to create, publish and market a book. There will be times when you're not sure what you're doing, or if you've made the right decisions. **This is perfectly normal!** The key thing is that you have the tenacity to persevere and keep at it. I would recommend that you commit to giving it a go for at least 6 months.
 <br><br>
-![Pinterest image showing 5 things needed to start online publishing](/i/2018/5-Things-To-Start-Online-Publishing-pin.png)
-<br>
 *Hopefully this list of 5 things you need to get started with online publishing has been helpful for you. You may have questions about things in this post, or about other aspects of online publishing - please feel free to drop these in the comments below and I will get back to you...*
-<br>
+<br><br>
+![5 Things You Need To Get Started With Online Publishing Pinterest image](/i/2018/5-Things-To-Start-Online-Publishing-pin.png)
+
 ### Do You Want To Get Started With Online Publishing?
 
 I plan to launch a program later this year called **#publishin8**. I will show you over 8 weeks how to create and publish your very own book. If you'd like to find out more when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}. Those on the waitlist will get the opportunity to join a small test group for the first #publishin8 cycle, at a massively discounted price as I perfect the program content.
 
-
-
 ****
 
-### Previous Post
+### Previous & Next Posts
 
-Find out how I got on with [my income and profit for May](/posts/may-2018-income-report){:target="_blank"}, which I published last week if you haven't had chance to check it out yet. 
+<a href="/posts/may-2018-income-report" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/How-To-Pick-A-Profitable-Book-Niche.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post was about [my income and profit for May](/posts/may-2018-income-report).<br>
+&nbsp;&nbsp;In my next post discover [how to pick a profitable book niche](/posts/How-To-Pick-A-Profitable-Book-Niche.html) as you get started with book publishing.
 
 ***
 
-
-
-<br>
 <center>
 <a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
 </center>
 <br>
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
+
+***
 
 
 
