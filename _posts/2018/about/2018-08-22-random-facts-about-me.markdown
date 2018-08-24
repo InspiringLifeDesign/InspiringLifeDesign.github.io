@@ -58,14 +58,11 @@ I love playing games. I play backgammon and hearthstone online. With friends and
 
 ***
 
-<center>
 <!-- START ADVERTISER: Emma Drew turn your dreams course -->
 <center>
 <a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
 </center>
 <!-- END ADVERTISER: Emma Drew turn your dreams course -->
-</center>
-<br>
 
 ***
 
@@ -123,7 +120,6 @@ Actually it's probably getting stressed too often, or working too long when I sh
 ***
 
 <!-- START ADVERTISER: Amazon Prime -->
-
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <!-- END ADVERTISER: Amazon Prime -->
 <br>
@@ -143,8 +139,6 @@ Here's a few other blogger's random facts posts you may be interested in:
 
 ![20 Really Random Facts About Me pinterest image](/i/2018/about/random-facts-about-me-pin.png)
 
-***
-
 ### Join the #lifedesigner list!
 
 If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
@@ -160,7 +154,13 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 ### Previous Post
 
-In my last post I wrote about [how to find a ghost writer to work with](/posts/how-to-find-a-ghostwriter.html){:target="_blank"} when you are getting started with online book publishing. You can find all of my online book publishing series [here](/income-hustles/book-publishing.html){:target="_blank"}.
+<a href="/posts/how-to-find-a-ghostwriter.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<!-- commented out -->
+<!-- <a href="/posts/random-facts-about-me.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+In my last post I talked about [how to find a ghost writer to work with](/posts/how-to-find-a-ghostwriter.html).<br>
+&nbsp;&nbsp;In my next post I plan to talk more about working with a ghost writer once you have found one.
+
+You can find all of my online book publishing series [here](/income-hustles/book-publishing.html){:target="_blank"}.
 
 ***
 
