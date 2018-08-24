@@ -127,7 +127,7 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 <a href="/posts/dreaming-of-fire.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
 <a href="/posts/freedom-plan-part-1.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last talked about [why I'm dreaming of financial independence](/posts/dreaming-of-fire.html).<br>
+My last post talked about [why I'm dreaming of financial independence](/posts/dreaming-of-fire.html).<br>
 &nbsp;&nbsp;In my next post you can learn [how to create your own freedom plan](/posts/freedom-plan-part-1.html).
 
 ***
