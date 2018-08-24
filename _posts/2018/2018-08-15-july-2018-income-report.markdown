@@ -6,7 +6,7 @@ tags:
   - income and profit reports
 affiliate: true
 ---
-![Income & Profit header](/i/Income-and-profit-header.png)
+![July 2018 Income & Profit Report header](/i/Income-and-profit-header.png)
 
 ### We're over half-way through 2018 now and it's time to see how I got on with my income and profit in July - the first month of the second half of the year.
 ***  
@@ -14,7 +14,7 @@ affiliate: true
 First things first, July is my birthday month - so Happy Birthday to me! I went out for cocktails followed by a lovely birthday dinner with family. I took the opportunity to get dolled up, even doing my hair in my favourite 1940's style...
 <center>
 <figure>
-    <img src='/i/income_report/2018/birthday-girl.jpg' alt='July 2018 income and profit update, photo of birthday girl Corinna'>
+    <img src='/i/income_report/2018/birthday-girl.jpg' alt='July 2018 Income & Profit Report update, photo of birthday girl Corinna'>
     <figcaption>Here's a picture of me from the night with my favourite 1940's hairstyle.</figcaption>
 </figure>
 </center>
@@ -33,7 +33,6 @@ Last month in June I had my highest profit month so far with £253.06 made. Coul
 
 <center>
 <!-- START ADVERTISER: Amazon Prime -->
-
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <!-- END ADVERTISER: Amazon Prime -->
 </center>
@@ -118,7 +117,7 @@ Well I've made a good start toward having a strong month by making my second hig
 
 Here's a break-down of where my income came from in July:
 
-![July 2018 Income pie chart](/i/income_report/2018/201807income_pie_chart.png)
+![July 2018 Income & Profit Report income pie chart](/i/income_report/2018/201807income_pie_chart.png)
 
 I doubled my income streams compared to June where I only made income from Kindle and paperback book sales. I finally hit the payment threshold for my audiobook sales, the £18.09 you see in this chart was actually my combined royalties for May, June and July. 
 
@@ -134,13 +133,13 @@ If you're not already using cashback sites then **you absolutely should be!** I 
 - The cashback site tracks your spending and sometime later you will get a payout into your cashback account.
 - You can withdraw your earnings to your bank account, PayPal, or receive a bonus amount if you opt to take your payment in shop vouchers.
 
-When you're ready to start making money from cashback, sign-up using my [my referral link with Quidco](http://bit.ly/quidcosignup){:target="_blank"} and as a thank-you they'll give you **£5** (I will receive £5 too, so thanks!) - what a nice sign-up bonus.
+When you're ready to start making money from cashback, sign-up using my [my referral link with Quidco](http://bit.ly/quidcosignup){:target="_blank"} and as a thank-you they'll give you **£10** (I will receive £10 too, so thanks!) - what a nice sign-up bonus.
 
 If you sign-up with my referral link at [TopCashback](http://bit.ly/topcashbackjoin){:target="_blank"} you will receive a £5 Zeek e-Gift card (and I will receive a referral commission too, thanks!)
 
 It's worth signing up to both as they often have slightly different deals and payout amounts. I always check both sites to be sure! 
 
-*EDIT: At the time of first writing this post the sign-up bonus for Quidco was £10, and there was no sign-up bonus for TopCashback. I notice later (on 23rd Aug 2018) that the amounts for both have changed. Therefore it's possible that there could be further changes in the future and I won't necessarily be updating this post again.*
+*EDIT: At the time of first writing this post there was no sign-up bonus for TopCashback. I notice later (on 23rd Aug 2018) that there is now a Zeek voucher sign-up bonus. It's possible that there could be further changes to either of these sign-up deals in the future and I won't necessarily be updating this post.*
     
 
 ### EXPENSE REPORT
@@ -220,7 +219,7 @@ Here's how my Side Hustle expenses panned out for July:
 
 What a difference between this month's expenses (£121.26) and June's (£28.82)! To be fair, last month's expenses were pretty low compared to the 2 previous months (where I'd started running more frequent book promotions). I knew this month that I needed to run more book promotions to give me a chance of increasing my income and profit, so I'm pretty happy with July's expense amount.
 
-![Chart showing July 2018 income and profit report expenses for Jan-Jul 2018](/i/income_report/2018/201807expenses.png)
+![July 2018 Income & Profit Report chart showing expenses for Jan-Jul 2018](/i/income_report/2018/201807expenses.png)
 
 During this sales period I ran two book promotions at just under £50 each. I also had some pay per click expenses from my use of Amazon's Marketing services, which allows me to advertise my books for certain keywords.
 
@@ -416,8 +415,6 @@ Here's a run down of how I got on with them:
 <br><br>
 ![July income and profit report pinterest image](/i/income_report/2018/pin201807income_profit.png)
 
-***
-
 ### Join the #lifedesigner list!
 
 If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
@@ -431,9 +428,12 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 ****
 
-### Previous Post
+### Previous & Next Posts
 
-In my last post I talked about [how to plan before you go to Disneyland Paris](/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html){:target="_blank"} to make the most of your holiday. If you're considering a trip to Disney I'd recommend you check out this first post in a series I'll be writing about Disneyland Paris.
+<a href="/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/how-to-find-a-ghostwriter.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+In my last post I talked about [how to plan before you go to Disneyland Paris](/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html).<br>
+&nbsp;&nbsp;In my next post you can read about [how to find a ghost writer for your first book](/posts/how-to-find-a-ghostwriter.html).
 
 ***
 
@@ -445,7 +445,6 @@ In my last post I talked about [how to plan before you go to Disneyland Paris](/
 
 ***
 
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
 
 
 
