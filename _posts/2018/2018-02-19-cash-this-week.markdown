@@ -7,7 +7,7 @@ tags:
   - other hustles
 affiliate: true
 ---
-![Get Cash In Your Pocket Cover Photo](/i/Blog_Cash_This_Week.png)
+![Get Extra Cash In Your Pocket This Week header](/i/cash_this_week.png)
 
 ### This month I've tried various money makers in an attempt to hit my income target (I talk about targets in my [**January Income Report**](/posts/january-2018-income-report.html)). 
 ### Here's one way to make some quick extra cash, without having to leave the comfort of your own home!
@@ -18,7 +18,7 @@ affiliate: true
 
 I have used various survey sites before and quickly given up on them because of getting screened out too many times.
 
-![Prolific logo](/i/Prolific_logo.jpg){:style="width: 214px; height: 81px; margin: 0 10px 10px 0; float: left;"}
+![Prolific logo](/i/prolific_logo.jpg){:style="width: 214px; height: 81px; margin: 0 10px 10px 0; float: left;"}
 However I was recently introduced to a survey site which hosts academic studies. It's called [Prolific](http://bit.ly/prolificsurveys){:target="_blank"} and this has been a much more enjoyable experience.
 
 Here's what the Prolific Website has to say about itself:
@@ -42,18 +42,16 @@ Here you can see your *Balance* which is how much money you have available to wi
 <br>
 
 <!-- START ADVERTISER: Preloved UK from awin.com -->
-
 <a href="https://www.awin1.com/cread.php?s=454257&v=5834&q=218807&r=452089">
     <img src="https://www.awin1.com/cshow.php?s=454257&v=5834&q=218807&r=452089" border="0">
 </a>
-
 <!-- END ADVERTISER: Preloved UK from awin.com -->
 
 <br>
 #### Getting Paid
 What's nice about [Prolific](http://bit.ly/prolificsurveys){:target="_blank"} is that the **minimum payment threshold is just £5**. You should be able to earn this in a week quite easily. The only thing which could hamper your earning potential is how many studies are actually available for you to carry out. I have made it a habit to check in at least once a day to see if there are studies available. 
 
-![Light Bulb logo](/i/Light-Bulb.png){:style="width: 38px; height: 42px; margin: 0 10px 10px 0; float: left;"}
+![Light Bulb logo](/i/light-bulb.png){:style="width: 38px; height: 42px; margin: 0 10px 10px 0; float: left;"}
 **HANDY TIP:** If you are able to check the Prolific Site during the day on week days this feels like the best time to find available studies.
 
 Another thing you can do to help you get more studies is answering the pre-screening questions which are available. There were quite a lot of questions, but once it's done it's done!
@@ -109,17 +107,35 @@ Of course there are many other sites which offer payment for completing their su
 
 <br>
 *Have you tried survey sites before? What success have you had with them? Let me know if you decide to give Prolific a go and what you think of it. As always, I'd love to hear from you with your thoughts in the comments below...*
-<br>
+<br><br>
 ![Get Extra Cash In Your Pocket This Week Pinterest image](/i/2018/get-extra-cash-in-your-pocket-pin.png)
+
+### Join the #lifedesigner list!
+
+If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+
+- Updates on how to make money
+- Invite to private Facebook Group
+- Advance access to Challenges, Coaching & Courses
+- Notifications whenever a new post comes out
+
+[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+
+****
+
+### Previous & Next Posts
+
+<a href="/posts/dreaming-of-fire.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/freedom-plan-part-1.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last talked about [why I'm dreaming of financial independence](/posts/dreaming-of-fire.html).<br>
+&nbsp;&nbsp;In my next post you can learn [how to create your own freedom plan](/posts/freedom-plan-part-1.html).
 
 ***
 
 <!-- START ADVERTISER: Fiverr (Global) from awin.com -->
-
 <a href="http://www.awin1.com/cread.php?awinmid=6288&awinaffid=452089&clickref=&p=https%3A%2F%2Fwww.fiverr.com%2F%3Fshow_join%3Dtrue">
     <img src="https://www.awin1.com/cshow.php?s=527817&v=6288&q=256739&r=452089" border="0">
 </a>
-
 <!-- END ADVERTISER: Fiverr (Global) from awin.com -->
 
 ***
