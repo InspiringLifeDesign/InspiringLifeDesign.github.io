@@ -60,15 +60,16 @@
 							<article class="blogpost full">
 								<header>
                   {% include post-info.html date=page.date %}
-									{% if page.affiliate %}
-									<div>This post may contain affiliate links</div>
-									{% endif %}
+
 								</header>
 								<!-- Go to www.addthis.com/dashboard to customize your tools -->
 								<div><i>Sharing is caring...</i></div>
 								<div class="addthis_inline_share_toolbox"></div>
 								<div class="blogpost-content">
                   {{ content }}
+									{% if page.affiliate %}
+									<p><sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub></p>
+									{% endif %}
 								</div>
 								<footer class="clearfix">
 									{% if page.tags %}
