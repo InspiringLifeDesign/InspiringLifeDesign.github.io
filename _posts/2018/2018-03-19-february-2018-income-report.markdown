@@ -6,7 +6,7 @@ tags:
   - income and profit reports
 affiliate: true
 ---
-![Income & Profit header](/i/Income-and-profit-header.png)
+![February 2018 Income & Profit Report header](/i/Income-and-profit-header.png)
 
 
 ### Here's an update on how I'm getting on with my profit goal for 2018 taking February into consideration.
@@ -22,9 +22,11 @@ The first thing that I do when I set myself an annual goal is to see how that br
 This means that my target profit for February would ideally be in the region of £333.33. 
 Seeing as I was short of hitting my goal in January there's another £101.08 to try to earn on top, but that's simply a stretch goal! 
 
+<!-- START ADVERTISER: OddsMonkey -->
 <center>
 <a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_26" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/Web Banner - 728x90.png" width="728" height="90" alt="OddsMonkey"></a>
 </center>
+<!-- END ADVERTISER: OddsMonkey -->
 
 ### INCOME REPORT
 Here's how my income is panning out:
@@ -107,7 +109,7 @@ So my running total income for the year is sitting at £534.07. If you'd have to
 
 Here's a break-down of where the income came from in February:
 
-![February 2018 Income pie chart](/i/income_report/201802income_pie_chart.png)
+![February 2018 Income & Project Report income pie chart](/i/income_report/2018/201802income_pie_chart.png)
 
 Unusually my audiobook sales came in as my 2nd best earner in February. I only have one audiobook for sale on Audible at the moment so this was a strong month. I managed to earn an Audible bounty which means that somebody chose my book as their free sign-up book to Audible, resulting in a lovely $50 bounty bonus!
 
@@ -190,7 +192,7 @@ February's expenses are extremely low at £18.62. As mentioned before, I didn't 
 
 During February I decided to have another go at **matched betting**, so I took out a monthly subscription to [**OddsMonkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} because I simply would not be able to take advantage of all the offers without use of their brilliant odds matching tool. This was my largest expense in February.
 
-![Expenses to February 2018 chart](/i/income_report/201802expenses.png)
+![February 2018 Income & Profit Report expenses to February 2018 chart](/i/income_report/2018/201802expenses.png)
 
 Compared to January I hardly had any expenses, but then my income was significantly reduced compared to January - so it's interesting to see that there is a correlation between how much you spend, versus how much you make!
 
@@ -312,9 +314,11 @@ February was a low month for me at **£138** profit versus my target of £333.33
 
 Looking ahead to March, in terms of money I'm expecting to receive from kindle book sales, it's even worse than February! However, from April onward things should start to look up because I've been running book promotions again. I think I just have to ride out these couple of low profit months and keep on looking at the bigger picture goal of getting more books published. There's at least a two month delay between working on a book and seeing the profits in my pocket, so I just have to accept this.
 <br><br>
+<!-- START ADVERTISER: OddsMonkey -->
 <center>
 <a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_14" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/728x90_free_tutorials.jpg" width="728" height="90" alt=""></a>
 </center>
+<!-- END ADVERTISER: OddsMonkey -->
 <br>
 
 ##### WHAT ACTIONS WORKED/DIDN'T WORK FROM LAST MONTH'S PLAN
@@ -378,12 +382,14 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 [**Join the #lifedesigner mailing list here**](/signup/signup_page).
 
+***
 
-****
+### Previous & Next Posts
 
-### Previous Post
-
-In my last post I talked about [part two of creating a freedom plan](/posts/freedom-plan-part-2.html){:target="_blank"}.
+<a href="/posts/freedom-plan-part-2.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/5-money-making-reasons-to-publish-books.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+In my last post I talked about [part two of creating your freedom plan](/posts/freedom-plan-part-2.html).<br>
+&nbsp;&nbsp;In my next post I reveal [5 reasons you'll love making money publishing books](/posts/5-money-making-reasons-to-publish-books.html).
 
 ***
 
