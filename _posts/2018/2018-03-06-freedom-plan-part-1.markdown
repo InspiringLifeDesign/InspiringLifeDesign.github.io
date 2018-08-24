@@ -6,7 +6,7 @@ tags:
   - financial freedom
 affiliate: true
 ---
-![Create Your Freedom Plan header image, background sunny beach scene](/i/Freedom_Plan_1.png)
+![Create Your Freedom Plan header image, background sunny beach scene](/i/2018/freedom_plan_1.png)
 
 ### Achieving financial freedom is no small undertaking. It takes time, focus and discipline. In Part One of this two part series we discuss how to calculate your total annual expenses, as the first step to creating your plan for financial freedom.
 
@@ -38,11 +38,9 @@ We will discuss these two methods in more detail in Part Two. For now, we will b
 I have outlined below the steps I recommend for calculating your expenses.
 <br><br>
 <!-- START ADVERTISER: Preloved UK from awin.com -->
-
 <a href="https://www.awin1.com/cread.php?s=454257&v=5834&q=218807&r=452089">
     <img src="https://www.awin1.com/cshow.php?s=454257&v=5834&q=218807&r=452089" border="0">
 </a>
-
 <!-- END ADVERTISER: Preloved UK from awin.com -->
 <br>
 ### Calculating Your Expenses
@@ -355,6 +353,26 @@ That's all there is to it for calculating your expenses. In [**Part Two**](/post
 *If you had a go at calculating your expenses, were you surprised with the total result? Did you find my instructions easy to follow? Have I forgotten anything? As always, I'd love to hear from you with your thoughts in the comments below...*
 
 ![Create Your Freedom Plan pinterest image, background sunny beach scene](/i/2018/create-freedom-plan-1-pin.png)
+
+### Join the #lifedesigner list!
+
+If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+
+- Updates on how to make money
+- Invite to private Facebook Group
+- Advance access to Challenges, Coaching & Courses
+- Notifications whenever a new post comes out
+
+[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+
+****
+
+### Previous & Next Posts
+
+<a href="/posts/cash-this-week.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/freedom-plan-part-2.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+In my last post I shared [how you can make extra cash this week](/posts/cash-this-week.html).<br>
+&nbsp;&nbsp;In my next post you can continue finding out [how to create your own freedom plan](/posts/freedom-plan-part-2.html).
 
 ***
 
