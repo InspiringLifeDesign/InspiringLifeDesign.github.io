@@ -139,7 +139,3 @@ My last post talked about [why I'm dreaming of financial independence](/posts/dr
 <!-- END ADVERTISER: Fiverr (Global) from awin.com -->
 
 ***
-
-
-
-
