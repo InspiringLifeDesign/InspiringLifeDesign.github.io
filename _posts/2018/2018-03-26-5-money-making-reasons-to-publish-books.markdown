@@ -7,7 +7,7 @@ tags:
   - book publishing
 affiliate: true
 ---
-![Headline image showing 5 reasons you will love publishing books to make money on a background of book pages](/i/2018/5-reasons-youll-love-publishing-books-to-make-money.jpg)
+![5 Reasons You'll Love Publishing Books To Make Money header image on a background of book pages](/i/2018/5-reasons-youll-love-publishing-books-to-make-money.jpg)
 
 ### This is the first in a series of posts I will be writing about making money from Online Publishing. Here we look at reasons WHY you should consider getting started with book publishing.
 ***  
@@ -134,9 +134,11 @@ Everyone I've come across in this field has been super friendly and helpful. I'm
 <br><br>
 I’m taking part in the Monday Money linky with [Lynn from Mrs Mummy Penny](https://www.mrsmummypenny.co.uk/){:target="_blank"} and [Faith from Much More With Less](https://www.muchmorewithless.co.uk/){:target="_blank"}.
 
+<!-- START ADVERTISER: Amazon -->
 <center>
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=26&l=ez&f=ifr&linkID=5484940a31e66d8fc233710c0cf07df7&t=ild0b-21&tracking_id=ild0b-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 </center>
+<!-- END ADVERTISER: Amazon -->
 
 ***
 
@@ -176,9 +178,11 @@ It would include:
 
 Due to the time intensive nature of the #publishin8 programme, places would be limited and offered to Publish Mate members on a "longest membership first" basis. There would be an additional fee to participate in a #publishin8 cycle.
 
+<!-- START ADVERTISER: Amazon -->
 <center>
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=26&l=ur1&category=gift_certificates&banner=0ZS2J1W4F5KNEBHAKWR2&f=ifr&linkID=9a7477efce574bc6b8944d2a855acfa6&t=ild0b-21&tracking_id=ild0b-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 </center>
+<!-- END ADVERTISER: Amazon -->
 <br>
 It's still a pipeline idea at the moment, but as a rough guide the Publish Mate subscription would probably cost about **£10 per month**, with a #publishin8 add-on costing about **£200** per cycle. 
 
@@ -191,7 +195,7 @@ If you've already decided that this is of interest to you, then you can **join t
 
 *So my question for you is, would you be interested in the Publish Mate package? How about the #publishin8 cycles? Are there certain bits you like the sound of but not others? Please let me know in the comments - any programme I build will be based on your feedback!....*
 
-![Pinterest image showing 5 reasons you will love publishing books to make money on a background of book pages](/i/2018/5-reasons-youll-love-publishing-books-to-make-money-pin.jpg)
+![5 Reasons You'll Love Publishing Books To Make Money Pinterest image](/i/2018/5-reasons-youll-love-publishing-books-to-make-money-pin.jpg)
 
 ****
 
@@ -209,7 +213,8 @@ In my last post I talked about [my February Income & Profit Report](/posts/febru
 <a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_02_45.png" alt="ConvertKit" border="0" /></a>
 </center>
 <!-- END ADVERTISER: Convertkit 1 -->
-<br>
+
+***
 
 
 
