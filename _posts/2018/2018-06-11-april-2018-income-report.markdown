@@ -6,7 +6,7 @@ tags:
   - income and profit reports
 affiliate: true
 ---
-![Income & Profit header](/i/Income-and-profit-header.png)
+![April 2018 Income & Profit Report header](/i/Income-and-profit-header.png)
 
 ### April and May were particularly busy months for me. It's a little later than planned, but here is my income and profit report for April. 
 ***  
@@ -27,7 +27,6 @@ Let's see how I got on...
 
 <center>
 <!-- START ADVERTISER: amazon.co.uk scrolling bar -->
-
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <!-- END ADVERTISER: amazon.co.uk -->
 </center>
@@ -116,7 +115,7 @@ My running total income for the year is now sitting at **£960.03**, I've not qu
 
 Here's a break-down of where the income came from in April:
 
-![April 2018 Income pie chart](/i/income_report/201804income_pie_chart.jpg)
+![April 2018 Income & Profit Report Income pie chart](/i/income_report/201804income_pie_chart.jpg)
 
 
 ### EXPENSE REPORT
@@ -196,7 +195,7 @@ Here's how my Side Hustle expenses panned out for April:
 
 My expenses were higher this month compared to the last couple of months because I started promoting my kindle books again. This significantly helps to boost book sales, hopefully increasing profits. At **£93.05** it's the second highest expenses month of the year so far. This figure is made up of 2 promotions and some marketing costs for advertising on Amazon.
 
-![Expenses to April 2018 chart](/i/income_report/201804expenses.png)
+![April 2018 Income & Profit Report expenses to April 2018 chart](/i/income_report/201804expenses.png)
 
 
 ### PROFIT PROGRESS
@@ -371,12 +370,8 @@ I'm not going to list any things here in this post because it's already June as 
 <br><br><br>
 *So that's my income and profit for April. I'd love to hear from you in the comments below on how you're getting on with any side income ventures.*
 <br><br>
-<!-- START ADVERTISER: Emma Drew turn your dreams course -->
 
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
-
-<!-- END ADVERTISER: Emma Drew turn your dreams course -->
-
+![April 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201804income_profit.png)
 
 ### Join the #lifedesigner list!
 
@@ -392,12 +387,22 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 ***
 
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
+### Previous & Next Posts
+
+<a href="/posts/changes-after-tony-robbins.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/may-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post was about [the life changes I made after seeing Tony Robbins](/posts/changes-after-tony-robbins.html).<br>
+&nbsp;&nbsp;In my next post you can read about [how I got on with my income and profit in May](/posts/may-2018-income-report.html).
 
 ***
 
-<br>
-![Income & Profit pinterest image](/i/income_report/2018/pin201804income_profit.png)
+<!-- START ADVERTISER: Emma Drew turn your dreams course -->
+
+<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+
+<!-- END ADVERTISER: Emma Drew turn your dreams course -->
+
+***
 
 
 
