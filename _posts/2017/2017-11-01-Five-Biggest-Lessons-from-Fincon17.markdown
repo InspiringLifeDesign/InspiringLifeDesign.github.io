@@ -8,7 +8,7 @@ tags:
 affiliate: true
 ---
 
-<img src='/i/Fincon17_logo.jpg' alt='missing' />
+<img src='/i/Fincon17_logo.jpg' alt='The 5 Biggest Lessons From Fincon 2017 logo' />
 
 
 ### It's been just over 2 days since I returned to the UK after <a href="https://finconexpo.com/" target="_blank">Fincon 2017</a> in Dallas, USA and I'm just about recovering from the jetlag! While I was on my flight home I took some time to reflect on the whole experience, and here are the top 5 things I took away from the event.
@@ -43,7 +43,6 @@ The key with crystal clear goals are to write them down and ensure that they're 
 
 <center>
 <!-- START ADVERTISER: Amazon Prime -->
-
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <!-- END ADVERTISER: Amazon Prime -->
 </center>
@@ -70,37 +69,49 @@ I had previously heard of the notion of creating Avatars to represent your audie
 
 On my flight home, I took some time to jot out profiles of 4 people who I want to reach and help through Inspiring Life Design.
 
-************
-
+<center>
 <figure>
-    <img src='/i/Fincon_sign.jpg' alt='Five Biggest Lessons From Fincon where money and media meet' />
+    <img src='/i/Fincon_sign.jpg' alt='The 5 Biggest Lessons From Fincon 2017, tagline Where Money and Media Meet' />
     <figcaption>Fincon's tagline, "Where Money and Media Meet"</figcaption>
 </figure>
-
-***********
+</center>
+<br>
 
 I thought it may be interesting to revisit the goals from my last post which I had hoped to achieve from Fincon to see which ones were satisfied...
 
 
 The things I hoped to take from Fincon were:
 
-- A kickstart in motivation to really get going with sharing my journey on this site and on my social media platforms *(POST FINCON UPDATE: I think it would have been impossible to attend an event on the scale of Fincon without coming away motivated and raring to go - mission accomplished!)*
-- Financial knowledge!
+- **A kickstart in motivation** to really get going with sharing my journey on this site and on my social media platforms *(POST FINCON UPDATE: I think it would have been impossible to attend an event on the scale of Fincon without coming away motivated and raring to go - mission accomplished!)*
+- **Financial knowledge!**
 	- New side hustle ideas *(POST FINCON UPDATE: None that were completely new to me, but I am definitely intending to investigate crypotcurrency as a result of tips I received at Fincon)*
 	- How to monetise my blog & youtube *(POST FINCON UPDATE: I now have a better understanding of different methods for monetisation. My job now is to decide which path I want to take to pursue monetisation, which will be tied closely to my goals of helping people with their finances)*
 	- How to make the most of my online publishing business *(POST FINCON UPDATE: I didn't find out any new information about online pubishing, or meet any other publishers for that matter! Surprising, but I received massive value in other areas instead)*
 	- How to increase my <a href="https://www.instagram.com/inspiringlifedesign/" target="_blank">instagram</a> following, with the long term goal of making this an income stream too *(POST FINCON UPDATE: I attended a great session which explained how to improve your Instagram feed, many of the tips I will be following up on in the months to come)*
-- Meeting (or at least seeing) some of my online idols *(POST FINCON UPDATE: There were 2 people I particularly wanted to see: <a href="https://www.smartpassiveincome.com/about/" target="_blank">Pat Flynn</a> and <a href="http://www.frugalwoods.com/2014/07/16/more-than-you-ever-wanted-to-know-about-the-frugalwoods-family/" target="_blank">Mrs Frugalwoods</a>. I saw Pat Flynn on Day 2 but sadly didn't get the opportunity to say hello. However I attended a Panel Discussion where Mrs Frugalwoods was participating and got my chance to meet with her at the leaving party which made me smile* ***a lot****!)*
-- Connecting with my fellow UK Money Bloggers *(POST FINCON UPDATE: This was perhaps one of the biggest wins for me from my journey to Fincon. I had briefly met a couple of the UK Blogger attendees when I attended the UK Money Blogger Conference in September but with it being only for 1 day I hadn't had the opportunity to really have a good chat with anyone. I thoroughly enjoyed getting to know <a href="https://www.miss-thrifty.co.uk/" target="_blank">Miss Thrifty</a>, <a href="https://emmadrew.info/" target="_blank">Emma Drew</a> and her husband Tony, Cora (<a href="https://theminimillionaire.com/" target="_blank">Mini Millionaire</a>) and Maria (<a href="https://www.themoneyprinciple.co.uk/about-us/" target="_blank">The Money Principle</a>). I look forward to future conversations and catch-ups with them through the UK Blogger community.)*
-- Networking with like minded people from around the world who share my passion for personal finance *(POST FINCON UPDATE: This is definitely a massive TICK! It would be impossible to go to Fincon without meeting like minded people and networking with them. I found this one of the most fun and exciting parts of the event)*
+- **Meeting (or at least seeing) some of my online idols** *(POST FINCON UPDATE: There were 2 people I particularly wanted to see: <a href="https://www.smartpassiveincome.com/about/" target="_blank">Pat Flynn</a> and <a href="http://www.frugalwoods.com/2014/07/16/more-than-you-ever-wanted-to-know-about-the-frugalwoods-family/" target="_blank">Mrs Frugalwoods</a>. I saw Pat Flynn on Day 2 but sadly didn't get the opportunity to say hello. However I attended a Panel Discussion where Mrs Frugalwoods was participating and got my chance to meet with her at the leaving party which made me smile* ***a lot****!)*
+- **Connecting with my fellow UK Money Bloggers** *(POST FINCON UPDATE: This was perhaps one of the biggest wins for me from my journey to Fincon. I had briefly met a couple of the UK Blogger attendees when I attended the UK Money Blogger Conference in September but with it being only for 1 day I hadn't had the opportunity to really have a good chat with anyone. I thoroughly enjoyed getting to know <a href="https://www.miss-thrifty.co.uk/" target="_blank">Miss Thrifty</a>, <a href="https://emmadrew.info/" target="_blank">Emma Drew</a> and her husband Tony, Cora (<a href="https://theminimillionaire.com/" target="_blank">Mini Millionaire</a>) and Maria (<a href="https://www.themoneyprinciple.co.uk/about-us/" target="_blank">The Money Principle</a>). I look forward to future conversations and catch-ups with them through the UK Blogger community.)*
+- **Networking** with like minded people from around the world who share my passion for personal finance *(POST FINCON UPDATE: This is definitely a massive TICK! It would be impossible to go to Fincon without meeting like minded people and networking with them. I found this one of the most fun and exciting parts of the event)*
 
+<center>
 <figure>
-    <img src='/i/Fincon_pink_lady.jpg' alt='missing' />
-    <figcaption>I went as a Pink Lady to the costume closing party, sadly I didn't win the best costume prize for a free ticket for next year's Fincon, but I did have lots of fun!</figcaption>
+    <img src='/i/Fincon_pink_lady.jpg' alt='The 5 Biggest Lessons From Fincon 2017, Corinna dressed as pink lady' />
+    <figcaption>I went as a Pink Lady to the costume closing party, sadly I didn't win the best costume prize for<br>a free ticket for next year's Fincon, but I did have lots of fun!</figcaption>
 </figure>
-***********
+</center>
+<br>
 
 *Have you ever attended Fincon or any convention related to your interests and hobbies? I'd love to hear your stories. Please leave me a comment below, and ask me any questions about Fincon that you like!*
+
+***
+
+### Previous & Next Posts
+
+<a href="/posts/Dallas-2017-Fincon.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/first-six-money-makers.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post was about [my expectations of Fincon2017](/posts/Dallas-2017-Fincon.html).<br>
+&nbsp;&nbsp;In my next post you can read about [the first six money makers I've tried](/posts/first-six-money-makers.html).
+
+***
 
 <!-- START ADVERTISER: Turn Your Dreams Into Money -->
 <center>
@@ -108,7 +119,7 @@ The things I hoped to take from Fincon were:
 </center>
 <!-- END ADVERTISER: Turn Your Dreams Into Money -->
 
-
+***
 
 
 
