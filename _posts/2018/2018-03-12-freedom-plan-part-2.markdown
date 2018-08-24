@@ -6,7 +6,7 @@ tags:
   - financial freedom
 affiliate: true
 ---
-![Make Your Freedom Plan Part 2, background sunny beach scene](/i/Freedom_Plan_2.png)
+![Create Your Freedom Plan Part 2 header image, background sunny beach scene](/i/Freedom_Plan_2.png)
 
 ### Creating a plan for Financial Freedom will significantly increase your chances of success in achieving your goal. 
 
@@ -73,7 +73,7 @@ You may already have some investments (for example in a pension) which will give
 My personal view is that it's best to spread your savings across different product types. For example, in the UK it's a great idea to invest in a stocks and shares ISA because this allows **tax free** withdrawals when the time comes. Of course I'm no expert and am by no means qualified to offer advice for investing. You should always make decisions based on your personal circumstances, do your own research, and if in doubt seek assistance from an independent qualified financial advisor.
 
 ##### How long will it take to build up the amount needed? 
-This all depends on how much of your monthly income you currently save (ie your savings rate). Mr Money Mustache wrote [a great post on this](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/){:target="_blank" rel="nofollow"} (check out the table showing how many years to retirement for different savings rates). The numbers are fascinating. If you are able to consistently save and invest 50% of your income you would be financially independent in 17 years. However, if you can increase this to 60% it's just 12.5 years. Push yourself to an extreme saving rate such as 75% and you're looking at being free in **7 years**!
+This all depends on how much of your monthly income you currently save (ie your savings rate). Mr Money Mustache wrote [a great post on this](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/){:target="_blank"} (check out the table showing how many years to retirement for different savings rates). The numbers are fascinating. If you are able to consistently save and invest 50% of your income you would be financially independent in 17 years. However, if you can increase this to 60% it's just 12.5 years. Push yourself to an extreme saving rate such as 75% and you're looking at being free in **7 years**!
 
 This is all well and good, but for most of us our savings rate is nowhere near these amounts. If you're saving *at all* it may just be a small percentage into a company pension scheme, or putting aside what you can on the odd occasion. Even if you are saving 50% and up, it's still a long road to travel to hit the sweet financial freedom number.
 
@@ -270,23 +270,39 @@ Fill in the sections of this printable as follows:
 
 
 #### Over To You
-Now you have all the information you need to create your first Freedom Plan. I'm sure you may have questions so please do ask these in the comments below and I will be sure to answer them as best I can.
+*Now you have all the information you need to create your first Freedom Plan. I'm sure you may have questions so please do ask these in the comments below and I will be sure to answer them as best I can.*
+
+![Create Your Freedom Plan Part 2 pinterest image, background sunny beach scene](/i/2018/create-freedom-plan-2-pin.png)
+
+***
+
+### Join the #lifedesigner list!
+
+If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+
+- Updates on how to make money
+- Invite to private Facebook Group
+- Advance access to Challenges, Coaching & Courses
+- Notifications whenever a new post comes out
+
+[**Join the #lifedesigner mailing list here**](/signup/signup_page).
 
 
-<br>
+****
 
-<!-- START ADVERTISER: Fiverr (Global) from awin.com -->
+### Previous Post
 
-<a href="http://www.awin1.com/cread.php?awinmid=6288&awinaffid=452089&clickref=&p=https%3A%2F%2Fwww.fiverr.com%2F%3Fshow_join%3Dtrue">
-    <img src="https://www.awin1.com/cshow.php?s=527817&v=6288&q=256739&r=452089" border="0">
-</a>
+In my last post I talked about [part one of creating your freedom plan](/posts/freedom-plan-part-1){:target="_blank"}.
 
-<!-- END ADVERTISER: Fiverr (Global) from awin.com -->
+***
 
-<sub>Please note that referral links and advertisements have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
+<!-- START ADVERTISER: Convertkit 1 -->
+<center>
+<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_02_45.png" alt="ConvertKit" border="0" /></a>
+</center>
+<!-- END ADVERTISER: Convertkit 1 -->
 
-
----
+***
 
 
 
