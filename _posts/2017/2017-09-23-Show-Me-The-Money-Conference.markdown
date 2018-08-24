@@ -7,7 +7,7 @@ tags:
   - events
 affiliate: true
 ---
-![Show Me The Money Conference logo](/i/shomos2017.png)
+![Show Me The Money Bloggers 3 Conference and the SHOMO Awards 2017 logo](/i/shomos2017.png)
 
 ### I am extremely proud and privileged to be a member of <a href="https://ukmoneybloggers.com" target="_blank">UK Money Bloggers</a>, a thriving community of bloggers, podcasters, youtubers and money entrepreneurs.
 
@@ -23,6 +23,18 @@ This is my first year attending the conference. In fact the reason I know of thi
     <figcaption>On the train headed for the Shomos in London</figcaption>
 </figure>
 </center>
+<br>
+
+***
+
+### Previous & Next Posts
+
+<a href="/posts/Starting-New-Adventure.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/Dallas-2017-Fincon.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post was about [starting a new adventure in blogging](/posts/Starting-New-Adventure.html).<br>
+&nbsp;&nbsp;In my next post you can read about [my expectations of Fincon 2017](/posts/Dallas-2017-Fincon.html).
+
+***
 
 <center>
 <!-- START ADVERTISER: Amazon Prime -->
@@ -31,7 +43,7 @@ This is my first year attending the conference. In fact the reason I know of thi
 <!-- END ADVERTISER: Amazon Prime -->
 </center>
 
-
+***
 
 
 
