@@ -8,7 +8,7 @@ tags:
   - other hustles
 affiliate: true 
 ---
-![Inspiring Life Design logo](/i/6_Money_Makers.png)
+![The First 6 Money Makers I've Tried header image](/i/6_Money_Makers.png)
 
 ### I'm always on the look-out for potential money making ventures to add to my side-hustle portfolio. Over the past year I've tried several income generating ideas. Here's a rundown of my favourite 6 so far, and how lucrative I have found them.
 
@@ -28,7 +28,7 @@ The earning potential here is **huge**, only limited by the number of books you 
 
 The reason I've only published 2 books in a year is really down to my time availability and the fact that I have many other things going on, meaning that this hasn't been my sole focus. Since I've been working a full time contract for the last year I've struggled to find enough time to really crank out a high number of books while sustaining a work life balance that I'm comfortable with. However, I know that it's possible to create enough books within a year to be earning thousands of pounds a month. The reason I know this, is because I was inspired to give publishing a go by a fellow blogger Huw at [Financially Free By 40](http://financiallyfreeby40.com/){:target="_blank"} who quit his job within a year of starting. Since then I've come across many more publishers who are making their living from self publishing.
 
-![Working on my laptop from coffee shop](/i/InCoffeeShopWithLaptop.jpg)
+![The First 6 Money Makers I've Tried, working on my laptop from coffee shop](/i/InCoffeeShopWithLaptop.jpg)
 
 I love self publishing because of the flexibility and variety it offers. As long as I have a laptop and an internet connection (most of the time) I can work pretty much anywhere. There's a vibrant community of publishers who I can connect with. I can choose what book topics I want to work on. I have learnt so many new skills, and to be honest, although hard work at times, it's a lot of fun.
 
@@ -45,7 +45,7 @@ Getting 100 books published may sound like a lot, but chances are, somewhere in 
 
 ### 2. Free Gambling:  PROFIT = **£349.56** in 12 months
 
-![Free Money image](/i/FreeMoney.png)
+![The First 6 Money Makers I've Tried, free money image](/i/FreeMoney.png)
 
 This is an easy and relatively fun way to make a bit of extra cash assuming that you have the self discipline to stop as soon as you have used your free allowances up.
 
@@ -75,9 +75,11 @@ Some key things to say about cashback sites:
 
 **To get started with Cashback sites:** Simply sign-up for accounts with **<a href="http://bit.ly/topcashbackjoin" target="_blank">Topcashback</a>** and **<a href="http://bit.ly/quidcosignup" target="_blank">Quidco</a>**, then bookmark these in your web browser. Whenever you need to shop online in future, check your cashback websites first and if there's an offer follow the link. Simple! You'll soon see the money rolling in.
 
+<!-- START ADVERTISER: OddsMonkey -->
 <center>
 <a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_25" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/Web Banner - 600x222.png" width="600" height="222" alt="OddsMonkey"></a>
 </center>
+<!-- END ADVERTISER: OddsMonkey -->
 
 ### 4. Matched Betting:  PROFIT = **£87.19** in 12 months
 
@@ -91,7 +93,7 @@ In order to **guarantee** profit (rather than it just being classed as gambling)
 
 In betting and laying, no matter what the outcome of the event you are betting on, you can't lose money (except for a very small fee to be paid for the lay bet at the exchange website), because no matter the outcome you will win either at the exchange with the lay bet, or at the site you placed the original bet. 
 
-![Man confused about Matched Betting](/i/confusedperson.png){:style="display: block; margin: 0 auto;"} 
+![The First 6 Money Makers I've Tried, man confused about matched betting](/i/confusedperson.png){:style="display: block; margin: 0 auto;"} 
 
 Still with me?! I know that it can be a bit difficult to get your head around the first time you hear of this concept, but it's actually pretty simple. Here are a couple of websites which I'm sure do a better job of explaining matched betting than I ever could...
 
@@ -108,7 +110,7 @@ At this point you have **2 options** depending on your strategy and attitude to 
 
 There is quite a community of people making a lot of money from matched betting. If you are prepared to put in the time and effort it's possible to make **thousands of pounds** per month. 
 
-**To get started with Matched Betting:** There are websites you can sign-up to who will help you find offers and place suitable bets. I would highly recommend that you use one of these sites because they step you through the process and make it so easy. The one I have tried is <a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187" target="_blank">**OddsMonkey**</a>[^1] who offer introductory training guides and walk you through your first couple of offers for free. If you choose to sign-up with them, they offer options of monthly or annual subscription packages and it's easy to earn back the subscription cost very quickly using matched betting, after which it's all pure profit. Lovely.
+**To get started with Matched Betting:** There are websites you can sign-up to who will help you find offers and place suitable bets. I would highly recommend that you use one of these sites because they step you through the process and make it so easy. The one I have tried is <a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187" target="_blank">**OddsMonkey**</a> who offer introductory training guides and walk you through your first couple of offers for free. If you choose to sign-up with them, they offer options of monthly or annual subscription packages and it's easy to earn back the subscription cost very quickly using matched betting, after which it's all pure profit. Lovely.
 
 
 ### 5. Ebay:  PROFIT = **£79.22** in 12 months
@@ -132,10 +134,19 @@ My initial thoughts on making money from blogging is that there is a lot of time
 <br>
 *Have you had success with making money this year? Or would you love to get started with a side-hustle of your own, but perhaps don't know where to start? I'd love to hear from you with any questions or thoughts in the comments below...*
 
----
-<br>
+***
+
+<a href="/posts/Five-Biggest-Lessons-from-Fincon17.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/save-one-thousand-pounds.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post was about [the 5 biggest lessons I learned at Fincon2017](/posts/Five-Biggest-Lessons-from-Fincon17.html).<br>
+&nbsp;&nbsp;In my next post you can find out about [a new year challenge](/posts/save-one-thousand-pounds.html)!
+
+***
+
 <!-- START ADVERTISER: Turn Your Dreams Into Money -->
 <center>
 <a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
 </center>
 <!-- END ADVERTISER: Turn Your Dreams Into Money -->
+
+***
