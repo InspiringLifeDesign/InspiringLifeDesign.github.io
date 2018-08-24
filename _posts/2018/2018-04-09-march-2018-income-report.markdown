@@ -6,7 +6,7 @@ tags:
   - income and profit reports
 affiliate: true
 ---
-![Income & Profit header](/i/Income-and-profit-header.png)
+![March 2018 Income & Profit Report header](/i/Income-and-profit-header.png)
 
 ### Now that March is over it's time to take a look at my income and profit at the end of quarter 1. 
 ***  
@@ -25,16 +25,12 @@ I didn't achieve the ideal monthly target in both January and February, which ha
 
 Let's see how I got on...
 
-<center>
 <!-- START ADVERTISER: Turn Your Dreams Into Money -->
 
 <center>
 <a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
 </center>
-
-
 <!-- END ADVERTISER: Turn Your Dreams Into Money -->
-</center>
 
 ### INCOME REPORT
 Here's how my income is panning out:
@@ -127,7 +123,7 @@ My running total income for the year is now sitting at **£654.36**.
 
 Here's a break-down of where the income came from in March:
 
-![March 2018 Income pie chart](/i/income_report/201803income_pie_chart.png)
+![March 2018 Income & Profit report income pie chart](/i/income_report/201803income_pie_chart.png)
 
 This is likely to be the only month where you'll see Matched Betting as the top earner because I've turned my attention to running regular book promotions and this is already seeing an improvement in my online publishing income! I have to say that **Matched Betting** is a great way of making some guaranteed money with the bonus that it's tax free! If you are interested in giving Matched Betting a go, I'd suggest making use of a site such as [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} or Profit Accumulator. I use [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} and love how easy it is to track your profit as well as finding bets to place/lay. I wrote a bit about Matched Betting in my post [The First 6 Money Makers I've Tried](/posts/first-six-money-makers){:target="_blank"} if you're not sure what it's all about.
 
@@ -208,7 +204,7 @@ Here's how my Side Hustle expenses panned out for March:
 
 My lowest month so far for expenses at **£17.84**. This figure is so small because I didn't do any book promotions for my publishing side hustle, I just had some small advertising expenses through Amazon and my [OddsMonkey](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} subscription cost. 
 
-![Expenses to March 2018 chart](/i/income_report/201803expenses.png)
+![March 2018 Income & Profit Report expenses to March 2018 chart](/i/income_report/201803expenses.png)
 
 
 ### PROFIT PROGRESS
@@ -413,13 +409,7 @@ Here's a review of how I got on with the plans I made last month:
 *Well that's my income, profit and plans for another month. How did your first quarter of the year go? I'd love to hear from you in the comments below...*
 <br>
 
-<!-- START ADVERTISER: Preloved UK from awin.com -->
-
-<a href="https://www.awin1.com/cread.php?s=454257&v=5834&q=218807&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=454257&v=5834&q=218807&r=452089" border="0">
-</a>
-
-<!-- END ADVERTISER: Preloved UK from awin.com -->
+![March 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201803income_profit.png)
 
 ### Join the #lifedesigner list!
 
@@ -435,11 +425,24 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 ***
 
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
+### Previous & Next Posts
+
+<a href="/posts/write-about-what-you-love.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/changes-after-tony-robbins.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post was about [writing what you love to make money](/posts/write-about-what-you-love.html).<br>
+&nbsp;&nbsp;In my next post I talk about [the life changes I made after seeing Tony Robbins](/posts/changes-after-tony-robbins.html).
 
 ***
 
-![Income & Profit pinterest image](/i/income_report/2018/pin201803income_profit.png)
+<!-- START ADVERTISER: Convertkit 2 -->
+<center>
+<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_08_28.png" alt="ConvertKit" border="0" /></a>
+</center>
+<!-- END ADVERTISER: Convertkit 2 -->
+
+***
+
+
 
 
 
