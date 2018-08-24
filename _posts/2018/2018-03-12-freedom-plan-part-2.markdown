@@ -6,7 +6,7 @@ tags:
   - financial freedom
 affiliate: true
 ---
-![Create Your Freedom Plan Part 2 header image, background sunny beach scene](/i/Freedom_Plan_2.png)
+![Create Your Freedom Plan Part 2 header image, background sunny beach scene](/i/2018/freedom_plan_2.png)
 
 ### Creating a plan for Financial Freedom will significantly increase your chances of success in achieving your goal. 
 
@@ -146,7 +146,7 @@ If you consider that for every £30,000 invested, this provides roughly £100 pe
    </tbody>
 </table>
 
-![Light Bulb logo](/i/Light-Bulb.png){:style="width: 38px; height: 42px; margin: 0 10px 10px 0; float: left;"}
+![Light Bulb logo](/i/light-bulb.png){:style="width: 38px; height: 42px; margin: 0 10px 10px 0; float: left;"}
 **HANDY TIP:** If you'd like to see a fuller table of investment amounts and the monthly income these should generate based on the 4% withdrawal rate you can [visit this page](/tables/monthly_income_from_investments){:target="_blank"}.
 <br><br>
 Start building up your investment pot as soon as you can, but break your large goal down into smaller targets, so that psychologically you know you are building up your income capability.
@@ -290,9 +290,12 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 ****
 
-### Previous Post
+### Previous & Next Posts
 
-In my last post I talked about [part one of creating your freedom plan](/posts/freedom-plan-part-1){:target="_blank"}.
+<a href="/posts/freedom-plan-part-1" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/february-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+In my last post I talked about [part one of creating your freedom plan](/posts/freedom-plan-part-1).<br>
+&nbsp;&nbsp;In my next post I provide an update on [my February income & profit report](/posts/february-2018-income-report.html).
 
 ***
 
