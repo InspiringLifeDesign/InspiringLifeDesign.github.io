@@ -23,10 +23,10 @@ This is why I love online book publishing.
 
 Of course it's important to note that every book published is different and not all books will achieve the same results. Some books will do fantastically **better** than mine, others will inevitably do worse. As with all things there are no guarantees. However if you are prepared to learn the publishing process, put in the time to do topic research up front, create a quality book offering great content and ensure you have a marketing plan, there is no reason why your book won't achieve sales. As a rule of thumb (based on my experience) I would plan for it to take about 1 year for the book creation costs to be recovered. **This is not a get rich quick money maker!**
 
-If further proof is needed that online publishing is a viable option for generating significant amounts of income, look no further than Huw at [Financially Free By 40](http://financiallyfreeby40.com){:target="_blank" rel="nofollow"} who was able to [**quit his 9-5 job**](http://financiallyfreeby40.com/2015/07/ive-quit-my-9-5-job-now-what-part-1){:target="_blank" rel="nofollow"} just **10 months** after starting his online publishing venture! Huw had a tremendous work ethic to allow him to achieve this so quickly. At some points he was launching 3 books a week which I don't think even he would recommend now! However, his book portfolio provides him thousands of pounds income every month with very little time effort now needed from him. This is *living the dream*!
+If further proof is needed that online publishing is a viable option for generating significant amounts of income, look no further than Huw at [Financially Free By 40](http://financiallyfreeby40.com){:target="_blank"} who was able to [**quit his 9-5 job**](http://financiallyfreeby40.com/2015/07/ive-quit-my-9-5-job-now-what-part-1){:target="_blank"} just **10 months** after starting his online publishing venture! Huw had a tremendous work ethic to allow him to achieve this so quickly. At some points he was launching 3 books a week which I don't think even he would recommend now! However, his book portfolio provides him thousands of pounds income every month with very little time effort now needed from him. This is *living the dream*!
 
 
-[^1]: You can learn how to create your own Freedom Plan in my blog posts parts [one](/posts/freedom-plan-part-1) and [two](/posts/freedom-plan-part-2)
+[^1]: You can learn how to create your own Freedom Plan in my blog posts parts [one](/posts/freedom-plan-part-1){:target="_blank"} and [two](/posts/freedom-plan-part-2){:target="_blank"}
 
 ### 2. There Is Passive Income Potential
 The most exciting part of online book publishing for me is the fact that it has real passive income potential. Can you imagine the feeling of having money landing in your account every month having done nothing during that month to earn it?!
@@ -193,8 +193,22 @@ If you've already decided that this is of interest to you, then you can **join t
 
 ![Pinterest image showing 5 reasons you will love publishing books to make money on a background of book pages](/i/2018/5-reasons-youll-love-publishing-books-to-make-money-pin.jpg)
 
-<sub>Please note that referral links and advertisements have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
+****
 
+### Previous & Next Posts
+
+<a href="/posts/february-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/write-about-what-you-love.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+In my last post I talked about [my February Income & Profit Report](/posts/february-2018-income-report.html).<br>
+&nbsp;&nbsp;My next post is all about [writing what you love to make money](/posts/write-about-what-you-love.html).
+
+***
+
+<!-- START ADVERTISER: Convertkit 1 -->
+<center>
+<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_02_45.png" alt="ConvertKit" border="0" /></a>
+</center>
+<!-- END ADVERTISER: Convertkit 1 -->
 <br>
 
 
