@@ -60,14 +60,40 @@ Unleash The Power Within 2018 in London starts on Thursday 19th April and runs f
 <br>    
 *Have you ever attended one of Tony's events? Perhaps you too are a Firewalker? If you'd like to ask me any questions about the event I'd be happy to answer...*
 <br><br>
-![10 Simple Life Changes After Tony Robbins Pinterest image](/i/2018/changes-after-tony-robbins-pin.png)
+![My 10 Simple Life Changes Inspiried By Tony Robbins Pinterest image](/i/2018/changes-after-tony-robbins-pin.png)
 <br>
+
+***
+
+### Join the #lifedesigner list!
+
+If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+
+- Updates on how to make money
+- Invite to private Facebook Group
+- Advance access to Challenges, Coaching & Courses
+- Notifications whenever a new post comes out
+
+[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+
+****
+
+### Previous & Next Posts
+
+<a href="/posts/march-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/april-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post was about my [March 2018 Income and Profit](/posts/march-2018-income-report.html).<br>
+&nbsp;&nbsp;In my next post you can read about my [April 2018 Income and Profit](/posts/april-2018-income-report.html).
+
+***
+
+<!-- START ADVERTISER: Turn Your Dreams Into Money -->
 <center>
 <a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
 </center>
-<br>
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
+<!-- END ADVERTISER: Turn Your Dreams Into Money -->
 
+***
 
 
 
