@@ -8,7 +8,7 @@ tags:
   - saving money
 affiliate: true
 ---
-![Disneyland Hotel Image](/i/2018/disney/disneyland-hotel-day.png)
+![How To Plan For The Best Disneyland Paris Trip Ever, Disneyland Hotel photo](/i/2018/disney/disneyland-hotel-day.png)
 
 ### This summer I went to Disneyland Paris for the first time in years. Wanting to make the most of it I did a LOT of research! Here I share with you the things you should do *before* you go.
 
@@ -87,7 +87,7 @@ These prices include 2 days of tickets for the parks, but do not include local t
 
 <center>
 <figure>
-    <img src='/i/2018/disney/disneyland-hotel-night.png' alt='Disneyland Hotel at Disneyland Paris'>
+    <img src='/i/2018/disney/disneyland-hotel-night.png' alt='How To Plan For The Best Disneyland Paris Trip Ever, Disneyland Hotel by night at Disneyland Paris'>
     <figcaption>The Disneyland Hotel looking simply magical with all its lights in the evening.</figcaption>
 </figure>
 </center>
@@ -129,7 +129,7 @@ Next time we look to go I'll definitely be checking out a few other country's we
 
 <center>
 <figure>
-    <img src='/i/2018/disney/newyork-hotel.png' alt='Disney New York Hotel'>
+    <img src='/i/2018/disney/newyork-hotel.png' alt='How To Plan For The Best Disneyland Paris Trip Ever, Disney New York Hotel'>
     <figcaption>The view of Disney's New York hotel as seen from across the lake at the Newport Bay hotel.</figcaption>
 </figure>
 </center>
@@ -138,7 +138,6 @@ Next time we look to go I'll definitely be checking out a few other country's we
 
 <center>
 <!-- START ADVERTISER: Amazon Prime -->
-
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <!-- END ADVERTISER: Amazon Prime -->
 </center>
@@ -171,7 +170,7 @@ Pre-booking a meal plan helps you budget for your holiday, and you will save mon
 
 <center>
 <figure>
-    <img src='/i/2018/disney/plaza-gardens.png' alt='Inside the Plaza Gardens restaurant in Disneyland Paris'>
+    <img src='/i/2018/disney/plaza-gardens.png' alt='How To Plan For The Best Disneyland Paris Trip Ever, Inside the Plaza Gardens restaurant in Disneyland Paris'>
     <figcaption>Inside the delightful Plaza Gardens restaurant, in the Disneyland Park at the end of Main Street USA.</figcaption>
 </figure>
 </center>
@@ -185,7 +184,7 @@ Whether you pre-purchase a meal plan or not, even if you're not staying as a hot
 <br>
 <center>
 <figure>
-    <img src='/i/2018/disney/scrooge.png' alt='Scrooge at the character breakfast'>
+    <img src='/i/2018/disney/scrooge.png' alt='How To Plan For The Best Disneyland Paris Trip Ever, Scrooge at the character breakfast'>
     <figcaption>Scrooge visiting our breakfast table<br>at the Plaza Gardens character breakfast.</figcaption>
 </figure>
 </center>
@@ -199,7 +198,7 @@ Making reservations is particularly important if you want to do any kind of **ch
 <br><br>
 <center>
 <figure>
-    <img src='/i/2018/disney/tigger.jpg' alt='Tigger at the character breakfast'>
+    <img src='/i/2018/disney/tigger.jpg' alt='How To Plan For The Best Disneyland Paris Trip Ever, Tigger at the character breakfast'>
     <figcaption>Tigger signing my niece's autograph book at our table<br>at the Plaza Gardens character breakfast.</figcaption>
 </figure>
 </center>
@@ -210,7 +209,7 @@ Another advantage of making dining reservations for your trip is that it gives y
 <br>
 <center>
 <figure>
-    <img src='/i/2018/disney/bistrot-chez-remy.png' alt='Bistrot Chez Remy restaurant entrance'>
+    <img src='/i/2018/disney/bistrot-chez-remy.png' alt='How To Plan For The Best Disneyland Paris Trip Ever, Bistrot Chez Remy restaurant entrance'>
     <figcaption>The delightful Bistrot Chez Remy restaurant themed around the film Ratatouille, in Walt Disney Studios.</figcaption>
 </figure>
 </center>
@@ -218,7 +217,7 @@ Another advantage of making dining reservations for your trip is that it gives y
 <br>
 <center>
 <figure>
-    <img src='/i/2018/disney/bistrot-chez-remy-inside.png' alt='In the waiting area for Bistrot Chez Remy restaurant'>
+    <img src='/i/2018/disney/bistrot-chez-remy-inside.png' alt='How To Plan For The Best Disneyland Paris Trip Ever, in the waiting area for Bistrot Chez Remy restaurant'>
     <figcaption>Inside Bistrot Chez Remy there's a wonderfully themed waiting area for before you go to your table.</figcaption>
 </figure>
 </center>
@@ -233,10 +232,7 @@ For our 4 night stay we had the Plus half-board package. With this we had a love
 <br>
 <i>So that's it for the first in this Disneyland Paris series. In future posts I'll be covering what to pack to take with you, how to take advantage of all the Disney hotel perks, and how to make the most of your trip. Have you got any other tips on things you should do BEFORE you go on your Disneyland Paris holiday? I'd love to hear them in the comments...</i>
 <br><br>
-
-![Pinterest How To Plan For The Best Disneyland Paris Trip Ever image](/i/2018/disney/how-to-plan-for-dlp-pin.png)
-
-***
+![How To Plan For The Best Disneyland Paris Trip Ever Pinterest image](/i/2018/disney/how-to-plan-for-dlp-pin.png)
 
 ### Join the #lifedesigner list!
 
@@ -249,12 +245,14 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 [**Join the #lifedesigner mailing list here**](/signup/signup_page).
 
-
 ****
 
-### Previous Post
+### Previous & Next Posts
 
-If you'd like to follow how I'm getting on with my goal to make £4,000 profit from my online businesses this year, check out my last post: [June 2018 Income & Profit Report](/posts/june-2018-income-report.html){:target="_blank"}.
+<a href="/posts/june-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/july-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+In my last post I updated you on [my June 2018 Income & Profit Report](/posts/june-2018-income-report.html).<br>
+&nbsp;&nbsp;In my next post you can read about [my July 2018 Income & Profit report](/posts/july-2018-income-report.html).
 
 ***
 
@@ -266,7 +264,6 @@ If you'd like to follow how I'm getting on with my goal to make £4,000 profit f
 
 ***
 
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
 
 
 
