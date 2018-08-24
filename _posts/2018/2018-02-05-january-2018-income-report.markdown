@@ -6,7 +6,7 @@ tags:
   - income and profit reports
 affiliate: true
 ---
-![Income & Profit header](/i/Income-and-profit-header.png)
+![January 2018 Income & Profit Report header](/i/Income-and-profit-header.png)
 
 
 ### Now that January has drawn to a close, it's time to take stock of income, expenses and profit for the month.
@@ -21,9 +21,11 @@ The first thing that I do when I set myself an annual goal is to see how that br
 
 This means that my target profit for January would ideally be in the region of £333.33. So how did I do?
 
+<!-- START ADVERTISER: OddsMonkey -->
 <center>
 <a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_26" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/Web Banner - 728x90.png" width="728" height="90" alt="OddsMonkey"></a>
 </center>
+<!-- END ADVERTISER: OddsMonkey -->
 
 ### INCOME REPORT
 First let's take a look at my Income for January.
@@ -89,7 +91,7 @@ First let's take a look at my Income for January.
 
 That's not a bad start to the year! Although, with expenses still to be deducted there's not much buffer to hit my profit goal. Before we take a look at January's expenses, let's see where this income came from:
 
-![January 2018 Income pie chart](/i/January-2018-income-pie-chart.png)
+![January 2018 Income & Profit Report income pie chart](/i/January-2018-income-pie-chart.png)
 
 The front runner for January was my Kindle book sales. Due to the way that Amazon KDP pay, this money was actually earned from book sales in November 2017 and the paperback income was actually earned in December 2017.
 
@@ -157,7 +159,7 @@ Now for a look at what expenses I incurred for Side Hustles in January:
 
 Well the good news is that my expenses were less than my income - always a good start! The break down of these expenses are as follows:
 
-![January 2018 Expenses chart](/i/January-2018-expenses-chart.png)
+![January 2018 Income & Profit Report expenses chart](/i/January-2018-expenses-chart.png)
 
 The main expenses of course being on Kindle which is because I paid for book promotions.
 
@@ -251,10 +253,12 @@ So all that's left to do is calculate the profit for January and weigh this up a
 
 As you can see, I haven't hit my profit target for January. I managed about 70% of my target amount. It's not a bad start, but given that most of this income came from the proceeds of book sales made in November and December (the best months for sales due to Black Friday and Christmas) I have a LOT of work to do to hit my targets in future months as well as catch up for January.
 
+<!-- START ADVERTISER: OddsMonkey -->
 <center>
 <a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_14" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/728x90_free_tutorials.jpg" width="728" height="90" alt=""></a>
 </center>
 <br>
+<!-- END ADVERTISER: OddsMonkey -->
 
 During February I plan to focus my efforts on the following money generating activities:
 
@@ -272,6 +276,25 @@ During February I plan to focus my efforts on the following money generating act
 
     
 *How has your income and profit been for January? Have you started any Side Hustles yet? If there are any Side Hustles you're particularly interested in finding out about please let me know. I'd love to hear from you in the comments below...*
+
+***
+
+### Previous & Next Posts
+
+<a href="/posts/challenge-third-week.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/dreaming-of-fire.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+In my last post I gave an update on [our progress with the #Challenge2018 savings challenge](/posts/challenge-third-week.html).<br>
+&nbsp;&nbsp;In my next post you can read about [why I'm seeking financial independence](/posts/dreaming-of-fire.html).
+
+***
+
+<!-- START ADVERTISER: Amazon Prime -->
+<center>
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</center>
+<!-- END ADVERTISER: Amazon Prime -->
+
+***
 
 
 
