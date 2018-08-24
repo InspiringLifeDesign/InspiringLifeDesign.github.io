@@ -35,8 +35,6 @@ The best place to start when picking a book niche is to brainstorm potential ide
 - Write down as many things that you can think of for topics you are interested in or passionate about
 - Write down as many things that you can think of for topics you are an expert in or have a lot of knowledge about
 
-
-
 #### How to research popular niches?
 Once you have your list of ideas, the next thing to do is to go to Amazon! I recommend using amazon.com rather than amazon.co.uk or any other marketplace because the USA market is the largest and has the most potential for making book sales.
 
@@ -66,29 +64,35 @@ I would recommend that you do your research for at least 3-5 ideas on your list.
 Sometimes it's easy to get sucked into *analysis paralysis* so don't over research or over think your first book choice. When you're starting out in online publishing, the main thing is to learn and get practical experience of the **whole publishing process**. If you can't get beyond the research phase for fear of picking the wrong topic, you'll never get the valuable experience that you need. This is why I'm suggesting that you only research 3-5 of your favourite ideas on your list. When all is said and done you just need to take a leap of faith and pick a topic that you think holds the most potential - you have time to adjust and try new niches for future books.
 
 <br>
-
-![Pinterest image showing how to pick a profitable book niche](/i/2018/how-to-pick-a-profitable-niche-pin.png)
-<br>
 *This has been a brief introduction to the niche selection process. It's simple in theory, but when you come to give it a go you may find you have lots of questions - so please do send these my way and I will do my best to help.*
 
 *Let me know in the comments if you are interested in a future post going into more detail about [Kindle Spy](http://bit.ly/ILDkdspy){:target="_blank" rel="nofollow"} and it's advantages!*
+<br><br>
+![How to pick a profitable book niche pinterest image](/i/2018/how-to-pick-a-profitable-niche-pin.png)
 <br>
 
 ### Do You Want To Get Started With Online Publishing?
 
 I plan to launch a program later this year called **#publishin8**. I will show you over 8 weeks how to create and publish your very own book. If you'd like to find out more when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}. Those on the waitlist will get the opportunity to join a small test group for the first #publishin8 cycle, at a massively discounted price as I perfect the program content.
 
-
-
 ****
 
-### Previous Post
+### Previous & Next Posts
 
-Last week I wrote about [5 things you need to get started with self publishing](/posts/5-things-to-start-self-publishing){:target="_blank"}, if you're interested in getting started with this profitable side hustle I suggest you start there first! 
+<a href="/posts/5-things-to-start-self-publishing" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/june-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post was about [5 things you need to get started with self publishing](/posts/5-things-to-start-self-publishing).<br>
+&nbsp;&nbsp;In my next post you can read about [my June income and profit](/posts/june-2018-income-report.html).
 
 ***
 
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
+<!-- START ADVERTISER: Convertkit 2 -->
+<center>
+<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_08_28.png" alt="ConvertKit" border="0" /></a>
+</center>
+<!-- END ADVERTISER: Convertkit 2 -->
+
+***
 
 
 
