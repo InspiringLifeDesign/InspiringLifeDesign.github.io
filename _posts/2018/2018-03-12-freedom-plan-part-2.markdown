@@ -167,7 +167,7 @@ A Side Hustle is simply a term used to describe a way to make some extra cash, a
 
 There are hundreds of different Side Hustle possibilities, made easier these days with all the various online opportunities. Some hustles are more time intensive than others, some may even offer the ultimate promise of **passive income** once they are up and running. I have already talked about [My First 6 Money Makers](/posts/first-six-money-makers.html){:target="_blank"}, and I will be sharing more ways to **start and grow your own side hustles**. To be sure you never miss a post, [**join my mailing list here**](/signup/signup_page)!
 <br><br>
-##### Five Side Hustles To Get You Started
+##### Six Side Hustles To Get You Started
 Here are a handful of Side Hustle opportunities you may want to consider:
 
 - **Book Publishing** - this was my first side hustle and I still say this is a fantastic money generator due to the relative ease of entry and the passive income potential. I will be sharing more about book publishing in future posts.
@@ -175,6 +175,7 @@ Here are a handful of Side Hustle opportunities you may want to consider:
 - **Matched Betting** - this is a way of making money by taking advantage of bookmaker offers. If you're going to try this I would really recommend using [**OddsMonkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} to guide you through the money making offers. With a little bit of patience and a relatively small amount of money to get you started, you can begin earning using the tutorials and odds matching tool. There's even a handy section to allow you to track your profits! You can start with a **free** membership which shows you how to earn up to £45, then if you like it you can sign-up for one of the packages.
 - **Survey Sites** - this is a really quick and simple hustle to get into, great for earning a bit of cash in your quiet moments. Interested? Read all about [my favourite survey site](/posts/cash-this-week.html){:target="_blank"}.
 - **Blogging** - although this side hustle can take a little longer to see results, it's a really fun and expressive way to make yourself additional money, and the income potential is huge. Plus what's better than sitting back and making money from posts you wrote months ago?! If blogging sounds like your thing I can highly recommend [**Emma Drew's Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} course, where she shows you how to build a **six-figure** blog.
+- **Make Money From Your Hobby** - there are many ways you can turn your hobby into a money making venture. There are side hustles for the [green fingered](https://suefoster.info/side-hustles-for-the-green-thumbed){:target="_blank"}, for the [crafty](https://www.charlottemusha.co.uk/bangonblanks/){:target="_blank"} and for those who [love to shop](https://tuppennysfireplace.com/how-to-become-a-mystery-shopper/){:target="_blank"} to name but a few.
 
 <!-- START ADVERTISER: OddsMonkey -->
 <a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_14" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/728x90_free_tutorials.jpg" width="728" height="90" alt=""></a>
