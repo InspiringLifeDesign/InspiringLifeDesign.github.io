@@ -171,7 +171,5 @@ In my last post I wrote about [how to find a ghost writer to work with](/posts/h
 
 ***
 
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
-
 
 
