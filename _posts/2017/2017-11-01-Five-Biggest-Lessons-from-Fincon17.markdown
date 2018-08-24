@@ -5,6 +5,7 @@ tags:
   - "2017"
   - blogging
   - events
+affiliate: true
 ---
 
 <img src='/i/Fincon17_logo.jpg' alt='missing' />
@@ -40,7 +41,13 @@ It was while listening to David Bach's keynote that I uncovered my second major 
 
 The key with crystal clear goals are to write them down and ensure that they're really specific on what is to be achieved and ideally in what timeline.
 
-<br>
+<center>
+<!-- START ADVERTISER: Amazon Prime -->
+
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<!-- END ADVERTISER: Amazon Prime -->
+</center>
+
 **3. Consistency**
 
 If there was one message which *consistently(!)* got mentioned in pretty much every talk, discussion and keynote session that I attended, it was to be **consistent** with your content delivery. Over and above almost everything else, the importance of creating a regular cycle which is adhered to no matter what, was drummed home. It matters less if you can only publish your blog posts, podcast or videos every couple of weeks (or even every month), but it is imperative that you stick to your regular schedule once you have decided what the frequency should be. Your readers, listeners or viewers want to get to know you and will come to rely on you. If you say that you're going to publish your weekly video every Tuesday at 5pm GMT, then no matter what you do - publish every Tuesday at 5pm GMT!
@@ -94,6 +101,12 @@ The things I hoped to take from Fincon were:
 ***********
 
 *Have you ever attended Fincon or any convention related to your interests and hobbies? I'd love to hear your stories. Please leave me a comment below, and ask me any questions about Fincon that you like!*
+
+<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<center>
+<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+</center>
+<!-- END ADVERTISER: Turn Your Dreams Into Money -->
 
 
 

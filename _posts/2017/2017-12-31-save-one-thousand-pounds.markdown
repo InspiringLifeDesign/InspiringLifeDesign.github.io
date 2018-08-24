@@ -5,7 +5,7 @@ tags:
   - "2017"
   - saving money
   - challenge2018
-
+affiliate: true
 ---
 ![Challenge 2018 image](/i/Challenge_2018.png)
 
@@ -78,3 +78,8 @@ IMPORTANT NOTE: If you sign-up for the challenge your **name** and **amount save
 
 ---
 <br>
+<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<center>
+<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+</center>
+<!-- END ADVERTISER: Turn Your Dreams Into Money -->
