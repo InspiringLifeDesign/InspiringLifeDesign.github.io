@@ -6,7 +6,7 @@ tags:
   - income and profit reports
 affiliate: true
 ---
-![Income & Profit header](/i/Income-and-profit-header.png)
+![May 2018 Income & Profit Report header](/i/Income-and-profit-header.png)
 
 ### As I mentioned last week, May was crazy busy for me and I've been playing catch-up with my side hustles and blogging ever since! I'm pleased to say here is my income and profit report for May.
 ***  
@@ -25,7 +25,6 @@ The highest profit month I've had so far this year was January with £232.25 mad
 
 <center>
 <!-- START ADVERTISER: amazon.co.uk scrolling bar -->
-
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <!-- END ADVERTISER: amazon.co.uk -->
 </center>
@@ -112,7 +111,7 @@ Once again I've not achieved enough income to give me my ideal profit (£333) pe
 
 Here's a break-down of where the income came from in May:
 
-![May 2018 Income pie chart](/i/income_report/201805income_pie_chart.png)
+![May 2018 Income & Profit Report income pie chart](/i/income_report/201805income_pie_chart.png)
 
 Income was split across various different streams including a nice £26 from survey site [**Prolific**](http://bit.ly/prolificsurveys){:target="_blank" rel="nofollow"}, £16.35 eBay income and £9.14 matched betting earnings using [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"}. If you're interested in hearing about another Matched Betting **success story**, head over to see how much money [wannabedebtfree.com has made](https://wannabedebtfreeuk.com/2018/07/13/matched-betting-how-much-money-have-you-made/){:target="_blank"} (*SPOILER ALERT: it's a lot more than I've made*).
 
@@ -193,7 +192,7 @@ Here's how my Side Hustle expenses panned out for May:
 
 I had less book promotions running during May which explains why at £54.86 my expenses were less than April's (£93.05). It's nice to have lower expenses but if this is at the cost of generating proportionately more income I'd rather have higher expenses. I am now working hard to be consistent at running promotions for my books, to keep my book ranking and income levels up.
 
-![Expenses to May 2018 chart](/i/income_report/201805expenses.png)
+![May 2018 Income & Profit Report expenses to May 2018 chart](/i/income_report/201805expenses.png)
 
 
 ### PROFIT PROGRESS
@@ -343,11 +342,7 @@ I didn't actually set specific actions for May due to being so busy in April and
 
 *Five months through the year and a long way to go to achieve my 2018 goal, but it's still achievable. If you have any comments on my progress, or updates on your own side income ventures I'd love to hear from you in the comments below...*
 
-<!-- START ADVERTISER: Emma Drew turn your dreams course -->
-
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
-
-<!-- END ADVERTISER: Emma Drew turn your dreams course -->
+![May 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201805income_profit.png)
 
 ### Join the #lifedesigner list!
 
@@ -360,13 +355,24 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 [**Join the #lifedesigner mailing list here**](/signup/signup_page).
 
-____
+***
 
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
+### Previous & Next Posts
 
-____
+<a href="/posts/april-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/5-things-to-start-self-publishing.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post was about my [April 2018 Income and Profit](/posts/april-2018-income-report.html).<br>
+&nbsp;&nbsp;In my next post you can read about [5 things you need to get started with online book publishing](/posts/5-things-to-start-self-publishing.html).
 
-![Income & Profit pinterest image](/i/income_report/2018/pin201805income_profit.png)
+***
+
+<!-- START ADVERTISER: Emma Drew turn your dreams course -->
+
+<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+
+<!-- END ADVERTISER: Emma Drew turn your dreams course -->
+
+***
 
 
 
