@@ -6,7 +6,7 @@ tags:
   - financial freedom
 affiliate: true
 ---
-![Make Your Financial Freedom Plan, background sunny beach scene](/i/Freedom_Plan_1.png)
+![Create Your Freedom Plan header image, background sunny beach scene](/i/Freedom_Plan_1.png)
 
 ### Achieving financial freedom is no small undertaking. It takes time, focus and discipline. In Part One of this two part series we discuss how to calculate your total annual expenses, as the first step to creating your plan for financial freedom.
 
@@ -352,6 +352,11 @@ The amount you have here is your **TOTAL MONTHLY EXPENSES**.
 ### You're Halfway To Creating Your Freedom Plan!
 That's all there is to it for calculating your expenses. In [**Part Two**](/posts/freedom-plan-part-2) we'll use the figures you've just calculated to create a plan for how you intend to cover your expenses, to ultimately become financially free. We will further discuss the two terms mentioned at the start of this post **Financial Freedom** and **Income Freedom**, covering aspects such as investing and generating income from side hustles. By the end of Part Two you'll have your Freedom Plan! Check back next week for the second installment or [join my mailing list](/signup/signup_page) to be notified of new posts as they are published.
 <br><br>
+*If you had a go at calculating your expenses, were you surprised with the total result? Did you find my instructions easy to follow? Have I forgotten anything? As always, I'd love to hear from you with your thoughts in the comments below...*
+
+![Create Your Freedom Plan pinterest image, background sunny beach scene](/i/2018/create-freedom-plan-1-pin.png)
+
+***
 
 <!-- START ADVERTISER: Fiverr (Global) from awin.com -->
 
@@ -361,13 +366,7 @@ That's all there is to it for calculating your expenses. In [**Part Two**](/post
 
 <!-- END ADVERTISER: Fiverr (Global) from awin.com -->
 
-<sub>Please note that referral links and advertisements have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
-
-
-<br>
-*If you had a go at calculating your expenses, were you surprised with the total result? Did you find my instructions easy to follow? Have I forgotten anything? As always, I'd love to hear from you with your thoughts in the comments below...*
-
----
+***
 
 
 
