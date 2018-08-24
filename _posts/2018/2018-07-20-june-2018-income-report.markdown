@@ -6,7 +6,7 @@ tags:
   - income and profit reports
 affiliate: true
 ---
-![Income & Profit header](/i/Income-and-profit-header.png)
+![June 2018 Income & Profit Report header](/i/Income-and-profit-header.png)
 
 ### It's time for another income and profit report for money earned from my side hustles. Here's how I did in June.
 ***  
@@ -25,7 +25,6 @@ The highest profit month I've had so far this year was January with £232.25 mad
 
 <center>
 <!-- START ADVERTISER: Amazon Prime -->
-
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <!-- END ADVERTISER: Amazon Prime -->
 </center>
@@ -110,7 +109,7 @@ June saw an increase in income from last month, at **£281.89** versus £217.61 
 
 Here's a break-down of where the income came from in June:
 
-![June 2018 Income pie chart](/i/income_report/2018/201806income_pie_chart.png)
+![June 2018 Income & Profit Report income pie chart](/i/income_report/2018/201806income_pie_chart.png)
 
 Just two income sources this month. These came from my online book publishing business with sales for kindle and paperback. I also accrued sales for audiobooks during this period, however it was not enough to hit the Amazon payout threshold so I anticipate receiving that income next month.
 
@@ -191,7 +190,7 @@ Here's how my Side Hustle expenses panned out for June:
 
 My expenses for June were £28.83, nearly half of last month's expense costs. During this sales period I ran one book promotion, with a small promoter. I also continued to experiment using Amazon's Marketing services which offers targeted pay per click advertising. I'm still learning how best to use this advertising, but I have seen an increase in book sales already from it.
 
-![Expenses to June 2018 chart](/i/income_report/2018/201806expenses.png)
+![June 2018 Income & Profit Report expenses to June 2018 chart](/i/income_report/2018/201806expenses.png)
 
 
 ### PROFIT PROGRESS
@@ -364,13 +363,11 @@ Here's how I got on:
 * Grow my [**YouTube**](https://www.youtube.com/channel/UCFMCt3HfmLwWyqr5QSETThQ){:target="_blank" rel="nofollow"} subscribers from 3 to 4 (since I'm not posting much/any content on YouTube at the moment it's difficult to grow, hence the small goal)
 
 <br>
-![Income & Profit pinterest image](/i/income_report/2018/pin201806income_profit.png)
-
 *So that's my income and profit report for another month, marking the half-way point through 2018.* 
 
 *Have you done a 6 month stock-take of how you're getting on? I'd love to hear how you've been doing with your goals. If you have any comments on my progress, or updates on your own side income ventures please let me know in the comments below...*
-
-***
+<br><br>
+![June 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201806income_profit.png)
 
 ### Join the #lifedesigner list!
 
@@ -383,12 +380,14 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 [**Join the #lifedesigner mailing list here**](/signup/signup_page).
 
-
 ****
 
-### Previous Post
+### Previous & Next Posts
 
-In my last post I talked about [how to pick a profitable book niche](/posts/How-To-Pick-A-Profitable-Book-Niche.html){:target="_blank"}. If you're planning on getting started with online publishing I recommend you check it out! 
+<a href="/posts/How-To-Pick-A-Profitable-Book-Niche.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post I talked about [how to pick a profitable book niche](/posts/How-To-Pick-A-Profitable-Book-Niche.html).<br>
+&nbsp;&nbsp;In my next post you can read about [how to plan for the best Disneyland Paris trip ever](/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html).
 
 ***
 
@@ -399,8 +398,6 @@ In my last post I talked about [how to pick a profitable book niche](/posts/How-
 <!-- END ADVERTISER: Emma Drew turn your dreams course -->
 
 ***
-
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
 
 
 
