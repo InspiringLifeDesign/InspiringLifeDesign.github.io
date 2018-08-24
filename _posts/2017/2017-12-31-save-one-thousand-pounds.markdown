@@ -7,7 +7,7 @@ tags:
   - challenge2018
 affiliate: true
 ---
-![Challenge 2018 image](/i/Challenge_2018.png)
+![How would you like to save an extra £1,000 in the New Year Challenge 2018 image](/i/Challenge_2018.png)
 
 
 ### Looking ahead to 2018
@@ -25,7 +25,7 @@ The chart I found encouraged you to save **$1,000** in a year by splitting this 
 
 I decided to create my own British pounds version of the chart to use in 2018.
 
-![Challenge 2018 Chart](/i/20171231_Challenge_Chart.jpg){:style="margin: 0 auto;"}
+![How would you like to save an extra £1,000 in the New Year Challenge 2018 Chart](/i/2018/challenge_chart.jpg){:style="margin: 0 auto;"}
 
 Every week I'm going to save an amount specified in one of the boxes, crossing off the money saved as I go. The amounts can be saved in any order, so if it's a bad week I can save as little as £1! 
 
@@ -56,7 +56,7 @@ To make things a bit more interesting, I thought it would be fun to track our pr
 All you need to do to is:
 
 1.  Sign-up to the challenge.
-*Unfortunately sign-ups for #Challenge2018 are now closed. However you can join the waitlist for future challenges here:*
+*Edit: Unfortunately sign-ups for #Challenge2018 are now closed. However you can join the waitlist for future challenges here:*
 <script async id="_ck_337007" src="https://forms.convertkit.com/337007?v=6"></script>
 2. Make your copy of the [Google Sheet](https://docs.google.com/spreadsheets/d/1i1E-jIoObX94_FcJNrnCRZKrzkx1hG89UYs8aj-sd0w/edit?usp=sharing){:target="_blank" rel="nofollow"} and start saving
 
@@ -69,17 +69,25 @@ IMPORTANT NOTE: If you sign-up for the challenge your **name** and **amount save
 
 ### What are you waiting for? Sign-up to the challenge today!
 
+*The chart could also be used as an* ***Income Generating Challenge*** *crossing off the amount of money earnt in any given week (this could be from ebay selling, matched betting, or any number of other income generating activities).*
+
+*I really hope you join me on this challenge - let's be* ***£1,000*** *richer by this time next year!*
+
 ***
 
-<br>
-*P.S. The chart could also be used as an* ***Income Generating Challenge*** *crossing off the amount of money earnt in any given week (this could be from ebay selling, matched betting, or any number of other income generating activities).*
+### Previous & Next Posts
 
-*P.P.S. I really hope you join me on this challenge - let's be* ***£1,000*** *richer by this time next year!*
+<a href="/posts/first-six-money-makers.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/challenge-third-week.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post was about [the first six money makers I've tried](/posts/first-six-money-makers.html).<br>
+&nbsp;&nbsp;In my next post you can find out [how #Challenge2018 is going 3 weeks in](/posts/challenge-third-week.html)!
 
----
-<br>
+***
+
 <!-- START ADVERTISER: Turn Your Dreams Into Money -->
 <center>
 <a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
 </center>
 <!-- END ADVERTISER: Turn Your Dreams Into Money -->
+
+***
