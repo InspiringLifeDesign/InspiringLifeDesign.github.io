@@ -49,7 +49,6 @@ As I began my fledgling book publishing business, the thought struck me that I w
 <center>
 <a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
 </center>
-
 <!-- END ADVERTISER: Turn Your Dreams Into Money -->
 <br>
 I've made it part of my personal mission statement for the past 2 years to help others with their search for freedom. This got me thinking, perhaps I could combine my mission to help others with my desire to de-risk my side-line business and diversify a bit.
@@ -58,12 +57,41 @@ This is when the idea for this website **inspiringlifedesign.com** was born!
 
 It's still early days for the site, I have a lot of ideas that I want to share and different ways to help people. For now I'm just starting to let people know that I'm here and ready to help. So if you're interested in joining me and starting your own journey to Financial Independence, please follow along!
 
-
 <br>
 *Any thoughts on this post? Please leave a comment below, I'd love to hear from you!*
+<br><br>
+![Dreaming Of FIRE pinterest image](/i/2018/dreaming-of-fire.png)
 
----
-<br>
+### Join the #lifedesigner list!
+
+If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+
+- Updates on how to make money
+- Invite to private Facebook Group
+- Advance access to Challenges, Coaching & Courses
+- Notifications whenever a new post comes out
+
+[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+
+****
+
+### Previous & Next Posts
+
+<a href="/posts/january-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/cash-this-week.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+In my last post I wrote about [my income and profit for January 2018](/posts/january-2018-income-report.html).<br>
+&nbsp;&nbsp;In my next post you can learn [how to get cash in your pocket this week](/posts/cash-this-week.html).
+
+***
+
+<!-- START ADVERTISER: Convertkit 1 -->
+<center>
+<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_02_45.png" alt="ConvertKit" border="0" /></a>
+</center>
+<!-- END ADVERTISER: Convertkit 1 -->
+
+***
+
 
 
 
