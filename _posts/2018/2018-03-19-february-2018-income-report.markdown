@@ -361,20 +361,40 @@ Here's what I'm working on to increase my profits for future months:
 - Continue working through my money making blog course by Emma Drew [**Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} because this is offering me tremendous guidance on how to make this website the best it can be for my readers
 
 <br>
-
-<!-- START ADVERTISER: Preloved UK from awin.com -->
-
-<a href="https://www.awin1.com/cread.php?s=454257&v=5834&q=218807&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=454257&v=5834&q=218807&r=452089" border="0">
-</a>
-
-<!-- END ADVERTISER: Preloved UK from awin.com -->
-
-<br>
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
-
-<br>    
 *That's all for February's profit report. How did your February go? Did you make progress on any of your goals? I'd love to hear from you in the comments below...*
+
+![February 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201802income_profit.png)
+
+***
+
+### Join the #lifedesigner list!
+
+If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+
+- Updates on how to make money
+- Invite to private Facebook Group
+- Advance access to Challenges, Coaching & Courses
+- Notifications whenever a new post comes out
+
+[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+
+
+****
+
+### Previous Post
+
+In my last post I talked about [part two of creating a freedom plan](/posts/freedom-plan-part-2.html){:target="_blank"}.
+
+***
+
+<!-- START ADVERTISER: Convertkit 2 -->
+<center>
+<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_08_28.png" alt="ConvertKit" border="0" /></a>
+</center>
+<!-- END ADVERTISER: Convertkit 2 -->
+
+***   
+
 
 
 
