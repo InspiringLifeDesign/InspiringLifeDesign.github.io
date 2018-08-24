@@ -65,7 +65,7 @@ If you're looking to sign-up as a new customer I would highly recommend that you
 
 ### 3. Cashback Sites:  PROFIT = **£156.28** in 12 months
 
-I use two different cashback sites, **<a href="https://www.topcashback.co.uk/ref/corybabes" target="_blank">Topcashback</a>**[^1] and **<a href="https://www.quidco.com/user/501722/2564264/" target="_blank">Quidco</a>**[^1].![Topcashback picture](/i/topcashback.jpg){:style="width: 250px; height: 100px; margin: 0 10px 10px 0; float: left;"} These are great because you can get some great money back offers on shopping which you would be doing anyway. You make use of the cashback sites by opening an account with them. Then whenever you need to shop online, make sure that you first visit either **<a href="https://www.topcashback.co.uk/ref/corybabes" target="_blank">Topcashback</a>**[^1] or **<a href="https://www.quidco.com/user/501722/2564264/" target="_blank">Quidco</a>**[^1] to see if there is a cashback deal available for the retailer you're planning to shop with. If there's an offer, you simply click the link on the cashback website to take you to the retailer's site. ![Quidco picture](/i/quidco.jpg){:style="width: 250px; height: 100px; margin: 0 10px 10px 0; float: right;"}When you make your purchase this is tracked by the cashback site, and assuming all goes well, you will receive cashback into your account within the timeframe stated on the offer.
+I use two different cashback sites, **<a href="http://bit.ly/topcashbackjoin" target="_blank">Topcashback</a>** and **<a href="http://bit.ly/quidcosignup" target="_blank">Quidco</a>**.![Topcashback picture](/i/topcashback.jpg){:style="width: 250px; height: 100px; margin: 0 10px 10px 0; float: left;"} These are great because you can get some great money back offers on shopping which you would be doing anyway. You make use of the cashback sites by opening an account with them. Then whenever you need to shop online, make sure that you first visit either **<a href="http://bit.ly/topcashbackjoin" target="_blank">Topcashback</a>** or **<a href="http://bit.ly/quidcosignup" target="_blank">Quidco</a>** to see if there is a cashback deal available for the retailer you're planning to shop with. If there's an offer, you simply click the link on the cashback website to take you to the retailer's site. ![Quidco picture](/i/quidco.jpg){:style="width: 250px; height: 100px; margin: 0 10px 10px 0; float: right;"}When you make your purchase this is tracked by the cashback site, and assuming all goes well, you will receive cashback into your account within the timeframe stated on the offer.
 
 Some key things to say about cashback sites:
 
@@ -73,9 +73,7 @@ Some key things to say about cashback sites:
 - The best cashback deals I've seen have been for insurance products, mobile phone products and gambling websites. Some companies only offer 1% or 2% cashback and if your purchase amount is small this can end up being pennies (_but it all adds up right?_)
 - Many of the best cashback offers are only for new/first time customers to a retailer
 
-**To get started with Cashback sites:** Simply sign-up for accounts with **<a href="https://www.topcashback.co.uk/ref/corybabes" target="_blank">Topcashback</a>**[^1] and **<a href="https://www.quidco.com/user/501722/2564264/" target="_blank">Quidco</a>**[^1], then bookmark these in your web browser. Whenever you need to shop online in future, check your cashback websites first and if there's an offer follow the link. Simple! You'll soon see the money rolling in.
-
-[^1]: I've used referral links in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.
+**To get started with Cashback sites:** Simply sign-up for accounts with **<a href="http://bit.ly/topcashbackjoin" target="_blank">Topcashback</a>** and **<a href="http://bit.ly/quidcosignup" target="_blank">Quidco</a>**, then bookmark these in your web browser. Whenever you need to shop online in future, check your cashback websites first and if there's an offer follow the link. Simple! You'll soon see the money rolling in.
 
 <center>
 <a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_25" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/Web Banner - 600x222.png" width="600" height="222" alt="OddsMonkey"></a>
@@ -136,3 +134,8 @@ My initial thoughts on making money from blogging is that there is a lot of time
 
 ---
 <br>
+<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<center>
+<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+</center>
+<!-- END ADVERTISER: Turn Your Dreams Into Money -->
