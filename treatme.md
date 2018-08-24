@@ -30,7 +30,8 @@ You can donate to me at Paypal:
 ### Amazon Wishlist
 I also have a wishlist at Amazon, pretty much everything on this list will help me advance the website, YouTube channel or my personal development:
 
-<a href="https://www.amazon.co.uk/hz/wishlist/dl/invite/h4Tz7RM" target="_blank"><img src='/i/Buttons/amazon-wishlist-button.png' alt='Amazon wishlist button' /></a>
+<a href="https://www.amazon.co.uk/hz/wishlist/ls/OG2WX1G4UF9N" target="_blank"><img src='/i/Buttons/amazon-wishlist-button.png' alt='Amazon wishlist button' /></a>
+
 
 
 
