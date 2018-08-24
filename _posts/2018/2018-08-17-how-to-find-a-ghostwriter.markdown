@@ -107,24 +107,19 @@ Once you've found a writer you're happy to work with, you simply need to agree a
 
 ***
 
-<center>
 <!-- START ADVERTISER: KDSpy -->
 <center>
 <a href="http://bit.ly/ILDkdspy"><img  src="https://www.kdspy.com/images/b/728x90.jpg" /></a>
 </center>
 <!-- END ADVERTISER: KDSpy -->
-</center>
-<br>
 
 ***
 
 This has been a brief introduction to the ghost writer recruitment process. The first time you opt to use a ghost writer it can feel a little strange, however, once you've done it once it will get easier on future occsaions. The key is to get clear on what you want from a ghost writer before you start to look for one. Then you can set expectations with any prospective candidates you speak with, to ensure that they understand what they would need to deliver throughout the project.
 
 *Let me know in the comments if you have any questions. I'd love to hear from you if you have any experiences working with ghost writers, or if you have worked as a ghost writer yourself. In my next post I will be discussing how to work with your ghost writer to get the best results*
-
+<br><br>
 ![How to find a Ghost Writer for your first book pinterest image](/i/2018/how-to-find-a-ghost-writer-for-your-first-book-pin.png)
-
-***
 
 ### Do You Want To Get Started With Online Publishing?
 
@@ -132,9 +127,13 @@ I will be launching a program called **#publishin8** later this year or early ne
 
 ***
 
-### Previous Posts
+### Previous & Next Posts
 
-In my last post I gave an update on my [income and profit for July](/posts/july-2018-income-report.html){:target="_blank"}. This report shares exactly what I'm making from my [income hustles](/income-hustles/index.html){:target="_blank"} as well as what I've been doing to achieve those results.
+<a href="/posts/july-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/random-facts-about-me.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+In my last post I talked about my [income and profit for July](/posts/july-2018-income-report.html).<br>
+&nbsp;&nbsp;In my next post you can find out [20 random facts about me](/posts/random-facts-about-me.html)!
+
 
 If this is the first post that you have read in my How To Publish Books series, you may also want to check out [5 things you need to get started with online publishing](/posts/5-things-to-start-self-publishing.html){:target="_blank"} and [how to pick a profitable book niche](/posts/How-To-Pick-A-Profitable-Book-Niche.html){:target="_blank"}.
 
@@ -148,7 +147,6 @@ If this is the first post that you have read in my How To Publish Books series, 
 
 ***
 
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
 
 
 
