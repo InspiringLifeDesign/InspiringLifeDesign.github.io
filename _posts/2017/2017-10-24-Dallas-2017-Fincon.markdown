@@ -8,7 +8,7 @@ tags:
 affiliate: true
 ---
 
-<img src='/i/Fincon17_logo.jpg' alt='missing' />
+<img src='/i/Fincon17_logo.jpg' alt='Fincon 2017 and the Plutus Awards in Dallas logo' />
 
 
 ### September and October have been busy months for me. First there was the <a href="https://ukmoneybloggers.com" target="_blank">UK Money Bloggers</a> event in London, then I went on a two week cruise to the Canary Islands, and now I'm on a plane to Dallas for <a href="https://finconexpo.com/" target="_blank">Fincon2017</a>! Although it's all very new to me, I'm finding that the lifestyle of an entrepreneur certainly has its pros.
@@ -24,11 +24,11 @@ My initial reason for attending Fincon was because I wanted to see some of the b
 One thing that excites me about Fincon is that it is big enough to attract a decent number of delegates from around the world, but it also feels like it will be intimate enough to really get to know people and have some in depth conversations about all things finance! I love geeking out on finance with those who share my passion.
 
 The event runs for 4 days from Tuesday 24th through Saturday 27th October at the <a href="https://www.marriott.com/hotels/travel/daldh-sheraton-dallas-hotel/" target="_blank">Sheraton Conference Center</a> in Dallas. To my delight there is an app which can be downloaded which allows you to connect with other attendees, as well as viewing the full schedule. It even lets you mark favourites on which talks and sessions you want to attend so that it should be easier to prioritise time once there. 
-<img src='/i/PLUTUS_BANNER.jpg' alt='missing' />
+<img src='/i/PLUTUS_BANNER.jpg' alt='Fincon 2017 and the Plutus Awards in Dallas awards banner' />
 
 As well as being packed full of content, there is an opening party hosted by one of the sponsors <a href="https://www.ally.com/" target="_blank">Ally</a>, the <a href="https://www.plutusawards.com/" target="_blank">Plutus Awards</a> (which I'm very excited about) and a costume closing party (yes I've brought a costume with me, and no, I'm not telling you what it is yet!) One aspect I'm particularly impressed with, is the offer of a mentoring session where you can request to be paired with a mentor (or offer to become a mentor) in an area of interest to you. I have taken the opportunity to request a mentor and hope to learn lots about Youtube so that I can kick off my <a href="https://www.youtube.com/channel/UCFMCt3HfmLwWyqr5QSETThQ" target="_blank">Inspiring Life Design Channel</a> alongside this blog.
 
-Once in Dallas I'm looking forward to catching up with some of my fellow UK Money Bloggers who are also making the trip. It will be great to see some friendly faces, and share the experience of Fincon with fellow Brits. Among these are <a href="https://www.miss-thrifty.co.uk/" target="_blank">Miss Thrifty</a>, Emma (<a href="https://emmadrew.info/" target="_blank">Emma Drew</a>) and Cora (<a href="https://theminimillionaire.com/" target="_blank">Mini Millionaire</a>).
+Once in Dallas I'm looking forward to catching up with some of my fellow UK Money Bloggers who are also making the trip. It will be great to see some friendly faces, and share the experience of Fincon with fellow Brits. Among these are <a href="https://www.miss-thrifty.co.uk/" target="_blank">Miss Thrifty</a>, <a href="https://emmadrew.info/" target="_blank">Emma Drew</a> and Cora (<a href="https://theminimillionaire.com/" target="_blank">Mini Millionaire</a>).
 
 The things I hope to take from Fincon are:
 
@@ -45,16 +45,28 @@ The things I hope to take from Fincon are:
 Some may say that it's a long way to go for just 5 days, but I'm excited and confident that the experience of Fincon 2017 will be more than worth it. Personally, I can't wait!
 
 <figure>
-    <img src='/i/20171024_frankfurt.jpg' alt='missing' />
+    <img src='/i/20171024_frankfurt.jpg' alt='Fincon 2017 and the Plutus Awards in Dallas, Corinna sat at the airport' />
     <figcaption>Snapped at Frankfurt airport while waiting for my connecting flight to Dallas.</figcaption>
 </figure>
 
+***
+
+### Previous & Next Posts
+
+<a href="/posts/Show-Me-The-Money-Conference.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
+<a href="/posts/Five-Biggest-Lessons-from-Fincon17.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+My last post was about [attending the UK Money Blogger's SHOMO event](/posts/Show-Me-The-Money-Conference.html).<br>
+&nbsp;&nbsp;In my next post you can learn about [my five biggest lessons from Fincon 2017](/posts/Five-Biggest-Lessons-from-Fincon17.html).
+
+***
+
 <center>
 <!-- START ADVERTISER: Amazon Prime -->
-
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <!-- END ADVERTISER: Amazon Prime -->
 </center>
+
+***
 
 
 
