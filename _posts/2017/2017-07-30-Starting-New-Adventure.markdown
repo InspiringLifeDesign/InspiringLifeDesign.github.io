@@ -59,6 +59,13 @@ If you're interested in discovering new money making ventures as I uncover them,
 
 ***
 
+### Next Post
+
+<a href="/posts/Show-Me-The-Money-Conference.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+In my next post you can hear a little bit about [the UK Money Blogger's SHOMO event](/posts/Show-Me-The-Money-Conference.html).
+
+***
+
 <!-- START ADVERTISER: KDSpy -->
 <center>
 <a href="http://bit.ly/ILDkdspy"><img  src="https://www.kdspy.com/images/b/728x90.jpg" /></a>
