@@ -81,7 +81,7 @@ The kinds of things you should look out for are:
 - <b>Portfolio</b>: what examples of previous work do they have? Does their style match what you are looking for?
 - <b>Reviews</b>: Have a look at what other people have said who've worked with this writer before. Don't forget to check out any negative reviews
 - <b>Price range</b>: does this fit your budget?
- 
+
 #### 2. Create your own job posting
 If you're using Upwork you can create your own job posting. The kinds of things you'd want to consider including in your job posting are:
 
@@ -123,7 +123,7 @@ This has been a brief introduction to the ghost writer recruitment process. The 
 
 ### Do You Want To Get Started With Online Publishing?
 
-I will be launching a program called **#publishin8** later this year or early next year. Over the course of 8 weeks you will learn how to create and publish your very own book. If you'd like to find out more when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}. 
+I will be launching a program called **#publishin8** later this year or early next year. Over the course of 8 weeks you will learn how to create and publish your very own book. If you'd like to find out more when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}.
 
 ***
 
@@ -147,6 +147,14 @@ If this is the first post that you have read in my How To Publish Books series, 
 
 ***
 
-
-
-
+<script type="text/javascript">
+    var vglnk = {key: '34ec09b8b2a87e86853d497a0fde239d'};
+    (function(d, t) {
+        var s = d.createElement(t);
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = '//cdn.viglink.com/api/vglnk.js';
+        var r = d.getElementsByTagName(t)[0];
+            r.parentNode.insertBefore(s, r);
+    }(document, 'script'));
+</script>
