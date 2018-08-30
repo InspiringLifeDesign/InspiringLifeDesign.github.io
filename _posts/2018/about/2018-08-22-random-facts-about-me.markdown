@@ -155,10 +155,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous Post
 
 <a href="/posts/how-to-find-a-ghostwriter.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- commented out -->
-<!-- <a href="/posts/random-facts-about-me.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/what-to-pack-to-get-most-from-dlp.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I talked about [how to find a ghost writer to work with](/posts/how-to-find-a-ghostwriter.html).<br>
-&nbsp;&nbsp;In my next post I plan to talk more about working with a ghost writer once you have found one.
+&nbsp;&nbsp;My next post reveals [what to pack to get the most from Disneyland Paris](/posts/what-to-pack-to-get-most-from-dlp.html).
 
 You can find all of my online book publishing series [here](/income-hustles/book-publishing.html){:target="_blank"}.
 
