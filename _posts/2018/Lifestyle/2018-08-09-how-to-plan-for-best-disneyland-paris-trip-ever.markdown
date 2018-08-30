@@ -266,7 +266,7 @@ There are some similarites between the MagiPark app and the official Disneyland 
 </figure>
 </center>
 
-<br><br>
+<br><br><br>
 <i>So that's it for the first in this Disneyland Paris series. In future posts I'll be covering what to pack to take with you, how to take advantage of all the Disney hotel perks, and how to make the most of your trip. Have you got any other tips on things you should do BEFORE you go on your Disneyland Paris holiday? I'd love to hear them in the comments...</i>
 <br><br>
 ![How To Plan For The Best Disneyland Paris Trip Ever Pinterest image](/i/2018/disney/how-to-plan-for-dlp-pin.png)
@@ -300,7 +300,3 @@ In my last post I updated you on [my June 2018 Income & Profit Report](/posts/ju
 <!-- END ADVERTISER: Emma Drew turn your dreams course -->
 
 ***
-
-
-
-
