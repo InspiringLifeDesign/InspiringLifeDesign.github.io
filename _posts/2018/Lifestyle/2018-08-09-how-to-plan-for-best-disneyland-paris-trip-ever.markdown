@@ -230,6 +230,43 @@ For our 4 night stay we had the Plus half-board package. With this we had a love
 - **Plaza Gardens** for lunch buffet, off Main Street USA, Disneyland
 
 <br>
+### Downloading Apps For Your Phone
+If you have a smart phone and are ok with technology, it's a great idea to download some applications onto your phone before you go. This way you can use your usual wifi or data package for the download, instead of doing this in France where higher charges may apply, particularly if you're visiting from outside of Europe. You can also take some time to familiarise yourself with how the apps work, before you visit the parks.
+
+There are a couple of great apps which I would recommend for iOS/Apple, I'm not sure whether these are also available on Android:
+#### 1. [The Official Disneyland Paris app](http://www.disneylandparis.co.uk/mobile-app/){:target="_blank"}
+<table class="image" style="margin: 5px 25px 0px 0px; float: left;">
+<tr><td><a href="http://c00.adobe.com/5f909ec1ab2cc6f13a264fdef889b282d038aa91a4cebe578793557bb9b76d88/ILC-DLPLandingPage/i/396908589" target="_blank"><img src="/i/2018/disney/how-to-plan-for-best-disneyland-paris-trip-ever-1.png" alt="How To Plan For The Best Disneyland Paris Trip Ever, Disneyland Paris application logo"></a></td></tr>
+</table>
+In my opinion the best part of this app, and the bit I used the most was the map of both parks. This is an interactive map which shows real-time wait times, temporary closures and other useful information for all of the attractions and amenities. It was really useful for planning things to do. It's possible to see a list view of everything instead, for a quick look at wait times.
+
+I didn't use this functionality while at the park, but there is a filter function where you can select attractions by age suitability, height restrictions, fastpass availability and mobility. This looks like a pretty handy feature.
+
+Also included is information on park hours and show times. There are also options to be able to make dining reservations and purchase tickets for the park, however these take you outside of the app to either make phone calls or visit the Disneyland Paris website.
+<center>
+<figure>
+    <a href="http://c00.adobe.com/5f909ec1ab2cc6f13a264fdef889b282d038aa91a4cebe578793557bb9b76d88/ILC-DLPLandingPage/i/396908589" target="_blank">
+    <img src='/i/2018/disney/how-to-plan-for-best-disneyland-paris-trip-ever-3.png' alt='How To Plan For The Best Disneyland Paris Trip Ever, map view in the Disneyland Paris app'></a>
+    <figcaption>The map view on the Disneyland Paris app<br>shows current wait times for all rides.</figcaption>
+</figure>
+</center>
+<br>
+#### 2. [MagiPark app](https://itunes.apple.com/app/id904268558?mt=8&uo=4&at=11lMsp&cid=magipark-web){:target="_blank"}
+<table class="image" style="margin: 5px 25px 0px 0px; float: left;">
+<tr><td><a href="https://itunes.apple.com/app/id904268558?mt=8&uo=4&at=11lMsp&cid=magipark-web" target="_blank"><img src="/i/2018/disney/how-to-plan-for-best-disneyland-paris-trip-ever-2.png" alt="How To Plan For The Best Disneyland Paris Trip Ever, MagiPark application logo"></a></td></tr>
+</table>
+There are some similarites between the MagiPark app and the official Disneyland Paris app. For example, this app also has a map view with wait times and details on food outlets. However the functionality I like with this app is that you can set notifications for specific rides. I used this app to notify me when the wait times for certain rides dropped below my ideal wait time. You can also set it up so that you are notified of any temporary closures and re-opening of rides.
+<div style="clear: both;"></div>
+<br>
+<center>
+<figure>
+    <a href="https://itunes.apple.com/app/id904268558?mt=8&uo=4&at=11lMsp&cid=magipark-web" target="_blank">
+    <img src='/i/2018/disney/how-to-plan-for-best-disneyland-paris-trip-ever-4.png' alt='How To Plan For The Best Disneyland Paris Trip Ever, notifications page in the MagiPark app'></a>
+    <figcaption>The MagiPark app view, where you can set<br>which notifications you want to receive<br>for ride closures and wait times.</figcaption>
+</figure>
+</center>
+
+<br><br>
 <i>So that's it for the first in this Disneyland Paris series. In future posts I'll be covering what to pack to take with you, how to take advantage of all the Disney hotel perks, and how to make the most of your trip. Have you got any other tips on things you should do BEFORE you go on your Disneyland Paris holiday? I'd love to hear them in the comments...</i>
 <br><br>
 ![How To Plan For The Best Disneyland Paris Trip Ever Pinterest image](/i/2018/disney/how-to-plan-for-dlp-pin.png)
