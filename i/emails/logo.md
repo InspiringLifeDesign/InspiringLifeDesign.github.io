@@ -22,3 +22,4 @@ layout: default
 
 ![Logo](/i/emails/star-purple.png)
 
+![Logo](/i/emails/email-header.png)
