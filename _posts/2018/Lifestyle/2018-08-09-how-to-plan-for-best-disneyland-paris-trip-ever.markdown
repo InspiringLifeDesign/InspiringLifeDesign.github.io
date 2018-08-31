@@ -136,11 +136,14 @@ Next time we look to go I'll definitely be checking out a few other country's we
 
 ***
 
+<!-- START ADVERTISER: DLP Book by 1st October -->
 <center>
-<!-- START ADVERTISER: Amazon Prime -->
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-<!-- END ADVERTISER: Amazon Prime -->
+<script type="text/javascript">
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
 </center>
+<!-- END ADVERTISER: DLP Book by 1st October -->
 
 ***
 
@@ -229,7 +232,19 @@ For our 4 night stay we had the Plus half-board package. With this we had a love
 - **Bistrot Chez Remy** in the Toon Studio area of Walt Disney Studios
 - **Plaza Gardens** for lunch buffet, off Main Street USA, Disneyland
 
-<br>
+***
+
+<!-- START ADVERTISER: DLP orange signature collection -->
+<center>
+<script type="text/javascript">
+var uri = 'https://impgb.tradedoubler.com/imp?type(js)g(23203196)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<sc'+'ript type="text/javascript" src="'+uri+'" charset="ISO-8859-1"></sc'+'ript>');
+</script>
+</center>
+<!-- END ADVERTISER: DLP orange signature collection -->
+
+***
+
 ### Downloading Apps For Your Phone
 If you have a smart phone and are ok with technology, it's a great idea to download some applications onto your phone before you go. This way you can use your usual wifi or data package for the download, instead of doing this in France where higher charges may apply, particularly if you're visiting from outside of Europe. You can also take some time to familiarise yourself with how the apps work, before you visit the parks.
 
@@ -293,10 +308,12 @@ In my last post I updated you on [my June 2018 Income & Profit Report](/posts/ju
 
 ***
 
-<!-- START ADVERTISER: Emma Drew turn your dreams course -->
+<!-- START ADVERTISER: DLP Christmas -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
-</center>
-<!-- END ADVERTISER: Emma Drew turn your dreams course -->
+<script type="text/javascript">
+var uri = 'https://impgb.tradedoubler.com/imp?type(iframe)g(22921938)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<iframe src="'+uri +'" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');
+</script></center>
+<!-- END ADVERTISER: DLP Christmas -->
 
 ***
