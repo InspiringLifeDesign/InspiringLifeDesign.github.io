@@ -163,10 +163,14 @@ You can find all of my online book publishing series [here](/income-hustles/book
 
 ***
 
-<!-- START ADVERTISER: Amazon Prime -->
-
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-<!-- END ADVERTISER: Amazon Prime -->
+<!-- START ADVERTISER: DLP orange signature collection -->
+<center>
+<script type="text/javascript">
+var uri = 'https://impgb.tradedoubler.com/imp?type(js)g(23203196)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<sc'+'ript type="text/javascript" src="'+uri+'" charset="ISO-8859-1"></sc'+'ript>');
+</script>
+</center>
+<!-- END ADVERTISER: DLP orange signature collection -->
 
 ***
 
