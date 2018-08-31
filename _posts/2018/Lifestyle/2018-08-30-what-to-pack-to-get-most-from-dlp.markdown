@@ -35,13 +35,14 @@ As a bonus tip, I would also recommend packing some extra sets of underwear! We 
 
 ***
 
+<!-- START ADVERTISER: DLP Book by 1st October -->
 <center>
-<!-- START ADVERTISER: Kindle Daily Deal -->
-<center>
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=26&l=ur1&category=kindle_daily_deal&banner=03YXR2EW59JA5GBWX002&f=ifr&linkID=dcff2d43d5311c357cc8f8e6d3429b0f&t=ild0b-21&tracking_id=ild0b-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<script type="text/javascript">
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
 </center>
-<!-- END ADVERTISER: Kindle Daily Deal -->
-</center>
+<!-- END ADVERTISER: DLP Book by 1st October -->
 
 ***
 
@@ -104,11 +105,16 @@ When you use the Fastpass facilities in either park you receive a small printed 
 I took my sparkly lanyard which my parents bought me as a souvenir on our P&O Cruise last year. It was perfect for the job and I love the bling!
 
 ***
-<!-- START ADVERTISER: Amazon Prime -->
+
+<!-- START ADVERTISER: DLP orange signature collection -->
 <center>
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<script type="text/javascript">
+var uri = 'https://impgb.tradedoubler.com/imp?type(js)g(23203196)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<sc'+'ript type="text/javascript" src="'+uri+'" charset="ISO-8859-1"></sc'+'ript>');
+</script>
 </center>
-<!-- END ADVERTISER: Amazon Prime -->
+<!-- END ADVERTISER: DLP orange signature collection -->
+
 ***
 
 #### 5. A small umbrella
@@ -168,11 +174,13 @@ My final tip is not really about something to pack, but rather what not to pack!
 
 ***
 
-<!-- START ADVERTISER: Audible -->
+<!-- START ADVERTISER: DLP Christmas -->
 <center>
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=26&l=ur1&category=audible&banner=17141TPTZW4RSFTKED82&f=ifr&linkID=dd44c2dae6ae2f3877f9002ff26f5cfb&t=ild0b-21&tracking_id=ild0b-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-</center>
-<!-- END ADVERTISER: Audible -->
+<script type="text/javascript">
+var uri = 'https://impgb.tradedoubler.com/imp?type(iframe)g(22921938)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<iframe src="'+uri +'" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');
+</script></center>
+<!-- END ADVERTISER: DLP Christmas -->
 
 ***
 
@@ -210,15 +218,17 @@ You may also be interested in the first Disneyland Paris post in this series:<br
 
 ***
 
-<!-- START ADVERTISER: Emma Drew turn your dreams course -->
+<!-- START ADVERTISER: DLP Autumn -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+<script type="text/javascript">
+var uri = 'https://impgb.tradedoubler.com/imp?type(iframe)g(22861024)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<iframe src="'+uri +'" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');
+</script>
 </center>
-<!-- END ADVERTISER: Emma Drew turn your dreams course -->
+<!-- END ADVERTISER: DLP Autumn -->
 
 ***
 
-<sub>Please note that referral links have been used in this blog post. This means that if you click the links and use the services or products I will receive a small commission toward the running of this website. Please feel free to navigate independently to the sites mentioned if you would prefer not to use the referral links.</sub>
 
 
 
