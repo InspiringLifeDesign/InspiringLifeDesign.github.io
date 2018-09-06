@@ -109,7 +109,7 @@ To summarise the message of this post. It's important to establish good guidelin
 
 ***
 
-![How to get the best results from your writer, pinterest image](/i/2018/how-to-get-best-results-from-writer.png)
+![How to get the best results from your writer, pinterest image](/i/2018/how-to-get-value-for-money-from-writer.png)
 
 ***
 
