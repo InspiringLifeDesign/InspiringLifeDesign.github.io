@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "How To Get The Best Results From Your Writer"
+title: "How To Get The Best Results From Your Ebook Writer"
 tags:
   - "2018"
   - book publishing
@@ -109,7 +109,7 @@ To summarise the message of this post. It's important to establish good guidelin
 
 ***
 
-![How to get the best results from your writer, pinterest image](/i/2018/how-to-get-value-for-money-from-writer.png)
+![How to get the best results from your Ebook writer, pinterest image](/i/2018/how-to-get-value-for-money-from-writer.png)
 
 ***
 
