@@ -207,11 +207,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/random-facts-about-me.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!--
-<a href="/posts/july-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/how-to-get-best-results-from-your-writer.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I shared [20 Random Facts About Me](/posts/random-facts-about-me.html).<br>
-&nbsp;&nbsp;In my next post I plan to continue my series on how to start publishing your own books, covering how to work with a ghost writer.
-<!-- [my July 2018 Income & Profit report](/posts/july-2018-income-report.html).-->
+&nbsp;&nbsp;My next post is about book publishing. Find out [How To Get The Most From Your Ebook Writer](/posts/how-to-get-best-results-from-your-writer.html).
 
 You may also be interested in the first Disneyland Paris post in this series:<br>
 [How To Plan For The Best Disneyland Paris Trip Ever](/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html){:target="_blank"}.
