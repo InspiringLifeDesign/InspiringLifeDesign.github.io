@@ -77,7 +77,7 @@ Across the 3 day event there's a lot of great music to enjoy. The 2018 acts incl
 
 A fun addition this year was the big wheel at the back of the field, where you could get great views of the whole Godiva Festival ground and beyond into Coventry.
 <center>
-<table class="image" style="width: 600px; margin: 5px 5px 5px 5px; float: none;">
+<table class="image" style="margin: 5px 5px 5px 5px; float: none;">
 <caption align="bottom" style="text-align: center"><i>Our view from the big wheel at the back of the field</i></caption>
 <tr><td><img src="/i/2018/godiva/view-from-big-wheel.jpg" alt="Is Godiva Festival The Best Free Family Festival Ever, view from the big wheel ride"></td></tr>
 </table>
@@ -142,7 +142,7 @@ We decided to go for a walk around the festival next, and found ourselves on the
 
 We found a super picture stall called [Mrs Flower's Fabulous Card Company](http://www.mrsflower.co.uk/){:target="_blank"}. They sell vintage picures of fairytale/Disney and other much loved characters. Many of their products are from vintage playing cards, though I found a wonderful gift card which took me back to my childhood. It was a picture of Cinderella going to the ball in a beautiful gold carriage, just like I remember it from my Ladybird book. Yes that's right, there's more to Cinderella than Disney! If you like vintage pictures, then I highly recommend you visit the [Fabulous Card Company](https://www.etsy.com/uk/shop/FabulousCardCompany){:target="_blank"} Etsy shop and follow them on [Instagram](https://www.instagram.com/fabulouscardco/){:target="_blank"}.
 <center>
-<table class="image" style="width: 400px; margin: 5px 5px 5px 5px; float: left;">
+<table class="image" style="margin: 5px 5px 5px 5px; float: left;">
 <caption align="bottom" style="text-align: center"><i>Mrs Flower's Fabulous Card Company stand in the Vintage Village</i></caption>
 <tr><td><img src="/i/2018/godiva/fabulouscardcompany.png" alt="Is Godiva Festival The Best Free Family Festival Ever, vintage picture stall"></td></tr>
 </table>
@@ -150,7 +150,7 @@ We found a super picture stall called [Mrs Flower's Fabulous Card Company](http:
 <caption align="bottom" style="text-align: center"><i>Cinderella as I remember her from my childhood reading</i></caption>
 <tr><td><img src="/i/2018/godiva/cinderella.jpg" alt="Is Godiva Festival The Best Free Family Festival Ever, Cinderella in her carriage"></td></tr>
 </table>
-<table class="image" style="width: 400px; margin: 5px 15px 5px 5px; float: left;">
+<table class="image" style="margin: 5px 15px 5px 5px; float: left;">
 <caption align="bottom" style="text-align: center"><i>Some of the fabulous vintage pictures</i></caption>
 <tr><td><img src="/i/2018/godiva/vintage-pictures.jpg" alt="Is Godiva Festival The Best Free Family Festival Ever, vintage pictures"></td></tr>
 </table>
