@@ -121,7 +121,7 @@ Now for a run-down of how we enjoyed our day at Godival Festival!
 
 We went on Sunday and ventured into the main music area first. I was keen to see Tony Christie who was due to be on stage fairly early at 1pm. We arrived not long after the gates opened at 12 noon, and seeing as we'd enjoyed a lazy Sunday morning, went to get our "breakfast" in the form of iced coffee and donuts. Not at all healthy, but hey, we were at a festival!
 <center>
-<table class="image" style="width: 300px; margin: 5px 5px 5px 5px; float: none;">
+<table class="image" style="margin: 5px 5px 5px 5px; float: none;">
 <caption align="bottom" style="text-align: center"><i>We had a naughty breakfast of donuts!</i></caption>
 <tr><td><img src="/i/2018/godiva/coffee-and-donuts.png" alt="Is Godiva Festival The Best Free Family Festival Ever, the coffee and donut stall"></td></tr>
 </table>
