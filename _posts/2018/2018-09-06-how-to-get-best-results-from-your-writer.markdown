@@ -122,11 +122,9 @@ I will be launching my hands-on program called **#publishin8** early next year. 
 ### Previous & Next Posts
 
 <a href="/posts/what-to-pack-to-get-most-from-dlp.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!--
-<a href="/posts/july-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/best-free-family-festival.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 My last post was part of my Disney series: [What To Pack To Get The Most From Disneyland Paris](/posts/what-to-pack-to-get-most-from-dlp.html).<br>
-<!-- &nbsp;&nbsp;In my next post I plan to continue my series on how to start publishing your own books, covering how to work with a ghost writer. -->
-<!-- [my July 2018 Income & Profit report](/posts/july-2018-income-report.html).-->
+&nbsp;&nbsp;Next you can read about [the annual FREE Coventry Godiva festival](/posts/best-free-family-festival.html), perfect for frugal daytrippers!
 
 <br>
 If you'd like to start at the beginning of my series on geting started with online book publishing, here are the previous posts:
