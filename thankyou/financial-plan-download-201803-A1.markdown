@@ -1,7 +1,8 @@
 ---
 layout: "no_sidebar"
 title: "Financial Freedom Plan Spreadsheet"
-  
+sitemap:
+  exclude: true  
 ---
  <div class="separator-2"></div>
 ### Thank You For Subscribing!

@@ -1,7 +1,8 @@
 ---
 layout: "no_sidebar"
 title: "Nearly There..."
-  
+sitemap:
+  exclude: true  
 ---
  <div class="separator-2"></div>
  

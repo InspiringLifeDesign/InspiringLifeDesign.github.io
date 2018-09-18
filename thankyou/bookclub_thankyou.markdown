@@ -1,7 +1,8 @@
 ---
 layout: "no_sidebar"
 title: "You're In The Book Review Club!"
-  
+sitemap:
+  exclude: true  
 ---
  <div class="separator-2"></div>
  

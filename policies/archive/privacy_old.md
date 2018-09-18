@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Privacy
+sitemap:
+  exclude: true
 ---
 
 # Privacy

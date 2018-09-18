@@ -1,7 +1,8 @@
 ---
 layout: "no_sidebar"
 title: "Thank You So Much For Your Generosity!"
-  
+sitemap:
+  exclude: true  
 ---
  <div class="separator-2"></div>
  

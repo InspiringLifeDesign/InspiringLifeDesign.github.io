@@ -1,6 +1,8 @@
 ---
 layout: "no_sidebar_with_comments"
 title: "Resources Page"
+sitemap:
+  exclude: true
 ---
 ## For #lifedesigners
 

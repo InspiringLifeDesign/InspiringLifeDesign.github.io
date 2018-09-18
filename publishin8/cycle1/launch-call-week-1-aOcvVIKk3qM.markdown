@@ -1,7 +1,8 @@
 ---
 layout: "no_sidebar"
 title: "Publishin8 Week 1"
-  
+sitemap:
+  exclude: true  
 ---
  <div class="separator-2"></div>
  
