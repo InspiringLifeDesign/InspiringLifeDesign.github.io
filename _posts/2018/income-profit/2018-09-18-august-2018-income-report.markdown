@@ -454,9 +454,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/best-free-family-festival.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/how-to-find-a-ghostwriter.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/autumn-bucket-list.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 My last post talked about what a great free day out [Coventry Godiva Festival](/posts/best-free-family-festival.html) is.<br>
-<!-- &nbsp;&nbsp;In my next post you can read about [how to find a ghost writer for your first book](/posts/how-to-find-a-ghostwriter.html). -->
+&nbsp;&nbsp;In my next post I share [My Autumn Bucket List](/posts/autumn-bucket-list.html).
 <br>
 
 ***
