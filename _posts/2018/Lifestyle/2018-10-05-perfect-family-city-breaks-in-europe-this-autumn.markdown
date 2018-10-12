@@ -4,6 +4,7 @@ title: "Perfect Family City Breaks in Europe this Autumn"
 tags:
   - "2018"
   - lifestyle
+  - travel
 affiliate: true
 ---
 <center>
