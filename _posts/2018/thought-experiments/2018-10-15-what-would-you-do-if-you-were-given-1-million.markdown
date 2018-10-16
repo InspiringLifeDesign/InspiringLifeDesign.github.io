@@ -17,7 +17,7 @@ affiliate: true
 
 ***
 
-I follow as many [UK financial independence (FIRE) blogs](/blogroll.html){:target="_blank" rel="noopener"} as I can get my hands on! If you know of any UK FIRE blogs that aren't listed on my [blogroll](/blogroll.html){:target=:"blank" rel="noopener"} then please let me know about them asap! Especially if you're a FIRE blogger yourself.
+I follow as many [UK financial independence (FIRE) blogs](/blogroll.html){:target="_blank" rel="noopener"} as I can get my hands on! If you know of any UK FIRE blogs that aren't listed on my [blogroll](/blogroll.html){:target="_blank" rel="noopener"} then please let me know about them asap! Especially if you're a FIRE blogger yourself.
 
 I recently discovered a relatively new UK blogger [**SavingNinja**](https://thesavingninja.com){:target="_blank" rel="noopener"} who appears to have gotten started with their blog around August 2018. SavingNinja has recently introduced a [**Thought Experiment**](https://thesavingninja.com/category/thought-experiments/){:target="_blank" rel="noopener"} series, where a question is posed and different financial independence bloggers answer the same question in a post on their own site. The idea is for each blogger to use a "string of consciousness" approach to answer the question - responding with whatever first comes to mind, rather than composing a pre-thought out, perfectly reasoned article.
 
@@ -58,7 +58,7 @@ Before the evening meet-up I'd sit down with my boyfriend and start coming up a 
 
 I have been saving toward financial independence for several years now. Surely having a cool £1 million would make me/us FI? Of course I don't think it would be quite that simple though because I wouldn't feel right keeping the whole £1 million for me and my FI needs. I'd want to share it with those I love, and those less fortunate than myself.
 
-My approach to financial indpendence involves saving and investing in ISAs and a pension, as well as supplementing this with online passive income from things like book publishing, blogging and merchandise sales. All these things could support our financial independence alongside the £1 million.
+My approach to financial independence involves saving and investing in ISAs and a pension, as well as supplementing this with online passive income from things like book publishing, blogging and merchandise sales. All these things could support our financial independence alongside the £1 million.
 
 It's also worth noting that I have different tiers of FI goals:
 
