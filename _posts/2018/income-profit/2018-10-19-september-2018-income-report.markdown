@@ -21,30 +21,32 @@ As the season started to shift to cooler weather and shorter days, I published m
 - I watched [**The Holiday**](https://amzn.to/2NyM0iu){:target="_blank" rel="noopener"} the day after publishing my Autumn Bucket List. I'd got the idea of it into my head and couldn't wait to watch it!
 
 Here's some pictures snapped during September...
-<table class="image" style="margin: 0px 5px 0px 0px; float: left;">
-<caption align="bottom" style="text-align: center"><i>Our boat trip barge on the Ashby de la Zouch canal</i></caption>
-<tr><td><img src="/i/income_report/2018/canalbarge.png" alt="September 2018 Income & Profit Report update, our boat trip canal barge"></td></tr>
-</table>
-
-<table class="image" style="margin: 0px 0px 0px 5px; float: right;">
-<caption align="bottom" style="text-align: center"><i>I enjoyed a glass of prosecco as we ambled along the waterway!</i></caption>
-<tr><td><img src="/i/income_report/2018/corinna-and-prosecco.jpg" alt="September 2018 Income & Profit Report update, Corinna enjoying a glass of prosecco onboard the canal barge"></td></tr>
-</table>
-
-<table class="image" style="float: left;">
-<caption align="bottom" style="text-align: center"><i>Camping Trip! Our tent is the one in the centre of the picture (with both sides of the tent open so that you can see straight through to the other side!)</i></caption>
-<tr><td><img src="/i/income_report/2018/camping.png" alt="September 2018 Income & Profit Report update, our group of tents pitched at the campsite"></td></tr>
-</table>
-
-<table class="image" style="margin: 0px 0px 0px 0px; float: left;">
-<caption align="bottom" style="text-align: center"><i>One of my favourite parts of the Kop Hill Climb event is watching the kids in the Soapbox Challenge.</i></caption>
-<tr><td><img src="/i/income_report/2018/kophillsoapbox.png" alt="September 2018 Income & Profit Report update, the Soapbox Challenge at Kophill Climb"></td></tr>
-</table>
-
-<table class="image" style="margin: 0px 0px 0px 0px;">
-<caption align="bottom" style="text-align: center"><i>Ticking off hot chocolate from my Autumn Bucket List.</i></caption>
-<tr><td><img src="/i/income_report/2018/hotchocolate.png" alt="September 2018 Income & Profit Report update, hot chocolate with whipped cream, marshmallows and flake"></td></tr>
-</table>
+<center>
+<figure>
+    <img src='/i/income_report/2018/canalbarge.png' alt='September 2018 Income & Profit Report update, our boat trip canal barge'>
+    <figcaption><i>Our boat trip barge on the Ashby de la Zouch canal</i></figcaption>
+</figure>
+<br>
+<figure>
+    <img src='/i/income_report/2018/corinna-and-prosecco.jpg' alt='September 2018 Income & Profit Report update, Corinna enjoying a glass of prosecco onboard the canal barge'>
+    <figcaption><i>I enjoyed a glass of prosecco as we ambled<br>along the waterway!</i></figcaption>
+</figure>
+<br>
+<figure>
+    <img src='/i/income_report/2018/camping.png' alt='September 2018 Income & Profit Report update, our group of tents pitched at the campsite'>
+    <figcaption><i>Camping Trip! Our tent is the one in the centre of the picture<br>(with both sides of the tent open so that you can see straight through to the other side!)</i></figcaption>
+</figure>
+<br>
+<figure>
+    <img src='/i/income_report/2018/kophillsoapbox.png' alt='September 2018 Income & Profit Report update, the Soapbox Challenge at Kophill Climb'>
+    <figcaption><i>One of my favourite parts of the Kop Hill Climb event is watching the kids<br>in the Soapbox Challenge</i></figcaption>
+</figure>
+<br>
+<figure>
+    <img src='/i/income_report/2018/hotchocolate.png' alt='September 2018 Income & Profit Report update, hot chocolate with whipped cream, marshmallows and flake'>
+    <figcaption><i>Ticking off hot chocolate from<br>my Autumn Bucket List</i></figcaption>
+</figure>
+</center>
 
 <br>
 This is a recurring monthly post to track my goal of **earning at least £4,000 profit** from my Income Hustle ventures this year. 
