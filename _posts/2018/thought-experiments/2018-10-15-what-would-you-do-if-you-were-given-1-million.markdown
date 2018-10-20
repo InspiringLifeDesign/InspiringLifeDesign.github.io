@@ -137,11 +137,10 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/perfect-family-city-breaks-in-europe-this-autumn.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!--
-<a href="/posts/july-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/september-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I wrote about [Perfect Family City Breaks In Europe](/posts/perfect-family-city-breaks-in-europe-this-autumn.html).<br>
-<!-- &nbsp;&nbsp;In my next post I plan to continue my series on how to start publishing your own books, covering how to work with a ghost writer. -->
-<!-- [my July 2018 Income & Profit report](/posts/july-2018-income-report.html).-->
+&nbsp;&nbsp;In my next post I give an update on my
+[Income & Profit results for September](/posts/september-2018-income-report.html).
 <br>
 
 ***
