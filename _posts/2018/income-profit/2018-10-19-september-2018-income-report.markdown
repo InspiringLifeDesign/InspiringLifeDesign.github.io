@@ -481,9 +481,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/what-would-you-do-if-you-were-given-1-million.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/autumn-bucket-list.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/how-to-complete-the-editing-of-your-ebook.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I wrote about [what I would do if I received 1 million pounds](/posts/what-would-you-do-if-you-were-given-1-million.html).<br>
-<!-- &nbsp;&nbsp;In my next post I share [My Autumn Bucket List](/posts/autumn-bucket-list.html). -->
+&nbsp;&nbsp;My next post is part of a series about making money from book publishing: [How To Edit Your Book](/posts/how-to-complete-the-editing-of-your-ebook.html).
 <br>
 
 ***
