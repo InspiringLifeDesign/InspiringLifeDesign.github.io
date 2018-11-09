@@ -5,21 +5,26 @@
           "url": "/financial-freedom/index.html",
           "submenu": [
                {
-                 "title": "Become A #LifeDesigner",
-                 "url": "/signup/signup_page.html"
+              "title": "My Financial Freedom Progress",
+              "url": "/tag/financial-freedom.html"
                },
                {
                     "title": "Income & Profit Reports",
                     "url": "/financial-freedom/income-and-profit-reports.html"
                },
                {
-                    "title": "#Challenge2018 Progress",
-                    "url": "/challenge_2018.html"
-               },
-               {
                  "title": "Thought Experiments",
                  "url": "/tag/thought-experiments.html"
+               },
+               {
+                 "title": "Become A #LifeDesigner",
+                 "url": "/signup/signup_page.html"
+               },
+               {
+                    "title": "#Challenge2018 Progress",
+                    "url": "/challenge_2018.html"
                }
+
             ]
         },
         {
