@@ -144,11 +144,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/how-to-complete-the-editing-of-your-ebook.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!--
-<a href="/posts/july-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/october-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I talked about [How To Complete The Editing Of Your Ebook](/posts/how-to-complete-the-editing-of-your-ebook.html).<br>
-<!-- &nbsp;&nbsp;In my next post I plan to continue my series on how to start publishing your own books, covering how to work with a ghost writer.
-<!-- [my July 2018 Income & Profit report](/posts/july-2018-income-report.html).-->
+&nbsp;&nbsp;My next post shares [how I got on with my income hustle profits in October](/posts/october-2018-income-report.html).
 <br>
 
 ***
