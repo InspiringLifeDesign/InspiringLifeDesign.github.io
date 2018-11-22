@@ -143,6 +143,8 @@ Here's the other responses people have written for the scenario where they only 
 - [Young FI Guy](https://youngfiguy.com/catch-22-and-wheeler-dealing/){:target="_blank" rel="noopener"}
 - [Caveman at Ditch The Cave](https://ditchthecave.com/for-tomorrow-we-shall-die-but-alas-we-never-do/){:target="_blank" rel="noopener"}
 - [Othalafehu](https://othalafehu.com/ten-years-left/){:target="_blank" rel="noopener"}
+- [TheFIREStarter](http://thefirestarter.co.uk/thought-experiment-2-10-year-death-clock/){:target="_blank" rel="noopener"}
+
 
 ***
 
