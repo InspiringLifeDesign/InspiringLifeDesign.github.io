@@ -163,11 +163,9 @@ If you'd like to find out more details about when this exciting programme launch
 ### Previous & Next Posts
 
 <a href="/posts/september-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!--
-<a href="/posts/july-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/my-goal-is-to-be-financially-free.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I gave an update on [my income & profit for September 2018](/posts/september-2018-income-report.html).<br>
-<!-- &nbsp;&nbsp;In my next post I plan to continue my series on how to start publishing your own books, covering how to work with a ghost writer.
-<!-- [my July 2018 Income & Profit report](/posts/july-2018-income-report.html).-->
+&nbsp;&nbsp;In my next post I talk about [my progress to becoming financially independent](/posts/my-goal-is-to-be-financially-free.html).
 <br><br>
 You may find these other posts about getting started with book publishing useful:
 

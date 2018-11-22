@@ -139,9 +139,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/october-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/october-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/10-years-left-to-live.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 My last post shared [how I got on with my income hustle profits in October](/posts/october-2018-income-report.html).<br>
-<!-- &nbsp;&nbsp;My next post shares [how I got on with my income hustle profits in October](/posts/october-2018-income-report.html). -->
+&nbsp;&nbsp;My next post is another thought experiment [What Do You Do If You Only Had 10 Years Left To Live?](/posts/10-years-left-to-live.html)
 <br>
 
 ***

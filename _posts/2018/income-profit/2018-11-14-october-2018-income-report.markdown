@@ -526,9 +526,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/my-goal-is-to-be-financially-free.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/how-to-complete-the-editing-of-your-ebook.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/special-kind-of-advent.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I wrote about [my progress toward financial independence](/posts/my-goal-is-to-be-financially-free.html).<br>
-<!-- &nbsp;&nbsp;My next post is part of a series about making money from book publishing: [How To Edit Your Book](/posts/how-to-complete-the-editing-of-your-ebook.html). -->
+&nbsp;&nbsp;My next post discusses a novel idea of [a special advent calendar you can start anytime of the year](/posts/special-kind-of-advent.html).
 <br><br>
 You can find all my [previous 2018 income and profit reports here](/financial-freedom/income-and-profit-reports.html).
 
