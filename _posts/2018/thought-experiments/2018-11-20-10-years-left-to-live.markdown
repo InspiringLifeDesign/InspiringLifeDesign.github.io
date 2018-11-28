@@ -179,10 +179,10 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/special-kind-of-advent.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/september-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/2018-goals-review.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I wrote about [a special kind of advent calendar](/posts/special-kind-of-advent.html).<br>
-<!-- &nbsp;&nbsp;In my next post I give an update on my
-[Income & Profit results for September](/posts/september-2018-income-report.html). -->
+&nbsp;&nbsp;In my next post I talk about
+[how I've got on with my 2018 goals](/posts/2018-goals-review.html).
 <br>
 
 ***
