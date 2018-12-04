@@ -147,53 +147,34 @@ You will find that there are already plenty of great courses and books available
 
 In an attempt to solve this problem, I am determining interest for a special package I am considering offering. 
 
-### Introducing: Publish Mate
-My idea is to offer a subscription based publisher's support service which would include:
+### Introducing: Publishin8 and Publishin16
+My idea is to offer an 8 week online course, with live sessions run by me, during which you will publish your first book. There will also be a 16 week program for those who have less time to commit and therefore want to work at a slower pace.
 
-#### **1. Access to a members only area**
-Full of all the resources you need to be a successful online publisher. For example:
-
-##### Templates
- - Book formats
- - Writer and Designer job adverts
- - Writer notes
- - Chapter Outlines
- - Promotion Tracking
- - Income, Expense and Profit Logging
-
-##### Maintained lists
-So that you can find recommended third party websites, promotion companies and freelancers who have proved reliable for other publishers. Word of mouth recommendations are invaluable when you're investing your time and money into working with freelancers and third parties.
-
-#### **2. Live Q&A sessions with me**
-This would probably be done using Facebook live or a similar tool, where I could answer your questions in real time. This would likely be weekly or fortnightly
-
-#### **3. Option to "add-on" my 8 week publishing programme**
-Periodically throughout a year I would run my **#publishin8** book creation cycles. This would be a heavily supported 8 week programme where every participant has the chance to publish a book **within the 8 week timeframe**.
+#### The Idea
+Periodically throughout a year I would run my **Publishin8** book creation cycles. This would be a supported 8 week program where every participant has the chance to publish a book **within the 8 week timeframe**.
 
 It would include:
-- Weekly how-to lesson which would also set the week's goals
-- Weekly video call where each group member shares their progress and asks questions they have. Here I would offer feedback, and the group could also offer support in a Mastermind type manner
-- Personal review of each participant's book and cover, with individualised feedback from myself
-- Private facebook group for the cycle participants, where I would be answering any questions throughout
+- Weekly **live** video how-to lesson which would also set the week's goals
+  - During this call group members can ask any questions they have and share their experiences
+- Recording of weekly video calls and slide notes made available to all participants
+- Library of publishing resources including templates, outsourcing recommendations and more 
+- Private facebook group for the cycle participants, where I would be answering questions and sharing publishing resources
 
-Due to the time intensive nature of the #publishin8 programme, places would be limited and offered to Publish Mate members on a "longest membership first" basis. There would be an additional fee to participate in a #publishin8 cycle.
+The Publishin16 program would be the same as Publishin8, but calls take place every 2 weeks to allow more time to get the homework done!
 
-<!-- START ADVERTISER: Amazon -->
-<center>
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=26&l=ur1&category=gift_certificates&banner=0ZS2J1W4F5KNEBHAKWR2&f=ifr&linkID=9a7477efce574bc6b8944d2a855acfa6&t=ild0b-21&tracking_id=ild0b-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-</center>
-<!-- END ADVERTISER: Amazon -->
+Due to the time intensive nature of the Publishin8 and Publishin16 programs, places would be limited each cycle.
+
 <br>
-It's still a pipeline idea at the moment, but as a rough guide the Publish Mate subscription would probably cost about **£10 per month**, with a #publishin8 add-on costing about **£200** per cycle. 
+Since originally writing this post, I have begun an initial test run of this program and so far all is going well. I'm looking to launch the first cycle in early 2019, the cost of the program is likely to start at £399 (although this is not yet confirmed).
 
 <sub>*NOTE: This does not include any of the costs associated with publishing a book that I mentioned earlier in the post, these would be down to individual participants to decide what strategy they wanted to follow and therefore how much to spend per book.*</sub>
 
 <br>
-If you've already decided that this is of interest to you, then you can **join the Publish Mate/#Publishin8 wait list**:
+If you've already decided that this is of interest to you, then you can **join the Publishin8 wait list**:
 
 <script async id="_ck_365306" src="https://forms.convertkit.com/365306?v=7"></script>
 
-*So my question for you is, would you be interested in the Publish Mate package? How about the #publishin8 cycles? Are there certain bits you like the sound of but not others? Please let me know in the comments - any programme I build will be based on your feedback!....*
+*So my question for you is, would you be interested in the Publishin8 program? Please let me know in the comments - any program I build will be based on your feedback!....*
 
 ![5 Reasons You'll Love Publishing Books To Make Money Pinterest image](/i/2018/5-reasons-youll-love-publishing-books-to-make-money-pin.jpg)
 
@@ -205,6 +186,8 @@ If you've already decided that this is of interest to you, then you can **join t
 <a href="/posts/write-about-what-you-love.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I talked about [my February Income & Profit Report](/posts/february-2018-income-report.html).<br>
 &nbsp;&nbsp;My next post is all about [writing what you love to make money](/posts/write-about-what-you-love.html).
+<br><br>
+If you'd like to find out more about book publishing as a side hustle, you can read the series of posts I've written on how to get started, take a look at [**this page**](/income-hustles/book-publishing.html) which has a timeline of all the publishing articles I've written.
 
 ***
 
