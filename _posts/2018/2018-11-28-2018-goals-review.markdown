@@ -171,9 +171,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/10-years-left-to-live.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/10-years-left-to-live.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/my-2018-advent-calendar.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I pondered another thought experiment [what would I do with just 10 years left to live?](/posts/10-years-left-to-live.html)<br>
-<!-- &nbsp;&nbsp;My next post is another thought experiment [What Do You Do If You Only Had 10 Years Left To Live?](/posts/10-years-left-to-live.html) -->
+&nbsp;&nbsp;In my next post I talk about the gifts I received in my [2018 homemade advent calendar](/posts/my-2018-advent-calendar.html)
 <br>
 
 ***
