@@ -140,9 +140,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/2018-goals-review.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/best-free-family-festival.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/challenge-2018-mission-accomplished.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I reviewed [my 2018 goals](/posts/2018-goals-review.html).<br>
-<!-- &nbsp;&nbsp;Next you can read about [the annual FREE Coventry Godiva festival](/posts/best-free-family-festival.html), perfect for frugal daytrippers!-->
+&nbsp;&nbsp;In my next post I share [how you can save up £1,000 in a year](/posts/challenge-2018-mission-accomplished.html)
 <br>
 
 ***
