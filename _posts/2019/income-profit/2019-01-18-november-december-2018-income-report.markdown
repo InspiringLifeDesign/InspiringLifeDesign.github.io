@@ -508,9 +508,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/challenge-2018-mission-accomplished.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/special-kind-of-advent.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/goals-to-accomplish-2019.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I wrote about [how I saved £1,000 in a year as part of my #challenge2018](/posts/challenge-2018-mission-accomplished.html).<br>
-<!-- &nbsp;&nbsp;My next post discusses a novel idea of [a special advent calendar you can start anytime of the year](/posts/special-kind-of-advent.html). -->
+&nbsp;&nbsp;In my next post I share [my 8 goals for 2019](/posts/goals-to-accomplish-2019.html).
 <br><br>
 You can find all my [previous 2018 income and profit reports here](/financial-freedom/income-and-profit-reports.html).
 
