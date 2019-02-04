@@ -198,9 +198,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/my-2018-advent-calendar.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/my-2018-advent-calendar.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/november-december-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I shared [the gifts I received in my 2018 homemade advent calendar](/posts/my-2018-advent-calendar.html)<br>
-<!-- &nbsp;&nbsp;In my next post I talk about the gifts I received in my [2018 homemade advent calendar](/posts/my-2018-advent-calendar.html) -->
+&nbsp;&nbsp;In my next post I share my side hustle [end of year income and profit position for 2018](/posts/november-december-2018-income-report.html)
 <br>
 
 ***
