@@ -183,9 +183,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/goals-to-accomplish-2019.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/my-2018-advent-calendar.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/my-january-2019-monthly-goals-update.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I shared [my 8 goals for 2019](/posts/goals-to-accomplish-2019.html)<br>
-<!-- &nbsp;&nbsp;In my next post I talk about the gifts I received in my [2018 homemade advent calendar](/posts/my-2018-advent-calendar.html) -->
+&nbsp;&nbsp;In my next post I share how I got on with [my goals in January](/posts/my-january-2019-monthly-goals-update.html)
 <br>
 
 ***
