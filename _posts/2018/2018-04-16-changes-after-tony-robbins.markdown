@@ -23,7 +23,7 @@ I calculated the correct amount of water to drink for my body weight and now **d
 #### 3. Essential Oils
 I take a daily supplement of essential oils as suggested at the event - my choice is **krill oil**<br><br>
 #### 4. Bulletproof Coffee
-After trying the samples of **bulletproof coffee** at the event, I now make this at home - it's delicious. I have one cup about 5 days a week. The [Bulletproof Diet](https://amzn.to/2vjXFJa){:target="_blank" rel="nofollow"} was created by Dave Asprey whose more recent book [Headstrong](https://amzn.to/2H3MrOr){:target="_blank" rel="nofollow"} I have just finished listening to in audiobook format.<br><br>
+After trying the samples of **bulletproof coffee** at the event, I now make this at home - it's delicious. I have one cup about 5 days a week. The [Bulletproof Diet](https://amzn.to/2vjXFJa){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) was created by Dave Asprey whose more recent book [Headstrong](https://amzn.to/2H3MrOr){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) I have just finished listening to in audiobook format.<br><br>
 Dave is a bio-hacker who looks for ways to optimise health and brain power. His personal goal is to <b>live to be 180</b> years old! He researches and delves deep into the science around what is best for our human bodies, then applies what he has learnt to his own life, as well as sharing his findings via his books and website.
 
 <center>
@@ -33,7 +33,7 @@ Dave is a bio-hacker who looks for ways to optimise health and brain power. His 
 </center>
 <br>
 #### 5. Grass Fed Meat
-As well as switching to an organic diet, we now try to only eat grass fed or pastured meat. Every 2 weeks we have a meat selection box delivered from Green Pasture Farms (their website has been temporarily down during 2018, but they've assured us they'll be back up and running later in 2018). We've also tried [Eversfield Organic](https://www.eversfieldorganic.co.uk/){:target="_blank"} meat deliveries which have been excellent. The reason for opting for grass fed meat is because of the reading I did in the [Bulletproof Diet](https://amzn.to/2vjXFJa){:target="_blank" rel="nofollow"} and from [Headstrong](https://amzn.to/2H3MrOr){:target="_blank" rel="nofollow"}. We go for the **Budget Paleo Meat Box** at £50 plus £6.45 delivery, which usually has enough meat to cover 11 meals for 2 people. It has been really fun researching and experimenting with the different cuts of meats we have received, there's been more than one occasion where we've had no idea how to cook it, so have had to jump online for ideas!
+As well as switching to an organic diet, we now try to only eat grass fed or pastured meat. Every 2 weeks we have a meat selection box delivered from Green Pasture Farms (their website has been temporarily down during 2018, but they've assured us they'll be back up and running later in 2018). We've also tried [Eversfield Organic](https://www.eversfieldorganic.co.uk/){:target="_blank"} meat deliveries which have been excellent. The reason for opting for grass fed meat is because of the reading I did in the [Bulletproof Diet](https://amzn.to/2vjXFJa){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) and from [Headstrong](https://amzn.to/2H3MrOr){:target="_blank" rel="nofollow"} (<i>affiliate link</i>). We go for the **Budget Paleo Meat Box** at £50 plus £6.45 delivery, which usually has enough meat to cover 11 meals for 2 people. It has been really fun researching and experimenting with the different cuts of meats we have received, there's been more than one occasion where we've had no idea how to cook it, so have had to jump online for ideas!
 <br>
 #### 6. The Learning Never Ends
 I realised at last year's event how important it is to **continue learning**. It doesn't really matter what it is that you are learning, just pick something that interests you and learn about it! I have been learning about financial independence, blogging, youtube creation and various other things since the event last year.
@@ -65,16 +65,16 @@ Unleash The Power Within 2018 in London starts on Thursday 19th April and runs f
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ****
 
