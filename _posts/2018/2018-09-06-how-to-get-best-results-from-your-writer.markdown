@@ -25,7 +25,7 @@ Even though you may have already communicated to your writer what it is that you
 
 I like to create a **Writer's Notes** document that I send to the writer either during the interview process so that we can discuss my needs, or immediately as we sign a contract to work together.
 
-I normally use a word document template for my notes (to make it quick each time I prepare new notes). I send this to the writer as an attachment through the [Fiverr](http://bit.ly/try_fiverr){:target="_blank"} or [Upwork](https://www.upwork.com/){:target="_blank"} messaging system. This is advisable because it means you have clear documentation of your specific requirements, just in case there is a dispute further down the line (though disputes are rare, especially if you maintain good communication throughout the project). Even if you didn't want to create an actual document, it's worth at least typing some bullet points into Fiverr or Upwork's messaging system, so that your requirements are clearly documented.
+I normally use a word document template for my notes (to make it quick each time I prepare new notes). I send this to the writer as an attachment through the [Fiverr](http://bit.ly/try_fiverr){:target="_blank"} (<i>affiliate link</i>) or [Upwork](https://www.upwork.com/){:target="_blank"} messaging system. This is advisable because it means you have clear documentation of your specific requirements, just in case there is a dispute further down the line (though disputes are rare, especially if you maintain good communication throughout the project). Even if you didn't want to create an actual document, it's worth at least typing some bullet points into Fiverr or Upwork's messaging system, so that your requirements are clearly documented.
 
 ### What Goes Into My Writer's Notes?
 I use the Writer's Notes to confirm various different types of information about the project, including:
@@ -115,7 +115,7 @@ To summarise the message of this post. It's important to establish good guidelin
 
 ### Do You Want To Get Started With Online Publishing?
 
-I will be launching my hands-on program called **#publishin8** early next year. Over the course of 8 weeks you will learn how to create and publish your very own book, with live lessons from me each week. If you'd like to find out more about when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}. 
+I will be launching my hands-on program called **Publishin8** early next year. Over the course of 8 weeks you will learn how to create and publish your very own book, with live lessons from me each week. If you'd like to find out more about when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}. 
 
 ***
 
