@@ -125,7 +125,7 @@ Here's a break-down of where the income came from in March:
 
 ![March 2018 Income & Profit report income pie chart](/i/income_report/201803income_pie_chart.png)
 
-This is likely to be the only month where you'll see Matched Betting as the top earner because I've turned my attention to running regular book promotions and this is already seeing an improvement in my online publishing income! I have to say that **Matched Betting** is a great way of making some guaranteed money with the bonus that it's tax free! If you are interested in giving Matched Betting a go, I'd suggest making use of a site such as [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} or Profit Accumulator. I use [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} and love how easy it is to track your profit as well as finding bets to place/lay. I wrote a bit about Matched Betting in my post [The First 6 Money Makers I've Tried](/posts/first-six-money-makers){:target="_blank"} if you're not sure what it's all about.
+This is likely to be the only month where you'll see Matched Betting as the top earner because I've turned my attention to running regular book promotions and this is already seeing an improvement in my online publishing income! I have to say that **Matched Betting** is a great way of making some guaranteed money with the bonus that it's tax free! If you are interested in giving Matched Betting a go, I'd suggest making use of a site such as [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) or Profit Accumulator. I use [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) and love how easy it is to track your profit as well as finding bets to place/lay. I wrote a bit about Matched Betting in my post [The First 6 Money Makers I've Tried](/posts/first-six-money-makers){:target="_blank"} if you're not sure what it's all about.
 
 ### EXPENSE REPORT
 Here's how my Side Hustle expenses panned out for March:
@@ -202,7 +202,7 @@ Here's how my Side Hustle expenses panned out for March:
   </tbody>
 </table>
 
-My lowest month so far for expenses at **£17.84**. This figure is so small because I didn't do any book promotions for my publishing side hustle, I just had some small advertising expenses through Amazon and my [OddsMonkey](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} subscription cost. 
+My lowest month so far for expenses at **£17.84**. This figure is so small because I didn't do any book promotions for my publishing side hustle, I just had some small advertising expenses through Amazon and my [OddsMonkey](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) subscription cost. 
 
 ![March 2018 Income & Profit Report expenses to March 2018 chart](/i/income_report/201803expenses.png)
 
@@ -337,7 +337,7 @@ My dilemma when I'm faced with a low income month is whether to spend my (limite
 Here's a review of how I got on with the plans I made last month:
 
 ###### TO ACHIEVE MY MARCH TARGET
-> *Continue using [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} to make additional income from Matched Betting*
+> *Continue using [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) to make additional income from Matched Betting*
 
 - I opened accounts at 4 new betting sites for sign-up offers during March, as well as taking advantage of an offer which required me to simply deposit money in one of my existing accounts. I am still working through the sign-up offers in the Odds Monkey section for new customers. It takes a bit of time signing up with new sites because they often require you to send identification as part of the sign-up process. Each of the offers require at least 2 separate bets:
 
@@ -346,11 +346,11 @@ Here's a review of how I got on with the plans I made last month:
 
 - In total I made profit of **£45.96** from matched betting (after my Odds Monkey subscription was subtracted)
  
-> *Continue doing surveys on [**Prolific**](http://bit.ly/prolificsurveys){:target="_blank" rel="nofollow"} and cash-out at least my first £20*
+> *Continue doing surveys on [**Prolific**](http://bit.ly/prolificsurveys){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) and cash-out at least my first £20*
  
-- I succeeded with this plan and cashed out **£20.26** into my [Circle Pay](http://bit.ly/signupcircle){:target="_blank" rel="nofollow"} account. I waited until I had over £20 to withdraw from Prolific because this meant that I could take advantage of withdrawing without any fees. I have since continued to do surveys on Prolific, however there haven't been that many available to me to take. If there were more surveys I would do them!
+- I succeeded with this plan and cashed out **£20.26** into my [Circle Pay](http://bit.ly/signupcircle){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) account. I waited until I had over £20 to withdraw from Prolific because this meant that I could take advantage of withdrawing without any fees. I have since continued to do surveys on Prolific, however there haven't been that many available to me to take. If there were more surveys I would do them!
 
-> *Continue checking the free draw sites I use such as [**Badger The Button**](http://bit.ly/badgerbutton){:target="_blank" rel="nofollow"} and [**Free Postcode Lottery**](http://bit.ly/postcodelotteryfree){:target="_blank" rel="nofollow"}*
+> *Continue checking the free draw sites I use such as [**Badger The Button**](http://bit.ly/badgerbutton){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) and [**Free Postcode Lottery**](http://bit.ly/postcodelotteryfree){:target="_blank" rel="nofollow"} (<i>affiliate link</i>)*
 
 - I checked in with these sites at least a couple of times a week during March. I haven't had any wins yet, but given that this only takes about 5 minutes per day it's worth having a quick look I think. It's not an income source that I can rely on in any shape or form however!
 
@@ -380,10 +380,9 @@ Here's a review of how I got on with the plans I made last month:
 -  I started March with 560 Instagram followers, at the end of March I was on 782
 -  It takes a lot of consistent effort, thought and consideration to run a good instagram account I think. I'm pleased with an increase of 200+ followers in a month and I am continuing to find ways to come up with imaginative content that hopefully is interesting and useful for those who are following
 
-> *Continue working through my money making blog course by Emma Drew [**Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} because this is offering me tremendous guidance on how to make this website the best it can be for my readers*
+> *Continue working through my money making blog course by Emma Drew [**Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) because this is offering me tremendous guidance on how to make this website the best it can be for my readers*
 
 - Similarly to the publishing course, I did find some time to pursue the course during March, but I would love to have done more. I'm really excited about working through this. I need to allocate a timeblock so that I can dedicate myself to learning and implementng all the great advice on offer
-- You may have seen in my recent post [Write About What You Love And Make Money Too](/posts/write-about-what-you-love){:target="_blank"} that I have a special discount code to offer you until the end of April 2018 if you would like to get **£50 off** the usual course price. Simply enter code **SPRING2018** as you purchase [Turn Your Dreams Into Money: How to build a six-figure blog and live the life you want](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} to take advantage of the offer
 
 <br>
 ##### Things I will try this month to help improve future months' income and profit
@@ -411,16 +410,16 @@ Here's a review of how I got on with the plans I made last month:
 
 ![March 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201803income_profit.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 <br>
 
 ***
