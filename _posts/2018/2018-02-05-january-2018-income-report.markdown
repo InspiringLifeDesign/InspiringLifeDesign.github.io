@@ -264,7 +264,7 @@ During February I plan to focus my efforts on the following money generating act
 
 ##### TO ACHIEVE MY FEBRUARY TARGET
 
-- Sign-up with a site to help me make money from Matched Betting. I've used [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} in the past, and this is who I plan to sign up with again. I anticipate that Matched Betting will need to be my main money generator this month
+- Sign-up with a site to help me make money from Matched Betting. I've used [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) in the past, and this is who I plan to sign up with again. I anticipate that Matched Betting will need to be my main money generator this month
 - Research more affiliate and/or advertising opportunities that complement my content on Inspiring Life Design, and implement these
 - Carry out as many surveys and free draws as I can
 - Add a Coaching area to Inspiring Life Design so that I have a sales page to be able to offer coaching
