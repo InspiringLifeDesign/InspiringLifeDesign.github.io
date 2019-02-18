@@ -190,7 +190,7 @@ Here's how my Side Hustle expenses panned out for February:
 
 February's expenses are extremely low at £18.62. As mentioned before, I didn't do any book promotions for my publishing side hustle and this is the prime reason why expenses were so low. I had very small expenses on advertising through Amazon and Ebay/Paypal fees. 
 
-During February I decided to have another go at **matched betting**, so I took out a monthly subscription to [**OddsMonkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} because I simply would not be able to take advantage of all the offers without use of their brilliant odds matching tool. This was my largest expense in February.
+During February I decided to have another go at **matched betting**, so I took out a monthly subscription to [**OddsMonkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) because I simply would not be able to take advantage of all the offers without use of their brilliant odds matching tool. This was my largest expense in February.
 
 ![February 2018 Income & Profit Report expenses to February 2018 chart](/i/income_report/2018/201802expenses.png)
 
@@ -324,9 +324,9 @@ Looking ahead to March, in terms of money I'm expecting to receive from kindle b
 ##### WHAT ACTIONS WORKED/DIDN'T WORK FROM LAST MONTH'S PLAN
 Here's a review of how I got on with the plans I made last month to try to hit my February target:
 
-> *Sign-up with a site to help me make money from Matched Betting. I've used [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} in the past, and this is who I plan to sign up with again. I anticipate that Matched Betting will need to be my main money generator this month*
+> *Sign-up with a site to help me make money from Matched Betting. I've used [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) in the past, and this is who I plan to sign up with again. I anticipate that Matched Betting will need to be my main money generator this month*
 
-  - As mentioned in my expenses, I signed-up with [OddsMonkey](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} during February. However, I did this nearer the end of the month which didn't leave me much time to cover the subscription cost and make a profit. The net result was a deficit of -£0.75 after I'd covered the subscription cost! I will be continuing with matched betting in March
+  - As mentioned in my expenses, I signed-up with [OddsMonkey](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) during February. However, I did this nearer the end of the month which didn't leave me much time to cover the subscription cost and make a profit. The net result was a deficit of -£0.75 after I'd covered the subscription cost! I will be continuing with matched betting in March
 
 > *Research more affiliate and/or advertising opportunities that complement my content on Inspiring Life Design, and implement these*
 
@@ -334,7 +334,7 @@ Here's a review of how I got on with the plans I made last month to try to hit m
 
 > *Carry out as many surveys and free draws as I can*
 
-- I continued to carry out surveys on my favourite survey site [Prolific](http://bit.ly/prolificsurveys){:target="_blank" rel="nofollow"}, earning myself some more money. I did not withdraw any earnings during February because I do not want to pay the Paypal fees for withdrawals. Instead I'm waiting to withdraw via [Circle](http://bit.ly/signupcircle){:target="_blank" rel="nofollow"} (no fees over £20). I expect to make my first £20 withdrawal in March
+- I continued to carry out surveys on my favourite survey site [Prolific](http://bit.ly/prolificsurveys){:target="_blank" rel="nofollow"} (<i>affiliate link</i>), earning myself some more money. I did not withdraw any earnings during February because I do not want to pay the Paypal fees for withdrawals. Instead I'm waiting to withdraw via [Circle](http://bit.ly/signupcircle){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) (no fees over £20). I expect to make my first £20 withdrawal in March
 - I also regularly checked in on the free draw sites that I am signed-up with. No luck so far, but it only takes one win to make it feel worthwhile (it takes me just minutes each day to check these)
 
 > *Add a Coaching area to Inspiring Life Design so that I have a sales page to be able to offer coaching*
@@ -349,9 +349,9 @@ Here's a review of how I got on with the plans I made last month to try to hit m
 <br>
 ##### TO ACHIEVE MY MARCH TARGET
 Here's a list of actions I plan to take in March to help boost my income/profit:
-- Continue using [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} to make additional income from Matched Betting. The beauty of this earner is that it's tax free
+- Continue using [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) to make additional income from Matched Betting. The beauty of this earner is that it's tax free
 - Continue doing surveys on Prolific and cash-out at least my first £20
-- Continue checking the free draw sites I use such as [Badger The Button](http://bit.ly/badgerbutton){:target="_blank" rel="nofollow"} and [Free Postcode Lottery](http://bit.ly/postcodelotteryfree){:target="_blank" rel="nofollow"}
+- Continue checking the free draw sites I use such as [Badger The Button](http://bit.ly/badgerbutton){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) and [Free Postcode Lottery](http://bit.ly/postcodelotteryfree){:target="_blank" rel="nofollow"} (<i>affiliate link</i>)
 - List more of my unwanted items on eBay
 
 <br>
@@ -362,7 +362,7 @@ Here's what I'm working on to increase my profits for future months:
 - Continue with the Kindle course I've been working my way through, to help me successfully create and launch my next new ebook and paperback
 - Create weekly posts on this website to help my readers learn ways to make money. Building a loyal following of readers satisfies a key part of my personal mission statement, **"Helping others with their own search for freedom and happiness"**. As my readership grows this will help me to secure advertising, affiliates and sponsored posts, which in turn will allow me to better serve my audience because I will have more time available to create super-helpful content
 - Increase the number of followers on my [**Instagram account**](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="nofollow"} so that I can share my message about designing a life of your dreams, driving more traffic to this website. I can add value by raising awareness of products and services which help people make money, so that they can ultimately quit their day jobs
-- Continue working through my money making blog course by Emma Drew [**Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} because this is offering me tremendous guidance on how to make this website the best it can be for my readers
+- Continue working through my money making blog course by Emma Drew [**Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) because this is offering me tremendous guidance on how to make this website the best it can be for my readers
 
 <br>
 *That's all for February's profit report. How did your February go? Did you make progress on any of your goals? I'd love to hear from you in the comments below...*
@@ -371,16 +371,16 @@ Here's what I'm working on to increase my profits for future months:
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ***
 
