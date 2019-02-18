@@ -52,7 +52,7 @@ There are many places you can find writers to work with, including sites which a
 
 Here are two sites which I have successfully used previously
 
-- [**Fiverr**](http://bit.ly/try_fiverr){:target="_blank"}
+- [**Fiverr**](http://bit.ly/try_fiverr){:target="_blank"} (<i>affiliate link</i>)
   - Operates using a gig system, whereby you search for jobs or "gigs" which you want to purchase
 - [**Upwork**](https://www.upwork.com/){:target="_blank" rel="nofollow"}
   - Operates using a job posting and candidate posting system
@@ -102,7 +102,7 @@ Before you agree on a gig or contract, I would recommend trying to get on a vide
 - Overview of the project and what you will need
 - How much you will be prepared to pay and for how many words/time duration
 
-Once you've found a writer you're happy to work with, you simply need to agree a contract with them. In [Fiverr](http://bit.ly/try_fiverr){:target="_blank"} this will mean purchasing the gig (with any add-ons/packages you may have agreed), in Upwork this will mean starting a contract. In both cases the contract is held through the website that you use, so you don't have to worry about creating your own contract.
+Once you've found a writer you're happy to work with, you simply need to agree a contract with them. In [Fiverr](http://bit.ly/try_fiverr){:target="_blank"} (<i>affiliate link</i>) this will mean purchasing the gig (with any add-ons/packages you may have agreed), in Upwork this will mean starting a contract. In both cases the contract is held through the website that you use, so you don't have to worry about creating your own contract.
 <br>
 
 ***
@@ -123,7 +123,7 @@ This has been a brief introduction to the ghost writer recruitment process. The 
 
 ### Do You Want To Get Started With Online Publishing?
 
-I will be launching a program called **#publishin8** later this year or early next year. Over the course of 8 weeks you will learn how to create and publish your very own book. If you'd like to find out more when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}.
+I plan to launch a program called **Publishin8**. Over the course of 8 weeks you will learn how to create and publish your very own book. If you'd like to find out more when this program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}.
 
 ***
 
