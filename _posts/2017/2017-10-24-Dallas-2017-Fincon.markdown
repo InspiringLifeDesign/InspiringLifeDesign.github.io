@@ -5,7 +5,7 @@ tags:
   - "2017"
   - blogging
   - events
-affiliate: true
+
 ---
 
 <img src='/i/Fincon17_logo.jpg' alt='Fincon 2017 and the Plutus Awards in Dallas logo' />

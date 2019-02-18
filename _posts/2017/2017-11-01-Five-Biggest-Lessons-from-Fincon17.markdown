@@ -5,7 +5,7 @@ tags:
   - "2017"
   - blogging
   - events
-affiliate: true
+
 ---
 
 <img src='/i/Fincon17_logo.jpg' alt='The 5 Biggest Lessons From Fincon 2017 logo' />
