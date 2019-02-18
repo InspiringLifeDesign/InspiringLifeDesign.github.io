@@ -172,9 +172,9 @@ Here's a break-down of where my income came from in October:
 
 ![October 2018 Income & Profit Report income pie chart](/i/income_report/2018/october/201810income_pie_chart.png)
 
-Once again Kindle book sales were the clear winner for income production in October, coming in at £565.59. I had another decent month with blogging (£80), still reaping the benefits of the things I learned from [Turn Your Dreams Into Money](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="noopener"} and [How To Smash Affiliate Marketing](http://bit.ly/smashaffiliatemarketing){:Target="_blank" rel="noopener"}. Paperback sales were pretty strong this month compared to usual, bringing in £50.83 compared to £38.32 last month.
+Once again Kindle book sales were the clear winner for income production in October, coming in at £565.59. I had another decent month with blogging (£80), still reaping the benefits of the things I learned from [Turn Your Dreams Into Money](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="noopener"}  (<i>affiliate link</i>) and [How To Smash Affiliate Marketing](http://bit.ly/smashaffiliatemarketing){:Target="_blank" rel="noopener"} (<i>affiliate link</i>). Paperback sales were pretty strong this month compared to usual, bringing in £50.83 compared to £38.32 last month.
 
-Behind the top 3 income streams, I made small amounts of money from doing [**surveys**](/posts/cash-this-week.html){:target="_blank" rel="noopener"}, selling my unwanted items on eBay, and from cashback sites [**Quidco**](http://bit.ly/quidcosignup){:target="_blank" rel="noopener"} and [**TopCashback**](http://bit.ly/topcashbackjoin){:target="_blank" rel="noopener"}.
+Behind the top 3 income streams, I made small amounts of money from doing [**surveys**](/posts/cash-this-week.html){:target="_blank" rel="noopener"} (<i>affiliate link</i>), selling my unwanted items on eBay, and from cashback sites [**Quidco**](http://bit.ly/quidcosignup){:target="_blank" rel="noopener"} (<i>affiliate link</i>) and [**TopCashback**](http://bit.ly/topcashbackjoin){:target="_blank" rel="noopener"} (<i>affiliate link</i>).
 
 There is no entry for audiobook sales for October because although I did make some sales, I didn't meet the minimum Amazon threshold for being paid. My royalties will be rolled forward to November, where hopefully I should have enough accrued to receive a payment.
 
@@ -261,7 +261,7 @@ It was a decent month for low expenses in October. At £134.39 costs were £162.
 
 My annual expenses have now crossed the £1,000 threshold, at £1,067.42. 
 
-October's expenses included book promotion costs, my zoom pro subscription for video calls that I'm using for my [**#Publishin8 Course**](/signup/publishin8.html){:target="_blank" rel="noopener"} live training sessions (which I'm logging as a blogging expense for now until I create a new "product" category) and eBay/Paypal fees:
+October's expenses included book promotion costs, my zoom pro subscription for video calls that I'm using for my [**Publishin8 Course**](/signup/publishin8.html){:target="_blank" rel="noopener"} live training sessions (which I'm logging as a blogging expense for now until I create a new "product" category) and eBay/Paypal fees:
 
 ![October 2018 Income & Profit Report chart showing expenses for Jan-Oct 2018](/i/income_report/2018/october/201810expenses.png)
 
@@ -436,14 +436,14 @@ Here's a run down of how I got on:
     * [September 2018 Income & Profit Report](/posts/september-2018-income-report.html){:target="_blank" rel="noopener"}
     * [How To Complete The Editing of Your Ebook](/posts/how-to-complete-the-editing-of-your-ebook.html){:target="_blank" rel="noopener"}
 
-> *Grow my [**#lifedesigners email list**](/signup/signup_page.html){:target="_blank" rel="noopener"} from 10 to 12 subscribers*
+> *Grow my [**Life Designers email list**](/signup/signup_page.html){:target="_blank" rel="noopener"} from 10 to 12 subscribers*
 * <span style="color:red">**NOT DONE**</span> I gained 1 subscriber, so my end of month total was 11
 
 > *Increase the **domain authority** for [inspiringlifedesign.com](/){:target="_blank" rel="noopener"} from  15 to 17*
 * <span style="color:green">**DONE**</span> I'm so pleased with this one, I managed to get my site up to DA 17! This is important because when you look to work with companies, one of the first few things they will check is the domain authority of your blog. From what I can tell, initial opportunities start to kick in around DA 20 but get better the higher the DA. Ideally I want to be in the 30's at least. So I've still a way to go, but this is great progress. The way to improve domain authority is to post regularly and collaborate with other sites with things like link swaps, guest posts and features
 
 ##### Courses
-> *The trial run of the [#Publishin8 programme](/signup/publishin8.html){:target="_blank" rel="noopener"} recommences in October after a short break. I will prepare and run 3 video classes as well as offering support to the participants for any questions they have*
+> *The trial run of the [Publishin8 programme](/signup/publishin8.html){:target="_blank" rel="noopener"} recommences in October after a short break. I will prepare and run 3 video classes as well as offering support to the participants for any questions they have*
 * <span style="color:green">**DONE**</span> I ran 3 more classes during October, which were weeks 2, 3 & 4 of the 8 week program
 
 ##### YouTube
@@ -485,13 +485,13 @@ Here's a run down of how I got on:
 * Carry out any **sponsored blog post** opportunities which I receive during November
 * Publish at least **4 new blog posts** of my own
 * Get ahead with my publishing content calendar so that I have either **5 blog posts done in advance**, or an emergency collection of 5 posts for any weeks when I am at risk of missing a blog post deadline
-* Grow my [**#lifedesigners email list**](/signup/signup_page.html){:target="_blank" rel="noopener"} from 11 to 12 subscribers
+* Grow my [**Life Designers email list**](/signup/signup_page.html){:target="_blank" rel="noopener"} from 11 to 12 subscribers
 * Increase the **domain authority** for [inspiringlifedesign.com](/){:target="_blank" rel="noopener"} from  17 to 18
 
 ##### Courses
-* **Gather half-way feedback** from the participants of my [**#Publishin8 program**](/signup/publishin8.html){:target="_blank" rel="noopener"}
-* **Complete the week 5 #publishin8 call** preparation, run the call itself and upload supporting materials to Facebook Group afterward
-* **Reschedule remaining 3 #publishin8 classess** for the new year (after requests from participants to take time-out for busy Christmas period)
+* **Gather half-way feedback** from the participants of my [**Publishin8 program**](/signup/publishin8.html){:target="_blank" rel="noopener"}
+* **Complete the week 5 Publishin8 call** preparation, run the call itself and upload supporting materials to Facebook Group afterward
+* **Reschedule remaining 3 Publishin8 classess** for the new year (after requests from participants to take time-out for busy Christmas period)
 
 ##### YouTube
 * Create, edit and publish at least 1 new video on [**YouTube**](https://www.youtube.com/channel/UCFMCt3HfmLwWyqr5QSETThQ){:target="_blank" rel="nofollow" rel="noopener"}
@@ -510,16 +510,16 @@ Here's a run down of how I got on:
 <br><br>
 ![October income and profit report pinterest image](/i/income_report/2018/october/pin201810income_profit.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ****
 
@@ -534,12 +534,12 @@ You can find all my [previous 2018 income and profit reports here](/financial-fr
 
 ***
 
-<!-- START ADVERTISER: DLP book by Nov 28th -->
-<center><script type="text/javascript">
+<!-- START ADVERTISER: DLP -->
+<script type="text/javascript">
 var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
 document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script></center>
-<!-- END ADVERTISER: DLP book by Nov 28th -->
+</script>
+<!-- END ADVERTISER: DLP -->
 
 ***
 
