@@ -17,8 +17,8 @@ As the season started to shift to cooler weather and shorter days, I published m
 
 - I've tried my first **pumpkin spiced latte**. Verdict - it was nice, but very sweet
 - I checked around the house and we had a lovely Polo Ralph Lauren **autumnal candle** in one of our cupboards, I got this out and have enjoyed lighting it the last few evenings
-- I made [**hot chocolate**](https://amzn.to/2zoeYst){:target="_blank" rel="noopener"} with whipped cream, marshmallows and a mini flake! It was delicious
-- I watched [**The Holiday**](https://amzn.to/2NyM0iu){:target="_blank" rel="noopener"} the day after publishing my Autumn Bucket List. I'd got the idea of it into my head and couldn't wait to watch it!
+- I made [**hot chocolate**](https://amzn.to/2zoeYst){:target="_blank" rel="noopener"} (<i>affiliate link</i>) with whipped cream, marshmallows and a mini flake! It was delicious
+- I watched [**The Holiday**](https://amzn.to/2NyM0iu){:target="_blank" rel="noopener"} (<i>affiliate link</i>) the day after publishing my Autumn Bucket List. I'd got the idea of it into my head and couldn't wait to watch it!
 
 Here's some pictures snapped during September...
 <center>
@@ -154,7 +154,7 @@ Here's a break-down of where my income came from in September:
 
 ![September 2018 Income & Profit Report income pie chart](/i/income_report/2018/201809income_pie_chart.png)
 
-It's clear to see that the runaway winner for income production in September was Kindle book sales at £579.83. I continued to make money from blogging (£90) thanks to the things I've learned from the [Turn Your Dreams Into Money](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="noopener"} and [How To Smash Affiliate Marketing](http://bit.ly/smashaffiliatemarketing){:Target="_blank" rel="noopener"} courses I've taken. I also made consistent money from paperback (£38.32) and audiobook (£50.65) sales, with the latter being boosted by **another** bounty from audible. I received a tiny amount from [**Quidco**](http://bit.ly/quidcosignup){:target="_blank" rel="noopener"} and [**TopCashback**](http://bit.ly/topcashbackjoin){:target="_blank" rel="noopener"} this month too.
+It's clear to see that the runaway winner for income production in September was Kindle book sales at £579.83. I continued to make money from blogging (£90) thanks to the things I've learned from the [Turn Your Dreams Into Money](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="noopener"} (<i>affiliate link</i>) and [How To Smash Affiliate Marketing](http://bit.ly/smashaffiliatemarketing){:Target="_blank" rel="noopener"} (<i>affiliate link</i>) courses I've taken. I also made consistent money from paperback (£38.32) and audiobook (£50.65) sales, with the latter being boosted by **another** bounty from audible. I received a tiny amount from [**Quidco**](http://bit.ly/quidcosignup){:target="_blank" rel="noopener"} (<i>affiliate link</i>) and [**TopCashback**](http://bit.ly/topcashbackjoin){:target="_blank" rel="noopener"} (<i>affiliate link</i>) this month too.
 
 I didn't have any payout from [surveys](/posts/cash-this-week.html){:target="_blank" rel="noopener"} during September because I like to hit the £20 payout threshold (to avoid any withdrawal fees) and I didn't quite manage that during September, which means the money I made will roll over to be paid in October.
 
@@ -235,7 +235,7 @@ Here's how my Side Hustle expenses panned out for September:
 
 My expenses for September came in at £296.98, bringing my total annual expenses to just under £1k. Unsurprisingly with my highest ever income month, my expenses have jumped up too, coming in at the priciest month of the year so far. Expenses included the usual book promotion costs and the blogging subscription service I've been using. A couple of new expenses this month, were for:
 
-- A **Zoom Pro** account, so that I can hold group video calls that last longer than 40 minutes. I need this for the trial run of my **#Publishin8** program which is about 25% of the way through. If you'd like to receive notifications when I start officially running this program, you can pop your name on the [#Publishin8 waitlist](/signup/publishin8.html){:target="_blank" rel="noopener"}. There is no obligation to participate, this is just for you to get more information when I'm planning to launch. It's a hands-on, real-time training course delivered via live video sessions with me, which will see you publish your first online book in just 8 weeks!
+- A **Zoom Pro** account, so that I can hold group video calls that last longer than 40 minutes. I need this for the trial run of my **Publishin8** program which is about 25% of the way through. If you'd like to receive notifications when I start officially running this program, you can pop your name on the [Publishin8 waitlist](/signup/publishin8.html){:target="_blank" rel="noopener"}. There is no obligation to participate, this is just for you to get more information when I'm planning to launch. It's a hands-on, real-time training course delivered via live video sessions with me, which will see you publish your first online book in just 8 weeks!
 - A top-up for my pay as you go **business PO Box address** service provider. I use a PO Box as my business address because I work from home and prefer not to give my personal address out
 
 ![September 2018 Income & Profit Report chart showing expenses for Jan-Sep 2018](/i/income_report/2018/201809expenses.png)
@@ -404,13 +404,13 @@ Here's a run down of how I got on:
     * [Is Godiva Festival The Best Free Family Festival Ever?](/posts/best-free-family-festival.html){:target="_blank" rel="noopener"}
     * [August 2018 Income & Profit Report](/posts/august-2018-income-report.html){:target="_blank" rel="noopener"}
     * [My Autumn Bucket List To Welcome In the New season](/posts/autumn-bucket-list.html){:target="_blank" rel="noopener"}
-* Grow my [**#lifedesigners email list**](/signup/signup_page.html){:target="_blank" rel="noopener"} from 9 to 10 subscribers
+* Grow my [**Life Designers email list**](/signup/signup_page.html){:target="_blank" rel="noopener"} from 9 to 10 subscribers
   * <span style="color:green">**DONE**</span> I had 10 email subscribers by the end of September
 * Increase the **domain authority** for [inspiringlifedesign.com](/){:target="_blank" rel="noopener"} from  13 to 14
   * <span style="color:green">**DONE**</span> A big win for this one - I actually had reached a DA of 15 by the end of September
 
 ##### Courses
-* Book the remaining 7 weeks of training calls for the participants of the **#PublishIn8** program. I need to get these into our calendars and with Zoom conference call details booked. 
+* Book the remaining 7 weeks of training calls for the participants of the **PublishIn8** program. I need to get these into our calendars and with Zoom conference call details booked. 
   * <span style="color:green">**DONE**</span> I got all Zoom calls booked in and set-up events in our #Publishin8 Facebook Group
 
 ##### Social Media
@@ -442,11 +442,11 @@ Here's a run down of how I got on:
 ##### Blogging
 * Carry out any **sponsored blog post** opportunities which I receive during October
 * Publish at least **4 new blog posts**
-* Grow my [**#lifedesigners email list**](/signup/signup_page.html){:target="_blank" rel="noopener"} from 10 to 12 subscribers
+* Grow my [**Life Designers email list**](/signup/signup_page.html){:target="_blank" rel="noopener"} from 10 to 12 subscribers
 * Increase the **domain authority** for [inspiringlifedesign.com](/){:target="_blank" rel="noopener"} from  15 to 17
 
 ##### Courses
-* The trial run of the [#Publishin8 programme](/signup/publishin8.html){:target="_blank" rel="noopener"} recommences in October after a short break. I will prepare and run 3 video classes as well as offering support to the participants for any questions they have
+* The trial run of the [Publishin8 programme](/signup/publishin8.html){:target="_blank" rel="noopener"} recommences in October after a short break. I will prepare and run 3 video classes as well as offering support to the participants for any questions they have
 
 ##### YouTube
 * Create, edit and publish 1 new video on [**YouTube**](https://www.youtube.com/channel/UCFMCt3HfmLwWyqr5QSETThQ){:target="_blank" rel="nofollow" rel="noopener"}
@@ -465,16 +465,16 @@ Here's a run down of how I got on:
 <br><br>
 ![September income and profit report pinterest image](/i/income_report/2018/pin201809income_profit.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ****
 
