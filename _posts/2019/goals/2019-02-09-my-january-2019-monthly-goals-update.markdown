@@ -4,7 +4,7 @@ title: "My January 2019 Monthly Goals Report"
 tags:
   - "2019"
   - goals
-affiliate: true
+
 ---
 
 {% include youtube.html videoid="QaxPJE887c0" %}
@@ -126,7 +126,7 @@ In January, I started talking with my boyfriend about where we might like to go 
 var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
 document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
 </script>
-<!-- START ADVERTISER: DLP -->
+<!-- END ADVERTISER: DLP -->
 
 ***
 
