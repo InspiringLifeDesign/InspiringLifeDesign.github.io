@@ -33,7 +33,7 @@ I also uncovered calculations which I could use to determine how long it would t
 
 Back in 2016 I worked out that if I saved really (REALLY) hard, that I could feasibly achieve financial independence by the time I'm **50** (ahem...still a few years off!) However, this would require a great deal of saving and frugality on my part.
 
-Around the same time I read Tim Ferris's book [**The 4 Hour Work Week**](http://amzn.to/2nXcZ8o){:target="_blank"}. This opened my eyes to the fact that there are many ways to be able to earn extra income, and better still there are some things you can set in motion to allow you to continue to earn money with very little ongoing effort from yourself. Passive income is what we're talking about!
+Around the same time I read Tim Ferris's book [**The 4 Hour Work Week**](http://amzn.to/2nXcZ8o){:target="_blank"} (<i>affiliate link</i>). This opened my eyes to the fact that there are many ways to be able to earn extra income, and better still there are some things you can set in motion to allow you to continue to earn money with very little ongoing effort from yourself. Passive income is what we're talking about!
 <center>
 <a target="_blank"  href="https://www.amazon.co.uk/gp/product/0091929113/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0091929113&linkCode=as2&tag=ild0b-21&linkId=57cba68b3f9832bf57f1d6be9d019eee"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=0091929113&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=0091929113" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </center>
