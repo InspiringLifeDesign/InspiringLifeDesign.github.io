@@ -198,9 +198,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/valentines-gift-guide.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/valentines-gift-guide.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/january-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 My last post offered a [gift guide for Valentine's Day 2019](/posts/valentines-gift-guide.html)<br>
-<!-- &nbsp;&nbsp;In my next post I share my [Valentine's gift guide that's suitable for every budget](/posts/valentines-gift-guide.html) -->
+&nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html)
 <br>
 
 ***
