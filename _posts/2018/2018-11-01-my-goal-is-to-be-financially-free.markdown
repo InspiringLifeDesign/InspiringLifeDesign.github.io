@@ -4,7 +4,7 @@ title: "My Goal Is To Be Financially Free, How Am I Doing?"
 tags:
   - "2018"
   - financial freedom
-affiliate: true
+
 ---
 
 ![My goal is to be financially free header image](/i/2018/fire/my-goal-is-to-be-financially-free-header.png)
@@ -128,16 +128,16 @@ I'm a little surprised that the combined progress was only 3% more than investme
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ***
 
@@ -151,12 +151,9 @@ In my last post I talked about [How To Complete The Editing Of Your Ebook](/post
 
 ***
 
-<!-- START ADVERTISER: DLP Christmas -->
-<center>
+<!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(iframe)g(22921938)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<iframe src="'+uri +'" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');
-</script></center>
-<!-- END ADVERTISER: DLP Christmas -->
-
-***
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+<!-- END ADVERTISER: DLP -->
