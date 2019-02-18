@@ -172,9 +172,9 @@ Here are a handful of Side Hustle opportunities you may want to consider:
 
 - **Book Publishing** - this was my first side hustle and I still say this is a fantastic money generator due to the relative ease of entry and the passive income potential. I will be sharing more about book publishing in future posts.
 - **eBay Reselling** - this is another side hustle with a low barrier of entry, and you can dip your toe in the water by selling personal items on eBay first to see if it's for you. If you're interested in giving reselling a try, I would highly recommend checking out this [reselling page](http://ruthmakesmoney.com/category/reselling/){:target="_blank"} at **Ruth Makes Money**. You can also find some great tips in Ruth's post on [where she sources items to resell on eBay](http://ruthmakesmoney.com/source-items-to-resell-on-ebay/){:target="_blank"}.
-- **Matched Betting** - this is a way of making money by taking advantage of bookmaker offers. If you're going to try this I would really recommend using [**OddsMonkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} to guide you through the money making offers. With a little bit of patience and a relatively small amount of money to get you started, you can begin earning using the tutorials and odds matching tool. There's even a handy section to allow you to track your profits! You can start with a **free** membership which shows you how to earn up to £45, then if you like it you can sign-up for one of the packages.
+- **Matched Betting** - this is a way of making money by taking advantage of bookmaker offers. If you're going to try this I would really recommend using [**OddsMonkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) to guide you through the money making offers. With a little bit of patience and a relatively small amount of money to get you started, you can begin earning using the tutorials and odds matching tool. There's even a handy section to allow you to track your profits! You can start with a **free** membership which shows you how to earn up to £45, then if you like it you can sign-up for one of the packages.
 - **Survey Sites** - this is a really quick and simple hustle to get into, great for earning a bit of cash in your quiet moments. Interested? Read all about [my favourite survey site](/posts/cash-this-week.html){:target="_blank"}.
-- **Blogging** - although this side hustle can take a little longer to see results, it's a really fun and expressive way to make yourself additional money, and the income potential is huge. Plus what's better than sitting back and making money from posts you wrote months ago?! If blogging sounds like your thing I can highly recommend [**Emma Drew's Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} course, where she shows you how to build a **six-figure** blog.
+- **Blogging** - although this side hustle can take a little longer to see results, it's a really fun and expressive way to make yourself additional money, and the income potential is huge. Plus what's better than sitting back and making money from posts you wrote months ago?! If blogging sounds like your thing I can highly recommend [**Emma Drew's Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} (<i>affiliate link<i>) course, where she shows you how to build a **six-figure** blog.
 - **Make Money From Your Hobby** - there are many ways you can turn your hobby into a money making venture. There are side hustles for the [green fingered](https://suefoster.info/side-hustles-for-the-green-thumbed){:target="_blank"}, for the [crafty](https://www.charlottemusha.co.uk/bangonblanks/){:target="_blank"} and for those who [love to shop](https://tuppennysfireplace.com/how-to-become-a-mystery-shopper/){:target="_blank"} to name but a few.
 
 <!-- START ADVERTISER: OddsMonkey -->
@@ -277,16 +277,16 @@ Fill in the sections of this printable as follows:
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 
 ****
