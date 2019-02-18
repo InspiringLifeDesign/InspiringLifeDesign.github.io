@@ -128,11 +128,11 @@ Here's a break-down of where my income came from in August:
 
 There's a new entrant on my income report this month! Yes, I've finally made my first money from **blogging**. Not only did I make money from blogging, it was my **highest earner for August**! I can't begin to tell you how exciting this is for me. 
 
-For months I've wondered whether making money from my website is a viable option for me, and now I know that it is entirely possible. I just needed the know how! I have to say that this has only been possible thanks to the great tips and lessons I've learned from Emma Drew's training materials. I've been working through her [Turn Your Dreams Into Money](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="noopener"} course, as well as her [How To Smash Affiliate Marketing](http://bit.ly/smashaffiliatemarketing){:Target="_blank" rel="noopener"} course, both of which I would highly recommend.
+For months I've wondered whether making money from my website is a viable option for me, and now I know that it is entirely possible. I just needed the know how! I have to say that this has only been possible thanks to the great tips and lessons I've learned from Emma Drew's training materials. I've been working through her [Turn Your Dreams Into Money](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="noopener"} (<i>affiliate link</i>) course, as well as her [How To Smash Affiliate Marketing](http://bit.ly/smashaffiliatemarketing){:Target="_blank" rel="noopener"} (<i>affiliate link</i>) course, both of which I would highly recommend.
 
-August's strong income month was boosted by the [survey site I use](/posts/cash-this-week.html){:target="_blank"} returning just under £40, as well as cashback, also earning me just under £40. I received cashback from [**Quidco**](http://bit.ly/quidcosignup){:target="_blank" rel="noopener"} and [**TopCashback**](http://bit.ly/topcashbackjoin){:target="_blank" rel="noopener"} as well as the annual payout from my Barclaycard Cashback credit card. This is a no fee credit card which allows me to accumulate cashback on all my spending. Having just had a quick look at the Barclaycard website I don't think they offer this card to new customers any more.
+August's strong income month was boosted by the [survey site I use](/posts/cash-this-week.html){:target="_blank"} (<i>affiliate link</i>) returning just under £40, as well as cashback, also earning me just under £40. I received cashback from [**Quidco**](http://bit.ly/quidcosignup){:target="_blank" rel="noopener"} (<i>affiliate link</i>) and [**TopCashback**](http://bit.ly/topcashbackjoin){:target="_blank" rel="noopener"} (<i>affiliate link</i>) as well as the annual payout from my Barclaycard Cashback credit card. This is a no fee credit card which allows me to accumulate cashback on all my spending. Having just had a quick look at the Barclaycard website I don't think they offer this card to new customers any more.
 
-If you've not yet started using cashback sites, sign-up using my [my referral link with Quidco](http://bit.ly/quidcosignup){:target="_blank"} and as a thank-you they'll give you **£10** (I will receive £10 too - so thanks!)
+If you've not yet started using cashback sites, sign-up using my [my referral link with Quidco](http://bit.ly/quidcosignup){:target="_blank"} (<i>affiliate link</i>) and as a thank-you they'll give you **£10** (I will receive £10 too - so thanks!)
 
 My audiobooks income was better than usual during August due to the fact that I received a **bounty** payout. These payouts are worth $50 a time, and they happen when a new user to Audible signs-up and selects my book as their free welcome book. This is only the second bounty payment I've received, and it's SO lovely to get them!
 
@@ -380,13 +380,13 @@ Here's a run down of how I got on with them:
   * <span style="color:green">**DONE**</span> I actually really enjoyed creating my Media Kit (although I still find it tricky knowing what to charge for my services!)
 * Create a **Rate Card** which will form part of my Media Kit, but which will only be sent out in response to enquiries (rather than being available online)
   * <span style="color:green">**DONE**</span> As above, I got this done at the same time as the Media Kit
-* Grow my [**#lifedesigners email list**](/signup/signup_page.html){:target="_blank"} from 8 to 9 subscribers
+* Grow my [**Life Designers email list**](/signup/signup_page.html){:target="_blank"} from 8 to 9 subscribers
   * <span style="color:green">**DONE**</span> I'm delighted that I managed to get another email subscriber! I haven't found the time yet to create any sign-up freebies, so to get people joining my email list from simply visiting my site is wonderful
 * Increase the **domain authority** for [inspiringlifedesign.com](/){:target="_blank"} from  12 to 13
   * <span style="color:green">**DONE**</span> Increasing the domain authority (DA) for my site is actually proving harder than I had realised. Nevertheless I did manage to increase my DA to 13 during August
 
 ##### Courses
-* Prepare for and launch the first week of my **#PublishIn8** program. 
+* Prepare for and launch the first week of my **PublishIn8** program. 
   * <span style="color:green">**DONE**</span> I created a presentation to work through on our launch call. We had a great session introducing ourselves to each other, and I shared in-depth information on how to really research and choose a niche for publishing a book
 
 ##### Social Media
@@ -418,11 +418,11 @@ Here's a run down of how I got on with them:
 ##### Blogging
 * Carry out any **sponsored blog post** opportunities which I receive during September
 * Publish at least **4 new blog posts**
-* Grow my [**#lifedesigners email list**](/signup/signup_page.html){:target="_blank"} from 9 to 10 subscribers
+* Grow my [**Life Designers email list**](/signup/signup_page.html){:target="_blank"} from 9 to 10 subscribers
 * Increase the **domain authority** for [inspiringlifedesign.com](/){:target="_blank"} from  13 to 14
 
 ##### Courses
-* Book the remaining 7 weeks of training calls for the participants of the **#PublishIn8** program. I need to get these into our calendars and with Zoom conference call details booked. This is a **trial run** so I can test that the program is feasible for people to work through in the timescale (8 weeks). The program is not open to purchase yet, but you can [register your interest by **joining the waitlist**](/signup/publishin8.html){:target="_blank"} if you'd like the opportunity to do a hands-on, real-time training course (delivered via live video sessions with me) which will see you publish your first online book in just 8 weeks!
+* Book the remaining 7 weeks of training calls for the participants of the **PublishIn8** program. I need to get these into our calendars and with Zoom conference call details booked. This is a **trial run** so I can test that the program is feasible for people to work through in the timescale (8 weeks). The program is not open to purchase yet, but you can [register your interest by **joining the waitlist**](/signup/publishin8.html){:target="_blank"} if you'd like the opportunity to do a hands-on, real-time training course (delivered via live video sessions with me) which will see you publish your first online book in just 8 weeks!
 
 ##### Social Media
 * Grow [**Instagram**](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="nofollow"} following from 1,509 to 1,700
@@ -438,16 +438,16 @@ Here's a run down of how I got on with them:
 <br><br>
 ![August income and profit report pinterest image](/i/income_report/2018/pin201808income_profit.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ****
 
