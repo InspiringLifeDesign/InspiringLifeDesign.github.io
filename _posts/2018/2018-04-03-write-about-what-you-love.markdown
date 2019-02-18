@@ -15,7 +15,7 @@ affiliate: true
 ### How Would You Like To Make A Six Figure Income Writing About What You Love?
 I don't know about you, but I would! And that's exactly what fellow blogger Emma Drew does for a living.
 
-That's why I couldn't resist buying Emma Drew's [**Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} blogging course earlier this year. Its tagline is *How To Build A Six-Figure Blog And Live The Life You Want*. That's a bold sales pitch, so I have high hopes that this course lives up to expectations. 
+That's why I couldn't resist buying Emma Drew's [**Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) blogging course earlier this year. Its tagline is *How To Build A Six-Figure Blog And Live The Life You Want*. That's a bold sales pitch, so I have high hopes that this course lives up to expectations. 
 <br>
 <!-- START ADVERTISER: Turn Your Dreams Into Money -->
 <center>
@@ -31,7 +31,7 @@ Emma has been blogging for over 7 years. At her award winning site [emmadrew.inf
 Although Emma no longer produces monthly income reports, it's clear from the reports she published back in 2016 that she practices what she teaches! Her monthly income was never below 4 figures even back then, with her highest month listing at **£6,188.91** in October 2016. Since then Emma has launched several products, including her courses and a group coaching subscription programme. If she were still producing income reports today it wouldn't surprise me if she was hittng 5 figures every month! Just 5 years after starting blogging, Emma was earning a **6 figure income** and was able to quit her day job.
 
 ### My Experience Of The Course
-As of the start of April 2018, I'm 30% of the way through [**Turn Your Dreams Into Money**: *How to build a six-figure blog and live the life you want*](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} and I must say that so far I'm impressed! I have found the course very simple to follow, easy to implement and I've really enjoyed coming back to it each day to learn more. I have a long list of enhancements I want to make to this blog so that it is more enjoyable for you as a reader to navigate and get value from. Already I've come across new ideas and things which I should really be doing with the site, that I wasn't even aware of before!
+As of the start of April 2018, I'm 30% of the way through [**Turn Your Dreams Into Money**: *How to build a six-figure blog and live the life you want*](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) and I must say that so far I'm impressed! I have found the course very simple to follow, easy to implement and I've really enjoyed coming back to it each day to learn more. I have a long list of enhancements I want to make to this blog so that it is more enjoyable for you as a reader to navigate and get value from. Already I've come across new ideas and things which I should really be doing with the site, that I wasn't even aware of before!
 
 I created Inspiring Life Design to share my story of seeking financial freedom and trying to help others do the same. Talking about money, self development and financial independence really fall under the category of "hobby" for me. It's what I love. So having a blog in this area does not feel like a chore, or even a money making venture - it's my passion. Having said all that, if I can find ways to make money from the blog, while maintaining my integrity and the mission of the site, then I'm most certainly going to give it a try!
 
@@ -40,7 +40,7 @@ I'm now reaching the modules in the course where it delves into how money can be
 ### All About The Course
 
 #### Who is it for?
-[**Turn Your Dreams Into Money**: *How to build a six-figure blog and live the life you want*](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} is suitable for anyone completely new to blogging right through to experienced bloggers who are looking for ways to optimise their site. Even if you don't have a topic to blog about yet it doesn't matter, Emma delves into how to find your niche. If you're like me - you can just write about what you love, and make money from it at the same time!
+[**Turn Your Dreams Into Money**: *How to build a six-figure blog and live the life you want*](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) is suitable for anyone completely new to blogging right through to experienced bloggers who are looking for ways to optimise their site. Even if you don't have a topic to blog about yet it doesn't matter, Emma delves into how to find your niche. If you're like me - you can just write about what you love, and make money from it at the same time!
 
 
 #### What does it cover?
@@ -73,11 +73,11 @@ As well as the course itself, you receive an invitation to join the closed Faceb
 On top of all this, there's also a bonus copy of **Blogging Your Way To Riches** by Lynn James and Emma Bradley included with your purchase. I haven't read it yet, but I'm really looking forward to jumping into that after I've finished the course.
 
 #### How much does it cost?
-The usual course price is £197, but Emma has kindly provided me with a **discount code** to be able to offer you the course with **£50 off**, bringing down the total cost **from £197 to £147**. 
+The course price is £197 (USD $250) if paid in a lump sum, or there's the option of a payment plan at £125 (USD $160) for 2 months (total cost £250/USD $320). 
 
 Having paid for coaching in the past which tends to run at £100+ per hour, this price really offers **great value for money**. Trust me, I have learnt the hard way, that to make money you inevitably have to spend some money first.
 
-If you are interested in taking advantage of this great discount, simply use my code **SPRING2018** as you purchase [**Turn Your Dreams Into Money**: *How to build a six-figure blog and live the life you want*](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"}. This code can be used at any point in April 2018 to receive your £50 discount, but remember that the offer expires at midnight on 30th April 2018. Once you have purchased the course you have **lifetime access**, including any updates which Emma makes to it.
+Once you have purchased the course you have **lifetime access**, including any updates which Emma makes to it.
 
 ### Over To You
 So do you think that blogging could be a good Side Hustle for you? It can certainly be very rewarding, and thrilling whenever you receive feedback from your readers. As with most money making ventures it will take some of your time to get it set-up and maintained, but the rewards are there for the taking!
@@ -93,16 +93,16 @@ If you have a blog, or are considering starting one let me know because we can s
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ***
 
