@@ -62,12 +62,15 @@
                   {% include post-info.html date=page.date %}
 								</header>
 								{% if page.affiliate %}
-								<p><sub>This post contains affiliate links. If you buy a service or product using my link I receive a small commission at no extra expense to you. You can navigate independently to the sites mentioned if you prefer not to use my affiliate links. I only link to products or services which I personally use & recommend.</sub></p>
+								<p><sub>Some links in this post (marked <i>affiliate link</i>) provide me with a small commission at no extra cost to you, if you make a purchase.</sub></p>
 								{% endif %}
 								<div><i>Sharing is caring...</i></div>
 								<div class="addthis_inline_share_toolbox"></div>
 								<div class="blogpost-content">
                   {{ content }}
+									{% if page.affiliate %}
+									<p><sub>I sometimes use affiliate links in my posts. This means that if you buy a service or product using my link I receive a small commission at no extra expense to you. You can navigate independently to the sites mentioned if you prefer not to use my affiliate links. I only link to products or services which I personally use & recommend.</sub></p>
+									{% endif %}
 								</div>
 								<footer class="clearfix">
 									{% if page.tags %}
