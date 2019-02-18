@@ -35,14 +35,12 @@ As a bonus tip, I would also recommend packing some extra sets of underwear! We 
 
 ***
 
-<!-- START ADVERTISER: DLP Book by 1st October -->
-<center>
+<!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
 var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
 document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
 </script>
-</center>
-<!-- END ADVERTISER: DLP Book by 1st October -->
+<!-- END ADVERTISER: DLP -->
 
 ***
 
@@ -66,7 +64,7 @@ For the gentleman traveller, a small backpack, or even a hip bag  would work wel
 </table>
 There's no getting around it, going to Disney is expensive. After your travel, accommodation and entrance tickets, there's still food, drink and gift shop memorabilia to spend your money on! This is why it's really great that there are plenty of fresh water dispensers located around both the Disneyland Park and the Walt Disney Studios Park.
 
-Staying hydrated throughout the day is important to make sure that you feel at your best, and to help keep tiredness at bay. I took my trusty [Thermos water bottle](https://amzn.to/2MEBtBN){:target="_blank" rel="nofollow"} with me and filled it up at every opportunity. Any sort of water bottle would be fine though - even if you re-use a small mineral water bottle every day. One word of caution however, you cannot bring glass bottles into the park. There is strict security at the entrance to the entire Disneyland Paris plot (including Disney Village) - all bags go through an x-ray machine and you have to walk through a scanner (just like at an airport). So please don't try to bring a glass bottle with you.
+Staying hydrated throughout the day is important to make sure that you feel at your best, and to help keep tiredness at bay. I took my trusty [Thermos water bottle](https://amzn.to/2MEBtBN){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) with me and filled it up at every opportunity. Any sort of water bottle would be fine though - even if you re-use a small mineral water bottle every day. One word of caution however, you cannot bring glass bottles into the park. There is strict security at the entrance to the entire Disneyland Paris plot (including Disney Village) - all bags go through an x-ray machine and you have to walk through a scanner (just like at an airport). So please don't try to bring a glass bottle with you.
 
 <br>
 #### 4. A lanyard with see-through pouch
@@ -106,14 +104,12 @@ I took my sparkly lanyard which my parents bought me as a souvenir on our P&O Cr
 
 ***
 
-<!-- START ADVERTISER: DLP orange signature collection -->
-<center>
+<!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(js)g(23203196)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<sc'+'ript type="text/javascript" src="'+uri+'" charset="ISO-8859-1"></sc'+'ript>');
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
 </script>
-</center>
-<!-- END ADVERTISER: DLP orange signature collection -->
+<!-- END ADVERTISER: DLP -->
 
 ***
 
@@ -134,7 +130,7 @@ I remember when I visited the Disneyland Park last time, that when it rained the
 <a target="_blank"  href="https://www.amazon.co.uk/gp/product/B075B2TTT8/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B075B2TTT8&linkCode=as2&tag=ild0b-21&linkId=15fe212d5c33650cc058f5f3f7487558"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B075B2TTT8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B075B2TTT8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </center>
 <br>
-I bought [this set of 5 ponchos](https://www.amazon.co.uk/gp/product/B075B2TTT8/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B075B2TTT8&linkCode=as2&tag=ild0b-21&linkId=c7c84f34acda1571b83487f01e8aeca3){:target="_blank" rel="nofollow"} for £6.50 on Amazon before we went. The delivery was free because I have [Amazon Prime membership](http://www.amazon.co.uk/tryprimefree?tag=ild0b-21){:target="_blank"} (if you're interested in trying Amazon Prime you can receive a 30 day free trial using [this referral link](http://www.amazon.co.uk/tryprimefree?tag=ild0b-21){:target="_blank"}). We simply popped a poncho pack each into the bottom of our bags in case we needed them. Of course it turned out that we didn't need them at all, but I was pleased to be prepared and we still have them for another trip now.
+I bought [this set of 5 ponchos](https://www.amazon.co.uk/gp/product/B075B2TTT8/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B075B2TTT8&linkCode=as2&tag=ild0b-21&linkId=c7c84f34acda1571b83487f01e8aeca3){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) for £6.50 on Amazon before we went. The delivery was free because I have [Amazon Prime membership](http://www.amazon.co.uk/tryprimefree?tag=ild0b-21){:target="_blank"} (if you're interested in trying Amazon Prime you can receive a 30 day free trial using [this referral link](http://www.amazon.co.uk/tryprimefree?tag=ild0b-21){:target="_blank"}) (<i>affiliate links</i>). We simply popped a poncho pack each into the bottom of our bags in case we needed them. Of course it turned out that we didn't need them at all, but I was pleased to be prepared and we still have them for another trip now.
 
 <br>
 #### 7. Spare Batteries & Memory Cards
@@ -174,13 +170,12 @@ My final tip is not really about something to pack, but rather what not to pack!
 
 ***
 
-<!-- START ADVERTISER: DLP Christmas -->
-<center>
+<!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(iframe)g(22921938)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<iframe src="'+uri +'" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');
-</script></center>
-<!-- END ADVERTISER: DLP Christmas -->
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+<!-- END ADVERTISER: DLP -->
 
 ***
 
@@ -190,16 +185,16 @@ document.write('<iframe src="'+uri +'" width="728" height="90" frameborder="0" b
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 
 ****
