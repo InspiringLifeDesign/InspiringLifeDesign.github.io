@@ -121,9 +121,9 @@ Here's a break-down of where my income came from in July:
 
 I doubled my income streams compared to June where I only made income from Kindle and paperback book sales. I finally hit the payment threshold for my audiobook sales, the £18.09 you see in this chart was actually my combined royalties for May, June and July. 
 
-I made £35.20 through [TopCashback](http://bit.ly/topcashbackjoin){:target="_blank"}. Most of this (£34) was cashback for a new casino website I signed up for when I was doing matched betting using tutorials from [OddsMonkey](http://bit.ly/Odds_Monkey){:target="_blank"}. I also had small payouts from online purchases I'd made using JustPark (£0.96) and MoonPig (£0.24). 
+I made £35.20 through [TopCashback](http://bit.ly/topcashbackjoin){:target="_blank"} (<i>affiliate link</i>). Most of this (£34) was cashback for a new casino website I signed up for when I was doing matched betting using tutorials from [OddsMonkey](http://bit.ly/Odds_Monkey){:target="_blank"} (<i>affiliate link</i>). I also had small payouts from online purchases I'd made using JustPark (£0.96) and MoonPig (£0.24). 
 
-If you're not already using cashback sites then **you absolutely should be!** I have received **over £500** in cashback across the two different sites [**Quidco**](http://bit.ly/quidcosignup){:target="_blank"} and [**TopCashback**](http://bit.ly/topcashbackjoin){:target="_blank"}. This is essentially **free money**, just for making the purchases that you would normally buy. It's so simple to do...
+If you're not already using cashback sites then **you absolutely should be!** I have received **over £500** in cashback across the two different sites [**Quidco**](http://bit.ly/quidcosignup){:target="_blank"} (<i>affiliate link</i>) and [**TopCashback**](http://bit.ly/topcashbackjoin){:target="_blank"} (<i>affiliate link</i>). This is essentially **free money**, just for making the purchases that you would normally buy. It's so simple to do...
 
 - Start on one of these 2 cashback sites. 
 - Both sites have a search window near the top of the page which you use to look up the name of the website you want to make a purchase from. 
@@ -133,13 +133,11 @@ If you're not already using cashback sites then **you absolutely should be!** I 
 - The cashback site tracks your spending and sometime later you will get a payout into your cashback account.
 - You can withdraw your earnings to your bank account, PayPal, or receive a bonus amount if you opt to take your payment in shop vouchers.
 
-When you're ready to start making money from cashback, sign-up using my [my referral link with Quidco](http://bit.ly/quidcosignup){:target="_blank"} and as a thank-you they'll give you **£10** (I will receive £10 too, so thanks!) - what a nice sign-up bonus.
+When you're ready to start making money from cashback, sign-up using my [my referral link with Quidco](http://bit.ly/quidcosignup){:target="_blank"} (<i>affiliate link</i>) and as a thank-you they'll give you **£10** (I will receive £10 too, so thanks!) - what a nice sign-up bonus.
 
-If you sign-up with my referral link at [TopCashback](http://bit.ly/topcashbackjoin){:target="_blank"} you will receive a £5 Zeek e-Gift card (and I will receive a referral commission too, thanks!)
+Since publishing this post, the sign-up bonus for [TopCashback](http://bit.ly/topcashbackjoin){:target="_blank"} (<i>affiliate link</i>) is no longer available, however it's still worth signing up with them because they offer some different cashback deals to Quidco.
 
-It's worth signing up to both as they often have slightly different deals and payout amounts. I always check both sites to be sure! 
-
-*EDIT: At the time of first writing this post there was no sign-up bonus for TopCashback. I notice later (on 23rd Aug 2018) that there is now a Zeek voucher sign-up bonus. It's possible that there could be further changes to either of these sign-up deals in the future and I won't necessarily be updating this post.*
+*EDIT: At the time of first writing this post there was no sign-up bonus for TopCashback, then when I checked on 23rd Aug 2018 there was a Zeek voucher sign-up bonus. In 2019 there is no longer a sign-up bonus. However, the sign-up deals are changing all the time, so please check for the latest offer on the site you're signing up with.*
     
 
 ### EXPENSE REPORT
@@ -223,7 +221,7 @@ What a difference between this month's expenses (£121.26) and June's (£28.82)!
 
 During this sales period I ran two book promotions at just under £50 each. I also had some pay per click expenses from my use of Amazon's Marketing services, which allows me to advertise my books for certain keywords.
 
-There's a new entrant to the expenses chart this month called "Blogging". Having previously purchased [Emma Drew's](https://emmadrew.info/){:target="_blank"} fabulous blogging course [**Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"}, I decided to sign-up for her subscription program #MyBlogMyBusiness. There was an introductory offer to get the first month for half-price, which is what July's £25 blogging expense was for. My goal is to learn how I can start to make money online using my website. I think there's a lot I can learn from Emma so I'm excited to see how things go.
+There's a new entrant to the expenses chart this month called "Blogging". Having previously purchased [Emma Drew's](https://emmadrew.info/){:target="_blank"} fabulous blogging course [**Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} (<i>affiliate link</i>), I decided to sign-up for her subscription program #MyBlogMyBusiness. There was an introductory offer to get the first month for half-price, which is what July's £25 blogging expense was for. My goal is to learn how I can start to make money online using my website. I think there's a lot I can learn from Emma so I'm excited to see how things go.
 
 
 ### PROFIT PROGRESS
@@ -395,11 +393,11 @@ Here's a run down of how I got on with them:
 * Create a Learn With Me page, so that I can **offer one-to-one mentoring and training** for any prospective clients
 * Create a **Media Kit** and add this to the website, so that it's easy for companies looking to work with me to find out more information
 * Create a **Rate Card** which will form part of my Media Kit, but which will only be sent out in response to enquiries (rather than being available online)
-* Grow my [**#lifedesigners email list**](/signup/signup_page.html){:target="_blank"} from 8 to 9 subscribers
+* Grow my [**Life Designers email list**](/signup/signup_page.html){:target="_blank"} from 8 to 9 subscribers
 * Increase the **domain authority** for [inspiringlifedesign.com](/){:target="_blank"} from  12 to 13
 
 ##### Courses
-* Prepare for and launch the first week of my **#PublishIn8** program. This is a trial run so I can test that the program is feasible for people to work through in the timescale (8 weeks). The program is not open to purchase yet, but you can [register your interest by **joining the waitlist**](/signup/publishin8.html){:target="_blank"} if you'd like the opportunity to do a hands-on, real-time training course (delivered via live video sessions with me) which will see you publish your first online book in just 8 weeks!
+* Prepare for and launch the first week of my **PublishIn8** program. This is a trial run so I can test that the program is feasible for people to work through in the timescale (8 weeks). The program is not open to purchase yet, but you can [register your interest by **joining the waitlist**](/signup/publishin8.html){:target="_blank"} if you'd like the opportunity to do a hands-on, real-time training course (delivered via live video sessions with me) which will see you publish your first online book in just 8 weeks!
 
 ##### Social Media
 * Grow [**Instagram**](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="nofollow"} following from 1,369 to 1,500
@@ -415,16 +413,16 @@ Here's a run down of how I got on with them:
 <br><br>
 ![July income and profit report pinterest image](/i/income_report/2018/pin201807income_profit.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ****
 
