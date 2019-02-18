@@ -113,7 +113,7 @@ Here's a break-down of where the income came from in May:
 
 ![May 2018 Income & Profit Report income pie chart](/i/income_report/201805income_pie_chart.png)
 
-Income was split across various different streams including a nice £26 from survey site [**Prolific**](http://bit.ly/prolificsurveys){:target="_blank" rel="nofollow"}, £16.35 eBay income and £9.14 matched betting earnings using [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"}. If you're interested in hearing about another Matched Betting **success story**, head over to see how much money [wannabedebtfree.com has made](https://wannabedebtfreeuk.com/2018/07/13/matched-betting-how-much-money-have-you-made/){:target="_blank"} (*SPOILER ALERT: it's a lot more than I've made*).
+Income was split across various different streams including a nice £26 from survey site [**Prolific**](http://bit.ly/prolificsurveys){:target="_blank" rel="nofollow"} (<i>affiliate link</i>), £16.35 eBay income and £9.14 matched betting earnings using [**Odds Monkey**](http://bit.ly/Odds_Monkey){:target="_blank" rel="nofollow"} (<i>affiliate link</i>). If you're interested in hearing about another Matched Betting **success story**, head over to see how much money [wannabedebtfree.com has made](https://wannabedebtfreeuk.com/2018/07/13/matched-betting-how-much-money-have-you-made/){:target="_blank"} (*SPOILER ALERT: it's a lot more than I've made*).
 
 ### EXPENSE REPORT
 Here's how my Side Hustle expenses panned out for May:
@@ -344,16 +344,16 @@ I didn't actually set specific actions for May due to being so busy in April and
 
 ![May 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201805income_profit.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ***
 
