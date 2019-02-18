@@ -1,11 +1,11 @@
 ---
 layout: "post"
-title: "Perfect Family City Breaks in Europe this Autumn"
+title: "Perfect Family City Breaks in Europe this Autumn (AD)"
 tags:
   - "2018"
   - lifestyle
   - travel
-affiliate: true
+
 ---
 <center>
 <table class="image" style="margin: 5px 5px 5px 5px; float: none;">
@@ -18,15 +18,16 @@ affiliate: true
 There are plenty of great deals going with family travel cards sweetening the deal. Below you will find a few places you might consider visiting with the kids for a few days.
 
 ### Paris 
-There’s nothing better than the [Disneyland Paris resort](https://inspiringlifedesign.com/posts/what-to-pack-to-get-most-from-dlp.html){:target="_blank"} to entertain your kids and create memories for life. If you are lucky enough to return at a later date to see more of the city and the different theme parks, consider saving on your accommodation. There's low-cost long term accommodation available in prime locations that will let you explore more. Check out the offers of [Glamour Apartments](https://www.glamourapartments.com/real-estate/long-term-rentals){:target="_blank" rel="noopener"}, they have all the conveniences you may need.
+There’s nothing better than the [Disneyland Paris resort](https://inspiringlifedesign.com/posts/what-to-pack-to-get-most-from-dlp.html){:target="_blank"} to entertain your kids and create memories for life. If you are lucky enough to return at a later date to see more of the city and the different theme parks, consider saving on your accommodation. There's low-cost long term accommodation available in prime locations that will let you explore more. Check out the offers of [Glamour Apartments](https://www.glamourapartments.com/real-estate/long-term-rentals){:target="_blank" rel="noopener"} (AD), they have all the conveniences you may need.
 
 ***
 
-<!-- START ADVERTISER: DLP Christmas -->
-<center>
-<iframe src="https://impgb.tradedoubler.com/imp?type(iframe)g(22921938)a(3052184)" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</center>
-<!-- END ADVERTISER: DLP Christmas -->
+<!-- START ADVERTISER: DLP -->
+<script type="text/javascript">
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+<!-- END ADVERTISER: DLP -->
 
 *** 
 
@@ -70,16 +71,16 @@ As you can see from this wonderful list of European places to visit, you don’t
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ***
 
@@ -101,6 +102,6 @@ In my last post I shared my [Autumn bucket list](/posts/autumn-bucket-list.html)
 </center>
 <!-- END ADVERTISER: Travelzoo from awin.com -->
 
-***
+
 
 
