@@ -4,7 +4,7 @@ title: "Create Your Freedom Plan - Part One"
 tags:
   - "2018"
   - financial freedom
-affiliate: true
+
 ---
 ![Create Your Freedom Plan header image, background sunny beach scene](/i/2018/freedom_plan_1.png)
 
@@ -44,7 +44,7 @@ I have outlined below the steps I recommend for calculating your expenses.
 <!-- END ADVERTISER: Preloved UK from awin.com -->
 <br>
 ### Calculating Your Expenses
-Since there's going to be some sums involved in this section, you may want to create a spreadsheet to log your expenses in. Alternatively, I have already created a **template spreadsheet** for my #lifedesigner subscribers. If you would like me to send you a copy of the template you can join my mailing list where you will be subscribed to receive updates from me about blog posts, side hustles and any fantastic offers I receive that I can pass onto you.
+Since there's going to be some sums involved in this section, you may want to create a spreadsheet to log your expenses in. Alternatively, I have already created a **template spreadsheet** for my Life Designer subscribers. If you would like me to send you a copy of the template you can join my mailing list where you will be subscribed to receive updates from me about blog posts, side hustles and any fantastic offers I receive that I can pass onto you.
 <script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
 <div class="ck_form_container ck_inline" data-ck-version="6">
   <div class="ck_form ck_naked">
@@ -354,16 +354,16 @@ That's all there is to it for calculating your expenses. In [**Part Two**](/post
 
 ![Create Your Freedom Plan pinterest image, background sunny beach scene](/i/2018/create-freedom-plan-1-pin.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ****
 
