@@ -5,7 +5,7 @@ tags:
   - "2018"
   - making money
   - book publishing
-affiliate: true
+
 ---
 ![5 Reasons You'll Love Publishing Books To Make Money header image on a background of book pages](/i/2018/5-reasons-youll-love-publishing-books-to-make-money.jpg)
 
@@ -197,7 +197,7 @@ If you'd like to find out more about book publishing as a side hustle, you can r
 </center>
 <!-- END ADVERTISER: Convertkit 1 -->
 
-***
+
 
 
 
