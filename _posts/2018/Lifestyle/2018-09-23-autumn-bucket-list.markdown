@@ -60,16 +60,17 @@ I had great fun carving a pumpkin for halloween a couple of years ago. I got my 
 
 ***
 
-<!-- START ADVERTISER: DLP Christmas -->
-<center>
-<iframe src="https://impgb.tradedoubler.com/imp?type(iframe)g(22921938)a(3052184)" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</center>
-<!-- END ADVERTISER: DLP Christmas -->
+<!-- START ADVERTISER: DLP -->
+<script type="text/javascript">
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+<!-- END ADVERTISER: DLP -->
 
 *** 
 
 #### 6. Eat toffee while enjoying the fireworks with family for bonfire night
-When I was a little girl we used to go to a family bonfire night at my Aunty's where we were always given homemade toffee to eat around the fire. I have no idea how to make toffee and it's not particularly something I want to have a go at, but I do love [Thornton's toffee](https://amzn.to/2OIsIUc){:target="_blank" rel="noopener"}! I'd love to buy a box for us all to share around the bonfire which I'm hoping my parents will host again this year (along with fireworks of course).
+When I was a little girl we used to go to a family bonfire night at my Aunty's where we were always given homemade toffee to eat around the fire. I have no idea how to make toffee and it's not particularly something I want to have a go at, but I do love [Thornton's toffee](https://amzn.to/2OIsIUc){:target="_blank" rel="noopener"} (<i>affiliate link</i>)! I'd love to buy a box for us all to share around the bonfire which I'm hoping my parents will host again this year (along with fireworks of course).
 <center>
 <a target="_blank"  href="https://www.amazon.co.uk/gp/product/B00P901CLC/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00P901CLC&linkCode=as2&tag=ild0b-21&linkId=7240c7da4dc83c7b39aedeb72c920473"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B00P901CLC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B00P901CLC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </center>
@@ -81,13 +82,13 @@ I'm so excited that I've recently been accepted to the Amazon Merch program, whi
 I love a good Christmas Fete. Last year I helped run a stall at my niece's primary school's fete. I'd love to go to a fete this year where I can actually wander round and see all the stalls rather than running one (although running a stall was fun in its own right!)
 
 #### 9. Make hot chocolate with marshmallows
-I love the scene in the movie [The Holiday](https://www.imdb.com/title/tt0457939/){:target="_blank" rel="nofollow" rel="noopener"} where they make hot chocolate before bedtime. As a special treat I love a good hot chocolate with whipped cream and marshmallows. I like to drink mine sat in front of the fire, possibly with some gingerbread biscuits. My favourite hot chocolate of the moment is [Hans Sloane Drinking Chocolate](https://amzn.to/2zoeYst){:target="_blank" rel="noopener"} because it comes as small pieces of chocolate which you can either melt in hot milk or hot water. It makes a really chocolatey drink - delicious!  I may combine this bucket list item with number 10...
+I love the scene in the movie [The Holiday](https://www.imdb.com/title/tt0457939/){:target="_blank" rel="nofollow" rel="noopener"} where they make hot chocolate before bedtime. As a special treat I love a good hot chocolate with whipped cream and marshmallows. I like to drink mine sat in front of the fire, possibly with some gingerbread biscuits. My favourite hot chocolate of the moment is [Hans Sloane Drinking Chocolate](https://amzn.to/2zoeYst){:target="_blank" rel="noopener"} (<i>affiliate link</i>) because it comes as small pieces of chocolate which you can either melt in hot milk or hot water. It makes a really chocolatey drink - delicious!  I may combine this bucket list item with number 10...
 <center>
 <a target="_blank"  href="https://www.amazon.co.uk/gp/product/B00MXY19XS/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00MXY19XS&linkCode=as2&tag=ild0b-21&linkId=d89d6445f3a5eff9f5d945b5c1471ed6"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B00MXY19XS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B00MXY19XS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </center>
 
 #### 10. Watch my first Christmas film of the year
-The odds are that I'll be watching [The Holiday](https://amzn.to/2NyM0iu){:target="_blank" rel="noopener"} this Autumn. It's such a heartwarming, feel good festive film. There's a few Christmas films I love, but every so often I get a craving for a particular film, and right now it's The Holiday! This would be perfect to watch as the nights draw in and the weather gets colder.
+The odds are that I'll be watching [The Holiday](https://amzn.to/2NyM0iu){:target="_blank" rel="noopener"} (<i>affiliate link</i>) this Autumn. It's such a heartwarming, feel good festive film. There's a few Christmas films I love, but every so often I get a craving for a particular film, and right now it's The Holiday! This would be perfect to watch as the nights draw in and the weather gets colder.
 <center>
 <a target="_blank"  href="https://www.amazon.co.uk/gp/product/B00IK7H6R0/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00IK7H6R0&linkCode=as2&tag=ild0b-21&linkId=f71760a000aaf3da21bd468d1b0f353d"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B00IK7H6R0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B00IK7H6R0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </center>
@@ -120,20 +121,20 @@ I would also like to tag **Charlotte** at [**Looking After Your Pennies**](https
 
 ***
 
-![Is Godiva Festival The Best Free Festival Ever, pinterest image](/i/2018/lifestyle/autumn-bucket-list-pin.png)
+![Autumn Bucket List pinterest image](/i/2018/lifestyle/autumn-bucket-list-pin.png)
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ***
 
@@ -148,11 +149,12 @@ In my last post I gave an update on my [Income and Profit progress in August](/p
 
 ***
 
-<!-- START ADVERTISER: Disneyland Paris -->
-<center>
-<script type="text/javascript" src="https://impgb.tradedoubler.com/imp?g(23203196)a(3052184)" charset="ISO-8859-1"></script>
-</center>
-<!-- END ADVERTISER: Disneyland Paris -->
+<!-- START ADVERTISER: DLP -->
+<script type="text/javascript">
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+<!-- END ADVERTISER: DLP -->
 
 ***
 
