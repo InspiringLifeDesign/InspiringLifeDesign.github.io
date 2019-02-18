@@ -6,7 +6,7 @@ tags:
   - lifestyle
   - saving money
   - events
-affiliate: true
+
 ---
 <center>
 <table class="image" style="margin: 5px 5px 5px 5px; float: none;">
@@ -105,14 +105,12 @@ This field definitely feels like it's no longer just an "add-on", but instead it
 
 ***
 
-<!-- START ADVERTISER: DLP Autumn -->
-<center>
+<!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(iframe)g(22861024)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<iframe src="'+uri +'" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
 </script>
-</center>
-<!-- END ADVERTISER: DLP Autumn -->
+<!-- END ADVERTISER: DLP -->
 
 ***
 
@@ -188,27 +186,25 @@ The dates for 2019 Godiva Festival haven't been announced yet - these tend to ge
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ***
 
 ### Previous & Next Posts
 
 <a href="/posts/how-to-get-best-results-from-your-writer.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!--
-<a href="/posts/july-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/august-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I shared [How To Get The Best Results From Your Ebook Writer](/posts/how-to-get-best-results-from-your-writer.html).<br>
-<!-- &nbsp;&nbsp;In my next post I plan to continue my series on how to start publishing your own books, covering how to work with a ghost writer. -->
-<!-- [my July 2018 Income & Profit report](/posts/july-2018-income-report.html).-->
+&nbsp;&nbsp;In my next post I share [my side hustle income & profit for August 2018](/posts/august-2018-income-report.html).
 <br>
 
 ***
@@ -221,6 +217,6 @@ In my last post I shared [How To Get The Best Results From Your Ebook Writer](/p
 </center>
 <!-- END ADVERTISER: Awin from awin.com -->
 
-***
+
 
 
