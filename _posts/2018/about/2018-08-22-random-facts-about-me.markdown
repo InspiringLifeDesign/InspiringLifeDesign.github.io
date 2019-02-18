@@ -4,7 +4,7 @@ title: "20 Really Random Facts About Me: Q&A Time"
 tags:
   - "2018"
   - about corinna
-affiliate: true
+
 ---
 <center>
 <figure>
@@ -139,16 +139,16 @@ Here's a few other blogger's random facts posts you may be interested in:
 
 ![20 Really Random Facts About Me pinterest image](/i/2018/about/random-facts-about-me-pin.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ***
 
@@ -163,16 +163,14 @@ You can find all of my online book publishing series [here](/income-hustles/book
 
 ***
 
-<!-- START ADVERTISER: DLP orange signature collection -->
-<center>
+<!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(js)g(23203196)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<sc'+'ript type="text/javascript" src="'+uri+'" charset="ISO-8859-1"></sc'+'ript>');
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
 </script>
-</center>
-<!-- END ADVERTISER: DLP orange signature collection -->
+<!-- END ADVERTISER: DLP -->
 
-***
+
 
 
 
