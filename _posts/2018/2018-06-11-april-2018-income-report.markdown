@@ -328,7 +328,7 @@ Here's a review of how I got on with the plans I made for April:
 > - *Online publishing*
 > - *Growing Inspiring Life Design site and associated social media*
 
-- I stopped spending time on matched betting and eBay. I did spend small amounts of time on [**Prolific**](http://bit.ly/prolificsurveys){:target="_blank" rel="nofollow"} to complete some surveys, but only occasionally - the money for these surveys will actually be realised in May because I didn't reach the threshold for paying out during April
+- I stopped spending time on matched betting and eBay. I did spend small amounts of time on [**Prolific**](http://bit.ly/prolificsurveys){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) to complete some surveys, but only occasionally - the money for these surveys will actually be realised in May because I didn't reach the threshold for paying out during April
 - I continued to grow my social media accounts for Inspiring Life Design and have been seeing some success
 
 > *Get stuck into the creation process for at least one new book to publish*
@@ -359,7 +359,7 @@ Here's a review of how I got on with the plans I made for April:
 -- [**Facebook Page**](https://www.facebook.com/inspiringlifedesign){:target="_blank" rel="nofollow"}: Stayed at 13 subscribers<br>
 -- [**YouTube**](https://www.youtube.com/channel/UCFMCt3HfmLwWyqr5QSETThQ){:target="_blank" rel="nofollow"}: Stayed at 2 subscribers<br>
 
-> *Get at least 50% of the way through [**Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} course (I'm currently 31% through)*
+> *Get at least 50% of the way through [**Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) course (I'm currently 31% through)*
 
 - Sadly I failed completely at this and didn't make any further progress. It's still on my list to do, just when I have a bit more time on my hands
 
@@ -373,16 +373,16 @@ I'm not going to list any things here in this post because it's already June as 
 
 ![April 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201804income_profit.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 <br>
 
 ***
