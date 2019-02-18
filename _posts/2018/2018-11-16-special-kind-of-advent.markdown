@@ -123,16 +123,16 @@ Whatever you choose to do, I wish you a wonderful countdown to Christmas.
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ***
 
@@ -144,4 +144,3 @@ My last post shared [how I got on with my income hustle profits in October](/pos
 &nbsp;&nbsp;My next post is another thought experiment [What Do You Do If You Only Had 10 Years Left To Live?](/posts/10-years-left-to-live.html)
 <br>
 
-***
