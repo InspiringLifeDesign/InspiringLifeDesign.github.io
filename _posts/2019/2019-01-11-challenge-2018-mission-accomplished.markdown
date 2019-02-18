@@ -87,15 +87,15 @@ Throughout last year I had various different ideas for what I might use my money
 <script type="text/javascript">
 var uri = 'https://impgb.tradedoubler.com/imp?type(inv)g(24493006)a(3052184)' + new String (Math.random()).substring (2, 11);
 document.write('<img src="'+uri +'">');
-</script>
+</script> (<i>affiliate link</i>)
 - Add it to my emergency fund (feels like a slightly boring, but sensible option)
 
 ***
 
 <!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(21911116)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=21911116" target="_BLANK"><img src="'+uri+'" border=0></a>');
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
 </script>
 <!-- END ADVERTISER: DLP -->
 
@@ -213,3 +213,4 @@ In my last post I shared [the gifts I received in my 2018 homemade advent calend
 </center>
 <!-- END ADVERTISER: Travelzoo from awin.com -->
 
+***
