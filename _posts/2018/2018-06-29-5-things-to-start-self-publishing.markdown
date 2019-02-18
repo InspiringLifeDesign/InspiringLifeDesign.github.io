@@ -38,10 +38,10 @@ The format of ebook documents currently accepted by KDP are:
 
 To get started it's best to keep things simple, hence why I would recommend starting out using Microsoft Word if you can.
 
-#### 3. Accounts with KDP and Createspace
-[KDP](https://kdp.amazon.com){:target="_blank" rel="nofollow"} and [Createspace](https://www.createspace.com){:target="_blank" rel="nofollow"} are Amazon's 2 websites which allow you to become a self publisher. You can sign up **for free** with both of these sites and once you have done so the process to upload and publish your books is very straightforward. The user interface for publishing a new book is brilliant - you are walked step-by-step through each of the required items for publication.
+#### 3. An Account with KDP
+[KDP](https://kdp.amazon.com){:target="_blank" rel="nofollow"} is Amazon's website which allows you to become a self publisher. You can sign up **for free** with this site and once you have done so the process to upload and publish your books is very straightforward. The user interface for publishing a new book is brilliant - you are walked step-by-step through each of the required items for publication.
 
-It should be noted that for both of these sites you will need to complete a US tax questionnaire before you can publish your first book and start receiving royalty payments. However there are plenty of YouTube videos offering help on how to fill the tax interview out - one of which is actually by KDP!<br><br>
+It should be noted that you will need to complete a US tax questionnaire before you can publish your first book and start receiving royalty payments. However there are plenty of YouTube videos offering help on how to fill the tax interview out - one of which is actually by KDP!<br><br>
 
 #### 4. An Account For Hiring Freelancers
 Although an account with a freelancer webiste is not essential to get started with online publishing, you may find it difficult to complete all elements of publishing your first book relying solely on your own skills. This is because there are several key elements to creating a kindle or paperback book:
@@ -54,9 +54,9 @@ Although an account with a freelancer webiste is not essential to get started wi
 
 The above list is by no means exhaustive either.
 
-I would recommend opening free accounts with [**Fiverr**](http://bit.ly/try_fiverr){:target="_blank" rel="nofollow"} and [**Upwork**](https://www.upwork.com){:target="_blank" rel="nofollow"} so that you can find people to work with on your book projects. For example, if you opt to write the book yourself you should definitely get someone else to edit it for you. If you don't fancy writing the book you may want to find a ghost writer, but then you may feel comfortable editing the book. Unless you have previous design experience you should definitely look for a good cover designer, since the cover makes a massive difference in how successful your book sales will be.
+I would recommend opening free accounts with [**Fiverr**](http://bit.ly/try_fiverr){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) and [**Upwork**](https://www.upwork.com){:target="_blank" rel="nofollow"} so that you can find people to work with on your book projects. For example, if you opt to write the book yourself you should definitely get someone else to edit it for you. If you don't fancy writing the book you may want to find a ghost writer, but then you may feel comfortable editing the book. Unless you have previous design experience you should definitely look for a good cover designer, since the cover makes a massive difference in how successful your book sales will be.
 
-[**Fiverr**](http://bit.ly/try_fiverr){:target="_blank" rel="nofollow"} started out by allowing anyone to set-up "gigs" of things that they would do for a fiver. In fact using fiver in the UK costs less than £5 due to the USD to GBP exchange rates! However, Fiverr has evolved somewhat from its early days. Only allowing gigs costing a fiver was somewhat restrictive on what people would be prepared to do, and so the ability to offer bundles or larger packages was introduced, for more money of course!
+[**Fiverr**](http://bit.ly/try_fiverr){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) started out by allowing anyone to set-up "gigs" of things that they would do for a fiver. In fact using fiver in the UK costs less than £5 due to the USD to GBP exchange rates! However, Fiverr has evolved somewhat from its early days. Only allowing gigs costing a fiver was somewhat restrictive on what people would be prepared to do, and so the ability to offer bundles or larger packages was introduced, for more money of course!
 
 Fiverr is super easy to use, you can navigate to the category of work you're looking for, then browse the gigs available. If you click on a gig you can see the package levels available. This is a really simple and economical way to get started using help from others.
 
@@ -79,7 +79,7 @@ The final thing you will need before you decide to venture into the world of sel
 
 ### Do You Want To Get Started With Online Publishing?
 
-I plan to launch a program later this year called **#publishin8**. I will show you over 8 weeks how to create and publish your very own book. If you'd like to find out more when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}. Those on the waitlist will get the opportunity to join a small test group for the first #publishin8 cycle, at a massively discounted price as I perfect the program content.
+I plan to launch a program later this year called **Publishin8**. I will show you over 8 weeks how to create and publish your very own book. If you'd like to find out more when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}. Those on the waitlist will get the opportunity to join a small test group for the first Publishin8 cycle, at a massively discounted price as I perfect the program content.
 
 ****
 
