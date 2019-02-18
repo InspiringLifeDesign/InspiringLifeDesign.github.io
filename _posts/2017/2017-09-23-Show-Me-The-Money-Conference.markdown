@@ -5,7 +5,7 @@ tags:
   - "2017"
   - blogging
   - events
-affiliate: true
+
 ---
 ![Show Me The Money Bloggers 3 Conference and the SHOMO Awards 2017 logo](/i/shomos2017.png)
 

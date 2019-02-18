@@ -4,7 +4,7 @@ title: "Starting A New Adventure"
 tags:
   - "2017"
   - about corinna
-affiliate: true
+
 ---
 ![Inspiring Life Design logo](/i/Mainlogo1500x500.jpg)
 
