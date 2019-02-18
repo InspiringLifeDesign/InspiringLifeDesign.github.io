@@ -64,7 +64,7 @@ If you’d like to spend *some* money, but are on a low budget, here’s a few t
     - Or you may want to cook a dinner of your own choosing. Going to the effort of lovingly preparing a delicious meal for your significant other will make them feel very special
     - If you go the picnic route, buy yourselves some delicious finger foods that you don’t get to eat very often so that it feels special. Sometimes we plan a cheese and antipasti type night with all sorts of goodies to snack on
 - **Create your own gift**, such as a low cost gift hamper. This is a wonderful way to wow your partner with a personalised touch. You can source things like scented candles, chocolates, wine, dvds, books and bath bombs for very reasonable prices if you shop around
-- If you'd like to buy a **Valentine's card**, consider using a cashback site such as [**TopCashback**](http://bit.ly/topcashbackjoin){:target="_blank" rel="noopener"} or [**Quidco**](http://bit.ly/quidcosignup){:target="_blank" rel="noopener"} to buy from an online retailer such as Moonpig. They have a wide variety of cards to choose from both big and small, plus if you personalise it you are likely to get mega brownie points from your loved one. At the time of publishing this post TopCashback are offering 8.32% and Quidco 7.5% cashback for Moonpig purchases
+- If you'd like to buy a **Valentine's card**, consider using a cashback site such as [**TopCashback**](http://bit.ly/topcashbackjoin){:target="_blank" rel="noopener"} (<i>affiliate link</i>) or [**Quidco**](http://bit.ly/quidcosignup){:target="_blank" rel="noopener"} (<i>affiliate link</i>) to buy from an online retailer such as Moonpig. They have a wide variety of cards to choose from both big and small, plus if you personalise it you are likely to get mega brownie points from your loved one. At the time of publishing this post TopCashback are offering 8.32% and Quidco 7.5% cashback for Moonpig purchases
 
 ***
 
@@ -88,7 +88,7 @@ If you’re not worried about being frugal where Valentines Day is concerned, he
 - If you’re **buying for a lady**, then you can never go far wrong with accessories:
   - A hand bag
   - Jewellery
-    - A few years back I received a gorgeous red heart Thomas Sabo charm for my bracelet, it was the perfect Valentine's gift! [Here's a gorgeous heart charm](https://www.awin1.com/cread.php?awinmid=5566&awinaffid=452089&clickref=&p=https%3A%2F%2Fwww.johngreed.com%2Fthomas-sabo-love-coins-affinity-red-heart-pendant){:target="_blank" rel="noopener" rel="nofollow"} that's actually on offer at £64.50 down from £129 (*correct at the time of publishing*)
+    - A few years back I received a gorgeous red heart Thomas Sabo charm for my bracelet, it was the perfect Valentine's gift! [Here's a gorgeous heart charm](https://www.awin1.com/cread.php?awinmid=5566&awinaffid=452089&clickref=&p=https%3A%2F%2Fwww.johngreed.com%2Fthomas-sabo-love-coins-affinity-red-heart-pendant){:target="_blank" rel="noopener" rel="nofollow"} (<i>affiliate link</i>) that's actually on offer at £64.50 down from £129 (*correct at the time of publishing*)
   - Underwear
   - Nightwear
   - Shoes
@@ -98,14 +98,14 @@ If you’re not worried about being frugal where Valentines Day is concerned, he
   - Accessory items such as a belt, cufflinks, a shirt or underwear
   - A technical gadget they may have been lusting after such as an apple watch, alexa device or games console
 - Splash out on **a trip away for the 2 of you** - you don’t have to do the trip over Valentine's, it could be a nice experience to gift on the day which you both then have to look forward to. Here are a few special offers I found to inspire you:
-  - **£49 for two** - [5 star Mayfair Hotel in London](https://www.awin1.com/cread.php?awinmid=5833&awinaffid=452089&p=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2Flocal-deals%2FLondon%2FRestaurant%2F311714%2FPodium-London-Hilton-on-Park-Lane%2F){:target="_blank" rel="nofollow" rel="noopener"}: 3 course lunch or dinner for two with a bottle of wine
-  - **£99 for two** - An overnight [Lake District stay for two](https://www.awin1.com/cread.php?awinmid=5833&awinaffid=452089&p=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2Fhotel-booking%2Fhotel%2F8719%2Fthe-castle-inn-hotel-keswick-by-bw-signature-collection%2F%3F%3D%26pageId%3D7d6f5ab1-d002-4b60-9ba5-b9d43b4f8f1c){:target="_blank" rel="nofollow" rel="noopener"}: Includes dinner, bed and breakfast (or for £169 you can add an extra night's stay with breakfast)
-  - **£109 for two** - [Spa day with afternoon tea](https://www.awin1.com/cread.php?awinmid=5833&awinaffid=452089&p=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2Flocal-deals%2FCumbria%2FSpa%2F311829%2FHolbeck-Ghyll-Hotel%2F){:target="_blank" rel="nofollow" rel="noopener"} in the Lakes: Includes a 25 minute treatment and a selection of finger sandwiches and cakes
-  - **£129 for two** - [Spa day at the Bristol Lido](https://www.awin1.com/cread.php?awinmid=5833&awinaffid=452089&p=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2Flocal-deals%2FBristol%2FSpa%2F312009%2F){:target="_blank" rel="nofollow" rel="noopener"}: Includes a 60 minute treatment, tapas lunch, a glass of prosecco and 20% off spa products
-  - **£159 for two** - [5 star central London hotel stay](https://www.awin1.com/cread.php?awinmid=5833&awinaffid=452089&p=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2Fhotel-booking%2Fhotel%2F6445%2Fandaz-london-liverpool-street%2F%3F%3D%26pageId%3Da4b9b63c-3b00-4304-9b9e-170de20b196b){:target="_blank" rel="nofollow" rel="noopener"}: With late 2pm check-out and full english breakfast
+  - **£49 for two** - [5 star Mayfair Hotel in London](https://www.awin1.com/cread.php?awinmid=5833&awinaffid=452089&p=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2Flocal-deals%2FLondon%2FRestaurant%2F311714%2FPodium-London-Hilton-on-Park-Lane%2F){:target="_blank" rel="nofollow" rel="noopener"} (<i>affiliate link</i>): 3 course lunch or dinner for two with a bottle of wine
+  - **£99 for two** - An overnight [Lake District stay for two](https://www.awin1.com/cread.php?awinmid=5833&awinaffid=452089&p=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2Fhotel-booking%2Fhotel%2F8719%2Fthe-castle-inn-hotel-keswick-by-bw-signature-collection%2F%3F%3D%26pageId%3D7d6f5ab1-d002-4b60-9ba5-b9d43b4f8f1c){:target="_blank" rel="nofollow" rel="noopener"} (<i>affiliate link</i>): Includes dinner, bed and breakfast (or for £169 you can add an extra night's stay with breakfast)
+  - **£109 for two** - [Spa day with afternoon tea](https://www.awin1.com/cread.php?awinmid=5833&awinaffid=452089&p=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2Flocal-deals%2FCumbria%2FSpa%2F311829%2FHolbeck-Ghyll-Hotel%2F){:target="_blank" rel="nofollow" rel="noopener"} (<i>affiliate link</i>) in the Lakes: Includes a 25 minute treatment and a selection of finger sandwiches and cakes
+  - **£129 for two** - [Spa day at the Bristol Lido](https://www.awin1.com/cread.php?awinmid=5833&awinaffid=452089&p=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2Flocal-deals%2FBristol%2FSpa%2F312009%2F){:target="_blank" rel="nofollow" rel="noopener"} (<i>affiliate link</i>): Includes a 60 minute treatment, tapas lunch, a glass of prosecco and 20% off spa products
+  - **£159 for two** - [5 star central London hotel stay](https://www.awin1.com/cread.php?awinmid=5833&awinaffid=452089&p=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2Fhotel-booking%2Fhotel%2F6445%2Fandaz-london-liverpool-street%2F%3F%3D%26pageId%3Da4b9b63c-3b00-4304-9b9e-170de20b196b){:target="_blank" rel="nofollow" rel="noopener"} (<i>affiliate link</i>): With late 2pm check-out and full english breakfast
 - If you really want to push the boat out and dazzle your significant other with a magical experience, then a **Disneyland Paris short break** would make the most wonderful surprise. Here's a couple of offers I found:
-  - [**Up to 25% off**](https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=24470490){:target="_blank" rel="nofollow" rel="noopener"} your Disney hotel and ticket package plus a **free half board meal plan** if you book by 11th February for 2, 3 or 4 nights between 2nd April to 6th November 2019
-  - [**Up to 40% off**](https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=24493008){:target="_blank" rel="nofollow" rel="noopener"} your hotel and park tickets if you book by 31st March for 2, 3 or 4 nights until 1st April 2019
+  - [**Up to 25% off**](https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=24470490){:target="_blank" rel="nofollow" rel="noopener"} (<i>affiliate link</i>) your Disney hotel and ticket package plus a **free half board meal plan** if you book by 11th February for 2, 3 or 4 nights between 2nd April to 6th November 2019
+  - [**Up to 40% off**](https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=24493008){:target="_blank" rel="nofollow" rel="noopener"} (<i>affiliate link</i>) your hotel and park tickets if you book by 31st March for 2, 3 or 4 nights until 1st April 2019
 
 ***
 
@@ -198,4 +198,4 @@ In my last post I shared [my 8 goals for 2019](/posts/goals-to-accomplish-2019.h
 </center>
 <!-- END ADVERTISER: John Greed Jewellery from awin.com -->
 
-
+***
