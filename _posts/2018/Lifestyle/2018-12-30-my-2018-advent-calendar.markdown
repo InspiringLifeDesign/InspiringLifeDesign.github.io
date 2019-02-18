@@ -4,7 +4,7 @@ title: "My 2018 Advent Calendar"
 tags:
   - "2018"
   - lifestyle
-affiliate: true
+
 ---
 
 {% include youtube.html videoid="p3RtC_H3Wt8" %}
@@ -112,11 +112,12 @@ I would highly recommend having fun with this kind of homemade advent calendar i
 
 *** 
 
-<!-- START ADVERTISER: DLP main offer -->
+<!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(21911116)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=21911116" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script><!-- END ADVERTISER: DLP main offer -->
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+<!-- END ADVERTISER: DLP -->
 
 ***
 
@@ -124,16 +125,16 @@ document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ***
 
@@ -155,6 +156,5 @@ In my last post I reviewed [my 2018 goals](/posts/2018-goals-review.html).<br>
 <!-- END ADVERTISER: Emma Drew turn your dreams course -->
 </center>
 
-***
 
 
