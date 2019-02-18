@@ -5,7 +5,7 @@ tags:
   - "2018"
   - saving money
   - challenge2018
-affiliate: true
+
 ---
 ![Let's get £1,000 richer this year £1,000 challenge image](/i/one-thousand-challenge.png)
 
