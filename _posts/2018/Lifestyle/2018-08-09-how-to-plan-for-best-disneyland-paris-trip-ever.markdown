@@ -6,7 +6,7 @@ tags:
   - lifestyle
   - disney
   - saving money
-affiliate: true
+
 ---
 ![How To Plan For The Best Disneyland Paris Trip Ever, Disneyland Hotel photo](/i/2018/disney/disneyland-hotel-day.png)
 
@@ -136,14 +136,12 @@ Next time we look to go I'll definitely be checking out a few other country's we
 
 ***
 
-<!-- START ADVERTISER: DLP Book by 1st October -->
-<center>
+<!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
 var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
 document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
 </script>
-</center>
-<!-- END ADVERTISER: DLP Book by 1st October -->
+<!-- END ADVERTISER: DLP -->
 
 ***
 
@@ -234,14 +232,12 @@ For our 4 night stay we had the Plus half-board package. With this we had a love
 
 ***
 
-<!-- START ADVERTISER: DLP orange signature collection -->
-<center>
+<!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(js)g(23203196)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<sc'+'ript type="text/javascript" src="'+uri+'" charset="ISO-8859-1"></sc'+'ript>');
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
 </script>
-</center>
-<!-- END ADVERTISER: DLP orange signature collection -->
+<!-- END ADVERTISER: DLP -->
 
 ***
 
@@ -286,16 +282,16 @@ There are some similarites between the MagiPark app and the official Disneyland 
 <br><br>
 ![How To Plan For The Best Disneyland Paris Trip Ever Pinterest image](/i/2018/disney/how-to-plan-for-dlp-pin.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ****
 
@@ -308,12 +304,10 @@ In my last post I updated you on [my June 2018 Income & Profit Report](/posts/ju
 
 ***
 
-<!-- START ADVERTISER: DLP Christmas -->
-<center>
+<!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(iframe)g(22921938)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<iframe src="'+uri +'" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');
-</script></center>
-<!-- END ADVERTISER: DLP Christmas -->
-
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
+</script>
+<!-- END ADVERTISER: DLP -->
 ***
