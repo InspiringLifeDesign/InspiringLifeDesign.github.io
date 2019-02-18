@@ -5,7 +5,7 @@ tags:
   - "2018"
   - lifestyle
   - thought experiments
-affiliate: true
+
 ---
 <center>
 <table class="image" style="margin: 5px 5px 5px 5px; float: none;">
@@ -117,20 +117,20 @@ Here's the other responses to this question so far:
 
 ***
 
-![Is Godiva Festival The Best Free Festival Ever, pinterest image](/i/2018/thought-experiments/thought-experiment-1-pin.png)
+![Thought experiment number 1 pinterest image](/i/2018/thought-experiments/thought-experiment-1-pin.png)
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ***
 
@@ -151,6 +151,5 @@ In my last post I wrote about [Perfect Family City Breaks In Europe](/posts/perf
 </center>
 <!-- END ADVERTISER: Turn Your Dreams Into Money -->
 
-***
 
 
