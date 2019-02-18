@@ -4,7 +4,7 @@ title: "June 2018 Income & Profit Report"
 tags:
   - "2018"
   - income and profit reports
-affiliate: true
+
 ---
 ![June 2018 Income & Profit Report header](/i/Income-and-profit-header.png)
 
@@ -369,16 +369,16 @@ Here's how I got on:
 <br><br>
 ![June 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201806income_profit.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ****
 
@@ -397,7 +397,6 @@ My last post I talked about [how to pick a profitable book niche](/posts/How-To-
 </center>
 <!-- END ADVERTISER: Emma Drew turn your dreams course -->
 
-***
 
 
 
