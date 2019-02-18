@@ -186,7 +186,7 @@ Surveys and blogging brought in some income during November, but by December bot
 
 During both November and December Kindle book sale income was the clear winner, with royalties from paperback book sales coming second.
 
-I continued to make a small amount of money from selling my unwanted items on eBay, and from cashback sites [**Quidco**](http://bit.ly/quidcosignup){:target="_blank" rel="noopener"} and [**TopCashback**](http://bit.ly/topcashbackjoin){:target="_blank" rel="noopener"}.
+I continued to make a small amount of money from selling my unwanted items on eBay, and from cashback sites [**Quidco**](http://bit.ly/quidcosignup){:target="_blank" rel="noopener"} (<i>affiliate link</i>) and [**TopCashback**](http://bit.ly/topcashbackjoin){:target="_blank" rel="noopener"} (<i>affiliate link</i>).
 
 
 ### EXPENSE REPORT
@@ -440,13 +440,13 @@ Here's a run down of how I got on with these actions in November and December:
 * <span style="color:green">**DONE**</span> The DA increased to 18 near the end of December
 
 ##### Courses
-> ***Gather half-way feedback** from the participants of my [**#Publishin8 program**](/signup/publishin8.html){:target="_blank" rel="noopener"}*
+> ***Gather half-way feedback** from the participants of my [**Publishin8 program**](/signup/publishin8.html){:target="_blank" rel="noopener"}*
 * <span style="color:orange">**PART DONE**</span> I got valuable feedback from one of the participants, but should get more
 
-> ***Complete the week 5 #publishin8 call** preparation, run the call itself and upload supporting materials to Facebook Group afterward*
+> ***Complete the week 5 Publishin8 call** preparation, run the call itself and upload supporting materials to Facebook Group afterward*
 * <span style="color:green">**DONE**</span> This was the last Publishin8 training call to be held in 2018, the remaining 3 have been rescheduled for the early part of 2019
 
-> ***Reschedule remaining 3 #publishin8 classess** for the new year (after requests from participants to take time-out for busy Christmas period)*
+> ***Reschedule remaining 3 Publishin8 classess** for the new year (after requests from participants to take time-out for busy Christmas period)*
 * <span style="color:green">**DONE**</span> As per previous comment, these classes were moved to late January/February at the participants' request
 
 ##### YouTube
@@ -518,8 +518,8 @@ You can find all my [previous 2018 income and profit reports here](/financial-fr
 
 <!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(21911116)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=21911116" target="_BLANK"><img src="'+uri+'" border=0></a>');
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
 </script>
 <!-- END ADVERTISER: DLP -->
 
