@@ -5,7 +5,7 @@ tags:
   - "2018"
   - lifestyle
   - thought experiments
-affiliate: true
+
 ---
 <center>
 <table class="image" style="margin: 5px 5px 5px 5px; float: none;">
@@ -65,12 +65,12 @@ I definitely wouldn’t go back to working in an office job, but I think I would
 
 ***
 
-<!-- START ADVERTISER: DLP main offer -->
+<!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(21911116)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=21911116" target="_BLANK"><img src="'+uri+'" border=0></a>');
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
 </script>
-<!-- END ADVERTISER: DLP main offer -->
+<!-- END ADVERTISER: DLP -->
 
 ***
 
@@ -148,14 +148,12 @@ Here's the other responses people have written for the scenario where they only 
 
 ***
 
-<!-- START ADVERTISER: DLP Winter 2018/Spring 2019 offer -->
-<center>
+<!-- START ADVERTISER: DLP -->
 <script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(21742398)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=21742398" target="_BLANK"><img src="'+uri+'" border=0></a>');
+var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
+document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
 </script>
-</center>
-<!-- END ADVERTISER: DLP Winter 2018/Spring 2019 offer -->
+<!-- END ADVERTISER: DLP -->
 
 ***
 
@@ -163,16 +161,16 @@ document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g
 
 ***
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ***
 
@@ -193,6 +191,5 @@ In my last post I wrote about [a special kind of advent calendar](/posts/special
 </center>
 <!-- END ADVERTISER: Turn Your Dreams Into Money -->
 
-***
 
 
