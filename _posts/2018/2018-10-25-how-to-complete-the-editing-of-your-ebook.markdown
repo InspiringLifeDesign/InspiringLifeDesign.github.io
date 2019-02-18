@@ -5,7 +5,7 @@ tags:
   - "2018"
   - book publishing
   - making money
-affiliate: true
+
 ---
 
 ![How to complete the editing of your ebook header image](/i/2018/publishing/how-to-complete-the-editing-header.png)
@@ -181,5 +181,3 @@ You may find these other posts about getting started with book publishing useful
 
 <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <!-- END ADVERTISER: Amazon Prime -->
-
-***
