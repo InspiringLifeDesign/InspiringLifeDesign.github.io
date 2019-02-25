@@ -415,9 +415,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/my-january-2019-monthly-goals-update.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/goals-to-accomplish-2019.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/financially-free-update.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I shared the progress I made toward [my 2019 goals in January](/posts/my-january-2019-monthly-goals-update.html).<br>
-<!-- &nbsp;&nbsp;In my next post I share [my 8 goals for 2019](/posts/goals-to-accomplish-2019.html). -->
+&nbsp;&nbsp;In my next post I give an update on [my progress toward becoming financially free](/posts/financially-free-update.html).
 <br><br>
 You can find all my [previous income and profit reports here](/financial-freedom/income-and-profit-reports.html).
 
