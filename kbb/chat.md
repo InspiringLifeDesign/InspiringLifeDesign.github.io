@@ -37,7 +37,7 @@ For us Europeans this free training is in the **middle of the night**. That's 1a
   <img src="/i/Buttons/facebook-signup.png" alt="Sign-up for my Facebook live chat (button)">
 </a>
 
-
+<sub>I am an independent Mastermind.com TM Affiliate, not an employee. I receive referral payments from Mastermind.com TM. The opinions expressed here are my own and are not official statements of Mastermind.com TM or its parent company, Mastermind.com LLC.</sub>
 
 
 
