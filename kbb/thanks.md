@@ -6,10 +6,11 @@ layout: "no_sidebar_no_breadcrumb"
 <center>
   <img src="/i/2019/kbb/thank-you.png" alt="Thank you message from Corinna, now for some next steps">
 </center>
+<br>
+<sub>This page contains affiliate links</sub><br>
 
 ### 1. Make sure you secure your place for Tony's free online training
-<sub>This page contains affiliate links</sub><br>
-Just in case you haven't already reserved your seat - make sure you do right NOW!
+In case you haven't already reserved your seat - make sure you do right NOW!
 
 <a href="https://cl518.isrefer.com/go/opt-in/a1899" target="_blank">
   <img src="/i/Buttons/reserve-seat.png" alt="Reserve Your Seat NOW button">
@@ -31,6 +32,7 @@ This free training is in the **middle of the night** for many (1am UK time, 2am 
 <a href="https://www.facebook.com/events/830459853999381" target="_blank">
   <img src="/i/Buttons/facebook-signup.png" alt="Sign-up for my Facebook live chat (button)">
 </a>
+<br>
 
 ### 3. Take a look around Inspiring Life Design while you're here
 
