@@ -36,15 +36,29 @@ This free training is in the **middle of the night** for many (1am UK time, 2am 
 
 ### 3. Take a look around Inspiring Life Design while you're here
 
-#### How Tony Robbins changed my life
-
-#### Why You'll Love Publishing Books To Make Money
+<center>
+<table width="400" style="margin: 5px 5px 5px 5px;">
+<tr>
+<td>
+<h4>How Tony Robbins changed my life</h4>
+{% include youtube.html videoid="QCYu8z9pQo4" %}
+</td>
+</tr>
+<tr>
+<td>
+<h4>10 Easy Things I Do To Save Money</h4>
+{% include youtube.html videoid="QCYu8z9pQo4" %}
+</td>
+</tr>
+<tr>
+<h4>Why You'll Love Publishing Books To Make Money</h4>
+</tr>
+</table>
+</center>
 
 #### How To Get Started With Self Publishing Books
 
 #### Get Extra Cash In your Pocket This Week
-
-#### 10 Easy Things I do To Save Money
 
 #### What Would You Do If You Got Given £1 Million?
 
