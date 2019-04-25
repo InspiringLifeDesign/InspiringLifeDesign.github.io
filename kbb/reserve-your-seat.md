@@ -10,7 +10,7 @@ layout: "landing_page"
 <br>
 
 <center>
-<table width="500" style="margin: 5px 5px 5px 5px;">
+<table width="400" style="margin: 5px 5px 5px 5px;">
 <tr>
 <td>
 <img src='/i/Cory.jpg' alt='Photo of Corinna' style="width: 100px; height: 100px; margin: 0 10px 10px 0px; float: left;">
