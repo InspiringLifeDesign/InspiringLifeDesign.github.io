@@ -37,7 +37,7 @@ This free training is in the **middle of the night** for many (1am UK time, 2am 
 ### 3. Take a look around Inspiring Life Design while you're here
 
 <center>
-<table width="400" style="margin: 5px 5px 5px 5px;">
+<table width="350" style="margin: 5px 5px 5px 5px;">
 <tr>
 <td>
 <h4>How Tony Robbins changed my life</h4>
