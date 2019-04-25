@@ -9,12 +9,8 @@ layout: "landing_page"
 
 <br>
 
-<div class="container">
- <div class="row">	
-  <div class="main col-md-10">
-  <center>
-
-<table style="margin: 5px 5px 5px 5px; float: none;">
+<center>
+<table width="700" style="margin: 5px 5px 5px 5px;">
 <tr>
 <td>
 <img src='/i/Cory.jpg' alt='Photo of Corinna' style="width: 100px; height: 100px; margin: 0 10px 10px 0px; float: left;">
@@ -25,9 +21,7 @@ I am <b>so excited</b> to have partnered with Tony, Dean and Russell bringing yo
 </tr>
 </table>
 </center>
-  </div>
- </div>
-</div>
+
 
 <center> 
 <h2>Sign up here...</h2>
