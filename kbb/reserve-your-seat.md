@@ -14,7 +14,7 @@ layout: "landing_page"
   <div class="main col-md-10">
   <center>
 
-<img src='/i/Cory.jpg' alt='Photo of Corinna' style="width: 100px; height: 100px; margin: 0 10px 10px 100px; float: left;">
+<img src='/i/Cory.jpg' alt='Photo of Corinna' style="width: 100px; height: 100px; margin: 0 10px 10px 0px; float: left;">
 
 <table style="margin: 5px 5px 5px 5px; float: none;">
 <tr>
