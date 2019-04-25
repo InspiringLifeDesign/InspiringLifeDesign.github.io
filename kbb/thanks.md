@@ -47,22 +47,25 @@ This free training is in the **middle of the night** for many (1am UK time, 2am 
 <tr>
 <td>
 <h4>10 Easy Things I Do To Save Money</h4>
-{% include youtube.html videoid="QCYu8z9pQo4" %}
+{% include youtube.html videoid="sDcBibF5bwg" %}
 </td>
 </tr>
 <tr>
+<td>
 <h4>Why You'll Love Publishing Books To Make Money</h4>
+<a href="/posts/5-money-making-reasons-to-publish-books.html"><img src="/i/2018/5-reasons-youll-love-publishing-books-to-make-money.jpg" alt="5 reasons you will love publishing books to make money header image"></a>
+</td>
+</tr>
+<tr>
+<td>
+<h4>Make Instant Cash This Week</h4>
+<a href="/posts/cash-this-week.html"><img src="/i/cash_this_week.png" alt="Make instant money this week header image"></a>
+</td>
 </tr>
 </table>
 </center>
 
-#### How To Get Started With Self Publishing Books
-
-#### Get Extra Cash In your Pocket This Week
-
-#### What Would You Do If You Got Given £1 Million?
-
-#### What If You Only Have 10 Years Left To Live?
+### 4. See You On Tuesday April 30th - hopefully on the Facebook Live chat, or if not, on the Live Tony Robbins training call...
 
 ***
 
