@@ -34,9 +34,14 @@ This free training is in the **middle of the night** for many (1am UK time, 2am 
 </a>
 <br>
 
-### 3. Take a look around Inspiring Life Design while you're here
+### 3. Grab your **BONUS** welcome video
+<a href="/kbb/bonus" target="_blank">
+  <img src="/i/2019/kbb/YT-bonus.png" alt="Link to bonus video about getting paid to impact people's lives within the self education industry">
+</a>
+<br>
 
-<center>
+### 4. Take a look around Inspiring Life Design while you're here
+
 <table width="350" style="margin: 5px 5px 5px 5px;">
 <tr>
 <td>
@@ -63,9 +68,8 @@ This free training is in the **middle of the night** for many (1am UK time, 2am 
 </td>
 </tr>
 </table>
-</center>
 
-### 4. See You On Tuesday April 30th - hopefully on the Facebook Live chat, or if not, on the Live Tony Robbins training call...
+### 5. See You On Tuesday April 30th - hopefully on the Facebook Live chat, or if not, on the Live Tony Robbins training call...
 
 ***
 
