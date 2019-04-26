@@ -12,7 +12,7 @@ layout: "no_sidebar_no_breadcrumb"
 ### 1. Make sure you secure your place for Tony's free online training
 In case you haven't already reserved your seat - make sure you do right NOW!
 
-<a href="https://cl518.isrefer.com/go/opt-in/a1899" target="_blank">
+<a href="https://cl518.isrefer.com/go/opt-in/a1899">
   <img src="/i/Buttons/reserve-seat.png" alt="Reserve Your Seat NOW button">
 </a>
 <br>
