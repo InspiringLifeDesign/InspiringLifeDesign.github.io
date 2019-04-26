@@ -19,12 +19,20 @@ layout: "landing_page"
 I am <b>so excited</b> to have partnered with Tony, Dean and Russell bringing you this exciting <b>free online training</b>. I'll keep you posted on Tony's free event PLUS value packed, money making content from me at Inspiring Life Design. 
 </td>
 </tr>
+<tr>
+<td>
+<h3><b>WELCOME BONUS:</b></h3>
+<h4>I'll send you a special value-packed Tony Robbins & Dean Graziosi video as a thank you for signing up</h4>
+<center>
+<h2>sign-up now!</h2>
+</center>
+</td>
+</tr>
 </table>
 </center>
 
 
 <center> 
-<h2>Sign up here...</h2>
   
 <script async data-uid="180aaffcaf" src="https://f.convertkit.com/180aaffcaf/8cf3dc13b9.js"></script>
 </center>
