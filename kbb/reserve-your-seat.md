@@ -4,7 +4,7 @@ layout: "landing_page"
 ---
 
 <center>
-<img src='/i/2019/kbb/live-training.jpg' alt='Tony Robbins, Dean Graziosi and Russell Brunson will reveal their best kept impact and income secrets'>
+<img src='/i/2019/kbb/live-training.png' alt='Tony Robbins, Dean Graziosi and Russell Brunson will reveal their best kept impact and income secrets'>
 </center>
 
 <br>
