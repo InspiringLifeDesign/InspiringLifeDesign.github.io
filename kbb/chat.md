@@ -1,8 +1,13 @@
 ---
-layout: "no_sidebar"
-title: Free Tony Robbins Live Training...
+layout: "landing_page"
+
 ---
+
+   <script type="text/javascript">
+      window.location='/kbb/reserve-your-seat';
+   </script>
     
+# Free Tony Robbins Live Training...
 ## With Dean Graziosi and Russell Brunson
 
 <sub>This page contains an affiliate link</sub>
