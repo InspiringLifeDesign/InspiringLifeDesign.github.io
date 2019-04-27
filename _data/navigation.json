@@ -13,16 +13,12 @@
                     "url": "/financial-freedom/income-and-profit-reports.html"
                },
                {
-                 "title": "Thought Experiments",
-                 "url": "/tag/thought-experiments.html"
-               },
-               {
-                 "title": "Become A #LifeDesigner",
+                 "title": "Become A Life Designer",
                  "url": "/signup/signup_page.html"
                },
                {
-                    "title": "#Challenge2018 Progress",
-                    "url": "/challenge_2018.html"
+                 "title": "Thought Experiments",
+                 "url": "/tag/thought-experiments.html"
                }
 
             ]
@@ -50,24 +46,28 @@
             "url": "/tag/lifestyle.html",
             "submenu": [
               {
-                "title": "Events",
-                "url": "/tag/events.html"
+                "title": "Goals",
+                "url": "/tag/goals.html"
               },
               {
                 "title": "Disney",
                 "url": "/lifestyle/disney/index.html"
               },
               {
+                "title": "Events",
+                "url": "/tag/events.html"
+              },
+              {
                 "title": "Travel",
                 "url": "/tag/travel.html"
               },
               {
-                "title": "Goals",
-                "url": "/tag/goals.html"
-              },
-              {
                 "title": "Charity",
                 "url": "/tag/charity.html"
+              },
+              {
+                "title": "Guest Posts",
+                "url": "/guest-posts/guest-posts.html"
               }
             ]
         },
