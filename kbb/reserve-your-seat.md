@@ -25,7 +25,10 @@ I am <b>so excited</b> to have partnered with Tony, Dean and Russell bringing yo
 <h4>I'll send you a special value-packed Tony Robbins & Dean Graziosi video as a thank you for signing up</h4>
 <center>
 <h2>sign-up here, then <b>check your email</b> for your welcome bonus</h2>
-<i>Please check your email provider's spam/promotions folders if you don't immediately find your email from <b>Inspiring Life Design</b>, sometimes these emails get hidden!</i>.
+<center>
+<img src='/i/2019/kbb/email-gif.gif' alt='How to ensure you get the your bonus email'>
+</center>
+<i>Please check your email provider's spam/promotions folders if you don't immediately find your email from <b>Inspiring Life Design</b>, then drag the email into your inbox!</i>.
 </center>
 </td>
 </tr>
