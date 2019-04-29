@@ -2,6 +2,10 @@
 layout: "no_sidebar_no_breadcrumb"
 
 ---
+<!-- Event snippet for Signed up to ILD from KBB conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-746031435/QUWHCN3U8JoBEMuS3uMC'});
+</script>
 
 <center>
   <img src="/i/2019/kbb/thank-you.png" alt="Thank you message from Corinna, now for some next steps">
