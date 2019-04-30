@@ -4,7 +4,7 @@ layout: "landing_page"
 ---
 
   <script type="text/javascript">
-      window.location='/kbb/reserve-your-seat';
+      window.location='https://cl518.isrefer.com/go/opt-in/a1899';
     </script>
 
 # Free Tony Robbins Live Training...    
