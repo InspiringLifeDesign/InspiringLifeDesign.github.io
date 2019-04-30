@@ -3,6 +3,15 @@ layout: "no_sidebar_no_breadcrumb"
 
 ---
 
+<h1>
+<center>
+
+Countdown To Once-In-A-Lifetime Live Training:
+<p id="demo"></p>
+
+</center>
+</h1>
+
 <center>
   <img src="/i/2019/kbb/live-training.png" alt="Tony, Dean & Russel live training on April 30th 2019">
 </center>
@@ -88,3 +97,39 @@ Corinna writes at Inspiring Life Design and creates videos for YouTube. Discover
 
 <br>
 <sub>I am an independent Mastermind.com TM Affiliate, not an employee. I receive referral payments from Mastermind.com TM. The opinions expressed here are my own and are not official statements of Mastermind.com TM or its parent company, Mastermind.com LLC.</sub>
+
+<!-- Display the countdown timer in an element -->
+
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("May 1, 2019 01:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get todays date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "THE EVENT IS HAPPENING!";
+  }
+}, 1000);
+</script>
+
+
