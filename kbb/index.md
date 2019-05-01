@@ -4,7 +4,7 @@ layout: "landing_page"
 ---
 
   <script type="text/javascript">
-      window.location='http://dgachieve.com/kbb-replay?affiliate=1899';
+      window.location='https://cl518.isrefer.com/go/kbbreplay/a1899';
     </script>
 
 # Purchase The Knowledge Business Blueprint   
@@ -13,7 +13,7 @@ layout: "landing_page"
 ***
 
 ### If you liked what you saw from Tony, Dean and Russell and are ready to buy the Knowledge Business Blueprint, you can do so here:
-<a href="dgachieve.com/kbb-replay?affiliate=1899"><h3>BUY NOW!</h3></a>
+<a href="https://cl518.isrefer.com/go/kbborder/a1899"><h3>BUY NOW!</h3></a>
 <br>
 
 
