@@ -4,7 +4,7 @@ layout: "landing_page"
 ---
 
   <script type="text/javascript">
-      window.location='dgachieve.com/kbb-replay?affiliate=1899';
+      window.location='http://dgachieve.com/kbb-replay?affiliate=1899';
     </script>
 
 # Purchase The Knowledge Business Blueprint   
