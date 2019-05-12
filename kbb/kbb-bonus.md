@@ -8,7 +8,7 @@ layout: "landing_page"
 <h1>
 BONUS offer expires<br>
 13th May midnight PST &nbsp;&nbsp;||&nbsp;&nbsp; 14th May 8am BST<br>
-<p id="demo"></p>
+<span id="demo"></span>
 </h1>
 <sub>This page contains affiliate links</sub><br><br>
 
