@@ -10,6 +10,9 @@ BONUS offer expires<br>
 13th May midnight PST &nbsp;&nbsp;||&nbsp;&nbsp; 14th May 8am BST<br>
 <span id="demo"></span>
 </h1>
+
+<img src="/i/Mainlogo1500x500.jpg" alt="Inspiring Life Design logo" width="0" height="0">
+
 <sub>This page contains affiliate links</sub><br><br>
 
 {% include vimeo.html vimeoid="335513065" %}
