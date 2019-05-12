@@ -26,6 +26,8 @@ BONUS offer expires<br>
 <a href="https://cl518.isrefer.com/go/kbborder/a1899" target="_blank">
   <img src="/i/Buttons/kbb-buy-now.png" alt="KBB buy now button">
 </a>
+<br><br>
+<sub>I am an independent Mastermind.com TM Affiliate, not an employee. I receive referral payments from Mastermind.com TM. The opinions expressed here are my own and are not official statements of Mastermind.com TM or its parent company, Mastermind.com LLC.</sub>
 
 </center>
 
