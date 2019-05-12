@@ -9,7 +9,7 @@ BONUS offer expires<br>
 <span id="demo"></span>
 </h1>
 
-
+<img src="/i/Mainlogo1500x500.jpg" alt="Inspiring Life Design logo" width="0" height="0">
 
 <sub>This page contains affiliate links</sub><br>
 
