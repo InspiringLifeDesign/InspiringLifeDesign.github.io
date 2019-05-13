@@ -7,7 +7,7 @@ layout: "landing_page"
 
 <h1>
 BONUS offer expires<br>
-13th May midnight PST &nbsp;&nbsp;||&nbsp;&nbsp; 14th May 8am BST<br>
+13th May 11.59pm PDT &nbsp;&nbsp;||&nbsp;&nbsp; 14th May 7.59am BST / 8.59am CEST<br>
 <span id="demo"></span>
 </h1>
 
