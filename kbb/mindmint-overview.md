@@ -2,33 +2,36 @@
 layout: "landing_page"
 
 ---
-
 <center>
-
 <h1>
 BONUS offer expires<br>
-13th May 11.59pm PDT &nbsp;&nbsp;||&nbsp;&nbsp; 14th May 7.59am BST / 8.59am CEST<br>
+13th May midnight PST  ||  14th May 8am BST<br>
 <span id="demo"></span>
 </h1>
 
 <img src="/i/Mainlogo1500x500.jpg" alt="Inspiring Life Design logo" width="0" height="0">
 
-<sub>This page contains affiliate links</sub><br><br>
+<sub>This page contains affiliate links</sub><br>
 
-{% include vimeo.html vimeoid="335513065" %}
+
+<h1>Mindmint Software Overview - how does it really work?</h1>
+
+{% include youtubewithtime.html videoid="MXLc7YqTuQs" timeid="1897" %}
+
+
+<a href="https://cl518.isrefer.com/go/kbborder/a1899" target="_blank">
+  <img src="/i/Buttons/kbb-buy-now.png" alt="KBB buy now button">
+</a>
+<img src='/i/2019/kbb/bonus-page-header.png' alt='Image offering additional bonuses for the Knowledge Business Blueprint by Tony Robbins, Dean Graziosi and Russell Brunson'>
 
 <a href="https://cl518.isrefer.com/go/kbborder/a1899" target="_blank">
   <img src="/i/Buttons/kbb-buy-now.png" alt="KBB buy now button">
 </a>
 
-<img src='/i/2019/kbb/bonus-page-header.png' alt='Header image offering additional bonuses for the Knowledge Business Blueprint by Tony Robbins, Dean Graziosi and Russell Brunson'>
+<br>
 
-<a href="https://cl518.isrefer.com/go/kbborder/a1899" target="_blank">
-  <img src="/i/Buttons/kbb-buy-now.png" alt="KBB buy now button">
-</a>
-<br><br>
+<br>
 <sub>I am an independent Mastermind.com TM Affiliate, not an employee. I receive referral payments from Mastermind.com TM. The opinions expressed here are my own and are not official statements of Mastermind.com TM or its parent company, Mastermind.com LLC.</sub>
-
 </center>
 
 <!-- Display the countdown timer in an element -->
@@ -72,9 +75,3 @@ BONUS offer expires<br>
 
     }, second);
 </script>
-
-
-
-
-
-
