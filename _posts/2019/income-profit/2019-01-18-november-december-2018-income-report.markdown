@@ -14,7 +14,7 @@ affiliate: true
 
 First for a few words about what I got up to in November and December. 
 
-One of my favourite things to do is wine tasting. I've been lucky to have quite a few opportunities to go wine tasting in the past, and in November I went on one of the best tasting events so far. We were invited to a private wine tasting in the cellars at [Waddesdon Manor](https://waddesdon.org.uk/your-visit/shop-eat-stay){:target="_blank"} in Buckinghamshire. I enjoyed tasting a selection of delicious red and white wines, followed by a trip to the amazing [gift shop](https://waddesdon.org.uk/shop){:target="_blank"}. Bottles of wine were bought!
+One of my favourite things to do is wine tasting. I've been lucky to have quite a few opportunities to go wine tasting in the past, and in November I went on one of the best tasting events so far. We were invited to a private wine tasting in the cellars at [Waddesdon Manor](https://waddesdon.org.uk/your-visit/shop-eat-stay){:target="_blank" rel="noopener"} in Buckinghamshire. I enjoyed tasting a selection of delicious red and white wines, followed by a trip to the amazing [gift shop](https://waddesdon.org.uk/shop){:target="_blank" rel="noopener"}. Bottles of wine were bought!
 <center>
 <figure>
     <img src='/i/2019/income-profit/nov-dec-2018/wine-tasting.png' alt='November and December Income and Profit Report, Corinna wine tasting at Waddesdon Manor'>
@@ -30,7 +30,7 @@ Later in November I travelled to London to attend the Show Me The Money UK Money
 </figure>
 </center>
 <br>
-If you read my [reverse advent calendar](/posts/special-kind-of-advent.html){:target="_blank"} post, you'll know all about my plan to support the local foodbank. At the end of November I dropped off my advent calendar box at a Tesco collection point.
+If you read my [reverse advent calendar](/posts/special-kind-of-advent.html){:target="_blank" rel="noopener"} post, you'll know all about my plan to support the local foodbank. At the end of November I dropped off my advent calendar box at a Tesco collection point.
 <center>
 <figure>
     <img src='/i/2019/income-profit/nov-dec-2018/reverse-advent.png' alt='November and December Income and Profit Report, all of the items I put into my reverse advent calendar to donate to the foodbank'>
