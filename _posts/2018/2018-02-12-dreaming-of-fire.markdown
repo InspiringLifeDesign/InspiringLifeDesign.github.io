@@ -33,9 +33,9 @@ I also uncovered calculations which I could use to determine how long it would t
 
 Back in 2016 I worked out that if I saved really (REALLY) hard, that I could feasibly achieve financial independence by the time I'm **50** (ahem...still a few years off!) However, this would require a great deal of saving and frugality on my part.
 
-Around the same time I read Tim Ferris's book [**The 4 Hour Work Week**](http://amzn.to/2nXcZ8o){:target="_blank"} (<i>affiliate link</i>). This opened my eyes to the fact that there are many ways to be able to earn extra income, and better still there are some things you can set in motion to allow you to continue to earn money with very little ongoing effort from yourself. Passive income is what we're talking about!
+Around the same time I read Tim Ferris's book [**The 4 Hour Work Week**](https://amzn.to/2W140Be){:target="_blank"} (<i>affiliate link</i>). This opened my eyes to the fact that there are many ways to be able to earn extra income, and better still there are some things you can set in motion to allow you to continue to earn money with very little ongoing effort from yourself. Passive income is what we're talking about!
 <center>
-<a target="_blank"  href="https://www.amazon.co.uk/gp/product/0091929113/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0091929113&linkCode=as2&tag=ild0b-21&linkId=57cba68b3f9832bf57f1d6be9d019eee"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=0091929113&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=0091929113" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://amzn.to/2W140Be"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=0091929113&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=0091929113" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </center>
 
 So as well as pursuing my financial independence goal by saving, I decided to boost my chances of hitting my FIRE date with some extra income from Side Hustles. I read about Kindle book publishing on one of the blogs [Financially Free By 40](http://financiallyfreeby40.com/){:target="_blank"} that I'd been following and decided to give it a go. I found a quick, free online course on youtube and plunged right in!
@@ -62,16 +62,16 @@ It's still early days for the site, I have a lot of ideas that I want to share a
 <br><br>
 ![Dreaming Of FIRE pinterest image](/i/2018/dreaming-of-fire.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ****
 
