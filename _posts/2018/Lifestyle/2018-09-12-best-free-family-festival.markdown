@@ -19,6 +19,10 @@ tags:
 
 ***
 
+**May 2019 Update:** Sadly it is no longer free to go to Coventry Godiva festival. In 2019 Coventry City Council took the decision to make the event ticketed. This means at the time of writing (May 2019) tickets cost £2 per person per day and parking will now be £10 per car per day. It's a real shame that ticketing and charges have had to be introduced. Even though it's still very cheap, for me this completely changes the easy-come, easy-go nature of what was a brilliant weekend out. I hope that this doesn't signal the end of this fab little festival.
+
+***
+
 Coventry is a city that is most definitely on the way up. With the annual [Coventry MotoFest](https://www.coventrymotofest.com/){:target="_blank"} growing in size & popularity each year, a £36 million [new water park](http://www.coventry.gov.uk/info/113/regeneration/2694/coventry_waterpark_and_leisure_centre/1){:target="_blank"} opening in 2019 as well as being crowned European City of Sport for 2019 there's a lot going on in my hometown city. Of course, let's not forget that Coventry has been named as **UK City of Culture 2021**, and it's even on the shortlist to become home to the new regional Channel 4 headquarters. Exciting times for Coventrarians!
 
 So it's not surprising that Coventry's War Memorial Park is host to the fantastic free [**Coventry Godiva Festival**](http://www.godivafestival.com/){:target="_blank"} every summer. This year, the date was a little later than normal, because earlier in the summer the BBC used the War Memorial Park to host their [Biggest Weekend](http://www.bbc.co.uk/programmes/articles/5J2zvkJvB7J3mrcpXn8XMmy/the-biggest-weekend-coventry){:target="_blank" rel="nofollow"} event.
@@ -29,6 +33,8 @@ This year I went along to Godiva Festival to check out what was on offer. I wasn
 We choose to drive to the event because it's so easy to do. On approach to the War Memorial Park there are signs directing drivers on how to get to the car park for the event. When we arrived at the entrance to the park there were plenty of volunteers directing us where to go. We got free parking just 5 minutes from the festival entrance.
 
 I should note that when we've been in previous years, if leaving near the end of a day there can be a bit of a queue to get out of the car park. However this year, we left a couple of hours before the end and drove straight out no problem.
+
+<sub><i>May 2019 edit: parking now costs £10 per day per car</i></sub>
 
 ### Quick Security Check
 These days security is at the forefront of everybody's mind. I'm pleased to say that there were careful bag searches being carried out, and it was clear that there was double-fencing up around the perimeter of the event to prevent any attempts at vehicle ramming. There were lots of lanes to go through at security so we didn't have to queue, and we also picked up a handy guide for the weekend.
@@ -163,7 +169,7 @@ We decided to head home after that, having spent several hours at the festival. 
 ### Looking For A Low Cost Summer Day Out Next Year?
 For money savers and frugalisters alike, Coventry's Godiva Festival has to be a great option. For the kid's there's even the chance to make a bit of pocket money - every year budding young entrepreneurs head around the site collecting empty beer cups which they then take to the refund desk for a small amount of cash. Not only is it fun for them, it also keeps the site's ground really clean. Win win!
 
-The dates for 2019 Godiva Festival haven't been announced yet - these tend to get released in the early months of the new year. If you'd like to be notified about Godiva 2019 you can follow on [Facebook](https://www.facebook.com/godivafestival){:target="_blank"} or [Twitter](https://twitter.com/godivafestival){:target="_blank"}, and at the bottom of the [Godiva Festival website](http://www.godivafestival.com/){:target="_blank"} there is an option to sign-up to the email list.
+**May 2019 update:** The dates for 2019 Godiva Festival are set as Fri 5th - Sun 7th July. If you'd like to go, you must now [purchase tickets in advance](https://godivatickets.co.uk/){:target="_blank" rel="nofollow" rel="noopener"}. You can find out more about Godiva 2019 by following on [Facebook](https://www.facebook.com/godivafestival){:target="_blank"} or [Twitter](https://twitter.com/godivafestival){:target="_blank"}, and at the bottom of the [Godiva Festival website](http://www.godivafestival.com/){:target="_blank"} there is an option to sign-up to the email list.
 
 *Have you ever been to Coventry Godiva Festival? Or do you know of any similar free festivals that run elsewhere? Do share in the comments so that others can get great tips on good days out.*
 
