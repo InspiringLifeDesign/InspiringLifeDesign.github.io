@@ -142,7 +142,7 @@ I haven't actually finished any of them yet, but I'm enjoying learning lots of n
 
 As well as learning as much as I can from reading, I want to try to do some sort of course or training to learn new skills. In January I booked up for some of the free drop-in sessions at my nearest Apple Store. I am going in February to learn more about video skills.
 
-In early January I discovered that I've been accepted onto the Crew for Tony Robbins' [Unleash The Power Within]( https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink){:target="_blank" rel="noopener"} (<i>affiliate link</i>) event in London this April. Which will be another great opportunity to surround myself with like-minded people and learn new things.
+In early January I discovered that I've been accepted onto the Crew for Tony Robbins' [Unleash The Power Within](https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink){:target="_blank" rel="noopener"} (<i>affiliate link</i>) event in London this April. Which will be another great opportunity to surround myself with like-minded people and learn new things.
 
 #### 6. Invest £30K into ISA's toward my longterm Financial Independence goal
 This year I want to put £20K into a 2018/2019 ISA and a further £10K into a 2019/2020 ISA. Although I am expecting an amount of money later this year from an inheritance, I don't actually have a firm idea of where the money for the ISAs is going to come from!
