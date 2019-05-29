@@ -56,7 +56,9 @@ The final thing I've changed is about pushing myself to go the extra mile in thi
 
 ****
 
-Unleash The Power Within 2018 in London starts on Thursday 19th April and runs for 4 days. I am extremely fortunate to be returning this year, but this time as a Crew member. I hope to learn a few things, discover some new products at the many stalls there, and most importantly have the opportunity to serve this year's attendees who I hope will have as an amazing experience as I did last year.
+Since writing this post, I have served as a member of Crew at Unleash The Power Within 2018 & 2019 in London. This again is a life changing experience, where we can put into practice some of the things learned after attending the event.
+
+If you are interested in attending one of Tony's amazing events you can find out about all of them at <a href="http://www.anrdoezrs.net/click-9093862-12703194" target="_top"> TonyRobbins.com</a> (<i>affiliate link</i>). If you have any questions about attending an event, drop me an email or leave a comment below, I'd be happy to answer your questions and would love to hear from you.
 <br>    
 *Have you ever attended one of Tony's events? Perhaps you too are a Firewalker? If you'd like to ask me any questions about the event I'd be happy to answer...*
 <br><br>
