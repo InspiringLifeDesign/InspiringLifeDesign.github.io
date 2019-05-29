@@ -95,20 +95,20 @@ Here are my totals so far:
 
 
 <br>
-The #LifeDesigners who've opted to join in on the [#Challenge2018 page](/challenge_2018.html){:target="_blank"} are doing fantastically well. With total savings at week 3 ranging from £31 to £47. Well done everyone - huge pats on the back all round.
+The Life Designers who've opted to join in on the [#Challenge2018 page](/challenge_2018.html){:target="_blank"} are doing fantastically well. With total savings at week 3 ranging from £31 to £47. Well done everyone - huge pats on the back all round.
 
 ![Let's get £1,000 richer this year #Challenge2018 participant progress](/i/2018/challenge2018_progress_22jan.jpg)
 
 
 ### A Novel Approach
-One of the #lifedesigners contacted me this week about a brilliant approach she has thought of for joining in the challenge. Kimba has taken the 52 box chart and set-up a bank transfer every week for one of the amounts, into a saving account. This means that she won't need to remember each week to set aside money, or worry about finding spare cash in her purse. She has basically **guaranteed her success** in the challenge! Read any of the big financial advice books on the market, and they'll tell you that automating your finances plays a major role in success.
+One of the Life Designers contacted me this week about a brilliant approach she has thought of for joining in the challenge. Kimba has taken the 52 box chart and set-up a bank transfer every week for one of the amounts, into a saving account. This means that she won't need to remember each week to set aside money, or worry about finding spare cash in her purse. She has basically **guaranteed her success** in the challenge! Read any of the big financial advice books on the market, and they'll tell you that automating your finances plays a major role in success.
 
-Well done Kimba! You've succeeded in inspiring me this week - perhaps even more #lifedesigners too when they read this!
+Well done Kimba! You've succeeded in inspiring me this week - perhaps even more Life Designers too when they read this!
 
 ### Where To Keep Your Stash
 For now, I've been saving the cash I've saved in an envelope in a safe storage space at home. However as the amount grows througout the year I think I'll feel nervous about having that amount of money in the house. Looking ahead I'm planning to pay my savings into an old bank account of mine which I haven't been using - it's perfect for holding my £1,000 stash until I'm ready to spend or invest it next year. Once I have this account set up ready to hold my #Challenge2018 cash, it will actually make it easy for me to add to the fund electronically if I want to - making transfers from my main bank account, paying in more cash, or like Kimba setting up automated payments.
 
-If you're a #LifeDesigner participating in the challenge, you may want to consider a savings account or bank account to deposit your savings into throughout the year to keep them safe.
+If you're a Life Designer participating in the challenge, you may want to consider a savings account or bank account to deposit your savings into throughout the year to keep them safe.
 
 
 <br>
