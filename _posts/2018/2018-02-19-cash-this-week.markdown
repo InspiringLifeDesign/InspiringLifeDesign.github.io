@@ -110,16 +110,16 @@ Of course there are many other sites which offer payment for completing their su
 <br><br>
 ![Get Extra Cash In Your Pocket This Week Pinterest image](/i/2018/get-extra-cash-in-your-pocket-pin.png)
 
-### Join the #lifedesigner list!
+### Join the Life Designer list!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>#lifedesigner</b> (it's completely <b>free</b>!) and you get all this:
+If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
 
 - Updates on how to make money
 - Invite to private Facebook Group
 - Advance access to Challenges, Coaching & Courses
 - Notifications whenever a new post comes out
 
-[**Join the #lifedesigner mailing list here**](/signup/signup_page).
+[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ****
 
