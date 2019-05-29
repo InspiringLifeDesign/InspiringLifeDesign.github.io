@@ -4,7 +4,7 @@ title: "20 Really Random Facts About Me: Q&A Time"
 tags:
   - "2018"
   - about corinna
-
+affiliate: true
 ---
 <center>
 <figure>
@@ -90,7 +90,7 @@ I feel like I'm still just discovering YouTube really.
 - Plus Casey's friend [Dan's](https://www.youtube.com/user/DanTheDirector1){:target="blank" rel="nofollow"} videos are good
 - I also try to watch channels which teach me how to make money with book publishing or blogging. I've watched quite a few of Stefan's [Project Life Mastery](https://www.youtube.com/channel/UCKkg7omDlPvUPxLY-dho8Pg){:target="_blank" rel="nofollow"} videos
 - I love watching [TEDx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q){:target="_blank" rel="nofollow"}
-- I watch a lot of Tony Robbins videos, both on [Tony's channel](https://www.youtube.com/user/TonyRobbinsLive){:target="_blank" rel="nofollow"} and any others I find on YouTube
+- I watch a lot of <a href="http://www.anrdoezrs.net/click-9093862-12703194" target="_top">Tony Robbins</a> (<i>affiliate link</i>) videos, both on [Tony's channel](https://www.youtube.com/user/TonyRobbinsLive){:target="_blank" rel="nofollow"} and any others I find on YouTube
 
 ### 17. How many boyfriends have you had?
 It's taken me a little while longer than some to meet "the one". I had 5 boyfriends before I met my lifetime partner, so I guess that makes 6!
