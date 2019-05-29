@@ -35,7 +35,7 @@ Looking back on 2018 I am very happy with the progress that I made. It’s easy 
 - Grew my [**Instagram**](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="nofollow" rel="noopener"} & [**Twitter**](https://twitter.com/lifedesigntoday){:target="_blank" rel="nofollow" rel="noopener"} accounts significantly
 - Launched new books in Kindle and paperback format
 - Took training in [blogging](/posts/write-about-what-you-love.html){:target="_blank"} and publishing
-- Served as a Crew Member at Tony Robbins Unleash The Power Within
+- Served as a Crew Member at <a href="http://www.anrdoezrs.net/click-9093862-12703194" target="_top">Tony Robbins</a> (<i>affiliate link</i>) Unleash The Power Within
 - Attended the [UK Money Bloggers](https://ukmoneybloggers.com/){:target="_blank"} event
 - Enjoyed a fantastic holiday in Disneyland Paris
 - Started a [**YouTube Channel**](https://www.youtube.com/channel/UCFMCt3HfmLwWyqr5QSETThQ){:target="_blank" rel="nofollow" rel="noopener"} channel
@@ -82,7 +82,7 @@ Throughout last year I had various different ideas for what I might use my money
 
 - A [Canon M50 camera](https://www.amazon.co.uk/Canon-M50-Compact-System-3-5-6-3/dp/B07B19L9NK){:target="_blank" rel="nofollow" rel="noopener"} so that I can improve my vlogging game
 - A new iPad and Apple Pencil
-- Put it toward a Tony Robbins’ Date With Destiny ticket (would probably do the challenge again this year to get another £1,000)
+- Put it toward a Tony Robbins’ <a href="http://www.kqzyfj.com/click-9093862-13505563?url=http%3A%2F%2Fstore.tonyrobbins.com%2Fproducts%2Fdate-with-destiny-ala-carte&cjsku=DWD-ALA" target="_top">Date With Destiny</a> (<i>affiliate link</i>) ticket (would probably do the challenge again this year to get another £1,000)
 - Put it toward another trip to <a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=24493006" target="_blank">Disneyland Paris</a>
 <script type="text/javascript">
 var uri = 'https://impgb.tradedoubler.com/imp?type(inv)g(24493006)a(3052184)' + new String (Math.random()).substring (2, 11);
