@@ -152,7 +152,7 @@ Once I've worked through a book once or twice checking for the above points, I'm
 
 ### Do You Want To Get Started With Online Publishing?
 
-I will be launching my **Publishin8** programme early next year. 
+I will be launching my **Publishin8** programme next year. 
 <br>
 Over the course of 8 weeks, through **live video calls with me**, you will learn how to **create and publish** your very own book. 
 <br>
