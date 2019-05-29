@@ -66,7 +66,7 @@ Hopefully we will take a 2 week holiday to Europe with family (probably France) 
 ***
 
 #### 5. Learn a new skill
-One of the favourite things I learned from <a href="http://www.anrdoezrs.net/click-9093862-12703194" target="_top"> Tony Robbins</a>' (<i>affiliate link</i>) Unleash The Power Within events, is that we should never stop learning. [Here's some of the things](/posts/changes-after-tony-robbins.html){:target="_blank" rel="noopener"} I learned in previous years. 
+One of the favourite things I learned from [Tony Robbins' Unleash The Power Within](https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink){:target="_blank" rel="noopener"} (<i>affiliate link</i>), is that we should never stop learning. [Here's some of the things](/posts/changes-after-tony-robbins.html){:target="_blank" rel="noopener"} I learned in previous years. 
 
 When we stop learning we stop growing > when we stop growing, well we become bored & stale. Or as Tony puts it:
 
@@ -98,7 +98,7 @@ At some point I intend to choose a charitable initiative to support which I can 
 #### 8. Make a plan for how/when I can attend Tony Robbins' Mastery University
 My final goal for 2019 is a planning goal. I really want to go to more Tony Robbins events. There are 3 which together form his **Mastery University** program:
 
-* <a href="http://www.kqzyfj.com/click-9093862-13505563?url=http%3A%2F%2Fstore.tonyrobbins.com%2Fproducts%2Fdate-with-destiny-ala-carte&cjsku=DWD-ALA" target="_top">
+* <a href="http://www.kqzyfj.com/click-9093862-13505563?url=http%3A%2F%2Fstore.tonyrobbins.com%2Fproducts%2Fdate-with-destiny-ala-carte&cjsku=DWD-ALA" target="_blank" rel="noopener">
 Date With Destiny</a> (<i>affiliate link</i>)
 * Life Mastery
 * Wealth Mastery
