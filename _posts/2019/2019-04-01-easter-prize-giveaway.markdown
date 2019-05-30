@@ -128,17 +128,15 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/financially-free-update.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/october-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/feb-to-apr-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I updated on my [progress toward becoming financially free](/posts/financially-free-update.html).<br>
-<!-- &nbsp;&nbsp;My next post shares [how I got on with my income hustle profits in October](/posts/october-2018-income-report.html). -->
+&nbsp;&nbsp;My next post spills the beans [on my profits for February to April 2019](/posts/feb-to-apr-2019-income-report.html).
 <br>
 
 ***
 
-<!-- START ADVERTISER: Top CashBack from awin.com -->
+<!-- START ADVERTISER: UPW Birmingham 2020 -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=158629&v=2459&q=92403&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=158629&v=2459&q=92403&r=452089" border="0">
-</a>
+<a href="https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink" target="_blank" rel="nooopener"><img src='/aff/UPW2020-early.jpg' alt='Tony Robbins Unleash The Power Within 2020 Birmingham UK' /></a>
 </center>
-<!-- END ADVERTISER: Top CashBack from awin.com -->
+<!-- END ADVERTISER: UPW Birmingham 2020 -->
