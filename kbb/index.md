@@ -4,7 +4,7 @@ layout: "landing_page"
 ---
 
   <script type="text/javascript">
-      window.location='https://cl518.isrefer.com/go/kbbreplay/a1899';
+      window.location='https://cl518.isrefer.com/go/kbborder/a1899/';
     </script>
 
 # Purchase The Knowledge Business Blueprint   
