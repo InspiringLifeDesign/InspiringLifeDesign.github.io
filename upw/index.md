@@ -4,7 +4,7 @@ layout: "landing_page"
 ---
 
   <script type="text/javascript">
-      window.location=' https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink';
+      window.location='https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink';
     </script>
 
 # Tony Robbins Unleash The Power Within
