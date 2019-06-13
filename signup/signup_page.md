@@ -5,7 +5,7 @@ title: Join My Mailing List
 
 # Start Your Life Design Journey
 
-Become a **#LifeDesigner** and:
+Become a **Life Designer** and:
 
  - Be the first to know my **hot off the press** money making tips
  - Receive your personal invitation to my private **Facebook Group**
