@@ -45,15 +45,3 @@ When you’re relying on your own self-employed or side hustle income to get thr
 <a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
 </center>
 <!-- END ADVERTISER: Emma Drew turn your dreams course -->
-
-
-
-
-
-
-
-
-
-
-
-
