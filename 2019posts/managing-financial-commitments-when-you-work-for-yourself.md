@@ -29,7 +29,7 @@ Even when you’re in a regular salaried job, it’s recommended that you have a
 One of the best ways to save money on the items you need to buy is through a little bit of research. There are plenty of blogs, forums, and other [information-based sites](https://www.dtelepathy.com/blog/inspiration/14-beautiful-content-heavy-websites-for-inspiration){:target="_blank" rel="noopener"} around the web, each offering their own benefits when it comes to saving money. It’s worth spending time looking for the best deal when you’re choosing a product, as this can often save you a lot of money.
 
 ### Getting Some Support
-Finally, another area to consider, is getting help with your finances. Even something like buying a car can be a challenge when you don’t have a traditional job, and so people often turn to companies like [Century](https://www.centurycars.online/locations/turners-hill){:target="_blank" rel="noopener"} to get a financing deal for their purchase. While getting help may not feel like the route a businessperson should take, sometimes it can be worth it to save yourself stress & time.
+Finally, another area to consider, is getting help with your finances. Even something like buying a car can be a challenge when you don’t have a traditional job, and so people often turn to companies like [Manchester Van Sales](https://www.manchestervansales.com/used-vans){:target="_blank" rel="noopener"} to get a financing deal for their purchase. While getting help may not feel like the route a businessperson should take, sometimes it can be worth it to save yourself stress & time.
 
 <br>
 Money is a challenge for everyone. Yes, even those people with plenty of it, still feel the pressure!
