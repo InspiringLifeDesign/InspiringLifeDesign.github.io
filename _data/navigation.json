@@ -27,7 +27,7 @@
             "title": "Income Hustles",
             "url": "/income-hustles/index.html",
             "submenu": [
-                {
+                                {
                     "title": "Book Publishing",
                     "url": "/income-hustles/book-publishing.html"
                 },
@@ -64,10 +64,6 @@
               {
                 "title": "Charity",
                 "url": "/tag/charity.html"
-              },
-              {
-                "title": "Guest Posts",
-                "url": "/guest-posts/guest-posts.html"
               }
             ]
         },
