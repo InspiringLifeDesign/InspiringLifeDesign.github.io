@@ -58,9 +58,11 @@
 							<!-- blogpost start -->
 							<!-- ================ -->
 							<article class="blogpost full">
+								{% comment %}
 								<header>
                   {% include post-info.html date=page.date %}
 								</header>
+								{% endcomment %}
 								{% if page.affiliate %}
 								<p><sub>Some links in this post (marked <i>affiliate link</i>) provide me with a small commission at no extra cost to you, if you make a purchase.</sub></p>
 								{% endif %}

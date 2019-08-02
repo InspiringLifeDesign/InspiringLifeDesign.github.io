@@ -62,7 +62,9 @@
 							<article class="blogpost">
 								<header>
 									<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                  {% include post-info.html date=post.date %}
+{% comment %}
+									{% include post-info.html date=post.date %}
+									{% endcomment %}
 								</header>
 								<div class="blogpost-content">
 									{{ post.excerpt }}
