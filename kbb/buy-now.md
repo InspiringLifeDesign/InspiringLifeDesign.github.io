@@ -4,7 +4,7 @@ layout: "landing_page"
 ---
 
   <script type="text/javascript">
-      window.location='https://dgachieve.com/joining?source=ILDKBB&a=1899';
+      window.location='https://dgachieve.com/kbb-ordering?source=ILDorderpage&a=1899';
     </script>
 
 # Find Out All About The Knowledge Business Blueprint   
@@ -21,7 +21,7 @@ layout: "landing_page"
 ### If you've already had your training and liked what you saw from Tony, Dean and Russell, get ready to take things to the next level and purchase your copy of the Knowledge Business Blueprint with exciting bonuses here:
 
 <b>
-<a href="https://dgachieve.com/kbb-ordering?source=ILDKBB&a=1899">BUY NOW!</a>
+<a href="https://dgachieve.com/kbb-ordering?source=ILDorderpage&a=1899">BUY NOW!</a>
 </b>
 <br>
 
