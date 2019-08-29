@@ -6,7 +6,7 @@ sitemap:
 ---
  <div class="separator-2"></div>
 ### Thank You For Subscribing!
-As a **#lifedesigner** you will have access to all my free resources, which I will be adding to over time. 
+As a **Life Designer** you have access to all my free resources, which I add to over time. 
 
 You may want to **bookmark** the [**RESOURCES PAGE**](/thankyou/20185646-lifedesigner-page-resources) so that you can come back to it again.
 
