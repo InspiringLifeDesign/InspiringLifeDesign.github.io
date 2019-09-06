@@ -27,10 +27,3 @@ layout: "no_sidebar_no_breadcrumb"
 
 
 <sub>Full transparency: I am an independent Mastermind.com TM Affiliate, not an employee. I receive referral payments from Mastermind.com TM. The opinions expressed here are my own and are not official statements of Mastermind.com TM or its parent company, Mastermind.com LLC.</sub>
-
-
-
-
-
-
-
