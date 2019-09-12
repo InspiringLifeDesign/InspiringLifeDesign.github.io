@@ -1,5 +1,5 @@
 ---
-layout: "no_sidebar_no_breadcrumb"
+layout: "landing_page"
 
 ---
 
