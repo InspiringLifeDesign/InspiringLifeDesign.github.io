@@ -33,4 +33,3 @@ Simply check the email I just sent you, hit confirm, and **grab your workbook do
 <a href="/ff/masterminds/c19/modules/module-1">
   <img src="/ff/masterminds/c19/buttons/start_module_1.png" alt="Make money with Masterminds Module 1 button">
 </a>
-
