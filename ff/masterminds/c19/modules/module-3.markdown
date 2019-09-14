@@ -17,7 +17,7 @@ In this video Corinna elaborates on the first 5 action items from her 10 step ev
 5 - Create your agenda<br>
 
 ### Tools For This Module
-Insert links for:<br>
+Here are the tools discussed in Module 3:<br>
 - [Mastermind hotseat worksheet](/printables/mastermind_worksheet.pdf){:target="_blank" rel="nofollow" "noopener"}
 - Coming soon: Agenda Template
 
