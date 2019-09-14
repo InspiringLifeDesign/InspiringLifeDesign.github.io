@@ -27,6 +27,10 @@
             "title": "Income Hustles",
             "url": "/income-hustles/index.html",
             "submenu": [
+              {
+                  "title": "Masterminds",
+                  "url": "/income-hustles/masterminds.html"
+              },
                                 {
                     "title": "Book Publishing",
                     "url": "/income-hustles/book-publishing.html"
