@@ -16,7 +16,10 @@ In this video Corinna talks about how to run your mastermind, workshop or group 
 <br>
 
 ### Tools For This Module
-**[Zoom](http://bit.ly/zoomaccount){:target="_blank" rel="nofollow noopener"}** - great free software to host your online video calls
+Here are the tools discussed in this module:<br>
+**[Zoom](http://bit.ly/zoomaccount){:target="_blank" rel="nofollow noopener"}** - great free software to host your online video calls<br>
+**[Google Hangouts](https://hangouts.google.com/){:target="blank" rel="noopener"}** - free to use, slightly less functionality than Zoom<br>
+**[Skype](https://www.skype.com/en/){:target="_blank" rel="noopener"}** - free version available
 
 ***
 
