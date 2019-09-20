@@ -27,7 +27,7 @@ In this video, Corinna explains what a Mastermind is. She also discusses the dif
 
 <br><br>
 <center>
-<a href="https://dgachieve.com/joining?source=ILDmmcoursebanner&a=1899" target="blank" rel="noopener"><img src="/i/ads/kbb/970x90.jpg" /></a>
+<a href="https://dgachieve.com/joining?source=ILDmmcoursebanner&a=1899" target="blank" rel="nofollow noopener"><img src="/i/ads/kbb/970x90.jpg" /></a>
 </center>
 
 <br><br><br>

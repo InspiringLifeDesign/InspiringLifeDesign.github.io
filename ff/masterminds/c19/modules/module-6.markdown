@@ -11,7 +11,7 @@ sitemap:
 ## Ready to create your first mastermind?
 ### **1. DO THIS FIRST:** Grab your space for **epic Mastermind Training** by thought leaders Tony Robbins, Dean Graziosi & Russell Brunson
 <center>
-<a href="http://bit.ly/freetrainingKBB" target="_blank" rel="noopener">
+<a href="http://bit.ly/freetrainingKBB" target="_blank" rel="nofollow noopener">
   <img src="/ff/masterminds/c19/buttons/reserve-your-space.png" alt="Reserve your space button">
 </a>
 </center>
@@ -19,7 +19,7 @@ sitemap:
 ### Don't miss out on the incredible opportunities to **make money** in the booming online education market right now!
 ### **Secure your space for free below**...
 <center>
-<a href="http://bit.ly/freetrainingKBB" target="_blank" rel="noopener">
+<a href="http://bit.ly/freetrainingKBB" target="_blank" rel="nofollow noopener">
   <img src="/ff/masterminds/c19/buttons/reserve-your-space.png" alt="Reserve your space button">
 </a>
 </center>
@@ -56,7 +56,7 @@ COMING SOON:<br>
 
 <br><br>
 <center>
-<a href="https://dgachieve.com/joining?source=ILDmmcoursebanner&a=1899" target="blank" rel="noopener"><img src="/i/ads/kbb/970x90.jpg" /></a>
+<a href="https://dgachieve.com/joining?source=ILDmmcoursebanner&a=1899" target="blank" rel="nofollow noopener"><img src="/i/ads/kbb/970x90.jpg" /></a>
 </center>
 
 <br><br><br>
