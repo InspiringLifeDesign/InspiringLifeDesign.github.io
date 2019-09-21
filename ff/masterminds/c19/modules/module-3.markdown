@@ -18,7 +18,7 @@ In this video Corinna elaborates on the first 5 action items from her 10 step ev
 
 ### Tools For This Module
 Here are the tools discussed in Module 3:<br>
-- [Mastermind hotseat worksheet](/printables/mastermind_worksheet.pdf){:target="_blank" rel="noopener"}<br>
+- [Mastermind hotseat worksheet](/printables/mastermind-course/mastermind_worksheet.pdf){:target="_blank" rel="noopener"}<br>
 - [Agenda Template](https://docs.google.com/document/d/15_5uMhVncYIBxnzn3PJambX5KpOZhEjaRdg27acFPfA/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 <br>
