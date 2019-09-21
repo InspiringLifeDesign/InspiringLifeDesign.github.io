@@ -14,7 +14,7 @@ You will get the most out of the course, if you use the workbook to take notes a
 
 We suggest you print out your workbook before you start the course:
 
-#### [**CLICK TO DOWNLOAD: Make Money From Masterminds course workbook**](/printables/Freedom_Plan_3.pdf){:target="_blank"}
+#### [**CLICK TO DOWNLOAD: Make Money From Masterminds course workbook**](/printables/mastermind-course/money-from-masterminds-workbook.pdf){:target="_blank"}
 
 <br><br>
 <a href="/ff/masterminds/c19/make-money-from-masterminds">
