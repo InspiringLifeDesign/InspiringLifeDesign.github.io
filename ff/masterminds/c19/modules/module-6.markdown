@@ -8,6 +8,10 @@ sitemap:
  
 {% include youtubeforcourse.html videoid="imurWt_3Y7c" %}
 
+<br>
+![Light Bulb logo](/i/light-bulb.png){:style="width: 38px; height: 42px; margin: 0 10px 10px 0; float: left;"}
+**Don't forget to use your workbook** to follow along with this lesson and find out more about the offers for further learning available to you. **Haven't received it yet?** Be sure to check your emails and confirm your registration to receive your free workbook (the email from Corinna might be lurking in your spam folder).
+
 ## Ready to create your first mastermind?
 ### **1. DO THIS FIRST:** Grab your space for **epic Mastermind Training** by thought leaders Tony Robbins, Dean Graziosi & Russell Brunson
 <center>

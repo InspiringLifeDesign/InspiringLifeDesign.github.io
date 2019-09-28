@@ -8,6 +8,10 @@ sitemap:
  
 {% include youtubeforcourse.html videoid="xl8uIZv_4Kw" %}
 
+<br>
+![Light Bulb logo](/i/light-bulb.png){:style="width: 38px; height: 42px; margin: 0 10px 10px 0; float: left;"}
+**Don't forget to use your workbook** to follow along with this lesson. **Haven't received it yet?** Be sure to check your emails and confirm your registration to receive your free workbook (the email from Corinna might be lurking in your spam folder).
+
 ### Module Overview
 In this video Corinna talks about how to run your mastermind, workshop or group event. She covers the two types of events:
 

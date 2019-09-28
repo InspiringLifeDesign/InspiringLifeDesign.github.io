@@ -8,6 +8,10 @@ sitemap:
  
 {% include youtubeforcourse.html videoid="DFa19zW-1q8" %}
 
+<br>
+![Light Bulb logo](/i/light-bulb.png){:style="width: 38px; height: 42px; margin: 0 10px 10px 0; float: left;"}
+**Don't forget to use your workbook** to follow along with this lesson. **Haven't received it yet?** Be sure to check your emails and confirm your registration to receive your free workbook (the email from Corinna might be lurking in your spam folder).
+
 ### Module Overview
 In this video Corinna elaborates on the first 5 action items from her 10 step event creation strategy. This will guide you as you choose & create your first mastermind topic:<br>
 1 - Pick the topic, niche or subject area for your event<br>
