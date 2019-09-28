@@ -42,10 +42,12 @@ After you have made your Knowledge Business Blueprint purchase, simply email sup
 ***
 
 ### **3. Your End Of Course Free Tools**
+You will need to make copies of these tools which are stored in a Google Drive folder. There are instructions within the files for how to make a copy. Once you have a copy you can then edit your own version to your heart's content!
 
-COMING SOON:<br>
-- Event Ticket Price Calculator spreadsheet
-- Mastermind Presentation Slides template - great to welcome everyone at the start of your mastermind event
+- **[Event Ticket Price Calculator](https://docs.google.com/spreadsheets/d/1YZoHOS-a82RYUWJqz0ypfw2p5I3lt3ryA0PuhMUbGlo/edit?usp=sharing){:target="_blank" rel="noopener"}**<br>
+Use this calculator spreadsheet to see a guideline ticket price for all of your future events. The final price you charge is entirely up to you of course!<br>
+- **[Mastermind Presentation Slides template](https://docs.google.com/presentation/d/1FWcdzsP1xx-NOIv_agqtAk-y03Vn0FGJcFhatJnqsGM/edit?usp=sharing){:target="_blank" rel="noopener"}**<br>
+You can use these template presentation slides to welcome everyone at the start of your mastermind event, and set the agenda for the meeting
 
 <center>
 <h3>Module 6 of 6</h3>
@@ -59,6 +61,6 @@ COMING SOON:<br>
 <a href="https://dgachieve.com/joining?source=ILDmmcoursebanner&a=1899" target="blank" rel="nofollow noopener"><img src="/i/ads/kbb/970x90.jpg" /></a>
 </center>
 
-<br><br><br>
+<br><br><br> 
 
 <sub>I am an independent Mastermind.com TM Affiliate, not an employee. I receive referral payments from Mastermind.com TM. The opinions expressed here are my own and are not official statements of Mastermind.com TM or its parent company, Mastermind.com LLC.</sub>
