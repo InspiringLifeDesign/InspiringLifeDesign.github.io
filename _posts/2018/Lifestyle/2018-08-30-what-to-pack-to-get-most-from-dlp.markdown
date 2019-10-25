@@ -5,6 +5,7 @@ tags:
   - "2018"
   - lifestyle
   - disney
+  - travel
 affiliate: true
 ---
 ![What To Pack To Get The Most From Disneyland Paris, header image of Alice in Wonderland pumps](/i/2018/disney/what-to-pack-to-get-most-from-dlp-1.jpg)

@@ -6,6 +6,7 @@ tags:
   - lifestyle
   - disney
   - saving money
+  - travel
 
 ---
 ![How To Plan For The Best Disneyland Paris Trip Ever, Disneyland Hotel photo](/i/2018/disney/disneyland-hotel-day.png)
