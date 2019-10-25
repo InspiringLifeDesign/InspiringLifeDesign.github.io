@@ -9,7 +9,6 @@ If you're unsure whether we offer the exact skills you are looking for **or** yo
 
 Choose the service you are looking for:
 
-
 <div class="row">
   <div class="col-md-4">
 <figure>

@@ -14,8 +14,10 @@ Here's just some of the things you can ask for:
 </ul>
 
 *If you'd like something not on the above list **OR** you have a time critical requirement, then please [**check first**](mailto:support@inspiringlifedesign.com){:target="_blank" rel="noopener"} **BEFORE** making your purchase*
-<center>
-<div id='product-component-1571752901416'></div>
+
+<div class="row">
+  <div class="col-md-4">
+ <div id='product-component-1571752901416'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -171,9 +173,10 @@ Here's just some of the things you can ask for:
 })();
 /*]]>*/
 </script>
+<br>
+</div>
 
-<br><br>
-
+  <div class="col-md-4">
 <div id='product-component-1571754282435'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
@@ -330,9 +333,9 @@ Here's just some of the things you can ask for:
 })();
 /*]]>*/
 </script>
-
-<br><br>
-
+<br>
+</div>
+  <div class="col-md-4">
 <div id='product-component-1571755267100'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
@@ -488,9 +491,13 @@ Here's just some of the things you can ask for:
   }
 })();
 /*]]>*/
-</script>
+</script>  
+<br>
+  </div>
+</div>
 
-<br><br>
+<div class="row">
+  <div class="col-md-4">
 <div id='product-component-1571821234567'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
@@ -647,8 +654,11 @@ Here's just some of the things you can ask for:
 })();
 /*]]>*/
 </script>
+</div>
+  <div class="col-md-4"></div>
+    <div class="col-md-4"></div>
+</div>    
 
-</center>
 
 ***
 
