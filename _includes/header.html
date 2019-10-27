@@ -25,11 +25,11 @@
         <!-- header-first end -->
       </div>
       <div class="col-md-9">
-					
+
         <!-- header-second start -->
         <!-- ================ -->
         <div class="header-second clearfix">
-          
+
         <!-- main-navigation start -->
         <!-- classes: -->
         <!-- "onclick": Makes the dropdowns open on click, this the default bootstrap behavior e.g. class="main-navigation onclick" -->
@@ -64,7 +64,16 @@
                     {% if menu.submenu %}
                     <ul class="dropdown-menu"><!-- TODO: Active -->
                       {% for link in menu.submenu %}
-                      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+                      <li class="{% if link.submenu %}dropdown{% endif %}" >
+                        <a {% if link.submenu %} data-toggle="dropdown" class="dropdown-toggle"{% endif %} href="{{ link.url }}">{{ link.title }}</a>
+                        {% if link.submenu %}
+                        <ul class="dropdown-menu">
+                          {% for link2 in link.submenu %}
+                          <li class="{% if page.url == link2.url %}active{% endif %}"><a href="{{ link2.url }}">{{ link2.title }}</a></li>
+                          {% endfor %}
+                        </ul>
+                        {% endif %}
+                      </li>
                       {% endfor %}
                     </ul>
                     {% endif %}
@@ -72,7 +81,7 @@
                   {% endfor %}
                 </ul>
                 <!-- header dropdown buttons end-->
-                
+
               </div>
 
             </div>
@@ -83,7 +92,7 @@
         <!-- main-navigation end -->
         </div>
         <!-- header-second end -->
-  
+
       </div>
     </div>
   </div>
