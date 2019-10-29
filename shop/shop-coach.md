@@ -15,7 +15,7 @@ Specialisations for coaching and mentoring include:
   - **Simple step-by-step action plan**: so you can get from where you are now to where you want to be
 
 ### WELCOME BONUS
-When you book your **first** coaching & mentoring session, you will also get a **free initial consultation call** so that your needs can be determined.
+When you purchase your **first** coaching & mentoring session, you will get an invitation to book a **free initial consultation call** so that your needs can be determined.
 
 If you have any questions about coaching & mentoring before you make your purchase please [**make contact via email**](mailto:support@inspiringlifedesign.com){:target="_blank" rel="noopener"}.
 

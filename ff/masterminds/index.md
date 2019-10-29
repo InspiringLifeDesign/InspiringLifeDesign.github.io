@@ -2,7 +2,12 @@
 layout: "landing_page"
 
 ---
-
+<script>
+  fbq('track', 'Lead', {
+    value: 6,
+    currency: 'GBP',
+  });
+</script>
 
 
 <h1>Free course for beginners!</h1>
