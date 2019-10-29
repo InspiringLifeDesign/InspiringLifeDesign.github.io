@@ -1,6 +1,6 @@
 ---
 layout: "landing_page"
-title: "Module 4 - Filling Your Mastermind"
+title: "Module 4 - Filling Your Event"
 sitemap:
   exclude: true  
 ---
@@ -13,7 +13,7 @@ sitemap:
 **Don't forget to use your workbook** to follow along with this lesson. **Haven't received it yet?** Be sure to check your emails and confirm your registration to receive your free workbook (the email from Corinna might be lurking in your spam folder).
 
 ### Module Overview
-In this video Corinna covers steps 6 to 9 of her 10 step process for making money from masterminds:
+In this video Corinna covers steps 6 to 9 of her 10 step process for making money from events:
 
 6 - Decide how many people you want at your event<br>
 7 - Set the price per ticket<br>
