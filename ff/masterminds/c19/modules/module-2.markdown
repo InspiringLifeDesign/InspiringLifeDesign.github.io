@@ -1,6 +1,6 @@
 ---
 layout: "landing_page"
-title: "Module 2 - How To Make Money From Masterminds"
+title: "Module 2 - How To Make Money From Events"
 sitemap:
   exclude: true  
 ---

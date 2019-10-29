@@ -23,7 +23,7 @@ Simply check the email I just sent you, hit confirm, and **grab your workbook do
 ### Here's What To Expect From The Course
 <ul>
 <li><b>Module 1</b> - What exactly are Masterminds & Workshops?
-<li><b>Module 2</b> - How to make money from Masterminds or Workshops
+<li><b>Module 2</b> - How to make money from events
 <li><b>Module 3</b> - Choosing your Mastermind or Workshop topic
 <li><b>Module 4</b> - Filling your Mastermind or Workshop
 <li><b>Module 5</b> - Running your Mastermind or Workshop
