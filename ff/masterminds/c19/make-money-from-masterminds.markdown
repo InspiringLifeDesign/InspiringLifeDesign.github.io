@@ -1,6 +1,6 @@
 ---
 layout: "landing_page"
-title: "Make Money From Masterminds Course"
+title: "Start Making Money Online: Masterminds & Workshops"
 sitemap:
   exclude: true  
 ---
@@ -10,7 +10,7 @@ sitemap:
 
 {% include youtubeforcourse.html videoid="N8nry4g5CY8" %}
 <br>
-By the end of this course you will have all the tools and techniques you need to make money from your first mastermind, group or workshop.<br>
+By the end of this course you will have all the tools and techniques you need to make money from your first online venture. Specifically using workshops, mastermind meetings or groups to share what you know, and make money while you improve people's lives.<br>
 
 Are you ready to get started? Let's do it...
 
@@ -22,12 +22,12 @@ Simply check the email I just sent you, hit confirm, and **grab your workbook do
 
 ### Here's What To Expect From The Course
 <ul>
-<li><b>Module 1</b> - What exactly are Masterminds?
-<li><b>Module 2</b> - How to make money from Masterminds
-<li><b>Module 3</b> - Choosing your Mastermind topic
-<li><b>Module 4</b> - Filling your Mastermind
-<li><b>Module 5</b> - Running your Mastermind
-<li><b>Module 6</b> - Ways to take your Mastermind to the next level
+<li><b>Module 1</b> - What exactly are Masterminds & Workshops?
+<li><b>Module 2</b> - How to make money from Masterminds or Workshops
+<li><b>Module 3</b> - Choosing your Mastermind or Workshop topic
+<li><b>Module 4</b> - Filling your Mastermind or Workshop
+<li><b>Module 5</b> - Running your Mastermind or Workshop
+<li><b>Module 6</b> - Ways to take your Mastermind or Workshop to the next level
 
 <br><br>
 <a href="/ff/masterminds/c19/modules/module-1">
