@@ -664,3 +664,7 @@ Here's just some of the things you can ask for:
 
 **IMPORTANT NOTE:** If you're unsure whether we offer the exact skills you're looking for **OR** you have a deadline you need your work to be completed in time for, please [**make contact**](mailto:support@inspiringlifedesign.com){:target="_blank" rel="noopener"} <i><b>BEFORE</b></i> you make your purchase.
 
+***
+
+<a href="/shop" style="float: left"><img src='/i/backward.png' alt='backward arrow' /></a> &nbsp;
+[Shop storefront](/shop)

@@ -46,4 +46,6 @@ Choose from the selection of workshops in our **"How To Get Started"** workshops
     <div class="col-md-4"></div>
 </div>    
 
-
+<br>
+<a href="/shop" style="float: left"><img src='/i/backward.png' alt='backward arrow' /></a> &nbsp;
+[**Shop storefront**](/shop)

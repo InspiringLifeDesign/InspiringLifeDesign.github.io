@@ -546,3 +546,5 @@ If you have any questions about coaching & mentoring before you make your purcha
 <br><br>
 
 
+<a href="/shop" style="float: left"><img src='/i/backward.png' alt='backward arrow' /></a> &nbsp;
+[Shop storefront](/shop)
