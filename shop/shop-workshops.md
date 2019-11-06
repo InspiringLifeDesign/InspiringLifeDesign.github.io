@@ -26,7 +26,7 @@ Choose from the selection of workshops in our **"How To Get Started"** workshops
   <figure>
   <figcaption><b>COMING SOON: Create Your Own Designs</b></figcaption>
 <!-- <a href="/shop/shop-va"> -->
-  <img src="/i/shop/workshops/design-workshop.png" alt="How To Create Eye-Catching Designs Workshop">
+  <img src="/i/shop/workshops/design-workshop-soon.png" alt="How To Create Eye-Catching Designs Workshop">
   <!-- </a> -->
 </figure>
 <br>
