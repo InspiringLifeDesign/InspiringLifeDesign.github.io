@@ -53,7 +53,7 @@ If money is tight, you can consider setting budgets with your family and friends
 
 Of course you could choose to make a bit of extra money during December to offset your spending. Quick cash can be made using [online survey sites](/posts/cash-this-week.html){:target="_blank" rel="noopener"}, or you could even consider some temporary work. Many councils will be looking for **polling clerks** to work at polling stations for the general election on December 12th - [check out your local council's website](https://www.gov.uk/find-local-council){:target="_blank" rel="noopener" "nofollow"} to sign up, you could earn up to £200 for one day's effort...
 
-You can also use the [**Emma**](https://go.onelink.me/2LKw/emma){:target="_blank" rel="noopener" rel="nofollow"} app *(affiliate link)* to help you keep a close eye on your expenses. It's a great way to keep track of your spending.
+You can also use the [**Emma**](http://emma-app.com/?source=inspiring_life_design){:target="_blank" rel="noopener" rel="nofollow"} app *(affiliate link)* to help you keep a close eye on your expenses. It's a great way to keep track of your spending.
 
 Emma is a budgeting app that helps you track your money across multiple bank accounts and discover ways that you can save money in the process. You can link current accounts, savings accounts, debts, pensions and investments to get the full picture of your finances. The app also helps you avoid overdrafts by identifying and fishing out wasteful fees and subscriptions.
 
