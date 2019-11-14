@@ -5,6 +5,28 @@
           "url": "/financial-freedom/index.html",
           "submenu": [
                {
+                 "title": "Income Hustles",
+                 "url": "/income-hustles/index.html",
+                 "submenu": [
+                   {
+                     "title": "Masterminds",
+                     "url": "/income-hustles/masterminds.html"
+                   },
+                   {
+                     "title": "Book Publishing",
+                     "url": "/income-hustles/book-publishing.html"
+                   },
+                   {
+                       "title": "Blogging",
+                       "url": "/income-hustles/blogging.html"
+                   },
+                   {
+                       "title": "Other Hustles",
+                       "url": "/income-hustles/other-hustles.html"
+                   }
+                 ]
+               },
+               {
               "title": "My Financial Freedom Progress",
               "url": "/tag/financial-freedom.html"
                },
@@ -15,35 +37,7 @@
                {
                  "title": "Become A Life Designer",
                  "url": "/signup/signup_page.html"
-               },
-               {
-                 "title": "Thought Experiments",
-                 "url": "/tag/thought-experiments.html"
-               }
-
-            ]
-        },
-        {
-            "title": "Income Hustles",
-            "url": "/income-hustles/index.html",
-            "submenu": [
-              {
-                  "title": "Masterminds",
-                  "url": "/income-hustles/masterminds.html"
-              },
-                                {
-                    "title": "Book Publishing",
-                    "url": "/income-hustles/book-publishing.html"
-                },
-                {
-                    "title": "Blogging",
-                    "url": "/income-hustles/blogging.html"
-                },
-                {
-                    "title": "Other Hustles",
-                    "url": "/income-hustles/other-hustles.html"
-                }
-            ]
+               }]
         },
         {
             "title": "Lifestyle",
@@ -68,15 +62,33 @@
               {
                 "title": "Charity",
                 "url": "/tag/charity.html"
+              },
+              {
+                "title": "Thought Experiments",
+                "url": "/tag/thought-experiments.html"
               }
             ]
         },
         {
             "title": "Shop",
-            "url": "/shop/index.html"
+            "url": "/shop/index.html",
+            "submenu": [
+              {
+                "title": "Workshops",
+                "url": "/shop/shop-workshops"
+              },
+              {
+                "title": "Coaching & Mentoring",
+                "url": "/shop/shop-coach"
+              },
+              {
+                "title": "Virtual Assistance",
+                "url": "/shop/shop-va"
+              }
+            ]
         },
         {
-            "title": "Blogroll",
+            "title": "Recommendations",
             "url": "/blogroll.html"
         },
         {
