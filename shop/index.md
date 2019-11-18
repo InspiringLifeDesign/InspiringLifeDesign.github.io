@@ -5,7 +5,7 @@ title: Shop
 
 ### Choose just the services you need, with clear, transparent pricing
 
-If you're unsure whether we offer the exact skills you are looking for **or** you have a deadline you need your work to be completed in time for, please [**make contact by email**](mailto:support@inspiringlifedesign.com){:target="_blank" rel="noopener"} <i><b>BEFORE</b></i> you make your purchase.
+If you're unsure whether we offer the exact things you are looking for **or** you have a deadline you need our help to meet, please [**make contact by email**](mailto:support@inspiringlifedesign.com){:target="_blank" rel="noopener"} <i><b>BEFORE</b></i> you make your purchase. This is particularly important for Virtual Assistant Services.
 
 Choose the service you are looking for:
 
@@ -28,6 +28,14 @@ Choose the service you are looking for:
   <figcaption><b>Virtual Assistant Services</b></figcaption>
 <a href="/shop/shop-va">
   <img src="/i/shop/va.png" alt="Shop Virtual Assistant"></a>
+</figure>
+</div>
+<div class="col-md-4">
+<br>
+<figure>
+  <figcaption><b>Recommended Products</b></figcaption>
+<a href="/shop/shop-recommended">
+  <img src="/i/shop/recommended.png" alt="Shop Recommended Products"></a>
 </figure>
 </div>
 </div>
