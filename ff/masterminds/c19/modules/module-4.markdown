@@ -51,4 +51,5 @@ Sign-up for the free training offered by Tony Robbins, Dean Graziosi and Russell
 
 <br><br><br>
 
-<sub>I am an independent Mastermind.com TM Affiliate, not an employee. I receive referral payments from Mastermind.com TM. The opinions expressed here are my own and are not official statements of Mastermind.com TM or its parent company, Mastermind.com LLC.</sub>
+<sub>I am an independent Mastermind.com TM Affiliate, not an employee. I receive referral payments from Mastermind.com TM. The opinions expressed here are my own and are not official statements of Mastermind.com TM or its parent company, Mastermind.com LLC.<br>
+I sometimes use affiliate links in my posts. This means that if you buy a service or product using my link I receive a small commission at no extra expense to you. You can navigate independently to the sites mentioned if you prefer not to use my affiliate links. I only link to products or services which I personally use & recommend.</sub>
