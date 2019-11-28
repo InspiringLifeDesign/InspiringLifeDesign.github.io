@@ -43,6 +43,12 @@ To claim your bonuses, you must purchase the KBB using one of Corinna's links. T
 
 After you have made your Knowledge Business Blueprint purchase, simply email support@inspiringlifedesign.com to let us know, and Corinna will be in touch to arrange your bonuses.
 
+<center>
+<a href="http://bit.ly/freetrainingKBB" target="_blank" rel="nofollow noopener">
+  <img src="/ff/masterminds/c19/buttons/reserve-your-space.png" alt="Reserve your space button">
+</a>
+</center>
+
 ***
 
 ### **3. Your End Of Course Free Tools**
