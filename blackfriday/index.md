@@ -833,18 +833,537 @@ layout: "landing_page"
 <br>
 <h4><b>5 HOUR BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£125.00</s></span>&nbsp; &nbsp; Usual Bundle Price: <s>£112.50</s></b></h4>
 <h3 style="color:red"><b>Sale Price: Only £85.00 <i>(25% OFF BUNDLE PRICE)</i></b></h3>
-<a href="https://inspiring-life-design.myshopify.com/cart/31411099140193:1?channel=buy_button">
-  <img src="/i/2019/blackfriday/5hourbutton.png" alt="Click to get the deal button"></a>
+
+<!-- START ADD TO CART BUTTON -->
+<div id='product-component-1575056109555'></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'inspiring-life-design.myshopify.com',
+      storefrontAccessToken: '0c7a6770d09cb5dee05ec8b9b17a96b0',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: '4396788449377',
+        node: document.getElementById('product-component-1575056109555'),
+        moneyFormat: '%C2%A3%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
+        },
+        "text-align": "left"
+      },
+      "button": {
+        "font-weight": "bold",
+        "font-size": "17px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px",
+        "padding-left": "40px",
+        "padding-right": "40px"
+      },
+      "quantityInput": {
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px"
+      }
+    },
+    "contents": {
+      "img": false,
+      "title": false,
+      "price": false
+    },
+    "text": {
+      "button": "5 Hour Bundle Deal >>"
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "font-weight": "bold",
+        "font-size": "17px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px",
+        "padding-left": "40px",
+        "padding-right": "40px"
+      },
+      "quantityInput": {
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px"
+      }
+    },
+    "text": {
+      "button": "5 Hour Bundle Deal >>"
+    }
+  },
+  "cart": {
+    "styles": {
+      "button": {
+        "font-weight": "bold",
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px"
+      }
+    },
+    "text": {
+      "title": "Shopping Cart",
+      "total": "Subtotal",
+      "notice": "",
+      "button": "Checkout"
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-weight": "bold",
+        "background-color": "#6a3d5d",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        ":focus": {
+          "background-color": "#5f3754"
+        }
+      },
+      "count": {
+        "font-size": "16px"
+      }
+    }
+  }
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
+<!-- END ADD TO CART BUTTON -->
+
   <br>
 <h4><b>10 HOUR BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£250.00</s></span>&nbsp; &nbsp; Usual Bundle Price: <s>£212.50</s></b></h4>
 <h3 style="color:red"><b>Sale Price: Only £160.00 <i>(25% OFF BUNDLE PRICE)</i></b></h3>
-<a href="https://inspiring-life-design.myshopify.com/cart/31411304398945:1?channel=buy_button">
-  <img src="/i/2019/blackfriday/10hourbutton.png" alt="Click to get the deal button"></a>
+
+<!-- START ADD TO CART BUTTON -->
+<div id='product-component-1575060533785'></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'inspiring-life-design.myshopify.com',
+      storefrontAccessToken: '0c7a6770d09cb5dee05ec8b9b17a96b0',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: '4396819054689',
+        node: document.getElementById('product-component-1575060533785'),
+        moneyFormat: '%C2%A3%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
+        },
+        "text-align": "left"
+      },
+      "button": {
+        "font-weight": "bold",
+        "font-size": "17px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px",
+        "padding-left": "40px",
+        "padding-right": "40px"
+      },
+      "quantityInput": {
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px"
+      }
+    },
+    "contents": {
+      "img": false,
+      "title": false,
+      "price": false
+    },
+    "text": {
+      "button": "10 Hour Bundle Deal >>"
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "font-weight": "bold",
+        "font-size": "17px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px",
+        "padding-left": "40px",
+        "padding-right": "40px"
+      },
+      "quantityInput": {
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px"
+      }
+    },
+    "text": {
+      "button": "10 Hour Bundle Deal >>"
+    }
+  },
+  "cart": {
+    "styles": {
+      "button": {
+        "font-weight": "bold",
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px"
+      }
+    },
+    "text": {
+      "title": "Shopping Cart",
+      "total": "Subtotal",
+      "notice": "",
+      "button": "Checkout"
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-weight": "bold",
+        "background-color": "#6a3d5d",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        ":focus": {
+          "background-color": "#5f3754"
+        }
+      },
+      "count": {
+        "font-size": "16px"
+      }
+    }
+  }
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
+<!-- END ADD TO CART BUTTON -->
+
   <br>
 <h4><b>20 HOUR BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£500.00</s></span>&nbsp; &nbsp; Usual Bundle Price: <s>£400.00</s></b></h4>
 <h3 style="color:red"><b>Sale Price: Only £300.00 <i>(25% OFF BUNDLE PRICE)</i></b></h3>
-<a href="https://inspiring-life-design.myshopify.com/cart/31411356139617:1?channel=buy_button">
-  <img src="/i/2019/blackfriday/20hourbutton.png" alt="Click to get the deal button"></a>
+
+<!-- START ADD TO CART BUTTON -->
+<div id='product-component-1575060695691'></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'inspiring-life-design.myshopify.com',
+      storefrontAccessToken: '0c7a6770d09cb5dee05ec8b9b17a96b0',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: '4396826558561',
+        node: document.getElementById('product-component-1575060695691'),
+        moneyFormat: '%C2%A3%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
+        },
+        "text-align": "left"
+      },
+      "button": {
+        "font-weight": "bold",
+        "font-size": "17px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px",
+        "padding-left": "38px",
+        "padding-right": "38px"
+      },
+      "quantityInput": {
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px"
+      }
+    },
+    "contents": {
+      "img": false,
+      "title": false,
+      "price": false
+    },
+    "text": {
+      "button": "20 Hour Bundle Deal >>"
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "font-weight": "bold",
+        "font-size": "17px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px",
+        "padding-left": "38px",
+        "padding-right": "38px"
+      },
+      "quantityInput": {
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px"
+      }
+    },
+    "text": {
+      "button": "20 Hour Bundle Deal >>"
+    }
+  },
+  "cart": {
+    "styles": {
+      "button": {
+        "font-weight": "bold",
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px"
+      }
+    },
+    "text": {
+      "title": "Shopping Cart",
+      "total": "Subtotal",
+      "notice": "",
+      "button": "Checkout"
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-weight": "bold",
+        "background-color": "#6a3d5d",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        ":focus": {
+          "background-color": "#5f3754"
+        }
+      },
+      "count": {
+        "font-size": "16px"
+      }
+    }
+  }
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
+<!-- END ADD TO CART BUTTON -->
+
 </div>
 </div>
 <!-- Bundles Virtual Assistance end -->
