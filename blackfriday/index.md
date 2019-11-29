@@ -61,7 +61,34 @@ layout: "landing_page"
   
 <div class="separator-2"></div>  
   
+<div class="row">
+  <div class="col-md-3">
+  <br>
+<img src="/i/shop/coach.png" alt="Coaching and Mentoring with Corinna at 50% off for Black Friday">
+  </div>
+    <div class="col-md-8">
+<h3>PERSONALISED 121 COACHING & MENTORING: <b>BUNDLES</b></h3>
+<h4>Even bigger savings when you buy a bundle package. Coaching and Mentoring specialisations include:<br><ul>
+<li>Kick-starting your online business to provide an income stream</li>
+<li>Getting clear on what you want, setting goals to achieve the outcomes you desire and being held accountable</li>
+<li>Step by step tutoring in specific skills that you need to succeed in online business</li>
+<li>Life coaching</li></ul></h4>
+<h5>INCLUDES: Free initial consultation session before your first main session AND daily checkpoint with Corinna to keep on track</h5> 
+<br>
+<h4><b>1 MONTH BUNDLE Regular Price: <s>£195.00</s></b></h4>
+<h3 style="color:red"><b>Sale Price: Only £97.50 <i>(50% OFF)</i></b></h3>    
+<a href="https://inspiring-life-design.myshopify.com/cart/31410555453537:1?channel=buy_button">
+  <img src="/i/2019/blackfriday/1monthbutton.png" alt="Click to get the deal button"></a>
+  <br>
+<h4><b>3 MONTH BUNDLE Regular Price: <s>£535.00</s></b></h4>
+<h3 style="color:red"><b>Sale Price: Only £267.50 <i>(50% OFF)</i></b></h3>
+<a href="https://inspiring-life-design.myshopify.com/cart/31410606604385:1?channel=buy_button">
+  <img src="/i/2019/blackfriday/3monthbutton.png" alt="Click to get the deal button"></a>
+</div>
+</div>
+<br>
   
+<div class="separator-2"></div>    
 
 
 
