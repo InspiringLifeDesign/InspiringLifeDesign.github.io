@@ -226,8 +226,6 @@ layout: "landing_page"
 /*]]>*/
 </script>  
   
-  
-  
 </div>
 </div>
 <br>
@@ -248,13 +246,13 @@ layout: "landing_page"
 <li>Life coaching</li></ul></h4>
 <h5>INCLUDES: Free initial consultation session before your first main session AND daily checkpoint with Corinna to keep on track</h5> 
 <br>
-<h4><b>1 MONTH BUNDLE Regular Price: <s>£195.00</s></b></h4>
-<h3 style="color:red"><b>Sale Price: Only £97.50 <i>(50% OFF)</i></b></h3>    
+<h4><b>1 MONTH BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£198.00</s></span>&nbsp; &nbsp; Usual Bundle Price: <s>£195.00</s></b></h4>
+<h3 style="color:red"><b>Sale Price: Only £97.50 <i>(50% OFF BUNDLE PRICE)</i></b></h3>    
 <a href="https://inspiring-life-design.myshopify.com/cart/31410555453537:1?channel=buy_button">
   <img src="/i/2019/blackfriday/1monthbutton.png" alt="Click to get the deal button"></a>
   <br>
-<h4><b>3 MONTH BUNDLE Regular Price: <s>£535.00</s></b></h4>
-<h3 style="color:red"><b>Sale Price: Only £267.50 <i>(50% OFF)</i></b></h3>
+<h4><b>3 MONTH BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£594.00</s></span>&nbsp; &nbsp; Usual Bundle Price: <s>£535.00</s></b></h4>
+<h3 style="color:red"><b>Sale Price: Only £267.50 <i>(50% OFF BUNDLE PRICE)</i></b></h3>
 <a href="https://inspiring-life-design.myshopify.com/cart/31410606604385:1?channel=buy_button">
   <img src="/i/2019/blackfriday/3monthbutton.png" alt="Click to get the deal button"></a>
 </div>
@@ -304,17 +302,17 @@ layout: "landing_page"
 <li>Video call hosting</li>
 <li>Video editing & posting to YouTube</li></ul></h4>
 <br>
-<h4><b>5 HOUR BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£125.00</s></span>&nbsp; &nbsp; Regular Price: <s>£112.50</s></b></h4>
+<h4><b>5 HOUR BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£125.00</s></span>&nbsp; &nbsp; Usual Bundle Price: <s>£112.50</s></b></h4>
 <h3 style="color:red"><b>Sale Price: Only £85.00 <i>(25% OFF BUNDLE PRICE)</i></b></h3>
 <a href="https://inspiring-life-design.myshopify.com/cart/31411099140193:1?channel=buy_button">
   <img src="/i/2019/blackfriday/5hourbutton.png" alt="Click to get the deal button"></a>
   <br>
-<h4><b>10 HOUR BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£250.00</s></span>&nbsp; &nbsp; Regular Price: <s>£212.50</s></b></h4>
+<h4><b>10 HOUR BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£250.00</s></span>&nbsp; &nbsp; Usual Bundle Price: <s>£212.50</s></b></h4>
 <h3 style="color:red"><b>Sale Price: Only £160.00 <i>(25% OFF BUNDLE PRICE)</i></b></h3>
 <a href="https://inspiring-life-design.myshopify.com/cart/31411304398945:1?channel=buy_button">
   <img src="/i/2019/blackfriday/10hourbutton.png" alt="Click to get the deal button"></a>
   <br>
-<h4><b>20 HOUR BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£500.00</s></span>&nbsp; &nbsp; Regular Price: <s>£400.00</s></b></h4>
+<h4><b>20 HOUR BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£500.00</s></span>&nbsp; &nbsp; Usual Bundle Price: <s>£400.00</s></b></h4>
 <h3 style="color:red"><b>Sale Price: Only £300.00 <i>(25% OFF BUNDLE PRICE)</i></b></h3>
 <a href="https://inspiring-life-design.myshopify.com/cart/31411356139617:1?channel=buy_button">
   <img src="/i/2019/blackfriday/20hourbutton.png" alt="Click to get the deal button"></a>
