@@ -74,6 +74,10 @@
             "url": "/shop/index.html",
             "submenu": [
               {
+                "title": "BLACK FRIDAY/CYBER MONDAY",
+                "url": "/blackfriday"
+              },
+              {
                 "title": "Workshops",
                 "url": "/shop/shop-workshops"
               },
