@@ -52,8 +52,9 @@ layout: "landing_page"
 <h5>INCLUDES: Free initial consultation session before your main session</h5> 
 <br>
 <h4><b>Regular Price: <s>£99.00</s></b></h4>
-<h3 style="color:red"><b>Sale Price: Only £49.50 <i>(50% OFF)</i></b></h3>  
-<!-- Buy button -->  
+<h3 style="color:red"><b>Sale Price: Only £49.50 <i>(50% OFF)</i></b></h3>
+ 
+<!-- ADD TO CART BUTTON -->  
 <div id='product-component-1575051589058'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
@@ -225,6 +226,7 @@ layout: "landing_page"
 })();
 /*]]>*/
 </script>  
+<!-- END ADD TO CART BUTTON -->
   
 </div>
 </div>
@@ -247,9 +249,182 @@ layout: "landing_page"
 <h5>INCLUDES: Free initial consultation session before your first main session AND daily checkpoint with Corinna to keep on track</h5> 
 <br>
 <h4><b>1 MONTH BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£198.00</s></span>&nbsp; &nbsp; Usual Bundle Price: <s>£195.00</s></b></h4>
-<h3 style="color:red"><b>Sale Price: Only £97.50 <i>(50% OFF BUNDLE PRICE)</i></b></h3>    
-<a href="https://inspiring-life-design.myshopify.com/cart/31410555453537:1?channel=buy_button">
-  <img src="/i/2019/blackfriday/1monthbutton.png" alt="Click to get the deal button"></a>
+<h3 style="color:red"><b>Sale Price: Only £97.50 <i>(50% OFF BUNDLE PRICE)</i></b></h3>
+
+<!-- ADD TO CART BUTTON -->  
+  <div id='product-component-1575053373118'></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'inspiring-life-design.myshopify.com',
+      storefrontAccessToken: '0c7a6770d09cb5dee05ec8b9b17a96b0',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: '4396683165793',
+        node: document.getElementById('product-component-1575053373118'),
+        moneyFormat: '%C2%A3%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
+        },
+        "text-align": "left"
+      },
+      "button": {
+        "font-weight": "bold",
+        "font-size": "17px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px",
+        "padding-left": "40px",
+        "padding-right": "40px"
+      },
+      "quantityInput": {
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px"
+      }
+    },
+    "contents": {
+      "img": false,
+      "title": false,
+      "price": false
+    },
+    "text": {
+      "button": "1 Month Bundle Deal >>"
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "font-weight": "bold",
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px",
+        "padding-left": "97px",
+        "padding-right": "97px"
+      },
+      "quantityInput": {
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px"
+      }
+    },
+    "text": {
+      "button": "Add to cart"
+    }
+  },
+  "cart": {
+    "styles": {
+      "button": {
+        "font-weight": "bold",
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px"
+      }
+    },
+    "text": {
+      "title": "Shopping Cart",
+      "total": "Subtotal",
+      "notice": "",
+      "button": "Checkout"
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-weight": "bold",
+        "background-color": "#6a3d5d",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        ":focus": {
+          "background-color": "#5f3754"
+        }
+      },
+      "count": {
+        "font-size": "16px"
+      }
+    }
+  }
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
+<!-- END ADD TO CART BUTTON -->
+  
   <br>
 <h4><b>3 MONTH BUNDLE &nbsp; &nbsp;<span style="color:blue">Full Price: <s>£594.00</s></span>&nbsp; &nbsp; Usual Bundle Price: <s>£535.00</s></b></h4>
 <h3 style="color:red"><b>Sale Price: Only £267.50 <i>(50% OFF BUNDLE PRICE)</i></b></h3>
