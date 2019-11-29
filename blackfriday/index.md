@@ -17,6 +17,7 @@ layout: "landing_page"
 
 </center>
 
+<!-- Video Calls Workshop start -->
 <div class="row">
   <div class="col-md-3">
   <br>
@@ -32,15 +33,16 @@ layout: "landing_page"
   <img src="/i/2019/blackfriday/getdealbutton.png" alt="Click to get the deal button"></a>
 </div>
 </div>
+<!-- Video Calls Workshop end -->
 <br>
 
 <div class="separator-2"></div>
 
+<!-- 1 session 121 coaching & mentoring start -->
 <div class="row">
   <div class="col-md-3">
   <br>
-<a href="https://inspiring-life-design.myshopify.com/cart/31408639508577:1?channel=buy_button">
-  <img src="/i/shop/coach.png" alt="Coaching and Mentoring with Corinna at 50% off for Black Friday"></a>
+  <img src="/i/shop/coach.png" alt="Coaching and Mentoring with Corinna at 50% off for Black Friday">
   </div>
     <div class="col-md-8">
 <h3>PERSONALISED 121 COACHING & MENTORING: <b>1 SESSION</b></h3>
@@ -230,10 +232,13 @@ layout: "landing_page"
   
 </div>
 </div>
+<!-- 1 session 121 coaching & mentoring end -->
+
 <br>
   
 <div class="separator-2"></div>  
-  
+
+<!-- Bundles 121 coaching & mentoring start -->  
 <div class="row">
   <div class="col-md-3">
   <br>
@@ -605,15 +610,16 @@ layout: "landing_page"
 
 </div>
 </div>
+<!-- Bundles 121 coaching & mentoring end -->
 <br>
   
 <div class="separator-2"></div>    
 
+<!-- 1 hour Virtual Assistance start -->
 <div class="row">
   <div class="col-md-3">
   <br>
-  <a href="https://inspiring-life-design.myshopify.com/cart/31411031474273:1?channel=buy_button">
-<img src="/i/shop/va.png" alt="Virtual Assistance services - big discounts for Black Friday"></a>
+<img src="/i/shop/va.png" alt="Virtual Assistance services - big discounts for Black Friday">
   </div>
     <div class="col-md-8">
 <h3>VIRTUAL ASSISTANT SERVICES: <b>1 HOUR</b></h3>
@@ -626,15 +632,190 @@ layout: "landing_page"
 <li>Video editing & posting to YouTube</li></ul></h4><br>
 <h4><b>1 HOUR's ASSISTANCE Regular Price: <s>£25.00</s></b></h4>
 <h3 style="color:red"><b>Sale Price: Only £17.50 <i>(30% OFF)</i></b></h3>
-<a href="https://inspiring-life-design.myshopify.com/cart/31411031474273:1?channel=buy_button">
-  <img src="/i/2019/blackfriday/getdealbutton.png" alt="Click to get the deal button"></a>
+
+<!-- ADD TO CART BUTTON -->
+<div id='product-component-1575055726192'></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'inspiring-life-design.myshopify.com',
+      storefrontAccessToken: '0c7a6770d09cb5dee05ec8b9b17a96b0',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: '4396779241569',
+        node: document.getElementById('product-component-1575055726192'),
+        moneyFormat: '%C2%A3%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
+        },
+        "text-align": "left"
+      },
+      "button": {
+        "font-weight": "bold",
+        "font-size": "17px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px",
+        "padding-left": "50px",
+        "padding-right": "50px"
+      },
+      "quantityInput": {
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px"
+      }
+    },
+    "contents": {
+      "img": false,
+      "title": false,
+      "price": false
+    },
+    "text": {
+      "button": "Get The Best Deal >>"
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "font-weight": "bold",
+        "font-size": "17px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px",
+        "padding-left": "50px",
+        "padding-right": "50px"
+      },
+      "quantityInput": {
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px"
+      }
+    },
+    "text": {
+      "button": "Get The Best Deal >>"
+    }
+  },
+  "cart": {
+    "styles": {
+      "button": {
+        "font-weight": "bold",
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        "background-color": "#6a3d5d",
+        ":focus": {
+          "background-color": "#5f3754"
+        },
+        "border-radius": "10px"
+      }
+    },
+    "text": {
+      "title": "Shopping Cart",
+      "total": "Subtotal",
+      "notice": "",
+      "button": "Checkout"
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-weight": "bold",
+        "background-color": "#6a3d5d",
+        ":hover": {
+          "background-color": "#5f3754"
+        },
+        ":focus": {
+          "background-color": "#5f3754"
+        }
+      },
+      "count": {
+        "font-size": "16px"
+      }
+    }
+  }
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
+<!-- END ADD TO CART BUTTON -->
+
   <br>
 </div>
 </div>
+<!-- 1 hour Virtual Assistance end -->
 <br>
   
 <div class="separator-2"></div>  
 
+<!-- Bundles Virtual Assistance start -->
 <div class="row">
   <div class="col-md-3">
   <br>
@@ -666,6 +847,7 @@ layout: "landing_page"
   <img src="/i/2019/blackfriday/20hourbutton.png" alt="Click to get the deal button"></a>
 </div>
 </div>
+<!-- Bundles Virtual Assistance end -->
 <br>
   
 <div class="separator-2"></div>  
