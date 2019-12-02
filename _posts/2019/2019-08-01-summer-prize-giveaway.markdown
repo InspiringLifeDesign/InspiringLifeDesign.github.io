@@ -153,9 +153,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/feb-to-apr-2019-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!--<a href="/posts/feb-to-apr-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/i-ticked-another-thing-off-my-bucket-list.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 My last post gave an update on my [income and profit from side hustles between Feb to April 2019](/posts/feb-to-apr-2019-income-report.html).<br>
-<!-- &nbsp;&nbsp;My next post spills the beans [on my profits for February to April 2019](/posts/feb-to-apr-2019-income-report.html). -->
+&nbsp;&nbsp;In my next post I reveal [what I've ticked off my bucket list](/posts/i-ticked-another-thing-off-my-bucket-list.html)
 <br>
 
 ***
