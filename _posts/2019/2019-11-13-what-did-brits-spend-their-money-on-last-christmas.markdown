@@ -86,9 +86,9 @@ Why not join my <b>Life Designer</b> community? It's completely <b>free</b>! and
 ### Previous & Next Posts
 
 <a href="/posts/i-ticked-another-thing-off-my-bucket-list.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/easter-prize-giveaway.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/festive-prize-giveaway.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I shared [what I finally ticked off my bucket list](/posts/i-ticked-another-thing-off-my-bucket-list.html).<br>
-<!-- &nbsp;&nbsp;My next post offers an opportunity to enter [the UK Money Bloggers Easter prize giveaway!](/posts/easter-prize-giveaway.html) -->
+&nbsp;&nbsp;In my next post you can enter [the UK Money Bloggers Festive giveaway (open until 14 Dec 2019)](/posts/festive-prize-giveaway.html)
 <br>
 
 ***
