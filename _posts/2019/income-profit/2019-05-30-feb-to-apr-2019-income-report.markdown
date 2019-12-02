@@ -510,9 +510,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/easter-prize-giveaway.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/financially-free-update.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/summer-prize-giveaway.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 My last post offered an opportunity to enter [an Easter prize giveaway](/posts/easter-prize-giveaway.html).<br>
-<!-- &nbsp;&nbsp;In my next post I give an update on [my progress toward becoming financially free](/posts/financially-free-update.html). -->
+&nbsp;&nbsp;My next post offered an opportunity to enter [the UK Money Bloggers Summer Giveaway (now closed)](/posts/summer-prize-giveaway.html)
 <br><br>
 You can find all my [previous income and profit reports here](/financial-freedom/income-and-profit-reports.html).
 
