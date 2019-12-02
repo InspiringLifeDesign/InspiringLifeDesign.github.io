@@ -16,6 +16,7 @@ layout: "landing_page"
 <a href="https://www.youtube.com/playlist?list=PLU2-yEZv_9acNcX1tnHl5Ddr-5HtfiF5p">Click here for Corinna's Christmas Countdown on YouTube</a>
 </b>
 
+![Corinna's Christmas Countdown pinterest image](/i/2019/vlogmas/day1pin.png)
 
 
 
