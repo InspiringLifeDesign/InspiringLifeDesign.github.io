@@ -97,9 +97,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/summer-prize-giveaway.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/easter-prize-giveaway.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/what-did-brits-spend-their-money-on-last-christmas.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 My last post was about the [Summer 2019 prize giveaway (now closed)](/posts/summer-prize-giveaway.html).<br>
-<!-- &nbsp;&nbsp;My next post offers an opportunity to enter [the UK Money Bloggers Easter prize giveaway!](/posts/easter-prize-giveaway.html) -->
+&nbsp;&nbsp;In my next post [find out what Brits spent their money on in Christmas 2018](/posts/what-did-brits-spend-their-money-on-last-christmas.html)
 <br>
 
 ***
