@@ -11,6 +11,11 @@ tags:
 </center>
 <br>
 
+<h4><span style="color:red">NEED TO KNOW: Want to shoot straight to the competition? Scroll down to the competition entry widget near the bottom of this post (you can enter multiple times).</span></h4>
+<h4><span style="color:red">Want to find out what it's all about and what you can win? Read on...</span></h4>
+
+***
+
 ### For the third time this year, I bring you news of a fantastic prize giveaway hosted by the UK Money Bloggers.
 
 Following on from the hugely popular [Easter Prize Giveaway](/posts/easter-prize-giveaway.html){:target="_blank" rel="noopener"} and the massively successful [Summer Prize Giveaway](/posts/summer-prize-giveaway.html){:target="_blank" rel="noopener"}, this competition is timed perfectly for the festive season. The winners (and there will be a whopping <b>EIGHT winners</b> this time) will be able to receive their festive hampers just in time for Christmas! And the best part? The prize draw is completely FREE to enter - <i>yes you read that right</i>. Who doesn't love a free raffle?
