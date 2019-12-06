@@ -1,6 +1,6 @@
 ---
 layout: "landing_page"
-title: "Module 1 - What Exactly Are Masterminds & Workshops?"
+title: "Module 1 - What Exactly Are Workshops & Masterminds?"
 sitemap:
   exclude: true  
 ---
@@ -13,7 +13,7 @@ sitemap:
 **Don't forget to use your workbook** to follow along with this lesson. **Haven't received it yet?** Be sure to check your emails and confirm your registration to receive your free workbook (the email from Corinna might be lurking in your spam folder).
 
 ### Module Overview
-In this video, Corinna explains what Mastermind Meetings and Workshop events are. She discusses the different types of events that will be covered within the scope of this course.
+In this video, Corinna explains what Workshop events and Mastermind Meetings are. She discusses the different types of events that will be covered within the scope of this course.
 <br>
 
 ***
@@ -27,7 +27,7 @@ In this video, Corinna explains what Mastermind Meetings and Workshop events are
 </a>
 </center>
 
-**[<< BACK TO COURSE OVERVIEW](/ff/masterminds/c19/make-money-from-masterminds)**
+**[<< BACK TO COURSE OVERVIEW](/ff/masterminds/c19/profit-from-online-workshops)**
 
 <br><br>
 <center>
