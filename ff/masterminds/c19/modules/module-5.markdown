@@ -13,7 +13,7 @@ sitemap:
 **Don't forget to use your workbook** to follow along with this lesson. **Haven't received it yet?** Be sure to check your emails and confirm your registration to receive your free workbook (the email from Corinna might be lurking in your spam folder).
 
 ### Module Overview
-In this video Corinna talks about how to run your mastermind, workshop or group event. She covers the two format types of events:
+In this video Corinna talks about how to run your workshop, mastermind or group event. She covers the two format types of events:
 
 - **Virtual events** - using online video calls
 - **In-person events** - at a real life venue
