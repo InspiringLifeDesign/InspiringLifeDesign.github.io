@@ -15,7 +15,7 @@ sitemap:
 ### Module Overview
 In this video Corinna elaborates on the first 5 action items from her 10 step event creation strategy. This will guide you as you choose & create your first topic:<br>
 1 - Pick the topic, niche or subject area for your event<br>
-2 - Decide whether your event will be a mastermind, workshop or group<br>
+2 - Decide whether your event will be a workshop, mastermind or group<br>
 3 - Decide who will be the expert(s) at your event<br>
 4 - Determine your event type: online event or in-person event<br>
 5 - Create your agenda<br>
