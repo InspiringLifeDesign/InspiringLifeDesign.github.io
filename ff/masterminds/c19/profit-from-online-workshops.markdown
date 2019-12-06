@@ -1,6 +1,6 @@
 ---
 layout: "landing_page"
-title: "Start Making Money Online: Masterminds & Workshops"
+title: "Profit From Online Workshops and Masterminds"
 sitemap:
   exclude: true  
 ---
@@ -22,12 +22,12 @@ Simply check the email I just sent you, hit confirm, and **grab your workbook do
 
 ### Here's What To Expect From The Course
 <ul>
-<li><b>Module 1</b> - What exactly are Masterminds & Workshops?
+<li><b>Module 1</b> - What exactly are Workshops & Masterminds?
 <li><b>Module 2</b> - How to make money from events
 <li><b>Module 3</b> - Choosing your event topic
 <li><b>Module 4</b> - Filling your event
 <li><b>Module 5</b> - Running your event
-<li><b>Module 6</b> - Ways to take your Mastermind, Workshop or Group to the next level
+<li><b>Module 6</b> - Ways to take your Workshop, Mastermind or Group to the next level
 
 <br><br>
 <a href="/ff/masterminds/c19/modules/module-1">
