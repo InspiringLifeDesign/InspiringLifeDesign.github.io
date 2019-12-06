@@ -15,7 +15,7 @@ sitemap:
 ### Module Overview
 In this video Corinna talks about the huge opportunities that currently present themselves for making money in the self education industry.
 <br>
-Then you will learn her 10 step strategy to get started with your own mastermind, workshop or group event.
+Then you will learn her 10 step strategy to get started with your own workshop, mastermind or group event.
 <br>
 
 ***
