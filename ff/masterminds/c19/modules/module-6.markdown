@@ -1,6 +1,6 @@
 ---
 layout: "landing_page"
-title: "Module 6 - Take your mastermind, workshop or group to the next level"
+title: "Module 6 - Take your workshop, mastermind or group to the next level"
 sitemap:
   exclude: true  
 ---
