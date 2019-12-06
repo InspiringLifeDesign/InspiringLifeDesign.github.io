@@ -17,8 +17,8 @@ We suggest you print out your workbook before you start the course:
 #### [**CLICK TO DOWNLOAD: Profit From Online Workshops course workbook**](/printables/mastermind-course/profit-from-online-workshops-workbook.pdf){:target="_blank"}
 
 <br><br>
-<a href="/ff/masterminds/c19/make-money-from-masterminds">
-  <img src="/ff/masterminds/c19/buttons/start_course.png" alt="Proceed to the Make money with Masterminds start page button">
+<a href="/ff/masterminds/c19/profit-from-online-workshops">
+  <img src="/ff/masterminds/c19/buttons/start_course.png" alt="Proceed to the Profit From Online Workshops start page button">
 </a>
 
 
