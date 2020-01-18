@@ -115,9 +115,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 ### Previous & Next Posts
 
 <a href="/posts/what-did-brits-spend-their-money-on-last-christmas.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!--<a href="/posts/feb-to-apr-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/how-did-i-get-on-with-my-2019-goals.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 [Want to know what Brits spent their money on in Christmas 2018?](/posts/what-did-brits-spend-their-money-on-last-christmas.html)<br>
-<!-- &nbsp;&nbsp;My next post spills the beans [on my profits for February to April 2019](/posts/feb-to-apr-2019-income-report.html). -->
+&nbsp;&nbsp;My next post reviews [how I got on with my 2019 goals](/posts/how-did-i-get-on-with-my-2019-goals.html).
 <br>
 
 ***
