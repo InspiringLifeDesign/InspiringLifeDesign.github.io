@@ -46,7 +46,7 @@ What this proved to me is that it is entirely possible for me to achieve a profi
 <b>OVERALL RESULT:</b> <span style="color:red"><b>NOT ACHIEVED</b></span><br>
 
 #### 3. Grow my Inspiring Life Design brand
-At the start of the year I'd made the definition of this goal purposefully ambiguous. The goal expressed my underlying desire to grow the reach and help I could offer to others through the brand. 
+At the start of the year I'd made the definition of this goal purposefully ambiguous. The goal expressed my underlying desire to grow the reach and help I could offer to others through the brand.
 
 However, with the about-turn that I made half-way through the year, Inspiring Life Design became much more of a focus for me. I spent more time than I'd originally anticipated on refining the brand, marketing and creating products that I felt would serve my community.
 
@@ -62,7 +62,7 @@ Here's a look at how my stats stacked up between the start and end of 2019:
       <th style="text-align: center">+ / -</th>     
     </tr>
   </thead>
-  
+
   <tbody>
     <tr>
       <td style="text-align: center"><a href="/signup/signup_page" target="_blank" rel="noopener">Inspiring Life Design Email Subscribers</a></td>
@@ -70,56 +70,56 @@ Here's a look at how my stats stacked up between the start and end of 2019:
       <td style="text-align: center">47</td>
       <td style="text-align: center"><b><span style="color:green">+32</span></b></td>
     </tr>
-    
+
    <tr>
       <td style="text-align: center">Inspiring Life Design Domain Authority</td>
       <td style="text-align: center">18</td>
       <td style="text-align: center">25</td>
       <td style="text-align: center"><b><span style="color:green">+7</span></b></td>
-   </tr> 
-       
+   </tr>
+
    <tr>
       <td style="text-align: center"><a href="https://www.instagram.com/inspiringlifedesign/" target="_blank" rel="noopener">Instagram</a></td>
       <td style="text-align: center">1,788</td>
       <td style="text-align: center">2,331</td>
       <td style="text-align: center"><b><span style="color:green">+543</span></b></td>
     </tr>
-    
+
    <tr>
       <td style="text-align: center"><a href="https://www.youtube.com/c/inspiringlifedesign" target="_blank" rel="noopener">YouTube</a></td>
       <td style="text-align: center">17</td>
       <td style="text-align: center">351</td>
       <td style="text-align: center"><b><span style="color:green">+334</span></b></td>
     </tr>
-    
+
    <tr>
       <td style="text-align: center"><a href="https://twitter.com/lifedesigntoday" target="_blank" rel="noopener">Twitter</a></td>
       <td style="text-align: center">1,157</td>
       <td style="text-align: center">1,433</td>
       <td style="text-align: center"><b><span style="color:green">+276</span></b></td>
     </tr>
-    
+
    <tr>
       <td style="text-align: center"><a href="https://www.pinterest.co.uk/inspiringlifedesign/_followers/" target="_blank" rel="noopener">Pinterest</a></td>
       <td style="text-align: center">69</td>
       <td style="text-align: center">129</td>
       <td style="text-align: center"><b><span style="color:green">+60</span></b></td>
     </tr>
-    
+
    <tr>
       <td style="text-align: center"><a href="https://www.facebook.com/inspiringlifedesign" target="_blank" rel="noopener">Facebook Page</a></td>
       <td style="text-align: center">30</td>
       <td style="text-align: center">66</td>
       <td style="text-align: center"><b><span style="color:green">+36</span></b></td>
     </tr>
-         
+
    <tr>
       <td style="text-align: center">Facebook Group (for <a href="/signup/signup_page" target="_blank" rel="noopener">email subscribers</a>)</td>
       <td style="text-align: center">7</td>
       <td style="text-align: center">8</td>
       <td style="text-align: center"><b><span style="color:green">+1</span></b></td>
     </tr>
-    
+
    </tbody>
 </table>
 
@@ -153,7 +153,7 @@ I specifically set myself a learning goal last year because I understood the imp
 
 I enjoyed lots of learning experiences including:
 
-- Serving on the crew for Tony Robbins' [Unleash The Power Within event](https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink){:target="_blank" rel="noopener"} (<i>affiliate link</i>) 
+- Serving on the crew for Tony Robbins' [Unleash The Power Within event](https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink){:target="_blank" rel="noopener"} (<i>affiliate link</i>)
 - Taking several of the Birmingham Apple Store's free training classes
 - Tony Robbins' Business Mastery in Las Vegas
 - Finishing the Knowledge Broker Blueprint online course and completing all the accompanying exercises
@@ -231,9 +231,9 @@ INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
 ### Previous & Next Posts
 
 <a href="/posts/festive-prize-giveaway.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/january-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/its-time-for-my-new-2020-goals.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 My last post shared an opportunity [for a festive prize giveaway (now closed)](/posts/festive-prize-giveaway.html)<br>
-<!-- &nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html) -->
+&nbsp;&nbsp;In my next post you can discover [my new goals for 2020](/posts/its-time-for-my-new-2020-goals.html)
 <br>
 
 ***
@@ -244,4 +244,3 @@ My last post shared an opportunity [for a festive prize giveaway (now closed)](/
 </center>
 <!-- END ADVERTISER: Inspiring Life Design Shop -->
 <br>
-
