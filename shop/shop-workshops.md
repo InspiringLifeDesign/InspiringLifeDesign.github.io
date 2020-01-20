@@ -15,9 +15,9 @@ Choose from the selection of workshops in our **"How To Get Started"** workshops
 <div class="row">
   <div class="col-md-4">
   <figure>
-  <figcaption><b>Confidently Host Group Video Calls</b></figcaption>
-<a href="https://events.mindmint.com/6017/66372/how-to-use-video-calls-for-your-online-mastermind-even-if-youre-a-total-beginner">
-  <img src="/i/shop/workshops/video-calls-workshop.png" alt="How To Confidently Host Video Calls Workshop"></a>
+  <figcaption><b>MORE SOON: Host Group Video Calls</b></figcaption>
+<!-- <a href="https://events.mindmint.com/6017/66372/how-to-use-video-calls-for-your-online-mastermind-even-if-youre-a-total-beginner"> -->
+  <img src="/i/shop/workshops/video-calls-workshop.png" alt="How To Confidently Host Video Calls Workshop"> <!-- </a> -->
 </figure>
 <br>
 </div>
