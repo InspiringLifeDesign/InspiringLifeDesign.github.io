@@ -4,7 +4,7 @@ title: "The 5 Biggest Lessons From Fincon 2017"
 tags:
   - "2017"
   - blogging
-  - events
+  - income hustle events
 
 ---
 
@@ -17,11 +17,11 @@ tags:
 
 **1. Know Your "Why"**
 
-Now that I've thought about this, it seems so obvious, but I have to confess to jumping head first into my blogging previously, without first stopping to think about the reasons why I want to blog. 
+Now that I've thought about this, it seems so obvious, but I have to confess to jumping head first into my blogging previously, without first stopping to think about the reasons why I want to blog.
 
 For any business venture (including blogging, podcasts and youtube channels) to be successful, it's imperative that the reason for starting it is clear in your mind.
 
-I've done a bit of soul searching since I attended Fincon. I came up with a couple of <a href="https://en.wikipedia.org/wiki/Big_Hairy_Audacious_Goal" target="_blank">*big hairy audacious goals*</a> (or BHAGs as they're otherwise known). The point of a BHAG is that it's a really huge, outrageous goal that feels ridiculous even saying it out loud, but there's a little voice inside which says, "well it *could* be possible one day". 
+I've done a bit of soul searching since I attended Fincon. I came up with a couple of <a href="https://en.wikipedia.org/wiki/Big_Hairy_Audacious_Goal" target="_blank">*big hairy audacious goals*</a> (or BHAGs as they're otherwise known). The point of a BHAG is that it's a really huge, outrageous goal that feels ridiculous even saying it out loud, but there's a little voice inside which says, "well it *could* be possible one day".
 
 So please don't laugh at my audacity when I announce that these are my 2 BHAGs which will be the driving force behind all Inspiring Life Design channels moving forward:
 
@@ -62,7 +62,7 @@ To become consistent and prolific it's essential to create some sort of publishi
 
 <br>
 **5. Know Your Audience**
- 
+
 My final take away from Fincon was the importance of knowing who your reader/listener/viewer is. After all if you don't know who you're creating content for, how can you best know how to serve them? And serving your followers is surely the most important thing to secure a successful venture.
 
 I had previously heard of the notion of creating Avatars to represent your audience, but it's never something I'd taken the time to do. However, once you have written down as much as you can about 1-4 types of person who will follow your updates, it makes it so much easier to think of and create content, safe in the knowledge that you are appealing to your target audience. The sorts of things you may include when identifying your avatars are what their likes and dislikes are, what interests them, how old are they, and what other demographics do they fall into?
@@ -120,20 +120,3 @@ My last post was about [my expectations of Fincon2017](/posts/Dallas-2017-Fincon
 <!-- END ADVERTISER: Turn Your Dreams Into Money -->
 
 ***
-
-
-
-
-
-
-
-
-
-
-
-
-     
-
-
-
-

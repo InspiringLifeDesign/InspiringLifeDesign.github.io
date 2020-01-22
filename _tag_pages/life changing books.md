@@ -1,6 +1,5 @@
 ---
 layout: tag_page
-title: events
+title: life changing books
 ---
 Hello, tag!
- 

@@ -3,6 +3,8 @@ layout: "post"
 title: "I ticked another thing off my bucket list!"
 tags:
   - "2019"
+  - transformation
+  
 affiliate: true
 ---
 
@@ -30,7 +32,7 @@ Today I have featured on the **[Personal Development Essentials](https://podcast
 
 A few weeks back I visited Agi to learn from him what goes into making a podcast show, and while I was there we recorded an episode for his podcast.
 
-We talked about my experiences of going to [Unleash The Power Within](https://www.youtube.com/watch?v=x8KLeZcVvAk&t=181s){:target="_blank" rel="noopener"} both as a participant and as a crew member; about the [Knowledge Business Blueprint](/kbb){:target="_blank" rel="noopener"} (*affiliate link*) and the Tony Robbins community; about [self book publishing](/posts/5-money-making-reasons-to-publish-books.html){:target="_blank" rel="noopener"}; and about my passion to help people find [financial freedom](/posts/freedom-plan-part-1.html){:target="_blank" rel="noopener"}. 
+We talked about my experiences of going to [Unleash The Power Within](https://www.youtube.com/watch?v=x8KLeZcVvAk&t=181s){:target="_blank" rel="noopener"} both as a participant and as a crew member; about the [Knowledge Business Blueprint](/kbb){:target="_blank" rel="noopener"} (*affiliate link*) and the Tony Robbins community; about [self book publishing](/posts/5-money-making-reasons-to-publish-books.html){:target="_blank" rel="noopener"}; and about my passion to help people find [financial freedom](/posts/freedom-plan-part-1.html){:target="_blank" rel="noopener"}.
 
 Of course, he was also keen to find out about my recent trip to Las Vegas where I met [Tony Robbins](https://www.tonyrobbins.com/){:target="_blank" rel="nooopener"} in person, as well as other fantastic online entrepreneurs such as [Dean Graziosi](https://www.deangraziosi.com/){:target="_blank" rel="nooopener"} (*creator of the KBB, best selling author, speaker and entrepreneur*), [Russell Brunson](http://www.russellbrunson.com/hi){:target="_blank" rel="nooopener"} (*Click Funnels founder & author*), [Stefan James](https://stefanjames.com/){:target="_blank" rel="nooopener"} (entrepreneur & founder of *[Project Life Mastery](https://projectlifemastery.com/){:target="_blank" rel="nooopener"}*), [Jenna Kutcher](https://jennakutcherblog.com/){:target="_blank" rel="nooopener"} (*podcaster, entrepreneur & photographer*) and [John Lee Dumas](https://www.eofire.com/){:target="_blank" rel="nooopener"} (*Entrepreneur on Fire podcast*).
 

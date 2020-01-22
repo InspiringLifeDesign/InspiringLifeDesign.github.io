@@ -5,7 +5,6 @@ tags:
   - "2018"
   - lifestyle
   - saving money
-  - events
 
 ---
 <center>
@@ -66,7 +65,7 @@ There are 3 areas to explore once inside Godiva Festival:
 <tr><td><img src="/i/2018/godiva/bar-stage.jpg" alt="Is Godiva Festival The Best Free Family Festival Ever, image of the small stage near to the Hill Top Bar"></td></tr>
 </table>
 
-This is where the main event really takes place. There is the Main Stage, a 2nd stage inside the large Rhythm Tent, as well as a smaller stage for accoustic type acts near to the large bar. 
+This is where the main event really takes place. There is the Main Stage, a 2nd stage inside the large Rhythm Tent, as well as a smaller stage for accoustic type acts near to the large bar.
 
 Speaking of bars, there are 2: the Hill Top Bar which is opposite the main stage (with the accoustic stage by it), and the Stage Bar, which unsurprisingly is located near to the main stage!
 
@@ -75,7 +74,7 @@ Speaking of bars, there are 2: the Hill Top Bar which is opposite the main stage
 <tr><td><img src="/i/2018/godiva/crepes-and-chinese-stands.jpg" alt="Is Godiva Festival The Best Free Family Festival Ever, some of the food outlets"></td></tr>
 </table>
 <br><br><br><br>
-There are also **a lot** of food vendors selling all sorts of tasty food options, and several trader stalls with typical festival clothes, hats and accessories! 
+There are also **a lot** of food vendors selling all sorts of tasty food options, and several trader stalls with typical festival clothes, hats and accessories!
 
 The variety of cuisines on offer included mexican, chinese, thai, burgers, indian, pizzas, bavarian, hog roast, crepes and many more!
 
@@ -93,7 +92,7 @@ A fun addition this year was the big wheel at the back of the field, where you c
 There's not too much to say about this area, it's a fairly typical fair. It's geared mostly to older kids and adults, because there was a smaller, child friendly funfair in The Family Area. We didn't venture into the fairground area to go on any rides, but it looked like there were some pretty big, hair-raising rides! I'm probably stating the obvious here, but you had to pay to go on the rides, they weren't free as part of the festival.
 <br>
 #### 3. The Family Area
-The entertainment in the family field has been expanding every year. This year was the biggest yet. 
+The entertainment in the family field has been expanding every year. This year was the biggest yet.
 <table class="image" style="width: 330px; margin: 5px 15px 5px 0px; float: left;">
 <caption align="bottom" style="text-align: center"><i>Inside one of the family tents was this cool "Yarn Maze" which kids could add their own colour to</i></caption>
 <tr><td><img src="/i/2018/godiva/string-maze.jpg" alt="Is Godiva Festival The Best Free Family Festival Ever, fun yarn maze inside one of the family tents"></td></tr>
@@ -105,7 +104,7 @@ First there's the Paradise Tent offering comedy on Friday evening, then various 
 <tr><td><img src="/i/2018/godiva/vintage-cakes.png" alt="Is Godiva Festival The Best Free Family Festival Ever, amazing cake stall in the Vintage Village"></td></tr>
 </table>
 
-This year there was also a small stage hosted by BBC Coventry & Warwickshire, a children's fairground (including inflatables), the much-loved Vintage Village and a few activity tents for families (including an animal petting pen). I was intrigued to see a yarn maze inside one of the tents, where you could take some yarn and add your part to the maze! Another new addition to the family area this year was a bar. 
+This year there was also a small stage hosted by BBC Coventry & Warwickshire, a children's fairground (including inflatables), the much-loved Vintage Village and a few activity tents for families (including an animal petting pen). I was intrigued to see a yarn maze inside one of the tents, where you could take some yarn and add your part to the maze! Another new addition to the family area this year was a bar.
 
 This field definitely feels like it's no longer just an "add-on", but instead it's part of the main event, and there were certainly plenty of people buzzing around.
 
@@ -160,7 +159,7 @@ We found a super picture stall called [Mrs Flower's Fabulous Card Company](http:
 </table>
 </center>
 
-After our walk around the family area we decided to head back into the main music area because we wanted to get some food. I always love eating at Godiva festival because I find the food quality really good. It certainly lived up to expectations this year. 
+After our walk around the family area we decided to head back into the main music area because we wanted to get some food. I always love eating at Godiva festival because I find the food quality really good. It certainly lived up to expectations this year.
 
 I went for a chinese dinner of sweet and sour chicken on rice, with some spring rolls on the side. My boyfriend chose a burrito which looked amazing! We sat down on our blanket to eat our food, and just at that point one of the entertainment groups called Kinetika Bloco started playing their carnival-style music, parading right in front of us! We couldn't have planned it any better.
 
@@ -186,7 +185,7 @@ For money savers and frugalisters alike, Coventry's Godiva Festival has to be a 
 
 <!-- END ADVERTISER: Travelzoo from awin.com -->
 
-*** 
+***
 
 ![Is Godiva Festival The Best Free Festival Ever, pinterest image](/i/2018/godiva/godiva-pin.png)
 
@@ -222,7 +221,3 @@ In my last post I shared [How To Get The Best Results From Your Ebook Writer](/p
 </a>
 </center>
 <!-- END ADVERTISER: Awin from awin.com -->
-
-
-
-

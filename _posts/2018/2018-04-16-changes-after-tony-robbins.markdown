@@ -3,16 +3,18 @@ layout: "post"
 title: "My 10 Simple Life Changes Inspired By Tony Robbins"
 tags:
   - "2018"
-  - events
+  - personal development events
   - lifestyle
+  - transformation
+
 affiliate: true
 ---
 {% include youtube.html videoid="QCYu8z9pQo4" %}
 
-### In April 2017 I attended Tony Robbins' Unleash The Power Within event in London. It was a life changing experience. 
+### In April 2017 I attended Tony Robbins' Unleash The Power Within event in London. It was a life changing experience.
 ***  
 
-In today's video I share with you 10 of the most important changes that I have applied to my life over the year since I went to the event. 
+In today's video I share with you 10 of the most important changes that I have applied to my life over the year since I went to the event.
 
 #### If you'd rather read what I'm talking about (or perhaps you're at work or somewhere you can't easily watch), here's a brief synopsis:
 
@@ -96,8 +98,3 @@ My last post was about my [March 2018 Income and Profit](/posts/march-2018-incom
 <!-- END ADVERTISER: Turn Your Dreams Into Money -->
 
 ***
-
-
-
-
-

@@ -23,7 +23,11 @@
                    {
                  "title": "Other Hustles",
                  "url": "/income-hustles/other-hustles.html"
-                   }
+               },
+               {
+             "title": "Income Hustle Events",
+             "url": "/tag/income-hustle-events.html"
+               }
                  ]
                },
                {
@@ -54,6 +58,20 @@
               {
                 "title": "Disney",
                 "url": "/lifestyle/disney/index.html"
+              }
+            ]
+        },
+        {
+            "title": "Transformation",
+            "url": "/tag/transformation.html",
+            "submenu": [
+              {
+                "title": "Personal Development Events",
+                "url": "/tag/personal-development-events.html"
+              },
+              {
+                "title": "Life Changing Books",
+                "url": "/transformation/books/index.html"
               }
             ]
         },
