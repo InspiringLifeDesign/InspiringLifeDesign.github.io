@@ -4,7 +4,7 @@ title: Life Changing Books
 ---
 
 # Life Changing Books
-
+ 
 There are certain books that change your life when you read them. You know the kind. You read it, have several "ah-ha" moments, and then can't stop telling everyone about this amazing new book you just found!
 
 Below are a couple of lists of Corinna's favourite books. You will see that all of these are available from Amazon, but you should be able to find them at all good book retailers:
