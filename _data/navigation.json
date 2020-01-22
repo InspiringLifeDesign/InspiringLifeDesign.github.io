@@ -5,38 +5,38 @@
           "url": "/financial-freedom/index.html",
           "submenu": [
                {
-                 "title": "Income Hustles",
+                 "title": "Make Money With An Income Hustle",
                  "url": "/income-hustles/index.html",
                  "submenu": [
                    {
-                     "title": "Workshops & Masterminds",
-                     "url": "/income-hustles/masterminds.html"
+                 "title": "Workshops & Masterminds",
+                 "url": "/income-hustles/masterminds.html"
                    },
                    {
-                     "title": "Book Publishing",
-                     "url": "/income-hustles/book-publishing.html"
+                 "title": "Book Publishing",
+                 "url": "/income-hustles/book-publishing.html"
                    },
                    {
-                       "title": "Blogging",
-                       "url": "/income-hustles/blogging.html"
+                 "title": "Blogging",
+                 "url": "/income-hustles/blogging.html"
                    },
                    {
-                       "title": "Other Hustles",
-                       "url": "/income-hustles/other-hustles.html"
+                 "title": "Other Hustles",
+                 "url": "/income-hustles/other-hustles.html"
                    }
                  ]
                },
                {
-              "title": "My Financial Freedom Progress",
+               "title": "FREE Course: Profit from Online Workshops",
+               "url": "/signup/signup_page.html"
+               },
+               {
+              "title": "Corinna's Financial Freedom Progress",
               "url": "/tag/financial-freedom.html"
                },
                {
-                    "title": "Income & Profit Reports",
-                    "url": "/financial-freedom/income-and-profit-reports.html"
-               },
-               {
-                 "title": "FREE Course: Profit from Online Workshops",
-                 "url": "/signup/signup_page.html"
+              "title": "Corinna's Income & Profit Reports",
+              "url": "/financial-freedom/income-and-profit-reports.html"
                }]
         },
         {
@@ -44,28 +44,16 @@
             "url": "/tag/lifestyle.html",
             "submenu": [
               {
-                "title": "Goals",
+                "title": "Corinna's Goals",
                 "url": "/tag/goals.html"
-              },
-              {
-                "title": "Disney",
-                "url": "/lifestyle/disney/index.html"
-              },
-              {
-                "title": "Events",
-                "url": "/tag/events.html"
-              },
-              {
-                "title": "Travel",
-                "url": "/tag/travel.html"
               },
               {
                 "title": "Charity",
                 "url": "/tag/charity.html"
               },
               {
-                "title": "Thought Experiments",
-                "url": "/tag/thought-experiments.html"
+                "title": "Disney",
+                "url": "/lifestyle/disney/index.html"
               }
             ]
         },
@@ -102,10 +90,6 @@
               {
                 "title": "Media Kit",
                 "url": "/printables/ILD_Media_Kit.pdf"
-              },
-              {
-                "title": "Treat Me",
-                "url": "/treatme.html"
               }
             ]
          }
