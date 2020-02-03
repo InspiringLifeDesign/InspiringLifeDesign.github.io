@@ -21,7 +21,7 @@ More recently, Social Security lifted over 22 million Americans out of poverty i
 <a href="https://online.norwich.edu/academic-programs/masters/history/resources/infographics/despite-debates-over-government-poverty-fell-during-the-20th-century"><img style="width:100%;" src="https://online.norwich.edu/sites/default/files/downloads/poverty-fell-022618.png"></a><br>Infographic Design By <a href="https://online.norwich.edu/academic-programs/masters/history/resources/infographics/despite-debates-over-government-poverty-fell-during-the-20th-century">Norwich University</a>
 
 *This is a collaborative post*
-
+ 
 ***
 
 <!-- START ADVERTISER: Turn Your Dreams Into Money -->
