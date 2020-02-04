@@ -226,9 +226,9 @@ INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
 ### Previous & Next Posts
 
 <a href="/posts/how-did-i-get-on-with-my-2019-goals.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/january-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/how-to-breakthrough-overwhelm.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I shared [how I got on with my 2019 goals](/posts/how-did-i-get-on-with-my-2019-goals.html)<br>
-<!-- &nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html) -->
+&nbsp;&nbsp;In my next post I write about [How To Breakthrough Overwhelm To Start Making Progress](/posts/how-to-breakthrough-overwhelm.html)
 <br>
 
 ***
