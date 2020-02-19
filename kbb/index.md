@@ -3,6 +3,13 @@ layout: "landing_page"
 
 ---
 
-<center>
-<script async data-uid="86b2f88626" src="https://inspiring-life-design.ck.page/86b2f88626/index.js"></script>
-</center>
+ <script type="text/javascript">
+      window.location='https://inspiringlifedesign.dropfunnels.com/prize-giveaway/reserve-your-spot/';
+    </script>
+
+# Huge Prize Giveaway and Reserve Your Spot for Tony Robbins & Dean Graziosi training
+
+<b>
+<a href="https://inspiringlifedesign.dropfunnels.com/prize-giveaway/reserve-your-spot/">Enter the Prize Giveaway and Reserve Your Spot for Tony & Dean's Training</a>
+</b>
+
