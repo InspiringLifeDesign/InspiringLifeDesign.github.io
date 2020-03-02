@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: https://inspiringlifedesign.dropfunnels.com/prize-giveaway/reserve-your-spot/
+redirect: https://dgachieve.com/answers?source=ildkbblink&a=1899
 ---
