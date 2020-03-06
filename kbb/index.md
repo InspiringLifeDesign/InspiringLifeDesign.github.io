@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: https://dgachieve.com/answers?source=ildkbblink&a=1899
+redirect: https://dgachieve.com/results?source=ildkbbindexpage&a=1899
 ---
