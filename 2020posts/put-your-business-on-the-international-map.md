@@ -7,7 +7,7 @@ sitemap:
 # Put Your Business On The International Map
 *This post may contain affiliate links*
 
-### Being a global [business](https://inspiringlifedesign.com/posts/what-new-side-hustle-should-you-start-this-year.html){:target="_blank" rel="noopener"} is not easy. Most business owners reading this post are likely to be running a local business, seeking to expand and grow, perhaps with the aspiration of becoming a global business. 
+### Being a global <a href="https://inspiringlifedesign.com/posts/what-new-side-hustle-should-you-start-this-year.html" target="_blank" rel="noopener" style="color:purple;">business</a> is not easy. Most business owners reading this post are likely to be running a local business, seeking to expand and grow, perhaps with the aspiration of becoming a global business. 
 
 A business can be hard to run and grow, and if you're only appealing to a certain set of people then it can pose certain challenges to growth. There are different types of local businesses. For example, one type of local business might be a cafe with a few regulars and passing trade who survive as a business, but have limited possibilities for international growth. Another type of local business might be an online local supplier that's ready to go global, perhaps selling parts or products to customers. 
 
