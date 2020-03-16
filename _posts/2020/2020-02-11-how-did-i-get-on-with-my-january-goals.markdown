@@ -39,9 +39,9 @@ Under each of these categories I track my individual goals...
 
 ***
 
-<!-- START ADVERTISER: KBB 1st ad (ILD shop until launch) -->
+<!-- START ADVERTISER: Convertkit -->
 <center>
-{% include advert.html ad_id="kbb1" %}
+{% include advert.html ad_id="ckit1" %}
 </center>
 <!-- END ADVERTISER: Convertkit -->
 
