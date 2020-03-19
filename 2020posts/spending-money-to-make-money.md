@@ -19,7 +19,7 @@ This is a shame, as it can be surprisingly easy to keep yourself moving forward 
 ### What Do You Want?
 The first part of this process involves choosing what you’re going to be trying to achieve. What are your goals? There are so many different types of goals to consider, but it’s worth choosing something which will drive you for a long time. 
 
-For example, your dream may be a new car. You use your car for work, to handle your personal commitments, and many people want to improve this part of their life. Getting a better car can be easily achieved with the help of companies like [Border City Autos](https://www.bordercityautos.co.uk/finance.php){:target="_blank" rel="nofollow"}.
+For example, your dream may be a new car. You use your car for work, to handle your personal commitments, and many people want to improve this part of their life. Getting a better car can be easily achieved with the help of companies like [Border City Autos](https://www.bordercityautos.co.uk/finance.php){:target="_blank" rel="nooopener"}.
 
 ### How Will You Get It?
 Once you have an idea of the goals you’re reaching for, it will be time to figure out exactly how you’re going to get there. This should be directly tied to the work you do, ensuring that the action you take in the next step is going to improve both your business and your life at the same time. Making more sales, [improving your marketing](https://blog.topohq.com/marketing-skills-the-10-skills-essential-to-a-successful-career/){:target="_blank" rel="nofollow"} and a range of other methods can be used to make enough money to achieve your goals. Whatever your planned appraoch to achieve your goals, it's worth ensuring that you will be able to sustain any changes you implement as your business grows.
