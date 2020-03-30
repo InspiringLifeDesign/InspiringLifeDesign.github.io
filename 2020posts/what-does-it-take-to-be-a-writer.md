@@ -48,3 +48,4 @@ Now, we all know that editing is a huge part of perfecting a novel. Yet, it’s 
 {% include advert.html ad_id="tydim1" %}
 </center>
 <!-- END ADVERTISER: Turn Your Dreams Into Money -->
+
