@@ -31,7 +31,7 @@ In this video, Corinna explains what Workshop events and Mastermind Meetings are
 
 <br><br>
 <center>
-<a href="https://dgachieve.com/joining?source=ILDmmcoursebanner&a=1899" target="blank" rel="nofollow noopener"><img src="/i/ads/kbb/970x90.jpg" /></a>
+<a href="https://deanandtonylive.com/reservation?source=ILDmmcoursebanner&a=1899" target="blank" rel="nofollow noopener"><img src="/i/ads/kbb/970x90.jpg" /></a>
 </center>
 
 <br><br><br>

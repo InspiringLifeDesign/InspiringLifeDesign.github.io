@@ -27,7 +27,7 @@ Here are the tools discussed in this module:<br>
 Create your own images, PDF documents and beautiful designs. Canva offers a great free to use version for beginners, and a very reasonably priced subscription service *Canva Pro* for more customisation and features<br>
 **[Stripe](https://stripe.com){:target="_blank" rel="noopener"}** - Take online payments<br>
 Plug stripe into a website or sales funnel to allow payments to be taken online. There are also options to allow in-person card payments to be taken<br>
-**[Mindmint Software](https://dgachieve.com/joining?source=ILDmmcourse&a=1899){:target="_blank" rel="nofollow noopener"}** - through the Knowledge Business Blueprint<br>
+**[Mindmint Software](https://deanandtonylive.com/reservation?source=ILDmmcourse&a=1899){:target="_blank" rel="nofollow noopener"}** - through the Knowledge Business Blueprint<br>
 Sign-up for the free training offered by Tony Robbins, Dean Graziosi and Russell Brunson to learn more
 
 
@@ -46,7 +46,7 @@ Sign-up for the free training offered by Tony Robbins, Dean Graziosi and Russell
 
 <br><br>
 <center>
-<a href="https://dgachieve.com/joining?source=ILDmmcoursebanner&a=1899" target="blank" rel="nofollow noopener"><img src="/i/ads/kbb/970x90.jpg" /></a>
+<a href="https://deanandtonylive.com/reservation?source=ILDmmcoursebanner&a=1899" target="blank" rel="nofollow noopener"><img src="/i/ads/kbb/970x90.jpg" /></a>
 </center>
 
 <br><br><br>
