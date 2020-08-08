@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect: https://inspiringlifedesign.dropfunnels.com/kbb-bonus/bootcamp/
+redirect: https://deanandtonylive.com/reservation?source=youtube&a=1899
 ---
 
