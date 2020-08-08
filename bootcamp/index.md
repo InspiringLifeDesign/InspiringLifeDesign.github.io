@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect: https://deanandtonylive.com/reservation?source=youtube&a=1899
+redirect: https://deanandtonylive.com/reservation?source=bootcamp&a=1899
 ---
 
