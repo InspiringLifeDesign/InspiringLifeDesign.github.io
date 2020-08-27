@@ -249,9 +249,9 @@ INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
 ### Previous & Next Posts
 
 <a href="/posts/what-new-side-hustle-should-you-start-this-year.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/january-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/spring-prize-giveaway.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I wrote about 5 [side hustles to consider starting in 2020](/posts/what-new-side-hustle-should-you-start-this-year.html)<br>
-<!-- &nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html) -->
+&nbsp;&nbsp;Meet more UK Money Bloggers in my next post about [the Spring 2020 prize giveaway (now closed)](/posts/spring-prize-giveaway.html)
 <br>
 
 ***
