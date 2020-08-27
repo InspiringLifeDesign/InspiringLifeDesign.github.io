@@ -99,9 +99,9 @@ INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
 ### Previous & Next Posts
 
 <a href="/posts/how-did-i-get-on-with-my-january-goals.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/how-did-i-get-on-with-my-2019-goals.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/life-update.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 [How Did I Get On With My Goals In January?](/posts/how-did-i-get-on-with-my-january-goals.html)<br>
-<!-- &nbsp;&nbsp;My next post reviews [how I got on with my 2019 goals](/posts/how-did-i-get-on-with-my-2019-goals.html). -->
+&nbsp;&nbsp;Get ready for my [huge life update](/posts/life-update.html) in my next post
 <br>
 
 ***
