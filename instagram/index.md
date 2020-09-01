@@ -10,15 +10,15 @@ layout: landing_page_image
 <br />
 
 <!-- YouTube latest START -->
-<h4 class="title"><span style="color:#EA27A2">My latest YouTube video:</span></h4>
+<h4 class="title"><span style="color:#EA27A2">Latest on my YouTube:</span></h4>
 <div class="separator-2"></div>
-  <iframe width="280" height="158" src="https://www.youtube-nocookie.com/embed/GEE1xVcoxac?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/GEE1xVcoxac?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
     <!-- YouTube latest END -->
 
-<a href="https://inspiringlifedesign.com" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/blog.png' alt='link to Inspiring Life Design website' /></a>
-<br />
 <a href="https://www.amazon.co.uk/shop/inspiringlifedesign" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/amazonassociate.png' alt='link to Inspiring Life Design items to shop at Amazon' /></a>
+<br />
+<a href="https://inspiringlifedesign.com" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/blog.png' alt='link to Inspiring Life Design website' /></a>
 <br />
 <a href="https://inspiringlifedesign.com/printables/ILD_Media_Kit.pdf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/mediakit.png' alt='link to Inspiring Life Design Media Kit' /></a>
 
