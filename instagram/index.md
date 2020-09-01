@@ -8,8 +8,14 @@ layout: landing_page_image
 <a href="https://www.instagram.com/inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:black">@inspiringlifedesign</span></a>
 </h4>
 <br />
-<a href="https://www.youtube.com/watch?v=5Om6In9XYFY" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/youtube.png' alt='link to 2020 Life Update video on YouTube' /></a>
-<br />
+
+<!-- YouTube latest START -->
+<h4 class="title"><span style="color:#EA27A2">My latest YouTube video:</span></h4>
+<div class="separator-2"></div>
+  <iframe width="280" height="158" src="https://www.youtube-nocookie.com/embed/GEE1xVcoxac?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <br><br>
+    <!-- YouTube latest END -->
+
 <a href="https://inspiringlifedesign.com" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/blog.png' alt='link to Inspiring Life Design website' /></a>
 <br />
 <a href="https://www.amazon.co.uk/shop/inspiringlifedesign" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/amazonassociate.png' alt='link to Inspiring Life Design items to shop at Amazon' /></a>
