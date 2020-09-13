@@ -16,6 +16,8 @@ layout: landing_page_image
   <br><br>
     <!-- YouTube latest END -->
 
+<a href="https://events.mastermind.com/ptp?source=instagram&a=1899" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/powertopivot.png' alt='link to Power To Pivot virtual event' /></a>
+<br />
 <a href="https://www.amazon.co.uk/shop/inspiringlifedesign" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/amazonassociate.png' alt='link to Inspiring Life Design items to shop at Amazon' /></a>
 <br />
 <a href="https://inspiringlifedesign.com" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/blog.png' alt='link to Inspiring Life Design website' /></a>
