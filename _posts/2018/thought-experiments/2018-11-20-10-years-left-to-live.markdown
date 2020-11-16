@@ -144,11 +144,11 @@ Here's the other responses people have written for the scenario where they only 
 
 ***
 
-<!-- START ADVERTISER: CKit1 ad 1 -->
+<!-- START ADVERTISER: TYDIM ad 1 -->
 <center>
-{% include advert.html ad_id="ckit1" %}
+{% include advert.html ad_id="tydim1" %}
 </center>
-<!-- END ADVERTISER: CKit1 -->
+<!-- END ADVERTISER: TYDIM -->
 
 ***
 
@@ -180,9 +180,8 @@ In my last post I wrote about [a special kind of advent calendar](/posts/special
 
 ***
 
-<!-- START ADVERTISER: TYDIM ad 1 -->
+<!-- START ADVERTISER: CKit1 ad 1 -->
 <center>
-{% include advert.html ad_id="tydim1" %}
+{% include advert.html ad_id="ckit1" %}
 </center>
-<!-- END ADVERTISER: TYDIM -->
-
+<!-- END ADVERTISER: CKit1 -->
