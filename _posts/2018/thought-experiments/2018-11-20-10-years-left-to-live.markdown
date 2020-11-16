@@ -27,14 +27,11 @@ So after a bit of anxiety related trepidation (do I really want to let my mind w
 
 ***
 
-<!-- START ADVERTISER: Travelzoo from awin.com -->
+<!-- START ADVERTISER: KBB ad 1 -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=1009233&v=5833&q=315801&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=1009233&v=5833&q=315801&r=452089" border="0">
-</a>
+{% include advert.html ad_id="kbb1" %}
 </center>
-
-<!-- END ADVERTISER: Travelzoo from awin.com -->
+<!-- END ADVERTISER: KBB -->
 
 *** 
 
@@ -65,12 +62,11 @@ I definitely wouldn’t go back to working in an office job, but I think I would
 
 ***
 
-<!-- START ADVERTISER: DLP -->
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script>
-<!-- END ADVERTISER: DLP -->
+<!-- START ADVERTISER: TopCB ad 1 -->
+<center>
+{% include advert.html ad_id="topcb1" %}
+</center>
+<!-- END ADVERTISER: TopCB -->
 
 ***
 
@@ -148,12 +144,11 @@ Here's the other responses people have written for the scenario where they only 
 
 ***
 
-<!-- START ADVERTISER: DLP -->
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script>
-<!-- END ADVERTISER: DLP -->
+<!-- START ADVERTISER: CKit1 ad 1 -->
+<center>
+{% include advert.html ad_id="ckit1" %}
+</center>
+<!-- END ADVERTISER: CKit1 -->
 
 ***
 
@@ -185,11 +180,9 @@ In my last post I wrote about [a special kind of advent calendar](/posts/special
 
 ***
 
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<!-- START ADVERTISER: TYDIM ad 1 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="tydim1" %}
 </center>
-<!-- END ADVERTISER: Turn Your Dreams Into Money -->
-
-
+<!-- END ADVERTISER: TYDIM -->
 
