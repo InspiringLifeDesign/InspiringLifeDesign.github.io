@@ -1,13 +1,11 @@
 ---
 layout: landing_page_image
-
 ---
 <center>
 <img src='/i/cory-circle.png' alt='Profile image of Corinna'>
 <h4>
 <a href="https://www.instagram.com/inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:black">@inspiringlifedesign</span></a>
 </h4>
-<div class="separator-2"></div>
 <br />
 
 <!-- YouTube latest START -->
