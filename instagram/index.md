@@ -14,7 +14,7 @@ layout: landing_page_image
   <br><br>
 <!-- YouTube latest END -->
 
-<h6 class="title"><span style="color:white">Get 20% off your first box:</span></h6>
+<h6 class="title"><span style="color:white">Use code <i>CORINNA-RO6</i> for 20% off your 1st box:</span></h6>
 <a href="https://inspiringlifedesign.com/takemeto/glossy" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/glossybox.png' alt='link to Our Magical Home Etsy store' /></a>
 <br />
 <h6 class="title"><span style="color:white">Use code <i>ropedrop</i> for 10% off:</span></h6>
