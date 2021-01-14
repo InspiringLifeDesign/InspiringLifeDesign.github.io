@@ -14,12 +14,15 @@ layout: landing_page_image
   <br><br>
 <!-- YouTube latest END -->
 
+<h6 class="title"><span style="color:white">Get 20% off your first box:</span></h6>
+<a href="https://inspiringlifedesign.com/takemeto/glossy" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/glossybox.png' alt='link to Our Magical Home Etsy store' /></a>
+<br />
 <h6 class="title"><span style="color:white">Use code <i>ropedrop</i> for 10% off:</span></h6>
-<a href="https://www.ourmagicalhome.co.uk/" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/ourmagicalhome.png' alt='link to Our Magical Home Etsy store' /></a>
+<a href="https://www.ourmagicalhome.co.uk/" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/ourmagicalhome.png' alt='link to Our Magical Home Etsy store' /></a>
 <br />
-<a href="https://inspiringlifedesign.com" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/ild.png' alt='link to Inspiring Life Design website' /></a>
+<a href="https://inspiringlifedesign.com" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/ild.png' alt='link to Inspiring Life Design website' /></a>
 <br />
-<a href="https://inspiringlifedesign.com/printables/ILD_Media_Kit.pdf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/mediakitxmas.png' alt='link to Inspiring Life Design Media Kit' /></a>
+<a href="https://inspiringlifedesign.com/printables/ILD_Media_Kit.pdf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/mediakit.png' alt='link to Inspiring Life Design Media Kit' /></a>
 
 </center>
 <br />
