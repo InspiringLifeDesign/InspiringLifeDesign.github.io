@@ -16,6 +16,8 @@ tags:
 
 ### If you're still on the fence about starting a side hustle, or you've been contemplating creating another income stream for your portfolio, here's my top recommendations for new business ventures that are perfect to start this year.
 
+If you're curious about what side hustle could be perfect for you, why not take this [Side Hustle quiz](https://makemoneywithoutajob.com/which-side-hustle-is-perfect-for-you/){:target="_blank" rel="noopener"} to get your recommendations.
+
 If you're already subscribed to my [email newsletter](/signup/signup_page.html){:target="_blank" rel="noopener"}, or if you follow my [Instagram](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="noopener"} stories, you'll already know that I've been having a long think about the direction to take Inspiring Life Design this year.
 
 Inspiring Life Design has always had a large focus on ways to make money to boost income. While I've been working on the target niche for my brand, it's become clear to me that I need to refine this down a bit more.
