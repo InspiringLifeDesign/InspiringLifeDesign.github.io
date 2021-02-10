@@ -35,14 +35,3 @@ Inspirational quotes can be more effective than you think, and one of the ways t
 </center>
 <!-- END ADVERTISER: Turn Your Dreams Into Money -->
 
-
-
-
-
-
-
-
-
-
-
-
