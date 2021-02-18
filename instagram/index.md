@@ -8,8 +8,11 @@ layout: landing_page_image
 </h4>
 <br />
 
+<h6 class="title"><span style="color:white">Virtual workouts, nutrition & accountability:</span></h6>
+<a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
+<br />
 <h6 class="title"><span style="color:white">Use code <i>CORINNA-RO6</i> for 20% off:</span></h6>
-<a href="https://inspiringlifedesign.com/takemeto/glossy" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/glossybox.png' alt='link to Our Magical Home Etsy store' /></a>
+<a href="https://inspiringlifedesign.com/takemeto/glossy" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/glossybox.png' alt='link to GlossyBox site' /></a>
 <br />
 <h6 class="title"><span style="color:white">Use code <i>ropedrop</i> for 10% off:</span></h6>
 <a href="https://www.ourmagicalhome.co.uk/" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/ourmagicalhome.png' alt='link to Our Magical Home Etsy store' /></a>
