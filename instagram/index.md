@@ -8,7 +8,7 @@ layout: landing_page_image
 </h4>
 <br />
 
-<h6 class="title"><span style="color:white">Virtual workouts, nutrition & accountability:</span></h6>
+<h6 class="title"><span style="color:white">Accountability to get the body you want:</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 <br />
 <h6 class="title"><span style="color:white">Use code <i>CORINNA-RO6</i> for 20% off:</span></h6>
