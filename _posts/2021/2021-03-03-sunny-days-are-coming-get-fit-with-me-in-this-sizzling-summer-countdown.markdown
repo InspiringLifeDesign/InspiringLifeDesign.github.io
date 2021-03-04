@@ -93,7 +93,9 @@ Proof is in the pudding (or not in my case!) I have been working out following o
 You have to make a commitment and put the effort in, but you have all of the support you need to get the job done.
 
 <center>
-    <img src='/i/2021/sunny-days-are-coming-3.jpg' alt='Woman wearing large sunhat with feet in pool'>
+    <img src='/i/2021/sunny-days-are-coming-transformation-1.jpg' alt='Example transformation 1'>
+    <br /> 
+    <img src='/i/2021/sunny-days-are-coming-transformation-2.jpg' alt='Example transformation 2'>
 </center>
 
 ### Okay, Tell Me More
@@ -173,6 +175,10 @@ I am so excited for you to discover what a life changing way to get fit and feel
 </form>
 
 If you have any questions for me you can email me at corinna@inspiringlifedesign.com
+
+<center>
+    <img src='/i/2021/sunny-days-are-coming-3.jpg' alt='Woman wearing large sunhat with feet in pool'>
+</center>
 
 ### There's Power In Numbers
 Why not get your family and friends to join in with you too? There's power in striving for a shared goal together.
