@@ -8,8 +8,10 @@ layout: landing_page_image
 </h4>
 <br />
 
-<h6 class="title"><span style="color:white">Get Fit For Summer With Me!</span></h6>
-<a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
+<iframe width="300" height="168" src="/i/instagram/summercountdown.png" alt="Countdown To Summer bright pool & yellow pool float" frameborder="0"></iframe>
+
+<h6 class="title"><span style="color:white">8 Week Get Fit For Summer With Me:</span></h6>
+<a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/countdown.png' alt='link to Sunshine Studio information request page' /></a>
 <br />
 <a href="https://inspiringlifedesign.com" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/ild.png' alt='link to Inspiring Life Design website' /></a>
 <br />
