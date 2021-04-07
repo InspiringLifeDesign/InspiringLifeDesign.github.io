@@ -13,6 +13,9 @@ layout: landing_page_image
 <h6 class="title"><span style="color:white">Apply To Join My Virtual Fitness Studio:</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 <br />
+<h6 class="title"><span style="color:white">Apply To Join My Social Media Business Mentorship:</span></h6>
+<a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/current/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
+<br />
 <a href="https://inspiringlifedesign.com" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/ild.png' alt='link to Inspiring Life Design website' /></a>
 <br />
 <h6 class="title"><span style="color:white">Use code <i>CORINNA-RO6</i> for 20% off:</span></h6>
