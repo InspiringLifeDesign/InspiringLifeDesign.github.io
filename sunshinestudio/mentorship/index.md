@@ -11,7 +11,7 @@ layout: landing_page
 <h3>Our Team. Our Tribe. Our Family.</h3>
 <h4>Apply to join my team and we're gonna build & grow your social media business together</h4><br />
 <h4>But this is SO MUCH MORE than a business...</h4>
-<h4>...it's a community and it's a LIFE PURPOSE</h4>
+<h4>...it's a thriving community and it's a LIFE PURPOSE</h4>
 <h4>And I know you're gonna LOVE it just as much as I do!</h4><br />
 
 <h4><b>Work From Anywhere. Change Lives. Live the Life of your dreams.</b></h4><br />
