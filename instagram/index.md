@@ -24,11 +24,11 @@ layout: landing_page_image
 <!-- ILD YouTube latest START -->
 <h4 class="title"><span style="color:white">Craft With Me - Making A Heart Wreath</span></h4>
   <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/DGTV8qyZT4Y?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <br><br>
+  <br>
 <!-- YouTube latest END -->
 
 <!-- Corinna Phillips YouTube latest START -->
-<h4 class="title"><span style="color:white">Games At Our Family Bar - An Easter Vlog</span></h4>
+<h4 class="title"><span style="color:white">Games At Our Family Bar at Easter</span></h4>
   <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/_vq0Jn2zTQ0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
 <!-- YouTube latest END -->
