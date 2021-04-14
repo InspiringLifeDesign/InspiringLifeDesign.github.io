@@ -2,10 +2,14 @@
 layout: landing_page_image
 ---
 <center>
-<img src='/i/cory-circle.png' alt='Profile image of Corinna'>
+<img src='/i/cory-small.png' alt='Profile image of Corinna'>
 <h4>
 <a href="https://www.instagram.com/inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:white">@inspiringlifedesign</span></a>
 </h4>
+<br />
+
+<h6 class="title"><span style="color:white">Try For Free - Summer Dance Workout!</span></h6>
+<a href="https://www.facebook.com/groups/tryletsgetup"><img src='/i/Buttons/instagram/current/danceworkout.png' alt='link to Lets Get Up Facebook Group' /></a>
 <br />
 
 <iframe width="300" height="168" src="/i/instagram/sunshinestudio-small.png" alt="Sunshine Studio cover art" frameborder="0"></iframe>
