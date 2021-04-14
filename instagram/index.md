@@ -7,7 +7,7 @@ layout: landing_page_image
 <a href="https://www.instagram.com/inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:white">@inspiringlifedesign</span></a>
 </h6>
 
-<iframe width="200" height="176" src="/i/beachbody/letsgetuppromo.jpg" alt="Lets Get Up workout image" frameborder="0"></iframe>
+<iframe width="250" height="223" src="/i/beachbody/letsgetuppromo.jpg" alt="Lets Get Up workout image" frameborder="0"></iframe>
 
 <h6 class="title"><span style="color:white">Try For Free - Summer Dance Workout!</span></h6>
 <a href="https://www.facebook.com/groups/tryletsgetup"><img src='/i/Buttons/instagram/current/danceworkout.png' alt='link to Lets Get Up Facebook Group' /></a>
