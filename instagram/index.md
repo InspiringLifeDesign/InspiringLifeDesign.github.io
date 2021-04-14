@@ -8,6 +8,8 @@ layout: landing_page_image
 </h4>
 <br />
 
+<iframe width="300" height="200" src="/i/beachbody/letsgetup.jpg" alt="Lets Get Up workout image" frameborder="0"></iframe>
+
 <h6 class="title"><span style="color:white">Try For Free - Summer Dance Workout!</span></h6>
 <a href="https://www.facebook.com/groups/tryletsgetup"><img src='/i/Buttons/instagram/current/danceworkout.png' alt='link to Lets Get Up Facebook Group' /></a>
 
