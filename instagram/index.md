@@ -3,10 +3,9 @@ layout: landing_page_image
 ---
 <center>
 <img src='/i/cory-small.png' alt='Profile image of Corinna'>
-<h4>
+<h6>
 <a href="https://www.instagram.com/inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:white">@inspiringlifedesign</span></a>
-</h4>
-<br />
+</h6>
 
 <iframe width="300" height="200" src="/i/beachbody/letsgetup.jpg" alt="Lets Get Up workout image" frameborder="0"></iframe>
 
