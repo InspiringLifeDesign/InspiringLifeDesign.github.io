@@ -12,12 +12,12 @@ layout: landing_page_image
 
 <h6 class="title"><span style="color:white">Try For Free - Summer Dance Workout!</span></h6>
 <a href="https://www.facebook.com/groups/tryletsgetup"><img src='/i/Buttons/instagram/current/danceworkout.png' alt='link to Lets Get Up Facebook Group' /></a>
-
+<br />
 <!-- <iframe width="300" height="168" src="/i/instagram/sunshinestudio-small.png" alt="Sunshine Studio cover art" frameborder="0"></iframe> -->
 
 <h6 class="title"><span style="color:white">Apply To Join My Virtual Fitness Studio:</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
-
+<br />
 <h6 class="title"><span style="color:white">Apply To Join My Social Media Business Mentorship:</span></h6>
 <a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/current/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
 <br />
@@ -42,6 +42,7 @@ layout: landing_page_image
  <div class="separator-2"></div>
 <h6 class="title"><span style="color:white">Use code <i>CORINNA-RO6</i> for 20% off:</span></h6>
 <a href="https://inspiringlifedesign.com/takemeto/glossy" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/glossybox.png' alt='link to GlossyBox site' /></a>
+<br />
 <h6 class="title"><span style="color:white">Use code <i>ropedrop</i> for 10% off:</span></h6>
 <a href="https://www.ourmagicalhome.co.uk/" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/ourmagicalhome.png' alt='link to Our Magical Home Etsy store' /></a>
 <br />
