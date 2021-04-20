@@ -9,12 +9,9 @@ layout: landing_page_image
 
 <iframe width="250" height="223" src="/i/beachbody/letsgetuppromo.jpg" alt="Lets Get Up workout image" frameborder="0"></iframe>
 
-<h6 class="title"><span style="color:white">Try For Free - Summer Dance Workout!</span></h6>
-<a href="https://www.facebook.com/groups/tryletsgetup"><img src='/i/Buttons/instagram/current/danceworkout.png' alt='link to Lets Get Up Facebook Group' /></a>
-
 <!-- <iframe width="300" height="168" src="/i/instagram/sunshinestudio-small.png" alt="Sunshine Studio cover art" frameborder="0"></iframe> -->
 
-<h6 class="title"><span style="color:white">Apply To Join My Virtual Fitness Studio:</span></h6>
+<h6 class="title"><span style="color:white">Come Have Fun Getting FIT With Us!</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 
 <h6 class="title"><span style="color:white">Apply To Join My Social Media Business Mentorship:</span></h6>
