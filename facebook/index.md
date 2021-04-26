@@ -8,12 +8,12 @@ layout: landing_page_image
 </h4>
 <br />
 
-<iframe width="250" height="223" src="/i/beachbody/letsgetuppromo.jpg" alt="Lets Get Up workout image" frameborder="0"></iframe>
+<iframe width="350" height="197" src="/i/instagram/3weekkickstart.png" alt="3 Week Kickstart into Summer image" frameborder="0"></iframe>
 
 <!-- <iframe width="300" height="168" src="/i/instagram/sunshinestudio-small.png" alt="Sunshine Studio cover art" frameborder="0"></iframe> -->
 
-<h6 class="title"><span style="color:white">Come Have Fun Getting FIT With Us!</span></h6>
-<a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
+<h6 class="title"><span style="color:white">Get Summer Ready In Just 3 Weeks!</span></h6>
+<a href="/sunshinestudio/3weekkickstart"><img src='/i/Buttons/instagram/current/3weekkickstart.png' alt='link to 3 Week Kickstart into Summer Sunshine Studio information request page' /></a>
 <br />
 <h6 class="title"><span style="color:white">Apply To Join My Social Media Business Mentorship:</span></h6>
 <a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/current/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
@@ -31,6 +31,9 @@ layout: landing_page_image
   <br><br>
 <!-- YouTube latest END -->
 
+<h6 class="title"><span style="color:white">Come Have Fun Getting FIT With Us!</span></h6>
+<a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
+<br />
 <a href="https://inspiringlifedesign.com" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/ild.png' alt='link to Inspiring Life Design website' /></a>
 <br />
 <a href="https://inspiringlifedesign.com/printables/ILD_Media_Kit.pdf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/mediakit.png' alt='link to Inspiring Life Design Media Kit' /></a>
