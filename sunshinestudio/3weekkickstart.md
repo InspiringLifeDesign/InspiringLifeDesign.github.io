@@ -21,8 +21,11 @@ With everything you need for optimum health, including a simple-to-follow nutrit
 Working out at home for 30 minutes changed my <b>entire</b> life...I would love for you to GIVE YOURSELF THAT GIFT too x<br /><br />
 Forget spending hours in the gym. Forget counting calories. Forget restricting yourself. Just get ready for <b>real incredible results</b>!<br /><br />
 I'll be there every step of the way alongside you, as your coach and as your friend. Your success is my success!
+<br /><br />
+<b>Want a sneak peek first? Head to my <a href="https://www.facebook.com/media/set?set=oa.136279985142609&type=3" target="_blank" rel="noopener">Sneak Peek Facebook Group</a>  to try a <i>3 Week Kickstart Into Summer</i> workout for free.</b>
 
-<h3>It all kicks off Monday 3rd May - deadline to enrol is Wednesday 28th April. Don't miss out!</h3>
+<h3><i>3 Week Kickstart Into Summer</i> starts Monday 3rd May</h3>
+<h4>Your deadline to enrol is Wednesday 28th April. Don't miss out!</h4>
 <br />
 
 <h3>Ready To Join/Have Questions? Fill Out This Quick Form & I'll Be In Touch Within 24 Hours...</h3>
