@@ -7,8 +7,13 @@ layout: landing_page_image
 <a href="https://www.instagram.com/inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:white">@inspiringlifedesign</span></a>
 </h4>
 <br />
-
-<iframe width="350" height="197" src="/i/instagram/3weekkickstart.png" alt="3 Week Kickstart into Summer image" frameborder="0"></iframe>
+<a href="https://ownyourfuturechallenge.com/freechallenge?source=optinstories&a=1899"><img src='/i/instagram/oyfc/oyfc.png' alt='link to Own Your Future Challenge signup' /></a>
+<br />
+<a href="https://ownyourfuturechallenge.com/freechallenge?source=optinstories&a=1899"><img src='/i/Buttons/instagram/current/oyfc.png' alt='link to Own Your Future Challenge signup' /></a>
+<br />
+</center>
+<center>
+<iframe width="250" height="141" src="/i/instagram/3weekkickstart.png" alt="3 Week Kickstart into Summer image" frameborder="0"></iframe>
 
 <!-- <iframe width="300" height="168" src="/i/instagram/sunshinestudio-small.png" alt="Sunshine Studio cover art" frameborder="0"></iframe> -->
 
