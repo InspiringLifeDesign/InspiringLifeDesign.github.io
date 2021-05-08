@@ -22,11 +22,11 @@ The first thing that I do when I set myself an annual goal is to see how that br
 This means that my target profit for February would ideally be in the region of £333.33. 
 Seeing as I was short of hitting my goal in January there's another £101.08 to try to earn on top, but that's simply a stretch goal! 
 
-<!-- START ADVERTISER: OddsMonkey -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_26" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/Web Banner - 728x90.png" width="728" height="90" alt="OddsMonkey"></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: OddsMonkey -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ### INCOME REPORT
 Here's how my income is panning out:
@@ -314,11 +314,11 @@ February was a low month for me at **£138** profit versus my target of £333.33
 
 Looking ahead to March, in terms of money I'm expecting to receive from kindle book sales, it's even worse than February! However, from April onward things should start to look up because I've been running book promotions again. I think I just have to ride out these couple of low profit months and keep on looking at the bigger picture goal of getting more books published. There's at least a two month delay between working on a book and seeing the profits in my pocket, so I just have to accept this.
 <br><br>
-<!-- START ADVERTISER: OddsMonkey -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_14" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/728x90_free_tutorials.jpg" width="728" height="90" alt=""></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: OddsMonkey -->
+<!-- END ADVERTISER: Latest 2 -->
 <br>
 
 ##### WHAT ACTIONS WORKED/DIDN'T WORK FROM LAST MONTH'S PLAN
@@ -393,11 +393,11 @@ In my last post I talked about [part two of creating your freedom plan](/posts/f
 
 ***
 
-<!-- START ADVERTISER: Convertkit 2 -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_08_28.png" alt="ConvertKit" border="0" /></a>
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Convertkit 2 -->
+<!-- END ADVERTISER: Latest 3 -->
 
 ***   
 

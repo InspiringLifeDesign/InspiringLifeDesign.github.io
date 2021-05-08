@@ -25,12 +25,11 @@ I didn't achieve the ideal monthly target in both January and February, which ha
 
 Let's see how I got on...
 
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
-
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Turn Your Dreams Into Money -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ### INCOME REPORT
 Here's how my income is panning out:
@@ -328,9 +327,11 @@ My dilemma when I'm faced with a low income month is whether to spend my (limite
 **So I've made a decision**. If I have months in the future where I'm not hitting my target income, I'm not going to try too hard to raise more money during that month. Instead I'm going to look to the future and spend time on my hustles which will provide me with ongoing and longer term value. I appreciate that this may mean I miss my goal for the year, but I think this is a better approach in the long term.
 
 <br>
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_14" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/728x90_free_tutorials.jpg" width="728" height="90" alt=""></a>
+{% include advert.html ad_id="latest2" %}
 </center>
+<!-- END ADVERTISER: Latest 2 -->
 <br>
 
 ##### WHAT ACTIONS WORKED/DIDN'T WORK FROM LAST MONTH'S PLAN
@@ -433,16 +434,10 @@ My last post was about [writing what you love to make money](/posts/write-about-
 
 ***
 
-<!-- START ADVERTISER: Convertkit 2 -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_08_28.png" alt="ConvertKit" border="0" /></a>
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Convertkit 2 -->
+<!-- END ADVERTISER: Latest 3 -->
 
 ***
-
-
-
-
-
-

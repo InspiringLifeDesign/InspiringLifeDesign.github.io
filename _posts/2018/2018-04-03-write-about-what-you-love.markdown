@@ -17,11 +17,11 @@ I don't know about you, but I would! And that's exactly what fellow blogger Emma
 
 That's why I couldn't resist buying Emma Drew's [**Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) blogging course earlier this year. Its tagline is *How To Build A Six-Figure Blog And Live The Life You Want*. That's a bold sales pitch, so I have high hopes that this course lives up to expectations. 
 <br>
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<!-- START ADVERTISER: TYDIM ad 1 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="tydim1" %}
 </center>
-<!-- END ADVERTISER: Turn Your Dreams Into Money -->
+<!-- END ADVERTISER: TYDIM1 -->
 <br>
 ### Who Is Emma Drew?
 I met Emma twice last year (in 2017). First at the [UK Money Bloggers](https://ukmoneybloggers.com/gallery-show-money-bloggers-3-2017-shomos/){:target="_blank"} event in London where I attended one of the workshops which she facilitated. Then again at [Fincon17](/posts/Five-Biggest-Lessons-from-Fincon17){:target="_blank"} in Dallas where I also met her husband Tony. We had some great chats about blogging, seeking financial freedom and the law of attraction which we're both great believers in.
@@ -84,11 +84,11 @@ So do you think that blogging could be a good Side Hustle for you? It can certai
 
 If you have a blog, or are considering starting one let me know because we can share tips, links to each others blogs and frankly I'd just like to read what you're writing about!
 <br>
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<!-- START ADVERTISER: TYDIM ad 1 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/i/2018/write-about-what-you-love-and-make-money-too-pin.png' alt='Write about what you love, Turn Your Dreams Into Money Pinterest image' /></a>
+{% include advert.html ad_id="tydim1" %}
 </center>
-<!-- END ADVERTISER: Turn Your Dreams Into Money -->
+<!-- END ADVERTISER: TYDIM1 -->
 <br>
 
 ***
@@ -115,11 +115,11 @@ In my last post I wrote about [why you'll love publishing books as a way to make
 
 ***
 
-<!-- START ADVERTISER: Convertkit 2 -->
+<!-- START ADVERTISER: TYDIM ad 1 -->
 <center>
-<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_08_28.png" alt="ConvertKit" border="0" /></a>
+{% include advert.html ad_id="tydim1" %}
 </center>
-<!-- END ADVERTISER: Convertkit 2 -->
+<!-- END ADVERTISER: TYDIM1 -->
 
 ***
 

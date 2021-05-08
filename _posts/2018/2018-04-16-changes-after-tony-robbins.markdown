@@ -23,11 +23,11 @@ I significantly changed my diet so that I now eat mostly **clean, organic food**
 #### 2. Water
 I calculated the correct amount of water to drink for my body weight and now **drink 2.4 litres of water every day**. I try to drink pure water, sometimes I will have coffee or tea in addition to my water target<br><br>
 
-<!-- START ADVERTISER: KBB ad 1 -->
+<!-- START ADVERTISER: Personal Dev ad 1 -->
 <center>
-{% include advert.html ad_id="kbb1" %}
+{% include advert.html ad_id="persdev1" %}
 </center>
-<!-- END ADVERTISER: KBB1 -->
+<!-- END ADVERTISER: Personal Dev 1 -->
 <br />
 #### 3. Essential Oils
 I take a daily supplement of essential oils as suggested at the event - my choice is **krill oil**<br><br>
@@ -50,11 +50,11 @@ I realised at last year's event how important it is to **continue learning**. It
 #### 7. Interactions
 One of the things we were taught at the event is the importance of other people and how we can help support each other. After UPW 2017 I joined several Facebook Groups with fellow attendees and have kept in contact with several people after the event. It's great to learn from each other and offer advice when you have tips to share.
 <br>
-<!-- START ADVERTISER: KBB ad 2 -->
+<!-- START ADVERTISER: Personal Dev ad 2 -->
 <center>
-{% include advert.html ad_id="kbb2" %}
+{% include advert.html ad_id="persdev2" %}
 </center>
-<!-- END ADVERTISER: KBB2 -->
+<!-- END ADVERTISER: Personal Dev 2 -->
 <br />
 #### 8. Sleep
 Getting a good night's sleep is fundamental to living an optimum life. Some of the advice from the event was to put all electronic devices into airplane mode when you go to sleep. This is also echoed in Headstrong. I have been putting my devices into airplane mode just before I go to sleep each night.
@@ -104,10 +104,10 @@ My last post was about my [March 2018 Income and Profit](/posts/march-2018-incom
 
 ***
 
-<!-- START ADVERTISER: KBB ad 3 -->
+<!-- START ADVERTISER: Personal Dev ad 3 -->
 <center>
-{% include advert.html ad_id="kbb3" %}
+{% include advert.html ad_id="persdev3" %}
 </center>
-<!-- END ADVERTISER: KBB3 -->
+<!-- END ADVERTISER: Personal Dev 3 -->
 
 ***

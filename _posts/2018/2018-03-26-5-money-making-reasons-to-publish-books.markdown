@@ -136,47 +136,13 @@ Everyone I've come across in this field has been super friendly and helpful. I'm
 <br><br>
 I’m taking part in the Monday Money linky with [Lynn from Mrs Mummy Penny](https://www.mrsmummypenny.co.uk/){:target="_blank"} and [Faith from Much More With Less](https://www.muchmorewithless.co.uk/){:target="_blank"}.
 
-<!-- START ADVERTISER: Amazon -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=26&l=ez&f=ifr&linkID=5484940a31e66d8fc233710c0cf07df7&t=ild0b-21&tracking_id=ild0b-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Amazon -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
-
-## Are You Interested In Trying Online Publishing?
-You will find that there are already plenty of great courses and books available to learn about online publishing. However it's not always easy to succeed doing it by yourself. It can be difficult to maintain momentum when you hit a problem, or have questions you're not sure the answers to. Sometimes you don't even know the right questions to ask! I know that I certainly hit roadblocks along my way, in fact I still do sometimes. That's perfectly normal.
-
-In an attempt to solve this problem, I am determining interest for a special package I am considering offering. 
-
-### Introducing: Publishin8 and Publishin16
-My idea is to offer an 8 week online course, with live sessions run by me, during which you will publish your first book. There will also be a 16 week program for those who have less time to commit and therefore want to work at a slower pace.
-
-#### The Idea
-Periodically throughout a year I would run my **Publishin8** book creation cycles. This would be a supported 8 week program where every participant has the chance to publish a book **within the 8 week timeframe**.
-
-It would include:
-- Weekly **live** video how-to lesson which would also set the week's goals
-  - During this call group members can ask any questions they have and share their experiences
-- Recording of weekly video calls and slide notes made available to all participants
-- Library of publishing resources including templates, outsourcing recommendations and more 
-- Private facebook group for the cycle participants, where I would be answering questions and sharing publishing resources
-
-The Publishin16 program would be the same as Publishin8, but calls take place every 2 weeks to allow more time to get the homework done!
-
-Due to the time intensive nature of the Publishin8 and Publishin16 programs, places would be limited each cycle.
-
-<br>
-Since originally writing this post, I have begun an initial test run of this program and so far all is going well. I'm looking to launch the first cycle in early 2019, the cost of the program is likely to start at £399 (although this is not yet confirmed).
-
-<sub>*NOTE: This does not include any of the costs associated with publishing a book that I mentioned earlier in the post, these would be down to individual participants to decide what strategy they wanted to follow and therefore how much to spend per book.*</sub>
-
-<br>
-If you've already decided that this is of interest to you, then you can **join the Publishin8 wait list**:
-
-<script async id="_ck_365306" src="https://forms.convertkit.com/365306?v=7"></script>
-
-*So my question for you is, would you be interested in the Publishin8 program? Please let me know in the comments - any program I build will be based on your feedback!....*
 
 ![5 Reasons You'll Love Publishing Books To Make Money Pinterest image](/i/2018/5-reasons-youll-love-publishing-books-to-make-money-pin.jpg)
 
@@ -193,13 +159,9 @@ If you'd like to find out more about book publishing as a side hustle, you can r
 
 ***
 
-<!-- START ADVERTISER: Convertkit 1 -->
+<!-- START ADVERTISER: Latest ad2 -->
 <center>
-<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_02_45.png" alt="ConvertKit" border="0" /></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Convertkit 1 -->
-
-
-
-
-
+<!-- END ADVERTISER: Latest 2 -->
+<br />
