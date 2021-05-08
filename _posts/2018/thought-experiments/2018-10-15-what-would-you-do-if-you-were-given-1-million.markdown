@@ -30,14 +30,11 @@ So here goes my contribution to **Thought Experiment number 1**...
 
 ***
 
-<!-- START ADVERTISER: Travelzoo from awin.com -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=1009233&v=5833&q=315801&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=1009233&v=5833&q=315801&r=452089" border="0">
-</a>
+{% include advert.html ad_id="latest1" %}
 </center>
-
-<!-- END ADVERTISER: Travelzoo from awin.com -->
+<!-- END ADVERTISER: Latest 1 -->
 
 *** 
 
@@ -109,11 +106,11 @@ Here's the other responses to this question so far:
 
 ***
 
-<!-- START ADVERTISER: Smash Affiliate Marketing -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="http://bit.ly/smashaffiliatemarketing" target="_blank"><img src='/aff/how-to-smash-affiliate-marketing-as-a-uk-blogger-leaderboard.png' alt='How To Smash Affiliate Marketing As A UK Blogger image' /></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Smash Affiliate Marketing -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -145,11 +142,9 @@ In my last post I wrote about [Perfect Family City Breaks In Europe](/posts/perf
 
 ***
 
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Turn Your Dreams Into Money -->
-
-
-
+<!-- END ADVERTISER: Latest 3 -->
+<br />

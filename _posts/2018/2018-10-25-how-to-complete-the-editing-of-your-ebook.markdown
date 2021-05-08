@@ -70,11 +70,11 @@ I would suggest that you may want to consider paying for an editor if any of the
 
 ***
 
-<!-- START ADVERTISER: Convertkit 1 -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_02_45.png" alt="ConvertKit" border="0" /></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Convertkit 1 -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -138,25 +138,15 @@ Once I've worked through a book once or twice checking for the above points, I'm
 
 ***
 
-<!-- START ADVERTISER: KDSpy -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="http://bit.ly/ILDkdspy"><img  src="https://www.kdspy.com/images/b/728x90.jpg" /></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: KDSpy -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
 ![How to complete the editing of your ebook pinterest image](/i/2018/publishing/how-to-complete-the-editing-pin.png)
-
-***
-
-### Do You Want To Get Started With Online Publishing?
-
-I will be launching my **Publishin8** programme next year. 
-<br>
-Over the course of 8 weeks, through **live video calls with me**, you will learn how to **create and publish** your very own book. 
-<br>
-If you'd like to find out more details about when this exciting programme launches then [**sign-up here**](/signup/publishin8.html){:target="_blank" rel="noopener"}. I'll be giving first priority to anyone who has expressed an interest by signing up to this list.
 
 ***
 
@@ -177,7 +167,8 @@ You may find these other posts about getting started with book publishing useful
 
 ***
 
-<!-- START ADVERTISER: Amazon Prime -->
-
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-<!-- END ADVERTISER: Amazon Prime -->
+<!-- START ADVERTISER: Latest ad 3 -->
+<center>
+{% include advert.html ad_id="latest3" %}
+</center>
+<!-- END ADVERTISER: Latest 3 -->

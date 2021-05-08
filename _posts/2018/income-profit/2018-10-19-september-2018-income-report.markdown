@@ -63,11 +63,11 @@ In August I finally hit my monthly profit target (of £333.33), with a total pro
 
 ***
 
-<!-- START ADVERTISER: Smash Affiliate Marketing -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="http://bit.ly/smashaffiliatemarketing" target="_blank"><img src='/aff/how-to-smash-affiliate-marketing-as-a-uk-blogger-leaderboard.png' alt='How To Smash Affiliate Marketing As A UK Blogger image' /></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Smash Affiliate Marketing -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -370,11 +370,11 @@ It's not impossible to achieve £635 per month especially with the busy Christma
 
 ***
 
-<!-- START ADVERTISER: Emma Drew turn your dreams course -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Emma Drew turn your dreams course -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -488,16 +488,9 @@ In my last post I wrote about [what I would do if I received 1 million pounds](/
 
 ***
 
-<!-- START ADVERTISER: Top CashBack from awin.com -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=158629&v=2459&q=92403&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=158629&v=2459&q=92403&r=452089" border="0">
-</a>
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Top CashBack from awin.com -->
-
-***
-
-
-
-
+<!-- END ADVERTISER: Latest 3 -->
+<br />

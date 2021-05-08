@@ -55,11 +55,11 @@ I have also carried out several courses & online Learning:
 
 ***
 
-<!-- START ADVERTISER: Smash Affiliate Marketing -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="http://bit.ly/smashaffiliatemarketing" target="_blank"><img src='/aff/how-to-smash-affiliate-marketing-as-a-uk-blogger-leaderboard.png' alt='How To Smash Affiliate Marketing As A UK Blogger image' /></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Smash Affiliate Marketing -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -141,13 +141,11 @@ So in terms of my 2018 philanthropic strategy, it has ended up being “continue
 
 ***
 
-<!-- START ADVERTISER: Top CashBack from awin.com -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=158629&v=2459&q=92403&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=158629&v=2459&q=92403&r=452089" border="0">
-</a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Top CashBack from awin.com -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -178,12 +176,9 @@ In my last post I pondered another thought experiment [what would I do with just
 
 ***
 
-<!-- START ADVERTISER: Travelzoo from awin.com -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=1009233&v=5833&q=315801&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=1009233&v=5833&q=315801&r=452089" border="0">
-</a>
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Travelzoo from awin.com -->
-
-***
+<!-- END ADVERTISER: Latest 3 -->
+<br />

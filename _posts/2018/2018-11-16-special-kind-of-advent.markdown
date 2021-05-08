@@ -144,3 +144,11 @@ My last post shared [how I got on with my income hustle profits in October](/pos
 &nbsp;&nbsp;My next post is another thought experiment [What Do You Do If You Only Had 10 Years Left To Live?](/posts/10-years-left-to-live.html)
 <br>
 
+***
+
+<!-- START ADVERTISER: Latest ad 1 -->
+<center>
+{% include advert.html ad_id="latest1" %}
+</center>
+<!-- END ADVERTISER: Latest 1 -->
+<br />

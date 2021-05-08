@@ -27,11 +27,11 @@ So after a bit of anxiety related trepidation (do I really want to let my mind w
 
 ***
 
-<!-- START ADVERTISER: KBB ad 1 -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-{% include advert.html ad_id="kbb1" %}
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: KBB -->
+<!-- END ADVERTISER: Latest 1 -->
 
 *** 
 
@@ -62,11 +62,11 @@ I definitely wouldn’t go back to working in an office job, but I think I would
 
 ***
 
-<!-- START ADVERTISER: TopCB ad 1 -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-{% include advert.html ad_id="topcb1" %}
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: TopCB -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -144,11 +144,11 @@ Here's the other responses people have written for the scenario where they only 
 
 ***
 
-<!-- START ADVERTISER: TYDIM ad 1 -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-{% include advert.html ad_id="tydim1" %}
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: TYDIM -->
+<!-- END ADVERTISER: Latest 3 -->
 
 ***
 
@@ -180,8 +180,9 @@ In my last post I wrote about [a special kind of advent calendar](/posts/special
 
 ***
 
-<!-- START ADVERTISER: CKit1 ad 1 -->
+<!-- START ADVERTISER: Latest ad 4 -->
 <center>
-{% include advert.html ad_id="ckit1" %}
+{% include advert.html ad_id="latest4" %}
 </center>
-<!-- END ADVERTISER: CKit1 -->
+<!-- END ADVERTISER: Latest 4 -->
+<br />

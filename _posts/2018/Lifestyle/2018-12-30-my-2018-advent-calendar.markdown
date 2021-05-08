@@ -112,12 +112,11 @@ I would highly recommend having fun with this kind of homemade advent calendar i
 
 *** 
 
-<!-- START ADVERTISER: DLP -->
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script>
-<!-- END ADVERTISER: DLP -->
+<!-- START ADVERTISER: Latest ad 1 -->
+<center>
+{% include advert.html ad_id="latest1" %}
+</center>
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -148,13 +147,11 @@ In my last post I reviewed [my 2018 goals](/posts/2018-goals-review.html).<br>
 
 ***
 
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<!-- START ADVERTISER: Emma Drew turn your dreams course -->
-<center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Emma Drew turn your dreams course -->
-</center>
-
+<!-- END ADVERTISER: Latest 2 -->
+<br />
 
 
