@@ -23,12 +23,11 @@ If you answered **yes** to any of the above questions, then you're in the right 
 ![Photo of Corinna](/i/Cory.jpg){:style="width: 100px; height: 100px; margin: 0 10px 10px 0; float: left;"}
 My name is <b>Corinna</b>, and I'm embarking on a journey of exploration and experimentation into ways of making money, without having to work for someone else. I want to become self sufficient and make money through my own independent means. No more working for *The Boss* or struggling through the daily grind of 5 days a week. I'm going to share all of my successes and failures with you, as well as recommendations for how you can get started with your own journey to freedom.
 
+<!-- START ADVERTISER: Personal Dev ad 1 -->
 <center>
-<!-- START ADVERTISER: Amazon Prime -->
-
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-<!-- END ADVERTISER: Amazon Prime -->
+{% include advert.html ad_id="persdev1" %}
 </center>
+<!-- END ADVERTISER: Personal Dev 1 -->
 
 ### So where did the idea for this site come from?
 
@@ -66,11 +65,11 @@ In my next post you can hear a little bit about [the UK Money Blogger's SHOMO ev
 
 ***
 
-<!-- START ADVERTISER: KDSpy -->
+<!-- START ADVERTISER: Personal Dev ad 2 -->
 <center>
-<a href="http://bit.ly/ILDkdspy"><img  src="https://www.kdspy.com/images/b/728x90.jpg" /></a>
+{% include advert.html ad_id="persdev2" %}
 </center>
-<!-- END ADVERTISER: KDSpy -->
+<!-- END ADVERTISER: Personal Dev 2 -->
 
 ***
 
