@@ -11,6 +11,8 @@ tags:
 </center>
 <br>
 
+## THIS GIVEAWAY IS NOW CLOSED.
+
 ### Can you believe that it's April already?! It feels like only yesterday that we were celebrating the New Year, but now here we are with the first quarter already gone and Easter rapdily approaching.
 
 March was an incredibly busy month for me. I took on more days for the part-time IT contract I started back in December, which left me little time for my side hustles. I was also busy every weekend (bad planning on my part!) The small amount of time I had left was focussed on making progress with my online book publishing side hustle. I desperately wanted to get a blog post or YouTube video out, but somehow the time slipped away. I am planning to do much better in April!
@@ -98,13 +100,11 @@ Good luck!
 
 ***
 
-<!-- START ADVERTISER: Travelzoo from awin.com -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=1009233&v=5833&q=315801&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=1009233&v=5833&q=315801&r=452089" border="0">
-</a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Travelzoo from awin.com -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -135,8 +135,8 @@ In my last post I updated on my [progress toward becoming financially free](/pos
 
 ***
 
-<!-- START ADVERTISER: UPW Birmingham 2020 -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink" target="_blank" rel="nooopener"><img src='/aff/UPW2020-early.jpg' alt='Tony Robbins Unleash The Power Within 2020 Birmingham UK' /></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: UPW Birmingham 2020 -->
+<!-- END ADVERTISER: Latest 2 -->

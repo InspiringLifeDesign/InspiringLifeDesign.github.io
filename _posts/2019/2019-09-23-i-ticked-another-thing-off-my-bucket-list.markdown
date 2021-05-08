@@ -38,11 +38,11 @@ Of course, he was also keen to find out about my recent trip to Las Vegas where 
 
 ***
 
-<!-- START ADVERTISER: Free Training for KBB -->
+<!-- START ADVERTISER: Personal Dev ad 1 -->
 <center>
-<a href="https://dgachieve.com/joining?source=ILDKBB&a=1899" target="_blank" rel="noopener"><img src='/aff/kbb/free-training-728x90.jpg' alt='Sign up for free training with Tony Robbins and Dean Graziosi' /></a>
+{% include advert.html ad_id="persdev1" %}
 </center>
-<!-- END ADVERTISER: Free Training for KBB -->
+<!-- END ADVERTISER: Personal Dev 1 -->
 
 ***
 
@@ -71,11 +71,11 @@ I am also finishing up work on my free course **"How To Make Money From Mastermi
 
 ***
 
-<!-- START ADVERTISER: Buy KBB today -->
+<!-- START ADVERTISER: Personal Dev ad 2 -->
 <center>
-<a href="https://dgachieve.com/joining?source=ILDKBB&a=1899" target="_blank" rel="noopener" style="outline:none;border:none;"><img src="/aff/kbb/get-course-728x90.jpg" alt="Purchase the knowledge business blueprint today" border="0" /></a>
+{% include advert.html ad_id="persdev2" %}
 </center>
-<!-- END ADVERTISER: Buy KBB today -->
+<!-- END ADVERTISER: Personal Dev 2 -->
 
 ***
 
@@ -106,12 +106,10 @@ My last post was about the [Summer 2019 prize giveaway (now closed)](/posts/summ
 
 ***
 
-<!-- START ADVERTISER: UPW 2020 -->
+<!-- START ADVERTISER: Personal Dev ad 1 -->
 <center>
-<a href="http://bit.ly/upw2020" target="_blank" rel="noopener">
-    <img src="/aff/tony-robbins/UPW2020-728x188.jpg" border="0">
-</a>
+{% include advert.html ad_id="persdev1" %}
 </center>
-<!-- END ADVERTISER: UPW 2020 -->
+<!-- END ADVERTISER: Personal Dev 1 -->
 <br>
 <sub>I am an independent Mastermind.com TM Affiliate, not an employee. I receive referral payments from Mastermind.com TM. The opinions expressed here are my own and are not official statements of Mastermind.com TM or its parent company, Mastermind.com LLC.</sub>

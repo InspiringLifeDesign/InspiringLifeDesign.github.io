@@ -93,10 +93,9 @@ In my last post I shared [what I finally ticked off my bucket list](/posts/i-tic
 
 ***
 
-<!-- START ADVERTISER: Free Training for KBB -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="https://dgachieve.com/joining?source=ILDKBB&a=1899" target="_blank" rel="noopener"><img src='/aff/kbb/free-training-728x90.jpg' alt='Sign up for free training with Tony Robbins and Dean Graziosi' /></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Free Training for KBB -->
-<br>
-<sub>I am an independent Mastermind.com TM Affiliate, not an employee. I receive referral payments from Mastermind.com TM. The opinions expressed here are my own and are not official statements of Mastermind.com TM or its parent company, Mastermind.com LLC.</sub>
+<!-- END ADVERTISER: Latest 1 -->
+<br />

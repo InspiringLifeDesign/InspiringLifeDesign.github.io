@@ -101,11 +101,11 @@ On my return home from London it was Easter before I knew it. I spent time with 
 
 ***
 
-<!-- START ADVERTISER: UPW Birmingham 2020 -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink" target="_blank" rel="nooopener"><img src='/aff/UPW2020-early.jpg' alt='Tony Robbins Unleash The Power Within 2020 Birmingham UK' /></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: UPW Birmingham 2020 -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -473,13 +473,11 @@ Here's my bar chart tracking how my profit is faring month on month compared to 
 
 ***
 
-<!-- START ADVERTISER: The Bear Grylls Adventure -->
-
-<a href="https://www.awin1.com/cread.php?s=2403395&v=17103&q=364979&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=2403395&v=17103&q=364979&r=452089" border="0">
-</a>
-
-<!-- END ADVERTISER: The Bear Grylls Adventure -->
+<!-- START ADVERTISER: Latest ad 2 -->
+<center>
+{% include advert.html ad_id="latest2" %}
+</center>
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -518,11 +516,9 @@ You can find all my [previous income and profit reports here](/financial-freedom
 
 ***
 
-<!-- START ADVERTISER: DLP -->
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script>
-<!-- END ADVERTISER: DLP -->
-
-***
+<!-- START ADVERTISER: Latest ad 3 -->
+<center>
+{% include advert.html ad_id="latest3" %}
+</center>
+<!-- END ADVERTISER: Latest 3 -->
+<br />

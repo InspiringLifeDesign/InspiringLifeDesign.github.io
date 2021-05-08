@@ -11,6 +11,8 @@ tags:
 </center>
 <br>
 
+## THIS GIVEAWAY IS NOW CLOSED.
+
 ### The Great UK Money Blogger's competition is back!
 Earlier this year I participated in the <a href="https://inspiringlifedesign.com/posts/easter-prize-giveaway.html" target="_blank" rel="noopener noreferrer">UK Money Blogger's Easter Prize Giveaway</a>. The giveaway proved so popular we've decided to bring it back, and this time it's bigger and better! With 6 M&S hampers to be won packed full of delicious goodies, you have multiple opportunities to enter - greatly improving your chances of a win!
 
@@ -124,12 +126,11 @@ Good luck!
 
 ***
 
-<!-- START ADVERTISER: TR Relationship program -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="http://www.kqzyfj.com/click-9093862-12680972" target="_blank">
-<img src="http://www.tqlkg.com/image-9093862-12680972" width="728" height="90" alt="" border="0"/></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: TR Relationship program -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -160,8 +161,9 @@ My last post gave an update on my [income and profit from side hustles between F
 
 ***
 
-<!-- START ADVERTISER: UPW Birmingham 2020 -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink" target="_blank" rel="nooopener"><img src='/aff/UPW2020-early.jpg' alt='Tony Robbins Unleash The Power Within 2020 Birmingham UK' /></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: UPW Birmingham 2020 -->
+<!-- END ADVERTISER: Latest 2 -->
+<br />

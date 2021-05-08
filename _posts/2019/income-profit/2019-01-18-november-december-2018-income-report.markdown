@@ -72,11 +72,11 @@ It's been great fun doing an Autumn Bucket List - I may try something similar fo
 
 ***
 
-<!-- START ADVERTISER: Smash Affiliate Marketing -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="http://bit.ly/smashaffiliatemarketing" target="_blank"><img src='/aff/how-to-smash-affiliate-marketing-as-a-uk-blogger-leaderboard.png' alt='How To Smash Affiliate Marketing As A UK Blogger image' /></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Smash Affiliate Marketing -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -391,13 +391,11 @@ I am optimistic for improving my profits in 2019. Importantly I want to focus on
 
 ***
 
-<!-- START ADVERTISER: Top CashBack from awin.com -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=158629&v=2459&q=92403&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=158629&v=2459&q=92403&r=452089" border="0">
-</a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Top CashBack from awin.com -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -516,15 +514,10 @@ You can find all my [previous 2018 income and profit reports here](/financial-fr
 
 ***
 
-<!-- START ADVERTISER: DLP -->
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script>
-<!-- END ADVERTISER: DLP -->
-
-***
-
-
-
+<!-- START ADVERTISER: Latest ad 3 -->
+<center>
+{% include advert.html ad_id="latest3" %}
+</center>
+<!-- END ADVERTISER: Latest 3 -->
+<br />
 

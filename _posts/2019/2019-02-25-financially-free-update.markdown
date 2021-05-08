@@ -49,11 +49,11 @@ When I talk about my existing investment pot, I can tell you that it is currentl
 
 ***
 
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Turn Your Dreams Into Money -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -136,11 +136,11 @@ I'm pretty happy with this progress. I am hopeful over the next 3 months to see 
 
 ***
 
-<!-- START ADVERTISER: Convertkit 1 -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_02_45.png" alt="ConvertKit" border="0" /></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Convertkit 1 -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -171,10 +171,9 @@ In my last post I shared my [income and profit results for January 2019](/posts/
 
 ***
 
-<!-- START ADVERTISER: Top CashBack from awin.com -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=158629&v=2459&q=92403&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=158629&v=2459&q=92403&r=452089" border="0">
-</a>
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Top CashBack from awin.com -->
+<!-- END ADVERTISER: Latest 3 -->
+<br />

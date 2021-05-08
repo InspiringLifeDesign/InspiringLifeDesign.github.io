@@ -11,8 +11,7 @@ tags:
 </center>
 <br>
 
-<h4><span style="color:red">NEED TO KNOW: Want to shoot straight to the competition? Scroll down to the competition entry widget near the bottom of this post (you can enter multiple times).</span></h4>
-<h4><span style="color:red">Want to find out what it's all about and what you can win? Read on...</span></h4>
+<h4><span style="color:red">THIS GIVEAWAY IS NOW CLOSED.</span></h4>
 
 ***
 
@@ -87,11 +86,11 @@ Good luck!
 
 ***
 
-<!-- START ADVERTISER: KBB Evergreen (free training) -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="https://dgachieve.com/joining?source=ILDbannerads&a=1899" target="_blank" rel="noopener"><img src='/aff/kbb/free-training-728x90.jpg' alt='Sign up for free training with Tony Robbins and Dean Graziosi' /></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: KBB Evergreen (free training) -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -122,9 +121,9 @@ If you'd like to be notified each time I publish a new post, why not become a <b
 
 ***
 
-<!-- START ADVERTISER: TR Relationship program -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="http://www.kqzyfj.com/click-9093862-12680972" target="_blank">
-<img src="http://www.tqlkg.com/image-9093862-12680972" width="728" height="90" alt="" border="0"/></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: TR Relationship program -->
+<!-- END ADVERTISER: Latest 2 -->
+<br />
