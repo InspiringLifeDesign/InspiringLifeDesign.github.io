@@ -84,10 +84,10 @@ My last post was about [the first six money makers I've tried](/posts/first-six-
 
 ***
 
-<!-- START ADVERTISER: Personal Dev ad 1 -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-{% include advert.html ad_id="persdev1" %}
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Personal Dev 1 -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***

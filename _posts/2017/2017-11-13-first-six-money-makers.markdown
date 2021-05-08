@@ -75,11 +75,11 @@ Some key things to say about cashback sites:
 
 **To get started with Cashback sites:** Simply sign-up for accounts with **<a href="http://bit.ly/topcashbackjoin" target="_blank">Topcashback</a>** (<i>affiliate link</i>) and **<a href="http://bit.ly/quidcosignup" target="_blank">Quidco</a>** (<i>affiliate link</i>), then bookmark these in your web browser. Whenever you need to shop online in future, check your cashback websites first and if there's an offer follow the link. Simple! You'll soon see the money rolling in.
 
-<!-- START ADVERTISER: Personal Dev ad 1 -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-{% include advert.html ad_id="persdev1" %}
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Personal Dev 1 -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ### 4. Matched Betting:  PROFIT = **£87.19** in 12 months
 
@@ -95,10 +95,8 @@ In betting and laying, no matter what the outcome of the event you are betting o
 
 ![The First 6 Money Makers I've Tried, man confused about matched betting](/i/confusedperson.png){:style="display: block; margin: 0 auto;"} 
 
-Still with me?! I know that it can be a bit difficult to get your head around the first time you hear of this concept, but it's actually pretty simple. Here are a couple of websites which I'm sure do a better job of explaining matched betting than I ever could...
+Still with me?! I know that it can be a bit difficult to get your head around the first time you hear of this concept, but it's actually pretty simple. Here's a website which I'm sure does a better job of explaining matched betting than I ever could...
 
-<a href="http://www.livehappysavemore.com/matched-betting/" target="_blank">**Live Happy Save More**:&nbsp;Matched Betting – How to do it and the potential for profit</a>
-<br>
 <a href="http://www.matchedbettingguy.com/getting-started/" target="_blank">**Matched Betting Guy**:&nbsp;Getting Started</a>
 
 Anyway, after placing your qualifying bet and lay bet (where you will essentially break even) you then have a **risk free** bet to place because it has cost you nothing. 
@@ -145,10 +143,10 @@ My last post was about [the 5 biggest lessons I learned at Fincon2017](/posts/Fi
 
 ***
 
-<!-- START ADVERTISER: Personal Dev ad 2 -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-{% include advert.html ad_id="persdev2" %}
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Personal Dev 2 -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***

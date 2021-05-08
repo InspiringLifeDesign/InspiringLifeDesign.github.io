@@ -41,11 +41,11 @@ It was while listening to David Bach's keynote that I uncovered my second major 
 
 The key with crystal clear goals are to write them down and ensure that they're really specific on what is to be achieved and ideally in what timeline.
 
-<!-- START ADVERTISER: Personal Dev ad 1 -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-{% include advert.html ad_id="persdev1" %}
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Personal Dev 1 -->
+<!-- END ADVERTISER: Latest 1 -->
 
 **3. Consistency**
 
@@ -113,10 +113,10 @@ My last post was about [my expectations of Fincon2017](/posts/Dallas-2017-Fincon
 
 ***
 
-<!-- START ADVERTISER: Personal Dev ad 2 -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-{% include advert.html ad_id="persdev2" %}
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Personal Dev 2 -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***

@@ -23,11 +23,11 @@ If you answered **yes** to any of the above questions, then you're in the right 
 ![Photo of Corinna](/i/Cory.jpg){:style="width: 100px; height: 100px; margin: 0 10px 10px 0; float: left;"}
 My name is <b>Corinna</b>, and I'm embarking on a journey of exploration and experimentation into ways of making money, without having to work for someone else. I want to become self sufficient and make money through my own independent means. No more working for *The Boss* or struggling through the daily grind of 5 days a week. I'm going to share all of my successes and failures with you, as well as recommendations for how you can get started with your own journey to freedom.
 
-<!-- START ADVERTISER: Personal Dev ad 1 -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-{% include advert.html ad_id="persdev1" %}
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Personal Dev 1 -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ### So where did the idea for this site come from?
 
@@ -65,11 +65,11 @@ In my next post you can hear a little bit about [the UK Money Blogger's SHOMO ev
 
 ***
 
-<!-- START ADVERTISER: Personal Dev ad 2 -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-{% include advert.html ad_id="persdev2" %}
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Personal Dev 2 -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 

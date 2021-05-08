@@ -36,10 +36,10 @@ My last post was about [starting a new adventure in blogging](/posts/Starting-Ne
 
 ***
 
-<!-- START ADVERTISER: Personal Dev ad 1 -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-{% include advert.html ad_id="persdev1" %}
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Personal Dev 1 -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
