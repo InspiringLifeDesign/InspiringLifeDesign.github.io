@@ -60,13 +60,11 @@ Here are two sites which I have successfully used previously
 
 ***
 
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<!-- START ADVERTISER: Fiverr (Global) from awin.com -->
-<a href="https://www.awin1.com/cread.php?s=2153826&v=6288&q=336108&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=2153826&v=6288&q=336108&r=452089" border="0">
-</a>
-<!-- END ADVERTISER: Fiverr (Global) from awin.com -->
+{% include advert.html ad_id="latest1" %}
 </center>
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -107,11 +105,11 @@ Once you've found a writer you're happy to work with, you simply need to agree a
 
 ***
 
-<!-- START ADVERTISER: KDSpy -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="http://bit.ly/ILDkdspy"><img  src="https://www.kdspy.com/images/b/728x90.jpg" /></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: KDSpy -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -139,10 +137,10 @@ If this is the first post that you have read in my How To Publish Books series, 
 
 ***
 
-<!-- START ADVERTISER: Emma Drew turn your dreams course -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Emma Drew turn your dreams course -->
+<!-- END ADVERTISER: Latest 3 -->
 
 ***

@@ -110,12 +110,11 @@ This field definitely feels like it's no longer just an "add-on", but instead it
 
 ***
 
-<!-- START ADVERTISER: DLP -->
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script>
-<!-- END ADVERTISER: DLP -->
+<!-- START ADVERTISER: Latest ad 1 -->
+<center>
+{% include advert.html ad_id="latest1" %}
+</center>
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -176,14 +175,11 @@ For money savers and frugalisters alike, Coventry's Godiva Festival has to be a 
 
 ***
 
-<!-- START ADVERTISER: Travelzoo from awin.com -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=1009233&v=5833&q=315801&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=1009233&v=5833&q=315801&r=452089" border="0">
-</a>
+{% include advert.html ad_id="latest2" %}
 </center>
-
-<!-- END ADVERTISER: Travelzoo from awin.com -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -214,10 +210,9 @@ In my last post I shared [How To Get The Best Results From Your Ebook Writer](/p
 
 ***
 
-<!-- START ADVERTISER: Awin from awin.com -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=97127&v=3&q=10&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=97127&v=3&q=10&r=452089" border="0">
-</a>
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Awin from awin.com -->
+<!-- END ADVERTISER: Latest 3 -->
+<br />

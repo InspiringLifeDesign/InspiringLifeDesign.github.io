@@ -137,12 +137,11 @@ Next time we look to go I'll definitely be checking out a few other country's we
 
 ***
 
-<!-- START ADVERTISER: DLP -->
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script>
-<!-- END ADVERTISER: DLP -->
+<!-- START ADVERTISER: DLP ad 1 -->
+<center>
+{% include advert.html ad_id="dlp1" %}
+</center>
+<!-- END ADVERTISER: DLP 1 -->
 
 ***
 
@@ -233,12 +232,11 @@ For our 4 night stay we had the Plus half-board package. With this we had a love
 
 ***
 
-<!-- START ADVERTISER: DLP -->
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script>
-<!-- END ADVERTISER: DLP -->
+<!-- START ADVERTISER: DLP ad 2 -->
+<center>
+{% include advert.html ad_id="dlp2" %}
+</center>
+<!-- END ADVERTISER: DLP 2 -->
 
 ***
 
@@ -305,10 +303,10 @@ In my last post I updated you on [my June 2018 Income & Profit Report](/posts/ju
 
 ***
 
-<!-- START ADVERTISER: DLP -->
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script>
-<!-- END ADVERTISER: DLP -->
+<!-- START ADVERTISER: DLP ad 1 -->
+<center>
+{% include advert.html ad_id="dlp1" %}
+</center>
+<!-- END ADVERTISER: DLP 1 -->
+
 ***

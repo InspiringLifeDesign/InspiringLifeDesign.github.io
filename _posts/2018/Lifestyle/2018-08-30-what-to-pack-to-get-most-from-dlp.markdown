@@ -36,12 +36,11 @@ As a bonus tip, I would also recommend packing some extra sets of underwear! We 
 
 ***
 
-<!-- START ADVERTISER: DLP -->
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script>
-<!-- END ADVERTISER: DLP -->
+<!-- START ADVERTISER: DLP ad 1 -->
+<center>
+{% include advert.html ad_id="dlp1" %}
+</center>
+<!-- END ADVERTISER: DLP 1 -->
 
 ***
 
@@ -105,12 +104,11 @@ I took my sparkly lanyard which my parents bought me as a souvenir on our P&O Cr
 
 ***
 
-<!-- START ADVERTISER: DLP -->
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script>
-<!-- END ADVERTISER: DLP -->
+<!-- START ADVERTISER: DLP ad 2 -->
+<center>
+{% include advert.html ad_id="dlp2" %}
+</center>
+<!-- END ADVERTISER: DLP 2 -->
 
 ***
 
@@ -171,12 +169,11 @@ My final tip is not really about something to pack, but rather what not to pack!
 
 ***
 
-<!-- START ADVERTISER: DLP -->
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(img)g(23203088)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<a href="https://clkuk.tradedoubler.com/click?p=8854&a=3052184&g=23203088" target="_BLANK"><img src="'+uri+'" border=0></a>');
-</script>
-<!-- END ADVERTISER: DLP -->
+<!-- START ADVERTISER: DLP ad 1 -->
+<center>
+{% include advert.html ad_id="dlp1" %}
+</center>
+<!-- END ADVERTISER: DLP 1 -->
 
 ***
 
@@ -212,14 +209,11 @@ You may also be interested in the first Disneyland Paris post in this series:<br
 
 ***
 
-<!-- START ADVERTISER: DLP Autumn -->
+<!-- START ADVERTISER: DLP ad 2 -->
 <center>
-<script type="text/javascript">
-var uri = 'https://impgb.tradedoubler.com/imp?type(iframe)g(22861024)a(3052184)' + new String (Math.random()).substring (2, 11);
-document.write('<iframe src="'+uri +'" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');
-</script>
+{% include advert.html ad_id="dlp2" %}
 </center>
-<!-- END ADVERTISER: DLP Autumn -->
+<!-- END ADVERTISER: DLP 2 -->
 
 ***
 

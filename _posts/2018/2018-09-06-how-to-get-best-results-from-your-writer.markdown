@@ -39,11 +39,11 @@ I use the Writer's Notes to confirm various different types of information about
 
 ***
 
-<!-- START ADVERTISER: Convertkit 1 -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_02_45.png" alt="ConvertKit" border="0" /></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Convertkit 1 -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -101,21 +101,15 @@ To summarise the message of this post. It's important to establish good guidelin
 
 *** 
 
-<!-- START ADVERTISER: KDSpy -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="http://bit.ly/ILDkdspy"><img  src="https://www.kdspy.com/images/b/728x90.jpg" /></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: KDSpy -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
 ![How to get the best results from your Ebook writer, pinterest image](/i/2018/how-to-get-value-for-money-from-writer.png)
-
-***
-
-### Do You Want To Get Started With Online Publishing?
-
-I will be launching my hands-on program called **Publishin8** early next year. Over the course of 8 weeks you will learn how to create and publish your very own book, with live lessons from me each week. If you'd like to find out more about when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}. 
 
 ***
 
@@ -136,13 +130,11 @@ If you'd like to start at the beginning of my series on geting started with onli
 
 ***
 
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-<!-- START ADVERTISER: Emma Drew turn your dreams course -->
-<center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Emma Drew turn your dreams course -->
-</center>
+<!-- END ADVERTISER: Latest 3 -->
 
 ***
 
