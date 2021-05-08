@@ -125,11 +125,11 @@ My last post was introducing [the idea of the #Challenge2018 savings challenge](
 
 ***
 
-<!-- START ADVERTISER: Amazon Prime -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Amazon Prime -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 

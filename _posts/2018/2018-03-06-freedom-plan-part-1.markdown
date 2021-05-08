@@ -37,11 +37,11 @@ We will discuss these two methods in more detail in Part Two. For now, we will b
 
 I have outlined below the steps I recommend for calculating your expenses.
 <br><br>
-<!-- START ADVERTISER: Preloved UK from awin.com -->
-<a href="https://www.awin1.com/cread.php?s=454257&v=5834&q=218807&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=454257&v=5834&q=218807&r=452089" border="0">
-</a>
-<!-- END ADVERTISER: Preloved UK from awin.com -->
+<!-- START ADVERTISER: Latest ad 1 -->
+<center>
+{% include advert.html ad_id="latest1" %}
+</center>
+<!-- END ADVERTISER: Latest 1 -->
 <br>
 ### Calculating Your Expenses
 Since there's going to be some sums involved in this section, you may want to create a spreadsheet to log your expenses in. Alternatively, I have already created a **template spreadsheet** for my Life Designer subscribers. If you would like me to send you a copy of the template you can join my mailing list where you will be subscribed to receive updates from me about blog posts, side hustles and any fantastic offers I receive that I can pass onto you.
@@ -376,13 +376,11 @@ In my last post I shared [how you can make extra cash this week](/posts/cash-thi
 
 ***
 
-<!-- START ADVERTISER: Fiverr (Global) from awin.com -->
-
-<a href="http://www.awin1.com/cread.php?awinmid=6288&awinaffid=452089&clickref=&p=https%3A%2F%2Fwww.fiverr.com%2F%3Fshow_join%3Dtrue">
-    <img src="https://www.awin1.com/cshow.php?s=527817&v=6288&q=256739&r=452089" border="0">
-</a>
-
-<!-- END ADVERTISER: Fiverr (Global) from awin.com -->
+<!-- START ADVERTISER: Latest ad 2 -->
+<center>
+{% include advert.html ad_id="latest2" %}
+</center>
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 

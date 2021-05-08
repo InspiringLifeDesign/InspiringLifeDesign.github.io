@@ -41,11 +41,11 @@ Here you can see your *Balance* which is how much money you have available to wi
 
 <br>
 
-<!-- START ADVERTISER: Preloved UK from awin.com -->
-<a href="https://www.awin1.com/cread.php?s=454257&v=5834&q=218807&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=454257&v=5834&q=218807&r=452089" border="0">
-</a>
-<!-- END ADVERTISER: Preloved UK from awin.com -->
+<!-- START ADVERTISER: Latest ad 1 -->
+<center>
+{% include advert.html ad_id="latest1" %}
+</center>
+<!-- END ADVERTISER: Latest 1 -->
 
 <br>
 #### Getting Paid
@@ -132,10 +132,10 @@ My last post talked about [why I'm dreaming of financial independence](/posts/dr
 
 ***
 
-<!-- START ADVERTISER: Fiverr (Global) from awin.com -->
-<a href="http://www.awin1.com/cread.php?awinmid=6288&awinaffid=452089&clickref=&p=https%3A%2F%2Fwww.fiverr.com%2F%3Fshow_join%3Dtrue">
-    <img src="https://www.awin1.com/cshow.php?s=527817&v=6288&q=256739&r=452089" border="0">
-</a>
-<!-- END ADVERTISER: Fiverr (Global) from awin.com -->
+<!-- START ADVERTISER: Latest ad 2 -->
+<center>
+{% include advert.html ad_id="latest2" %}
+</center>
+<!-- END ADVERTISER: Latest 2 -->
 
 ***

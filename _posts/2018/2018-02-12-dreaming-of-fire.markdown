@@ -20,13 +20,11 @@ One evening I took my computer and searched online for "How to retire early". I'
 
 To my delight there was an online community of like minded individuals who were all seeking the same thing as me - to be able to quit the rat race, to get out of the 9-5. I found many fantastic blogs, from all around the globe, particularly from the US and UK. I discovered that it is entirely possible to achieve early retirement within as few as **10 years**, by concentrating efforts on getting your savings rate (that's the % of your income you're able to save each month) as high as possible. The higher the savings rate, the sooner you can retire.
 <br>
-<!-- START ADVERTISER: Preloved UK from awin.com -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="https://www.awin1.com/cread.php?s=454255&v=5834&q=218805&r=452089">
-    <img src="https://www.awin1.com/cshow.php?s=454255&v=5834&q=218805&r=452089" border="0">
-</a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Preloved UK from awin.com -->
+<!-- END ADVERTISER: Latest 1 -->
 <br>
 
 I also uncovered calculations which I could use to determine how long it would take me to achieve my own financial independence date. For those "in the know", being able to achieve the **4% safe withdrawal rate** is the widely accepted goal. The premise being that if you can save and invest enough money to build up a nest egg, there will come a point where you can in theory live off this indefinitely by only withdrawing 4% of its value each year. This assumes that your fund is invested where it will achieve at least 4% interest each year.
@@ -45,11 +43,11 @@ It took me some time to start earning any decent money for my first book (I took
 As I began my fledgling book publishing business, the thought struck me that I was entirely dependent on Amazon for my additional income. This worried me a bit. 
 
 
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Turn Your Dreams Into Money -->
+<!-- END ADVERTISER: Latest 2 -->
 <br>
 I've made it part of my personal mission statement for the past 2 years to help others with their search for freedom. This got me thinking, perhaps I could combine my mission to help others with my desire to de-risk my side-line business and diversify a bit.
 
@@ -84,11 +82,11 @@ In my last post I wrote about [my income and profit for January 2018](/posts/jan
 
 ***
 
-<!-- START ADVERTISER: Convertkit 1 -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_02_45.png" alt="ConvertKit" border="0" /></a>
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Convertkit 1 -->
+<!-- END ADVERTISER: Latest 3 -->
 
 ***
 

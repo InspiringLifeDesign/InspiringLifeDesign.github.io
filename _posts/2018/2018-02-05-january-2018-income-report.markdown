@@ -21,11 +21,11 @@ The first thing that I do when I set myself an annual goal is to see how that br
 
 This means that my target profit for January would ideally be in the region of £333.33. So how did I do?
 
-<!-- START ADVERTISER: OddsMonkey -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_26" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/Web Banner - 728x90.png" width="728" height="90" alt="OddsMonkey"></a>
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: OddsMonkey -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ### INCOME REPORT
 First let's take a look at my Income for January.
@@ -253,12 +253,11 @@ So all that's left to do is calculate the profit for January and weigh this up a
 
 As you can see, I haven't hit my profit target for January. I managed about 70% of my target amount. It's not a bad start, but given that most of this income came from the proceeds of book sales made in November and December (the best months for sales due to Black Friday and Christmas) I have a LOT of work to do to hit my targets in future months as well as catch up for January.
 
-<!-- START ADVERTISER: OddsMonkey -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_14" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/728x90_free_tutorials.jpg" width="728" height="90" alt=""></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<br>
-<!-- END ADVERTISER: OddsMonkey -->
+<!-- END ADVERTISER: Latest 2 -->
 
 During February I plan to focus my efforts on the following money generating activities:
 
@@ -288,11 +287,11 @@ In my last post I gave an update on [our progress with the #Challenge2018 saving
 
 ***
 
-<!-- START ADVERTISER: Amazon Prime -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Amazon Prime -->
+<!-- END ADVERTISER: Latest 3 -->
 
 ***
 

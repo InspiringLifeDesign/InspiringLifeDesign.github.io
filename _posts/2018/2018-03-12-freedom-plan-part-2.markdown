@@ -34,9 +34,11 @@ In essence we're considering:
 
 Let's take a look at these in a bit more detail to understand how they could work for you.
 
-<!-- START ADVERTISER: Amazon -->
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ez&f=ifr&linkID=564516f1e9a0e1d135ac0b8a04cd88c1&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-<!-- END ADVERTISER: Amazon -->
+<!-- START ADVERTISER: Latest ad 1 -->
+<center>
+{% include advert.html ad_id="latest1" %}
+</center>
+<!-- END ADVERTISER: Latest 1 -->
 <br>
 #### 1. Savings, Investments and Passive Income
 Freedom via this route involves building up a nest egg of savings and investments with a view to covering your expenses using **only the interest**, therefore never depleting your funds. In theory you can do this indefinitely as long as you never withdraw more than **4%** annually. There is a lot of debate in the FIRE (Financial Independence Retire Early) community around how realistic this is, with some suggesting that a withdrawal rate of 3% or 2% would be safer to ride out market dips or recessions.
@@ -153,9 +155,11 @@ Start building up your investment pot as soon as you can, but break your large g
 
 When you start thinking of your investments in terms of how much monthly income that means for you, it's a small shift to take the next step and consider other ways you can diversify where your monthly income comes from. That leads me nicely into the second method for providing income:
 
-<!-- START ADVERTISER: Amazon -->
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=gift_certificates&banner=1A6C54G7EX5E5TK6HAR2&f=ifr&linkID=1b3d619b5cd9a09774d7526467f23d12&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-<!-- END ADVERTISER: Amazon -->
+<!-- START ADVERTISER: Latest ad 2 -->
+<center>
+{% include advert.html ad_id="latest2" %}
+</center>
+<!-- END ADVERTISER: Latest 2 -->
 <br>
 #### 2. Generating Money From Independent Business Ventures *(i.e. Side Hustles)*
 When seeking **Income Freedom** all we're trying to do is create sufficient income to cover our **TOTAL MONTHLY EXPENSES** (the amount that we calculated in Step 5 of [Part One](/posts/freedom-plan-part-1){:target="_blank"} - £1,800 in the example used).
@@ -177,9 +181,11 @@ Here are a handful of Side Hustle opportunities you may want to consider:
 - **Blogging** - although this side hustle can take a little longer to see results, it's a really fun and expressive way to make yourself additional money, and the income potential is huge. Plus what's better than sitting back and making money from posts you wrote months ago?! If blogging sounds like your thing I can highly recommend [**Emma Drew's Turn Your Dreams Into Money**](http://bit.ly/turnyourdreamsintomoney){:target="_blank" rel="nofollow"} (<i>affiliate link<i>) course, where she shows you how to build a **six-figure** blog.
 - **Make Money From Your Hobby** - there are many ways you can turn your hobby into a money making venture. There are side hustles for the [green fingered](https://suefoster.info/side-hustles-for-the-green-thumbed){:target="_blank"}, for the [crafty](https://www.charlottemusha.co.uk/bangonblanks/){:target="_blank"} and for those who [love to shop](https://tuppennysfireplace.com/how-to-become-a-mystery-shopper/){:target="_blank"} to name but a few.
 
-<!-- START ADVERTISER: OddsMonkey -->
-<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_14" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/728x90_free_tutorials.jpg" width="728" height="90" alt=""></a>
-<!-- END ADVERTISER: OddsMonkey -->
+<!-- START ADVERTISER: Latest ad 3 -->
+<center>
+{% include advert.html ad_id="latest1" %}
+</center>
+<!-- END ADVERTISER: Latest 3 -->
 <br>
 ##### How Much Money Can I Make?
 It's almost impossible to say how much money you will make from the above side hustles. It's a bit like asking "how long is a piece of string?"! As with most things in life, you will get out what you put in. The more time and effort you invest in a side hustle, the more financial rewards you will see.
@@ -300,11 +306,11 @@ In my last post I talked about [part one of creating your freedom plan](/posts/f
 
 ***
 
-<!-- START ADVERTISER: Convertkit 1 -->
+<!-- START ADVERTISER: Latest ad 4 -->
 <center>
-<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_02_45.png" alt="ConvertKit" border="0" /></a>
+{% include advert.html ad_id="latest4" %}
 </center>
-<!-- END ADVERTISER: Convertkit 1 -->
+<!-- END ADVERTISER: Latest 4 -->
 
 ***
 
