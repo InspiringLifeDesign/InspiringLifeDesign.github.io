@@ -14,11 +14,12 @@ affiliate: true
 Picking a niche for your first book can feel very daunting, but it doesn't need to be difficult. Take a look at my simple tips for generating book ideas and researching them on Amazon to find what will work best.
 
 *** 
-<br>
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
-<br>
-<!-- END ADVERTISER: Turn Your Dreams Into Money -->
+
+<!-- START ADVERTISER: Latest ad 1 -->
+<center>
+{% include advert.html ad_id="latest1" %}
+</center>
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -52,11 +53,15 @@ It's worth trying a few different search terms for the book topic you're researc
 
 If you decide to get into online publishing, it's seriously worth investing in a fantastic tool called [**Kindle Spy**](http://bit.ly/ILDkdspy){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) (or KDSpy). This takes a lot of the time out of doing niche research. It's available as a browser extension/plug-in. If there's interest I will write a future post showing exactly what it looks like and how it works, but in summary, it allows you to quickly see the rankings, popularity and money potential for books returned in your amazon searches - without having to click through into each book! I would highly recommend buying yourself a copy, this has saved me **so much time**. It sells for a one-off cost and this is often discounted if you can catch it at the right time. At the time of writing the cost was $47 reduced from $97, a whole $50 saving!
 
-<!-- START ADVERTISER: KDSpy -->
+***
+
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="http://bit.ly/ILDkdspy" target="_blank"><img src='/aff/kdspy.png' alt='Kindle Spy link'/></a>
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: KDSpy -->
+<!-- END ADVERTISER: Latest 2 -->
+
+***
 
 #### Deciding on your first book
 I would recommend that you do your research for at least 3-5 ideas on your list. This will take some time, but you will get faster at it the more practice you get. Once you've researched a few ideas you'll have a good idea of which niche feels like the better option to launch your first book in.
@@ -71,10 +76,6 @@ Sometimes it's easy to get sucked into *analysis paralysis* so don't over resear
 ![How to pick a profitable book niche pinterest image](/i/2018/how-to-pick-a-profitable-niche-pin.png)
 <br>
 
-### Do You Want To Get Started With Online Publishing?
-
-I plan to launch a program later this year called **Publishin8**. I will show you over 8 weeks how to create and publish your very own book. If you'd like to find out more when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}. Those on the waitlist will get the opportunity to join a small test group for the first Publishin8 cycle, at a massively discounted price as I perfect the program content.
-
 ****
 
 ### Previous & Next Posts
@@ -86,16 +87,10 @@ My last post was about [5 things you need to get started with self publishing](/
 
 ***
 
-<!-- START ADVERTISER: Convertkit 2 -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-<a href="https://mbsy.co/convertkit/40613041" target="_blank" style="outline:none;border:none;"><img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/11256/2018_08_17_17_08_28.png" alt="ConvertKit" border="0" /></a>
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Convertkit 2 -->
+<!-- END ADVERTISER: Latest 3 -->
 
 ***
-
-
-
-
-
-

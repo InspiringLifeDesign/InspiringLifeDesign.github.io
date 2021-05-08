@@ -25,11 +25,11 @@ So far this year I haven't had a month where I've hit this target profit, so if 
 
 Let's see how I got on...
 
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<!-- START ADVERTISER: amazon.co.uk scrolling bar -->
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-<!-- END ADVERTISER: amazon.co.uk -->
+{% include advert.html ad_id="latest1" %}
 </center>
+<!-- END ADVERTISER: Latest 1 -->
 <br>
 
 ### INCOME REPORT
@@ -315,9 +315,11 @@ Here's how my profit is looking now that April is taken into account.
 A profit of **£212.62** for April is an improvement on March's profit, but obviously still not hitting my target of £333.33. It would just be nice to hit the £300 point at least! I'm not knocking it though, £200+ is a nice little extra considering this was semi-passive income. All I had to do to make this money in April was to run a couple of marketing promotions which took me an hour or two to set-up. Happy Days.
 
 <br>
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_14" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/728x90_free_tutorials.jpg" width="728" height="90" alt=""></a>
+{% include advert.html ad_id="latest2" %}
 </center>
+<!-- END ADVERTISER: Latest 2 -->
 <br>
 
 #### WHAT ACTIONS WORKED/DIDN'T WORK FROM LAST MONTH'S PLAN
@@ -396,11 +398,11 @@ My last post was about [the life changes I made after seeing Tony Robbins](/post
 
 ***
 
-<!-- START ADVERTISER: Emma Drew turn your dreams course -->
-
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
-
-<!-- END ADVERTISER: Emma Drew turn your dreams course -->
+<!-- START ADVERTISER: Latest ad 3 -->
+<center>
+{% include advert.html ad_id="latest3" %}
+</center>
+<!-- END ADVERTISER: Latest 3 -->
 
 ***
 

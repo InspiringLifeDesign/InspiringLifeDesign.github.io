@@ -23,11 +23,11 @@ This means that my target profit for each month would ideally be in the region o
 
 The highest profit month I've had so far this year was January with £232.25 made. Will May beat this? Read on to find out...
 
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-<!-- START ADVERTISER: amazon.co.uk scrolling bar -->
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-<!-- END ADVERTISER: amazon.co.uk -->
+{% include advert.html ad_id="latest1" %}
 </center>
+<!-- END ADVERTISER: Latest 1 -->
 <br>
 
 ### INCOME REPORT
@@ -312,11 +312,11 @@ Here's how my profit is looking now that May is taken into account.
 So my profit for May was **£162.75**. This is my 3rd highest profit month of the year, but still nowhere near my target of £333.33. In fact it's not even 50% of that target. I am going to have to really ramp up my online book publishing efforts in the second half of the year if I have any hope of achieving the £4,000 profit goal I set for myself.
 
 <br>
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<!-- START ADVERTISER: Odds Monkey -->
-<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_14" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/728x90_free_tutorials.jpg" width="728" height="90" alt=""></a>
-<!-- END ADVERTISER: Odds Monkey -->
+{% include advert.html ad_id="latest2" %}
 </center>
+<!-- END ADVERTISER: Latest 2 -->
 <br>
 
 #### What Actions Worked/Didn't Work From Last Month's Plan
@@ -366,11 +366,11 @@ My last post was about my [April 2018 Income and Profit](/posts/april-2018-incom
 
 ***
 
-<!-- START ADVERTISER: Emma Drew turn your dreams course -->
-
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
-
-<!-- END ADVERTISER: Emma Drew turn your dreams course -->
+<!-- START ADVERTISER: Latest ad 3 -->
+<center>
+{% include advert.html ad_id="latest3" %}
+</center>
+<!-- END ADVERTISER: Latest 3 -->
 
 ***
 

@@ -60,14 +60,12 @@ I would recommend opening free accounts with [**Fiverr**](http://bit.ly/try_five
 
 Fiverr is super easy to use, you can navigate to the category of work you're looking for, then browse the gigs available. If you click on a gig you can see the package levels available. This is a really simple and economical way to get started using help from others.
 
-<!-- START ADVERTISER: Fiverr (Global) from awin.com -->
-
-<a href="http://www.awin1.com/cread.php?awinmid=6288&awinaffid=452089&clickref=&p=https%3A%2F%2Fwww.fiverr.com%2F%3Fshow_join%3Dtrue">
-    <img src="https://www.awin1.com/cshow.php?s=527817&v=6288&q=256739&r=452089" border="0">
-</a>
-
-<!-- END ADVERTISER: Fiverr (Global) from awin.com -->
-
+<!-- START ADVERTISER: Latest ad 1 -->
+<center>
+{% include advert.html ad_id="latest1" %}
+</center>
+<!-- END ADVERTISER: Latest 1 -->
+<br />
 Another easy to use freelancer site is [**Upwork**](https://www.upwork.com){:target="_blank" rel="nofollow"}. To find a resource to work with, you can list your own job with exactly what you are looking for and how much your budget is. Then you will receive applications for your listing from which you can make a shortlist. Alternatively you can browse through the list of freelancers and their portfolios to find someone who you think would be a good match, then approach them with a personalised message to see if they would like to work with you.
 <br>
 #### 5. The Right Attitude: Perseverance and Tenacity
@@ -77,9 +75,6 @@ The final thing you will need before you decide to venture into the world of sel
 <br><br>
 ![5 Things You Need To Get Started With Online Publishing Pinterest image](/i/2018/5-Things-To-Start-Online-Publishing-pin.png)
 
-### Do You Want To Get Started With Online Publishing?
-
-I plan to launch a program later this year called **Publishin8**. I will show you over 8 weeks how to create and publish your very own book. If you'd like to find out more when this exciting program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}. Those on the waitlist will get the opportunity to join a small test group for the first Publishin8 cycle, at a massively discounted price as I perfect the program content.
 
 ****
 
@@ -92,9 +87,11 @@ My last post was about [my income and profit for May](/posts/may-2018-income-rep
 
 ***
 
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="latest2" %}
 </center>
+<!-- END ADVERTISER: Latest 2 -->
 <br>
 
 ***
