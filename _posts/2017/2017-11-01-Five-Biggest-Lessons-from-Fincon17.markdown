@@ -41,11 +41,11 @@ It was while listening to David Bach's keynote that I uncovered my second major 
 
 The key with crystal clear goals are to write them down and ensure that they're really specific on what is to be achieved and ideally in what timeline.
 
+<!-- START ADVERTISER: Personal Dev ad 1 -->
 <center>
-<!-- START ADVERTISER: Amazon Prime -->
-<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=48&l=ur1&category=prime&banner=07611K9DCBMPXVQDDD82&f=ifr&linkID=4b1697ce3811b70e39fbc8368d2ba6fc&t=ild0b-21&tracking_id=ild0b-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-<!-- END ADVERTISER: Amazon Prime -->
+{% include advert.html ad_id="persdev1" %}
 </center>
+<!-- END ADVERTISER: Personal Dev 1 -->
 
 **3. Consistency**
 
@@ -113,10 +113,10 @@ My last post was about [my expectations of Fincon2017](/posts/Dallas-2017-Fincon
 
 ***
 
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<!-- START ADVERTISER: Personal Dev ad 2 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="persdev2" %}
 </center>
-<!-- END ADVERTISER: Turn Your Dreams Into Money -->
+<!-- END ADVERTISER: Personal Dev 2 -->
 
 ***

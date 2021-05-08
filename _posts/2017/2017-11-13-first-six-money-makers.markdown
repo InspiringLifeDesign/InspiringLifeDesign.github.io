@@ -75,11 +75,11 @@ Some key things to say about cashback sites:
 
 **To get started with Cashback sites:** Simply sign-up for accounts with **<a href="http://bit.ly/topcashbackjoin" target="_blank">Topcashback</a>** (<i>affiliate link</i>) and **<a href="http://bit.ly/quidcosignup" target="_blank">Quidco</a>** (<i>affiliate link</i>), then bookmark these in your web browser. Whenever you need to shop online in future, check your cashback websites first and if there's an offer follow the link. Simple! You'll soon see the money rolling in.
 
-<!-- START ADVERTISER: OddsMonkey -->
+<!-- START ADVERTISER: Personal Dev ad 1 -->
 <center>
-<a href="https://www.oddsmonkey.com/affiliates/affiliate.php?id=56187_0_1_25" target="_blank" rel="nofollow"><img style="border:0px" src="https://www.oddsmonkey.com/affiliates/media/banners/Web Banner - 600x222.png" width="600" height="222" alt="OddsMonkey"></a>
+{% include advert.html ad_id="persdev1" %}
 </center>
-<!-- END ADVERTISER: OddsMonkey -->
+<!-- END ADVERTISER: Personal Dev 1 -->
 
 ### 4. Matched Betting:  PROFIT = **£87.19** in 12 months
 
@@ -145,10 +145,10 @@ My last post was about [the 5 biggest lessons I learned at Fincon2017](/posts/Fi
 
 ***
 
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<!-- START ADVERTISER: Personal Dev ad 2 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="persdev2" %}
 </center>
-<!-- END ADVERTISER: Turn Your Dreams Into Money -->
+<!-- END ADVERTISER: Personal Dev 2 -->
 
 ***
