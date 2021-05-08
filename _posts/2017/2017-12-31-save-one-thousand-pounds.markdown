@@ -84,10 +84,10 @@ My last post was about [the first six money makers I've tried](/posts/first-six-
 
 ***
 
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<!-- START ADVERTISER: Personal Dev ad 1 -->
 <center>
-<a href="http://bit.ly/turnyourdreamsintomoney" target="_blank"><img src='/aff/turn-your-dreams-into-money-728x90.png' alt='Turn Your Dreams Into Money link to course' /></a>
+{% include advert.html ad_id="persdev1" %}
 </center>
-<!-- END ADVERTISER: Turn Your Dreams Into Money -->
+<!-- END ADVERTISER: Personal Dev 1 -->
 
 ***
