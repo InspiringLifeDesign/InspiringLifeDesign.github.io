@@ -39,11 +39,11 @@ Under each of these categories I track my individual goals...
 
 ***
 
-<!-- START ADVERTISER: Convertkit -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-{% include advert.html ad_id="ckit1" %}
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Convertkit -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -128,11 +128,11 @@ That means no specific progress on this goal during January.
 
 ***
 
-<!-- START ADVERTISER: KBB ad 2 (TYDIM prior to launch) -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-{% include advert.html ad_id="kbb2" %}
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: KBB2 -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -256,9 +256,9 @@ In my last post I wrote about 5 [side hustles to consider starting in 2020](/pos
 
 ***
 
-<!-- START ADVERTISER: KBB ad 3 (Convertkit prior to launch) -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-{% include advert.html ad_id="kbb3" %}
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: KBB3 -->
-<br>
+<!-- END ADVERTISER: Latest 3 -->
+<br />

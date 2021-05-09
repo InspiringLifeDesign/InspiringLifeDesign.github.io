@@ -140,11 +140,11 @@ I did a lot more trips in 2019 than in 2018...
 
 ***
 
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-{% include advert.html ad_id="tydim1" %}
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Turn Your Dreams Into Money -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -203,11 +203,11 @@ So that's my 2019 review! I will be posting a new video sharing my 2020 goals wi
 
 ***
 
-<!-- START ADVERTISER: Top CashBack from awin.com -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-{% include advert.html ad_id="topcb1" %}
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Top CashBack from awin.com -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -238,9 +238,9 @@ My last post shared an opportunity [for a festive prize giveaway (now closed)](/
 
 ***
 
-<!-- START ADVERTISER: Inspiring Life Design Shop -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-{% include advert.html ad_id="ild1" %}
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: Inspiring Life Design Shop -->
-<br>
+<!-- END ADVERTISER: Latest ad 3 -->
+<br />

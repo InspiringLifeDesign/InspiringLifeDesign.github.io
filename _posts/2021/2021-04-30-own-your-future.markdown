@@ -79,3 +79,12 @@ I hope to see you there ready to change your life!
 In my last post I invited you to [Get Ready For Summer With Me](/posts/sunny-days-are-coming-get-fit-with-me-in-this-sizzling-summer-countdown.html)<br>
 <!-- &nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html) -->
 <br>
+
+***
+
+<!-- START ADVERTISER: Latest ad 1 -->
+<center>
+{% include advert.html ad_id="latest1" %}
+</center>
+<!-- END ADVERTISER: Latest 1 -->
+<br />

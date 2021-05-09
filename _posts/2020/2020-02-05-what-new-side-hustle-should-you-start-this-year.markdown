@@ -44,11 +44,11 @@ Detail you can expect to see about each business model includes:
 
 ***
 
-<!-- START ADVERTISER: KBB 1st ad (ILD shop until launch) -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-{% include advert.html ad_id="kbb1" %}
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Convertkit -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -125,11 +125,11 @@ Money making opportunities start as soon as you reach 1,000 subscribers and a mi
 
 ***
 
-<!-- START ADVERTISER: KBB ad 2 (TYDIM prior to launch) -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-{% include advert.html ad_id="kbb2" %}
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: KBB2 -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -162,9 +162,9 @@ In my last post I gave an update on [how soon I will be financially free](/posts
 
 ***
 
-<!-- START ADVERTISER: KBB ad 3 (Convertkit prior to launch) -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-{% include advert.html ad_id="kbb3" %}
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: KBB3 -->
-<br>
+<!-- END ADVERTISER: Latest 3 -->
+<br />

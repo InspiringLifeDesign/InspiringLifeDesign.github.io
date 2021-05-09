@@ -45,11 +45,11 @@ When I talk about my existing investment pot, I can tell you that it is currentl
 
 ***
 
-<!-- START ADVERTISER: KBB 1st ad (ILD shop until launch) -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-{% include advert.html ad_id="kbb1" %}
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Convertkit -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -142,11 +142,11 @@ Hopefully the markets will also be kind this year and help my investments to gro
 
 ***
 
-<!-- START ADVERTISER: KBB ad 2 (TYDIM prior to launch) -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-{% include advert.html ad_id="kbb2" %}
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: KBB2 -->
+<!-- END ADVERTISER: Latest 2 -->
 
 ***
 
@@ -179,9 +179,9 @@ In my last post I wrote about [how to break through overwhelm to start making pr
 
 ***
 
-<!-- START ADVERTISER: KBB ad 3 (Convertkit prior to launch) -->
+<!-- START ADVERTISER: Latest ad 3 -->
 <center>
-{% include advert.html ad_id="kbb3" %}
+{% include advert.html ad_id="latest3" %}
 </center>
-<!-- END ADVERTISER: KBB3 -->
-<br>
+<!-- END ADVERTISER: Latest 3 -->
+<br />

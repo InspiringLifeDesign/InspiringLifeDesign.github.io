@@ -30,17 +30,17 @@ I finally managed to film my [next YouTube video](https://www.youtube.com/watch?
 
 ***
 
-<!-- START ADVERTISER: KBB ad 1 -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-{% include advert.html ad_id="kbb1" %}
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: KBB1 -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
 ### So what's next for Inspiring Life Design this year?
 
-- I'm hoping to attempt weekly videos on my [YouTube channel](http://youtube.com/c/inspiringlifedesign){:target="_blank" rel="noopener"}, but as a new parent I have no idea what to expect week on week. If baby needs me, that comes first - after all strictly speaking I'm on maternity leave until around May next year. 
+- I'm hoping to attempt some videos on my [YouTube channel](http://youtube.com/c/inspiringlifedesign){:target="_blank" rel="noopener"}, but as a new parent I have no idea what to expect week on week. If baby needs me, that comes first - after all strictly speaking I'm on maternity leave until around May next year. 
 - It's my aim to reach 500 YouTube subscribers by the end of this year (I'm currently at around 425), so if you fancy seeing more of my lifestyle and life design videos then do consider [subscribing](http://youtube.com/c/inspiringlifedesign){:target="_blank" rel="noopener"} - you'll be helping me achieve my 2020 goal!
 - I have new ideas for what I want to cover, especially around the idea of life design. I'd love to explore how I can help people consciously design their lives for ultimate happiness, with an emphasis on goal setting, tracking and achievement
 
@@ -70,16 +70,16 @@ INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
 ### Previous & Next Posts
 
 <a href="/posts/spring-prize-giveaway.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/january-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/sunny-days-are-coming-get-fit-with-me-in-this-sizzling-summer-countdown.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 My last post was a [Spring Giveaway (now closed)](/posts/spring-prize-giveaway.html)<br>
-<!-- &nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html) -->
+&nbsp;&nbsp;Come get fit with me in my [Countdown To Summer](/posts/sunny-days-are-coming-get-fit-with-me-in-this-sizzling-summer-countdown.html)
 <br>
 
 ***
 
-<!-- START ADVERTISER: Convertkit -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-{% include advert.html ad_id="ckit1" %}
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: Convertkit -->
-<br>
+<!-- END ADVERTISER: Latest 2 -->
+<br />

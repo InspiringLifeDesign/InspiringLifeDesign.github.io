@@ -11,8 +11,7 @@ tags:
 </center>
 <br>
 
-<h4><span style="color:red">NEED TO KNOW: Want to shoot straight to the competition? Scroll down to the competition entry widget near the bottom of this post (you can enter multiple times).</span></h4>
-<h4><span style="color:red">Want to find out what it's all about and what you can win? Read on...</span></h4>
+<h4><span style="color:red">THIS GIVEAWAY IS NOW CLOSED.</span></h4>
 
 ***
 
@@ -70,11 +69,11 @@ Good luck!
 
 ***
 
-<!-- START ADVERTISER: Convertkit -->
+<!-- START ADVERTISER: Latest ad 1 -->
 <center>
-{% include advert.html ad_id="ckit1" %}
+{% include advert.html ad_id="latest1" %}
 </center>
-<!-- END ADVERTISER: Convertkit -->
+<!-- END ADVERTISER: Latest 1 -->
 
 ***
 
@@ -106,8 +105,9 @@ INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
 
 ***
 
-<!-- START ADVERTISER: Turn Your Dreams Into Money -->
+<!-- START ADVERTISER: Latest ad 2 -->
 <center>
-{% include advert.html ad_id="tydim1" %}
+{% include advert.html ad_id="latest2" %}
 </center>
-<!-- END ADVERTISER: TYDIM -->
+<!-- END ADVERTISER: Latest 2 -->
+<br />

@@ -194,8 +194,16 @@ Share this post with your nearest and dearest today and you can start your journ
 ### Previous & Next Posts
 
 <a href="/posts/life-update.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/january-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/own-your-future.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my previous post I shared [My Big Life Update](/posts/life-update.html)<br>
-<!-- &nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html) -->
+&nbsp;&nbsp;In my next post it's time to [Take Control Of Your Future](/posts/own-your-future.html)
 <br>
 
+***
+
+<!-- START ADVERTISER: Latest ad 1 -->
+<center>
+{% include advert.html ad_id="latest1" %}
+</center>
+<!-- END ADVERTISER: Latest 1 -->
+<br />
