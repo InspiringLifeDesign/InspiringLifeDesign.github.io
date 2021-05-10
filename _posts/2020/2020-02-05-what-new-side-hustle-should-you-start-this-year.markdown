@@ -16,6 +16,8 @@ tags:
 
 ### If you're still on the fence about starting a side hustle, or you've been contemplating creating another income stream for your portfolio, here's my top recommendations for new business ventures that are perfect to start this year.
 
+Have you been getting to the end of a month and finding that you've spent <i>all</i> your money again? If the answer is yes, it's time to have a think about [why you never have enough money](https://thelifestylebloggeruk.com/why-you-never-have-enough-money/){:target="_blank" rel="noopener"} and then roll your sleeves up to get stuck into a new side hustle to bring in additional income.
+
 If you're curious about what side hustle could be perfect for you, why not take this [Side Hustle quiz](https://makemoneywithoutajob.com/which-side-hustle-is-perfect-for-you/){:target="_blank" rel="noopener"} to get your recommendations.
 
 If you're already subscribed to my [email newsletter](/signup/signup_page.html){:target="_blank" rel="noopener"}, or if you follow my [Instagram](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="noopener"} stories, you'll already know that I've been having a long think about the direction to take Inspiring Life Design this year.
