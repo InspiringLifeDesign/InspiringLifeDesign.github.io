@@ -14,9 +14,12 @@ layout: landing_page
 <h4>...it's a thriving community and it's a LIFE PURPOSE</h4>
 <h4>And I know you're gonna LOVE it just as much as I do!</h4><br />
 
+<h4>Watch this video with my good friend & mentor Angie, for a taste of what to expect...</h4>
+{% include youtube.html videoid="6PZe8k3LQ_M" %}
+
 <h4><b>Work From Anywhere. Change Lives. Live the Life of your dreams.</b></h4><br />
 
-<h4>We have just launched our New Influencer University & all our Coaches get INSTANT access.</h4>
+<h4>Our new Influencer University has just launched & all of our Coaches get INSTANT access.</h4>
 </center>
 
 <h3><i>Please complete the form below to receive all the details & start LIVING the LIFE of your DREAMS</i></h3>
