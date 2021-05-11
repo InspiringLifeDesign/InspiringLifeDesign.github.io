@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect: https://ownyourfuturechallenge.com/freechallenge?source=optinstories&a=1899
+redirect: https://ownyourfuturechallenge.com/freechallenge?source=optinchats&a=1899
 ---
 
