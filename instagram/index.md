@@ -6,10 +6,9 @@ layout: landing_page_image
 <h6>
 <a href="https://www.instagram.com/inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:white">@inspiringlifedesign</span></a>
 </h6>
-
-<a href="https://ownyourfuturechallenge.com/freechallenge?source=optinstories&a=1899"><img src='/i/instagram/oyfc/oyfc.png' alt='link to Own Your Future Challenge signup' /></a>
+<a href="https://ownyourfuturechallenge.com/projectnext?source=orderfbprofile&a=1899"><img src='/i/pn/igoffer.png' alt='link to Project Next program order page' /></a>
 <br />
-<a href="https://ownyourfuturechallenge.com/freechallenge?source=optinstories&a=1899"><img src='/i/Buttons/instagram/current/oyfc.png' alt='link to Own Your Future Challenge signup' /></a>
+<a href="https://ownyourfuturechallenge.com/projectnext?source=orderfbprofile&a=1899"><img src='/i/Buttons/instagram/current/pn.png' alt='link to Project Next program order page' /></a>
 <br />
 </center>
 <center>
