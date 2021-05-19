@@ -10,6 +10,10 @@ Diamonds In Disney Hustle Page
 <h3>
 <p id="countdown"></p>
 </h3>
+<h4>
+Coaches still needed:  9<br />
+Coaches needed breakdown:  2 Emerald, 3 further coaches<br />
+</h4>
 </center>
 
 <table width="1000" style="margin: 5px 5px 5px 5px;">
@@ -21,9 +25,7 @@ Diamonds In Disney Hustle Page
 <h4>Try a different Power Hour each day:</h4>
 {% include youtubewithtime.html videoid="WrOgLmH4sRY" timeid="246" %}
 <br />
-{% include youtube.html videoid="fXlQt0TfRYE" timeid="146" %}
-<br />
-<!--> {% include youtube.html videoid="QCYu8z9pQo4" %} -->
+{% include youtubewithtime.html videoid="fXlQt0TfRYE" timeid="146" %}
 </td>
 </tr>
 <tr>
