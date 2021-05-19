@@ -9,13 +9,15 @@ layout: landing_page
 <img src='/i/profilepics/live-with-passion.jpg' alt='Profile image of Corinna'>
 </center>
 <center>
-<h3>SNEAK PEEK BEHIND THE SCENES - LIVE THIS WEEK!</h3>
-<h5>Pop your details below for a behind-the-scenes look at this exciting Social Media business</h5>
+
+<h3>Our Team. Our Tribe. Our Family.</h3>
+<h4>Apply to join my team and we're gonna build & grow your social media business together</h4><br />
 <h4><i>This is SO MUCH MORE than a business...</i></h4>
 <h4><i>...it's the place where you BELONG, where we INSPIRE each other and live our LIFE PURPOSE</i></h4>
 <h4>NOW is the time to DREAM BIG and make your goals a REALITY!</h4><br />
 
-<h4><b>Work From Anywhere. Change Lives. Live The Life Of Your Dreams.</b></h4>
+<h4><b>Work From Anywhere. Change Lives. Live the Life of your dreams.</b></h4><br />
+
 </center>
 
 <form role="form" action="https://formspree.io/f/meqvqloy" method="POST">
