@@ -10,4 +10,10 @@ sitemap:
 
 ![Picture of Corinna](/i/profilepics/live-with-passion.jpg)
 
+### Why not watch Corinna's YouTube videos about Unleash The Power Within:
 
+{% include youtube.html videoid="x8KLeZcVvAk" %}
+
+<br />
+
+{% include youtube.html videoid="QCYu8z9pQo4" %}
