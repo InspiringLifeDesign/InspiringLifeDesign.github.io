@@ -7,18 +7,14 @@ layout: landing_page_image
 <a href="https://www.instagram.com/inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:white">@inspiringlifedesign</span></a>
 </h4>
 <br />
-<a href="https://ownyourfuturechallenge.com/projectnext?source=orderfbprofile&a=1899"><img src='/i/pn/igoffer.png' alt='link to Project Next program order page' /></a>
-<br />
-<a href="https://ownyourfuturechallenge.com/projectnext?source=orderfbprofile&a=1899"><img src='/i/Buttons/instagram/current/pn.png' alt='link to Project Next program order page' /></a>
-<br />
 </center>
 <center>
-<iframe width="250" height="141" src="/i/instagram/3weekkickstart.png" alt="3 Week Kickstart into Summer image" frameborder="0"></iframe>
+<iframe width="300" height="169" src="/i/beachbody/4wkkickstart.png" alt="4 Week Kickstart into Summer image" frameborder="0"></iframe>
 
 <!-- <iframe width="300" height="168" src="/i/instagram/sunshinestudio-small.png" alt="Sunshine Studio cover art" frameborder="0"></iframe> -->
 
-<h6 class="title"><span style="color:white">Get Summer Ready In Just 3 Weeks!</span></h6>
-<a href="/sunshinestudio/3weekkickstart"><img src='/i/Buttons/instagram/current/3weekkickstart.png' alt='link to 3 Week Kickstart into Summer Sunshine Studio information request page' /></a>
+<h6 class="title"><span style="color:white">Get Summer Ready In Just 4 Weeks!</span></h6>
+<a href="/sunshinestudio/4weekkickstart"><img src='/i/Buttons/instagram/current/4weekkickstart.png' alt='link to 4 Week Kickstart into Summer Sunshine Studio information request page' /></a>
 <br />
 <h6 class="title"><span style="color:white">Apply To Join My Social Media Business Mentorship:</span></h6>
 <a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/current/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
