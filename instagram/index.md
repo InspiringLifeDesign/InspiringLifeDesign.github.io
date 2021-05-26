@@ -6,13 +6,10 @@ layout: landing_page_image
 <h6>
 <a href="https://www.instagram.com/inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:white">@inspiringlifedesign</span></a>
 </h6>
-<a href="https://ownyourfuturechallenge.com/projectnext?source=orderfbprofile&a=1899"><img src='/i/pn/igoffer.png' alt='link to Project Next program order page' /></a>
-<br />
-<a href="https://ownyourfuturechallenge.com/projectnext?source=orderfbprofile&a=1899"><img src='/i/Buttons/instagram/current/pn.png' alt='link to Project Next program order page' /></a>
 <br />
 </center>
 <center>
-<iframe width="250" height="141" src="/i/instagram/3weekkickstart.png" alt="3 Week Kickstart into Summer image" frameborder="0"></iframe>
+<iframe width="250" height="141" src="/i/instagram/3weekkickstart.png" alt="4 Week Kickstart into Summer image" frameborder="0"></iframe>
 <!-- <iframe width="300" height="168" src="/i/instagram/sunshinestudio-small.png" alt="Sunshine Studio cover art" frameborder="0"></iframe> -->
 
 <h6 class="title"><span style="color:white">Get Summer Ready In Just 3 Weeks!</span></h6>
