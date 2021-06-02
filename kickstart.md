@@ -1,6 +1,6 @@
 ---
 layout: redirect
-redirect: https://inspiringlifedesign.com/sunshinestudio/3weekkickstart
+redirect: https://inspiringlifedesign.com/sunshinestudio/4weekkickstart
 ---
 
 
