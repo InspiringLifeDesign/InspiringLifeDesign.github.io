@@ -9,13 +9,12 @@ layout: landing_page_image
 <br />
 </center>
 <center>
-<iframe width="300" height="169" src="/i/beachbody/4wkkickstart.png" alt="4 Week Kickstart into Summer image" frameborder="0"></iframe>
-<!-- <iframe width="300" height="168" src="/i/instagram/sunshinestudio-small.png" alt="Sunshine Studio cover art" frameborder="0"></iframe> -->
+<iframe width="300" height="169" src="/i/beachbody/summerparty.png" alt="2021 Summer Fit & Fab Party image" frameborder="0"></iframe>
 
-<h6 class="title"><span style="color:white">Get Summer Ready In Just 4 Weeks!</span></h6>
-<a href="/sunshinestudio/4weekkickstart"><img src='/i/Buttons/instagram/current/4weekkickstart.png' alt='link to 4 Week Kickstart into Summer Sunshine Studio information request page' /></a>
+<h6 class="title"><span style="color:white">Grab A Cocktail & Come Party With Me...</span></h6>
+<a href="/sunshinestudio/summerparty"><img src='/i/Buttons/instagram/current/summerparty.png' alt='link to Summer Fit & Fab Party page' /></a>
 
-<h6 class="title"><span style="color:white">Apply To Join My Social Media Business Mentorship:</span></h6>
+<h6 class="title"><span style="color:white">Join My Social Media Business Mentorship:</span></h6>
 <a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/current/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
 <br />
 

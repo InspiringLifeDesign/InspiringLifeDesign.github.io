@@ -11,8 +11,6 @@ layout: landing_page_image
 <center>
 <iframe width="300" height="169" src="/i/beachbody/summerparty.png" alt="2021 Summer Fit & Fab Party image" frameborder="0"></iframe>
 
-<!-- <iframe width="300" height="168" src="/i/instagram/sunshinestudio-small.png" alt="Sunshine Studio cover art" frameborder="0"></iframe> -->
-
 <h6 class="title"><span style="color:white">Grab A Cocktail & Come Party With Me...</span></h6>
 <a href="/sunshinestudio/summerparty"><img src='/i/Buttons/instagram/current/summerparty.png' alt='link to Summer Fit & Fab Party page' /></a>
 <br />
