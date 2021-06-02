@@ -22,7 +22,7 @@ Working out at home for 30 minutes changed my <b>entire</b> life...I would love 
 Forget spending hours in the gym. Forget counting calories. Forget restricting yourself. Just get ready for <b>real incredible results</b>!<br /><br />
 I'll be there every step of the way alongside you, as your coach and as your friend. Your success is my success!
 <br /><br />
-<b>Want a sneak peek first? Head to my <a href="https://www.facebook.com/groups/sunshinestudiosneakpeek" target="_blank" rel="noopener">Sneak Peek Facebook Group</a>  to try a <i>Summer Fit & Fab Party</i> workout for free.</b>
+<b>Want a sneak peek first? Head to my <a href="https://www.facebook.com/groups/sunshinestudiosneakpeek" target="_blank" rel="noopener">Sneak Peek Facebook Group</a>  to try a <i>Summer Fit & Fab Party</i> workout for free, and find out more about pricing options.</b>
 
 <h3><i>Summer Fit & Fab Party</i> runs throughout summer 2021 - why wait to join in the fun?!</h3>
 <h4>Enroll today to get your year's access to the "Netflix of fitness" as well as heaps of other great benefits!</h4>
