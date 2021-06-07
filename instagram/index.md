@@ -9,8 +9,7 @@ layout: landing_page_image
 <br />
 </center>
 <center>
-<a href="https://www.beachbodychallenge.com/fbcontests/profiletab/BeachbodyChallengeVoting2021/3497756"><img src='/i/instagram/jude.jpg' alt='link to vote for Jude in the Beachbody Contest' /></a>
-<br />
+
 <iframe width="300" height="169" src="/i/beachbody/summerparty.png" alt="2021 Summer Fit & Fab Party image" frameborder="0"></iframe>
 
 <h6 class="title"><span style="color:white">Grab A Cocktail & Come Party With Me...</span></h6>
