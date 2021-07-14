@@ -10,27 +10,24 @@ layout: landing_page_image
 </center>
 <center>
 
-<a href="/sunshinestudio/happilyeverfitgym"><img src="/i/instagram/happilyeverfitgym.png" alt="link to Disney Challenge enquiry page"></a>
+<h6 class="title"><span style="color:white">Come Have Fun Getting FIT With Us!</span></h6>
+<a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 <br />
 <h6 class="title"><span style="color:white">Join My Social Media Business Mentorship:</span></h6>
 <a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/current/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
 <br />
-<h6 class="title"><span style="color:white">Come Have Fun Getting FIT With Us!</span></h6>
-<a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
-<br />
+
+<!-- Corinna Phillips YouTube latest START -->
+<h4 class="title"><span style="color:white">Choose Mickey With Me - Home Decor Video</span></h4>
+  <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/aNGAnsovSiM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <br><br>
+<!-- YouTube latest END -->
 
 <!-- ILD YouTube latest START -->
 <h4 class="title"><span style="color:white">Craft With Me - Making A Heart Wreath</span></h4>
   <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/DGTV8qyZT4Y?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br>
 <!-- YouTube latest END -->
-
-<!-- Corinna Phillips YouTube latest START -->
-<h4 class="title"><span style="color:white">Games At Our Family Bar at Easter</span></h4>
-  <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/_vq0Jn2zTQ0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <br><br>
-<!-- YouTube latest END -->
-
 
 <a href="https://inspiringlifedesign.com" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/ild.png' alt='link to Inspiring Life Design website' /></a>
 <br />
