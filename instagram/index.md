@@ -10,6 +10,9 @@ layout: landing_page_image
 </center>
 <center>
 
+<h6 class="title"><span style="color:white">4 Week Summer Fix</span></h6>
+<a href="/sunshinestudio/4weekfix"><img src='/i/instagram/4weekfix.png' alt='link to 4 week fix info page' /></a>
+
 <h6 class="title"><span style="color:white">Come Have Fun Getting FIT With Us!</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 
