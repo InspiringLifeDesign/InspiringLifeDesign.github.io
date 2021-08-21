@@ -25,7 +25,7 @@ layout: landing_page
 
 <body>Want more? Why not check out Darin's show <a href="https://www.netflix.com/gb/title/80230601" target="blank" rel="noopener">Down To Earth</a> with Zac Efron on Netflix?
 <br /><br />
-Contact Corinna with any questions or help you need with your Shakeology order.<br />
+If you are considering ordering Shakeology or changing your existing Shakeology order, please contact Corinna because she will ensure that you get the absolute best deal available at the time!<br />
 You can email <a href="mailto:corinna@inspiringlifedesign.com">corinna@inspiringlifedesign.com</a> or use this form:</body>
 <form role="form" action="https://formspree.io/f/mzbkqjqa" method="POST">
 	<div class="form-group">
