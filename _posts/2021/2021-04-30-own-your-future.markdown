@@ -75,9 +75,9 @@ I hope to see you there ready to change your life!
 ### Previous & Next Posts
 
 <a href="/posts/sunny-days-are-coming-get-fit-with-me-in-this-sizzling-summer-countdown.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/january-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/competition-time.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I invited you to [Get Ready For Summer With Me](/posts/sunny-days-are-coming-get-fit-with-me-in-this-sizzling-summer-countdown.html)<br>
-<!-- &nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html) -->
+&nbsp;&nbsp;It's competition time in my next post [Win A Virgin Experience Days Voucher (ends 18.9.21)](/posts/competition-time.html)
 <br>
 
 ***
