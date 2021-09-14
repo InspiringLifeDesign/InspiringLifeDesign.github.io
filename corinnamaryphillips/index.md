@@ -23,26 +23,20 @@ layout: landing_page_image
 <a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/cmp/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
 <br />
 
+ <div class="separator-2"></div>
+
 <!-- Corinna Phillips YouTube latest START -->
-  <h4 class="title"><span style="color:white">Disney This Or That Quiz!</span></h4>
+  <h4 class="title"><span style="color:white">Latest YouTube Videos...</span></h4>
   <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/a6xT7Ba_rF4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
 
-<h4 class="title"><span style="color:white">What Disney Goodies Did I Get?</span></h4>
   <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/n-xBimGOwxI?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
 <!-- YouTube latest END -->
 
-<!-- ILD YouTube latest START -->
+<div class="separator-2"></div>
+<h4 class="title"><span style="color:white">As Used By Corinna...</span></h4>
 
-<!-- YouTube latest END -->
-
-<a href="https://inspiringlifedesign.com" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/ild.png' alt='link to Inspiring Life Design website' /></a>
-<br />
-<a href="https://inspiringlifedesign.com/printables/ILD_Media_Kit.pdf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/mediakit.png' alt='link to Inspiring Life Design Media Kit' /></a>
-<br />
-<h5 class="title"><span style="color:white">AS USED BY CORINNA...</span></h5>
- <div class="separator-2"></div>
 <h6 class="title"><span style="color:white">What I've Been Buying On Amazon</span></h6>
 <a href="https://www.amazon.co.uk/shop/inspiringlifedesign?listId=3U0NM08QFZXW7&ref=idea_share_inf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/amazon.png' alt='link to my Amazon Storefront Instagram list' /></a>
 <h6 class="title"><span style="color:white">Use code <i>CORINNA-RO6</i> for 20% off:</span></h6>
@@ -51,5 +45,10 @@ layout: landing_page_image
 <a href="https://www.ourmagicalhome.co.uk/" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/ourmagicalhome.png' alt='link to Our Magical Home Etsy store' /></a>
 <br />
 
+ <div class="separator-2"></div>
+<a href="https://inspiringlifedesign.com" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/ild.png' alt='link to Inspiring Life Design website' /></a>
+<br />
+<a href="https://inspiringlifedesign.com/printables/ILD_Media_Kit.pdf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/mediakit.png' alt='link to Inspiring Life Design Media Kit' /></a>
+<br />
 
 </center>
