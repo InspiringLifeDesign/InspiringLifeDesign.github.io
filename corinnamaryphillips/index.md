@@ -10,13 +10,16 @@ layout: landing_page_image
 </center>
 <center>
 
-<h6 class="title"><span style="color:white">Peek Behind The Scenes Of My Business</span></h6>
+<h6 class="title"><span style="color:white">Peek Behind The Scenes Of My Business...</span></h6>
 <a href="/sunshinestudio/mentorship/behind-scenes"><img src='/i/Buttons/instagram/image-buttons/behind-scenes-button.png' style='width: 300px; margin: auto;' alt='link to Sunshine Social Media Mentorship behind the scenes signup page' /></a>
 
-<h6 class="title"><span style="color:white">Come Have Fun Getting FIT With Us!</span></h6>
+<h6 class="title"><span style="color:white">Take Time For You This September...</span></h6>
+<a href="/sunshinestudio/stretchandtone"><img src='/i/Buttons/instagram/image-buttons/stretch.png' alt='link to September Stretch & Tone enquiry page' /></a>
+
+<h6 class="title"><span style="color:white">Get Into Your Best Fitness Ever...</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/cmp/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 
-<h6 class="title"><span style="color:white">Join My Social Media Business Mentorship:</span></h6>
+<h6 class="title"><span style="color:white">Join My Social Media Business Mentorship...</span></h6>
 <a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/cmp/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
 <br />
 
@@ -40,7 +43,7 @@ layout: landing_page_image
 <br />
 <h5 class="title"><span style="color:white">AS USED BY CORINNA...</span></h5>
  <div class="separator-2"></div>
- <h6 class="title"><span style="color:white">What I've Been Buying On Amazon</span></h6>
+<h6 class="title"><span style="color:white">What I've Been Buying On Amazon</span></h6>
 <a href="https://www.amazon.co.uk/shop/inspiringlifedesign?listId=3U0NM08QFZXW7&ref=idea_share_inf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/amazon.png' alt='link to my Amazon Storefront Instagram list' /></a>
 <h6 class="title"><span style="color:white">Use code <i>CORINNA-RO6</i> for 20% off:</span></h6>
 <a href="https://inspiringlifedesign.com/takemeto/glossy" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/glossybox.png' alt='link to GlossyBox site' /></a>
