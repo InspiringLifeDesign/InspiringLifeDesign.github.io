@@ -37,6 +37,8 @@ layout: landing_page_image
 <br />
 <h5 class="title"><span style="color:white">AS USED BY CORINNA...</span></h5>
  <div class="separator-2"></div>
+ <h6 class="title"><span style="color:white">What I've Been Buying On Amazon</span></h6>
+<a href="https://www.amazon.co.uk/shop/inspiringlifedesign?listId=3U0NM08QFZXW7&ref=idea_share_inf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/amazon.png' alt='link to my Amazon Storefront Instagram list' /></a>
 <h6 class="title"><span style="color:white">Use code <i>CORINNA-RO6</i> for 20% off:</span></h6>
 <a href="https://inspiringlifedesign.com/takemeto/glossy" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/glossybox.png' alt='link to GlossyBox site' /></a>
 <h6 class="title"><span style="color:white">Use code <i>ropedrop</i> for 10% off:</span></h6>
