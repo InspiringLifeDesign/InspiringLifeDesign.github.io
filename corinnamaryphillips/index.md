@@ -39,6 +39,8 @@ layout: landing_page_image
 
 <h6 class="title"><span style="color:white">What I've Been Buying On Amazon</span></h6>
 <a href="https://www.amazon.co.uk/shop/inspiringlifedesign?listId=3U0NM08QFZXW7&ref=idea_share_inf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/amazon.png' alt='link to my Amazon Storefront Instagram list' /></a>
+<h6 class="title"><span style="color:white">New Customers Receive A £25 Gift Bundle<br />With First Shop (minimum spend £85):</span></h6>
+<a href="https://www.ocado.com/referred-friend/505cbe3b487044c485eff16fa1d3b405/0x02000000E1D9F75CFB9D7F9BB57A8999A021616E5D6AB0C4B49D4888A9C28770F8FC3DB51563962A7A806E83981656DD51CAC03A774FD57544EB599A74A000D3C34B9243/?utm_source=mgm&utm_medium=referral-link&utm_campaign=refer-a-friend" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/ocado.png' alt='link to Ocado £25 gift bundle offer' /></a>
 <h6 class="title"><span style="color:white">Use code <i>CORINNA-RO6</i> for 20% off:</span></h6>
 <a href="https://inspiringlifedesign.com/takemeto/glossy" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/glossybox.png' alt='link to GlossyBox site' /></a>
 <h6 class="title"><span style="color:white">Use code <i>ropedrop</i> for 10% off:</span></h6>
