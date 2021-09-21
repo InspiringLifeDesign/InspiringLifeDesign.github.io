@@ -38,6 +38,8 @@ layout: landing_page_image
 
 <div class="separator-2"></div>
   <h4 class="title"><span style="color:white">As Used By Corinna...</span></h4>
+  <h6 class="title"><span style="color:white">Cosy Autumn Fall Movies on Hallmark</span></h6>
+<a href="https://www.amazon.co.uk/gp/video/offers/?benefitId=hallmarkuk&tag=corinnaphilli-21" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/hallmark.png' alt='link to get the Hallmark Channel via Amazon Prime in UK' /></a>
  <h6 class="title"><span style="color:white">What I've Been Buying On Amazon</span></h6>
 <a href="https://www.amazon.co.uk/shop/inspiringlifedesign?listId=3U0NM08QFZXW7&ref=idea_share_inf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/amazon.png' alt='link to my Amazon Storefront Instagram list' /></a>
 <h6 class="title"><span style="color:white">Use code <i>CORINNA-RO6</i> for 20% off:</span></h6>
