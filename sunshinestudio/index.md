@@ -4,7 +4,7 @@ layout: landing_page
 
 <center>
 <h2>The Sunshine Studio</h2>
-<i>Get Ready For Summer With Me!</i><br />
+<!-- <i>Get Ready For Summer With Me!</i><br /> -->
 <img src='/i/cory-circle.png' alt='Profile image of Corinna'>
 </center>
 
