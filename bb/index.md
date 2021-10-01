@@ -21,6 +21,7 @@ Team Cup Time Remaining:
       <th style="text-aligh: center">Start Rank</th>      
       <th style="text-aligh: center">Goal Rank</th>
       <th style="text-aligh: center">End Rank</th>
+      <th style="text-aligh: center">Cup Points</th>
     </tr>
   </thead>
   <tbody>
@@ -31,31 +32,58 @@ Team Cup Time Remaining:
       <td style="text-align: center">10</td>
       <td style="text-align: center"></td>
       <td style="text-align: center"></td>
-       <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center">0</td>
     </tr>
     <tr>
       <td style="text-align: left">Christina</td>
       <td style="text-align: center"></td>
       <td style="text-align: center">0</td>
       <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center">0</td>
     </tr>
     <tr>
       <td style="text-align: left">Corinna</td>
       <td style="text-align: center">10</td>
       <td style="text-align: center">0</td>
       <td style="text-align: center">10</td>
+      <td style="text-align: center">Emerald</td>
+      <td style="text-align: center">Emerald</td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center">0</td>      
     </tr>
     <tr>
       <td style="text-align: left">Cynthia</td>
       <td style="text-align: center">10</td>
       <td style="text-align: center">0</td>
-      <td style="text-align: center">10</td>      
+      <td style="text-align: center">10</td>    
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center">0</td>        
     </tr>
     <tr>
       <td style="text-align: left">Keri</td>
       <td style="text-align: center"></td>
       <td style="text-align: center">0</td>
       <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center">0</td>      
+    </tr>
+    <tr>
+      <td style="text-align: left">TOTAL</td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center"></td>
+      <td style="text-align: center">0</td>      
     </tr>
   </tbody>
 </table>
@@ -86,7 +114,6 @@ Team Cup Time Remaining:
 </tr>
 <tr>
 <td>
-<h4>Useful Links:</h4>
 </td>
 <td>
 
