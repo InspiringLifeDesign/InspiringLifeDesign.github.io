@@ -5,14 +5,14 @@ layout: "landing_page"
 
 <center>
 <h1>
-Diamonds In Disney Hustle Page
+October Team Cup
 </h1>
 <h3>
 <p id="countdown"></p>
 </h3>
 <h4>
-Coaches still needed:  9<br />
-Coaches needed breakdown:  2 Emerald, 3 further coaches<br />
+Corinna Success Club Goal:  10<br />
+Corinna Current SC: 0<br />
 </h4>
 </center>
 
@@ -23,6 +23,10 @@ Coaches needed breakdown:  2 Emerald, 3 further coaches<br />
 </td>
 <td>
 <h4>Try a different Power Hour each day:</h4>
+{% include youtubewithtime.html videoid="zKO7933aaDY" %}
+<br />
+{% include youtubewithtime.html videoid="WrOgLmH4sRY" timeid="246" %}
+<br />
 {% include youtubewithtime.html videoid="WrOgLmH4sRY" timeid="246" %}
 <br />
 {% include youtubewithtime.html videoid="fXlQt0TfRYE" timeid="146" %}
@@ -47,7 +51,7 @@ Get the party happening on my Instagram profile page (feed, profile, highlights)
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jun 9, 2021 23:55:00").getTime();
+var countDownDate = new Date("Oct 31, 2021 23:59:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
