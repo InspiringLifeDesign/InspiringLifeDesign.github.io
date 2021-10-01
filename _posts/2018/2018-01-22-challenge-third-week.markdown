@@ -89,8 +89,8 @@ Here are my totals so far:
 **TOTAL: £62** ***(6.2% of goal achieved)***
 
 <figure>
-    <img src='/i/Bullet_Journal_C18_22_Jan.jpg' alt='Let's get £1,000 richer this year bullet journal chart image' />
-    <figcaption>Marking my weekly progress in my #Challenge2018 Bullet Journal</figcaption>
+   <img src="/i/Bullet_Journal_C18_22_Jan.jpg" alt="Let's get £1,000 richer this year bullet journal chart image" />
+   <figcaption>Marking my weekly progress in my #Challenge2018 Bullet Journal</figcaption>
 </figure>
 
 
