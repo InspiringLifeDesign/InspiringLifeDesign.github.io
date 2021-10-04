@@ -88,12 +88,52 @@ Team Cup Time Remaining:
   </tbody>
 </table>
 </center>
-<h4>How We Earn Cup Points:</h4>
-<h5>
+
+<table width="1000" style="margin: 5px 5px 5px 5px;">
+<thead>
+<tr>
+<th style="text-align: left">How We Earn Cup Points</th>
+<th style="text-align: left">Prizes</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: left">
+<h6>
 1 Cup Point: 1 Success Club point<br />
+3 Cup Points: Lifetime Rank advancement<br />
+3 Cup Points: Lifetime Rank advancement of a PS coach<br />
+<br />
+<i>Last date for rank advancements to count is Wed 27th Oct</i>
+</h6>
+</td>
+<td style="text-align: left">
+<h6>
+Tier 1: Each individual who earns SC5 or higher wins Unleash Her Power Within workshop with Karissa Kouchis<br />
+Tier 2: ALL 5 team members qualify for Success Club 5 and everyone in the team received 100 Bonus Points (which will convert to local currency as usual)<br />
+3 Cup Points: Rank advancement of a PS coach
+</h6>
+</td>
+</tr>
+<tr>
+<td style="text-align: left">
+<h6>
 3 Cup Points: Rank advancement<br />
 3 Cup Points: Rank advancement of a PS coach<br />
-</h5>
+<br />
+<i>Last date for rank advancements to count is Wed 27th Oct</i>
+</h6>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
+
+
+
 
 
 <table width="1000" style="margin: 5px 5px 5px 5px;">
@@ -102,7 +142,7 @@ Team Cup Time Remaining:
 <img src="/i/beachbody/topten.jpg">
 </td>
 <td>
-<h4>Try a different Power Hour each day:</h4>
+<h4>Power Hours:</h4>
 {% include youtubewithtime.html videoid="zKO7933aaDY" %}
 <br />
 {% include youtubewithtime.html videoid="D19cu6P64uY" %}
