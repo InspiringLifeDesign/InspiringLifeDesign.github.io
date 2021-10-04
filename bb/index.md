@@ -93,6 +93,9 @@ Team Cup Time Remaining:
 <thead>
 <tr>
 <th style="text-align: left">How We Earn Cup Points</th>
+<th style="text-align: center">
+  |          |  
+</th>
 <th style="text-align: left">Prizes</th>
 </tr>
 </thead>
@@ -101,38 +104,63 @@ Team Cup Time Remaining:
 <tr>
 <td style="text-align: left">
 <h6>
-1 Cup Point: 1 Success Club point<br />
-3 Cup Points: Lifetime Rank advancement<br />
-3 Cup Points: Lifetime Rank advancement of a PS coach<br />
-<br />
-<i>Last date for rank advancements to count is Wed 27th Oct</i>
+1 Cup Point: 1 Success Club point
 </h6>
+</td>
+<td style="text-align: center">
+  |          |  
 </td>
 <td style="text-align: left">
-<h6>
-Tier 1: Each individual who earns SC5 or higher wins Unleash Her Power Within workshop with Karissa Kouchis<br />
-Tier 2: ALL 5 team members qualify for Success Club 5 and everyone in the team received 100 Bonus Points (which will convert to local currency as usual)<br />
-3 Cup Points: Rank advancement of a PS coach
-</h6>
+<b>Tier 1:</b> Each individual who earns SC5 or higher wins Unleash Her Power Within workshop with Karissa Kouchis
 </td>
 </tr>
+
 <tr>
 <td style="text-align: left">
 <h6>
-3 Cup Points: Rank advancement<br />
-3 Cup Points: Rank advancement of a PS coach<br />
-<br />
-<i>Last date for rank advancements to count is Wed 27th Oct</i>
+3 Cup Points: Rank advancement
 </h6>
+</td>
+<td style="text-align: center">
+  |          |  
+</td>
+<td style="text-align: left">
+<b>Tier 2:</b> ALL 5 team members qualify for Success Club 5 and everyone in the team received 100 Bonus Points (which will convert to local currency as usual)
+</td>
+</tr>
+
+<tr>
+<td style="text-align: left">
+<h6>
+3 Cup Points: Rank advancement of a PS coach
+</h6>
+</td>
+<td style="text-align: center">
+  |          |  
+</td>
+<td style="text-align: left">
+<b>Top 10 Team Reward:</b> Be 1 of the top five teams with the most Cup Points & all 5 members get SC5 or higher for a 10-week Unleash Her Power Within virtual program with Karissa Kouchis beginning January 2022 + Tickets to Unleash the Power Within with Tony Robbins in November 2022
+</td>
+</tr>
+
+<tr>
+<td style="text-align: left">
+<h6></h6>
+</td>
+<td style="text-align: center">
+  |          |  
+</td>
+<td style="text-align: left">
+<b>Team Cup Champion Reward:</b> Be the team with the most Cup Points earned overall & all 5 members get SC5 or higher for 1,000 bonus points per team member AND Team name and team member names engraved on the Team Cup trophy 
 </td>
 </tr>
 
 </tbody>
 </table>
 
-
-
-
+<h6>
+<i>Last date for rank advancements to count is Wed 27th Oct</i>
+</h6>
 
 
 
