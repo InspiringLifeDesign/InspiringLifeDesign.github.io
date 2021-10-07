@@ -20,7 +20,7 @@ Team Cup Time Remaining:
       <th style="text-aligh: center">Success Club points still needed</th>
       <th style="text-aligh: center">Start Rank</th>      
       <th style="text-aligh: center">Goal Rank</th>
-      <th style="text-aligh: center">End Rank</th>
+      <th style="text-aligh: center">Current Rank</th>
       <th style="text-aligh: center">Cup Points</th>
     </tr>
   </thead>
@@ -31,18 +31,18 @@ Team Cup Time Remaining:
       <td style="text-align: center">0</td>
       <td style="text-align: center">10</td>
       <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center">Diamond</td>
       <td style="text-align: center"></td>
       <td style="text-align: center">0</td>
     </tr>
     <tr>
       <td style="text-align: left">Christina</td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center">10</td>
       <td style="text-align: center">0</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">Coach</td>
+      <td style="text-align: center">Emerald</td>
+      <td style="text-align: center">Coach</td>
       <td style="text-align: center">0</td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@ Team Cup Time Remaining:
       <td style="text-align: center">10</td>
       <td style="text-align: center">Emerald</td>
       <td style="text-align: center">Emerald</td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center">Emerald</td>
       <td style="text-align: center">0</td>      
     </tr>
     <tr>
@@ -60,30 +60,30 @@ Team Cup Time Remaining:
       <td style="text-align: center">10</td>
       <td style="text-align: center">0</td>
       <td style="text-align: center">10</td>    
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center">Emerald</td>
+      <td style="text-align: center">Diamond</td>
+      <td style="text-align: center">Emerald</td>
       <td style="text-align: center">0</td>        
     </tr>
     <tr>
       <td style="text-align: left">Keri</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center">0</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center">0</td>      
+      <td style="text-align: center">5 - 10</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">3 - 8</td>
+      <td style="text-align: center">Emerald</td>
+      <td style="text-align: center">1* Diamond</td>
+      <td style="text-align: center">Emerald</td>
+      <td style="text-align: center">1</td>      
     </tr>
     <tr>
-      <td style="text-align: left">TOTAL</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center">0</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center">0</td>      
+      <td style="text-align: left"><b>TOTAL</b></td>
+      <td style="text-align: center"><b>45 - 50</b></td>
+      <td style="text-align: center"><b>2</b></td>
+      <td style="text-align: center"><b>43 - 48</b></td>
+      <td style="text-align: center"><b></b></td>
+      <td style="text-align: center"><b></b></td>
+      <td style="text-align: center"><b></b></td>
+      <td style="text-align: center"><b>1</b></td>      
     </tr>
   </tbody>
 </table>
