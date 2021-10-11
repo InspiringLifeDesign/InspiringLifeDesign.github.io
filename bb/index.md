@@ -28,12 +28,12 @@ Team Cup Time Remaining:
     <tr>
       <td style="text-align: left">Alex</td>
       <td style="text-align: center">10</td>
-      <td style="text-align: center">0</td>
-      <td style="text-align: center">10</td>
-      <td style="text-align: center"></td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">Emerald</td>
       <td style="text-align: center">Diamond</td>
-      <td style="text-align: center"></td>
-      <td style="text-align: center">0</td>
+      <td style="text-align: center">Emerald</td>
+      <td style="text-align: center">2</td>
     </tr>
     <tr>
       <td style="text-align: left">Christina</td>
@@ -73,17 +73,17 @@ Team Cup Time Remaining:
       <td style="text-align: center">Emerald</td>
       <td style="text-align: center">1* Diamond</td>
       <td style="text-align: center">Emerald</td>
-      <td style="text-align: center">1</td>      
+      <td style="text-align: center">2</td>      
     </tr>
     <tr>
       <td style="text-align: left"><b>TOTAL</b></td>
       <td style="text-align: center"><b>45 - 50</b></td>
-      <td style="text-align: center"><b>2</b></td>
-      <td style="text-align: center"><b>43 - 48</b></td>
+      <td style="text-align: center"><b>4</b></td>
+      <td style="text-align: center"><b>41 - 46</b></td>
       <td style="text-align: center"><b></b></td>
       <td style="text-align: center"><b></b></td>
       <td style="text-align: center"><b></b></td>
-      <td style="text-align: center"><b>1</b></td>      
+      <td style="text-align: center"><b>4</b></td>      
     </tr>
   </tbody>
 </table>
