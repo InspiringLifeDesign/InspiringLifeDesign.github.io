@@ -10,9 +10,7 @@ layout: landing_page_image
 </center>
 <center>
 
-<h6 class="title"><span style="color:white">Take Time For You This Autumn...</span></h6>
-<a href="/sunshinestudio/stretchandtone"><img src='/i/Buttons/instagram/image-buttons/stretchnew.png' alt='link to Stretch & Tone enquiry page' /></a>
-<br />
+
 <h6 class="title"><span style="color:white">Get Into Your Best Fitness Ever...</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 <br />

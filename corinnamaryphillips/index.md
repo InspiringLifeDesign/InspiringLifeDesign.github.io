@@ -13,9 +13,6 @@ layout: landing_page_image
 <h6 class="title"><span style="color:white">Peek Behind The Scenes Of My Business...</span></h6>
 <a href="/sunshinestudio/mentorship/behind-scenes"><img src='/i/Buttons/instagram/image-buttons/behind-scenes-button.png' style='width: 300px; margin: auto;' alt='link to Sunshine Social Media Mentorship behind the scenes signup page' /></a>
 
-<h6 class="title"><span style="color:white">Take Time For You This Autumn...</span></h6>
-<a href="/sunshinestudio/stretchandtone"><img src='/i/Buttons/instagram/image-buttons/stretchnew.png' alt='link to Stretch & Tone enquiry page' /></a>
-
 <h6 class="title"><span style="color:white">Get Into Your Best Fitness Ever...</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/cmp/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 
