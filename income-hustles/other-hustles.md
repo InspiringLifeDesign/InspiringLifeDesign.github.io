@@ -1,5 +1,16 @@
 ---
-layout: tag_page
-title: other hustles
+layout: default
+title: Other Hustles
 ---
-Hello, tag!
+
+# OTHER INCOME HUSTLES
+
+### Income From Online Surveys
+[**Get Extra Cash In Your Pocket This Week**](/posts/cash-this-week.html)
+
+### Income From Forex Trading
+[**What Is Forex Trading And How Do I Get Started**](/income-hustles/forex)
+
+### Different Income Hustles To Try
+[**The First Six Money Makers I've Tried**](/posts/first-six-money-makers.html)
+

@@ -1,52 +1,53 @@
 {
     "main": [
-        {
-          "title": "Financial Freedom",
-          "url": "/financial-freedom/index.html",
-          "submenu": [
-               {
-                 "title": "Make Money With An Income Hustle",
-                 "url": "/income-hustles/index.html",
-                 "submenu": [
-                   {
-                 "title": "Workshops & Masterminds",
-                 "url": "/income-hustles/masterminds.html"
-                   },
-                   {
-                 "title": "Book Publishing",
-                 "url": "/income-hustles/book-publishing.html"
-                   },
-                   {
-                 "title": "Blogging",
-                 "url": "/income-hustles/blogging.html"
-                   },
-                   {
-                 "title": "Other Hustles",
-                 "url": "/income-hustles/other-hustles.html"
-               },
-               {
-             "title": "Income Hustle Events",
-             "url": "/tag/income-hustle-events.html"
-               }
-                 ]
-               },
-               {
-               "title": "FREE Course: Profit from Online Workshops",
-               "url": "/signup/signup_page.html"
-               },
-               {
-              "title": "Corinna's Financial Freedom Progress",
-              "url": "/tag/financial-freedom.html"
-               },
-               {
-              "title": "Corinna's Income & Profit Reports",
-              "url": "/financial-freedom/income-and-profit-reports.html"
-               }]
-        },
-        {
-            "title": "Lifestyle",
-            "url": "/tag/lifestyle.html",
-            "submenu": [
+              {
+               "title": "Financial Freedom",
+               "url": "/financial-freedom/index.html",
+               "submenu": [
+                           {
+                            "title": "Make Money With An Income Hustle",
+                            "url": "/income-hustles/index.html",
+                            "submenu": [
+                                        {
+                                         "title": "Workshops & Masterminds",
+                                         "url": "/income-hustles/masterminds.html"
+                                        },
+                                        {
+                                         "title": "Book Publishing",
+                                         "url": "/income-hustles/book-publishing.html"
+                                        },
+                                        {
+                                         "title": "Blogging",
+                                         "url": "/income-hustles/blogging.html"
+                                        },
+                                        {
+                                          "title": "Other Hustles",
+                                          "url": "/income-hustles/other-hustles.html"
+                                        },
+                                        {
+                                        "title": "Income Hustle Events",
+                                        "url": "/tag/income-hustle-events.html"
+                                        }
+                                       ]
+                           },
+                           {
+                            "title": "FREE Course: Profit from Online Workshops",
+                            "url": "/signup/signup_page.html"
+                           },
+                           {
+                            "title": "Corinna's Financial Freedom Progress",
+                            "url": "/tag/financial-freedom.html"
+                           },
+                           {
+                            "title": "Corinna's Income & Profit Reports",
+                            "url": "/financial-freedom/income-and-profit-reports.html"
+                           }
+                          ]
+             },
+             {
+              "title": "Lifestyle",
+              "url": "/tag/lifestyle.html",
+              "submenu": [
               {
                 "title": "Corinna's Goals",
                 "url": "/tag/goals.html"
