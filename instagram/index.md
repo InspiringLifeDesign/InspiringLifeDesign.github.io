@@ -20,10 +20,10 @@ layout: landing_page_image
  <div class="separator-2"></div>
 <!-- YouTube latest START -->
   <h4 class="title"><span style="color:white">My Latest YouTube Videos...</span></h4>
-  <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/FrveJ69RLns?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <br><br>
+  <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/YbFAB07wbuo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
 
-  <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/6sN2NLpwigA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/FrveJ69RLns?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
 
 <!-- YouTube latest END -->
