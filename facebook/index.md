@@ -10,6 +10,8 @@ layout: landing_page_image
 </center>
 <center>
 
+<h6 class="title"><span style="color:white">Try The Job1 Free 20 Minute Sample Workout</span></h6>
+<a href="/sunshinestudio/workouts/20minuteworkout"><img src='/i/Buttons/instagram/image-buttons/job1.png' style='width: 300px; margin: auto;' alt='link to request page for Job1 sample workout' /></a><br />
 
 <h6 class="title"><span style="color:white">Get Into Your Best Fitness Ever...</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
