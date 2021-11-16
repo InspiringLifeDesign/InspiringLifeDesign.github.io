@@ -10,6 +10,9 @@ layout: landing_page_image
 </center>
 <center>
 
+<h6 class="title"><span style="color:white">Try The Job1 Free 20 Minute Sample Workout</span></h6>
+<a href="/sunshinestudio/workouts/job1"><img src='/i/Buttons/instagram/image-buttons/job1.png' style='width: 300px; margin: auto;' alt='link to request page for Job1 sample workout' /></a>
+
 <h6 class="title"><span style="color:white">Peek Behind The Scenes Of My Business...</span></h6>
 <a href="/sunshinestudio/mentorship/behind-scenes"><img src='/i/Buttons/instagram/image-buttons/behind-scenes-button.png' style='width: 300px; margin: auto;' alt='link to Sunshine Social Media Mentorship behind the scenes signup page' /></a>
 
