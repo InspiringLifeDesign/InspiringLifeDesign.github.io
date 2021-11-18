@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Competition Time - Win A £100 Virgin Experience Days Voucher"
+title: "Competition Time - Win A £100 Virgin Experience Days Voucher (NOW CLOSED)"
 tags:
   - "2021"
   - money
@@ -9,6 +9,8 @@ tags:
 <center>
     <img src='/i/2021/competition/competition-time-header.png' alt='Giveaway drawn in sandy beach header image'>
 </center>
+
+## THIS GIVEAWAY IS NOW CLOSED
 
 ### Are You Feeling Lucky?!
 I am excited to announce that I have teamed up with some of my fellow UK Money Bloggers to bring you another fantastic, free-to-enter competition. How would you like to win an incredible day out that you can use for yourself, or as a gift (perhaps the perfect Christmas gift?!) 
@@ -83,9 +85,9 @@ This giveaway has been arranged by <a href="https://www.thefinancialwilderness.c
 ### Previous & Next Posts
 
 <a href="/posts/own-your-future.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/january-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
+<a href="/posts/jewellery-giveaway.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my last post I talked about the [Own Your Future Challenge](/posts/own-your-future.html)<br>
-<!-- &nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html) -->
+&nbsp;&nbsp;My next post introduces my [Candy Cane Countdown to Christmas](/posts/jewellery-giveaway.html)
 <br>
 
 ***
