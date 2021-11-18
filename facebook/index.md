@@ -14,7 +14,7 @@ layout: landing_page_image
 <a href="/sunshinestudio/workouts/20minuteworkout"><img src='/i/Buttons/instagram/image-buttons/job1.png' style='width: 300px; margin: auto;' alt='link to request page for Job1 sample workout' /></a><br />
 
 <h6 class="title"><span style="color:white">Candy Cane Countdown Giveaway!</span></h6>
-<a href="/posts/jewellery-giveaway"><img src='/i/Buttons/instagram/image-buttons/candycanegiveaway.png' style='width: 300px; margin: auto;' alt='link to Candy Cane Countdown giveaway blog post with entry widget' /></a><br />
+<a href="/candycane"><img src='/i/Buttons/instagram/image-buttons/candycanegiveaway.png' style='width: 300px; margin: auto;' alt='link to Candy Cane Countdown giveaway' /></a><br />
 
 <h6 class="title"><span style="color:white">Get Into Your Best Fitness Ever...</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
