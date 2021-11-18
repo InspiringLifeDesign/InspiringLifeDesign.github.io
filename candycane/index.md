@@ -7,8 +7,7 @@ layout: landing_page_image
 </center>
 <center>
 
-<img src='/i/Buttons/instagram/image-buttons/candycanegiveaway.png' style='width: 300px; margin: auto;' alt='link to Candy Cane Countdown giveaway blog post with entry widget' />
-<br />
+<img src='/i/candycane/enterhere.png' style='width: 300px; margin: auto;' alt='Candy Cane Countdown giveaway image' />
 <a class="rcptr" href="http://www.rafflecopter.com/rafl/display/be5501da2/" rel="nofollow" data-raflid="be5501da2" data-theme="classic" data-template="" id="rcwidget_w7wlr4es">a Rafflecopter giveaway</a>
 <script src="https://widget-prime.rafflecopter.com/launch.js"></script>
 
