@@ -13,8 +13,8 @@ layout: landing_page_image
 <h6 class="title"><span style="color:white">Try The Job1 Free 20 Minute Sample Workout</span></h6>
 <a href="/sunshinestudio/workouts/job1"><img src='/i/Buttons/instagram/image-buttons/job1.png' style='width: 300px; margin: auto;' alt='link to request page for Job1 sample workout' /></a>
 
-<h6 class="title"><span style="color:white">Candy Cane Countdown Giveaway!</span></h6>
-<a href="/candycane"><img src='/i/Buttons/instagram/image-buttons/candycanegiveaway.png' style='width: 300px; margin: auto;' alt='link to Candy Cane Countdown giveaway' /></a>
+<!-- <h6 class="title"><span style="color:white">Candy Cane Countdown Giveaway!</span></h6>
+<a href="/candycane"><img src='/i/Buttons/instagram/image-buttons/candycanegiveaway.png' style='width: 300px; margin: auto;' alt='link to Candy Cane Countdown giveaway' /></a> -->
 
 <h6 class="title"><span style="color:white">Peek Behind The Scenes Of My Business...</span></h6>
 <a href="/sunshinestudio/mentorship/behind-scenes"><img src='/i/Buttons/instagram/image-buttons/behind-scenes-button.png' style='width: 300px; margin: auto;' alt='link to Sunshine Social Media Mentorship behind the scenes signup page' /></a>
@@ -31,10 +31,10 @@ layout: landing_page_image
 <!-- Corinna Phillips YouTube latest START -->
   <h4 class="title"><span style="color:white">Latest YouTube Videos...</span></h4>
 
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/ffBxrEJzQtY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/a0yBs1enwFU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/YbFAB07wbuo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/ffBxrEJzQtY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 
