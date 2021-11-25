@@ -23,6 +23,7 @@ I have already posted the first vlog in the Candy Cane Countdown earlier in Nove
 There are going to be several <b>Candy Cane Countdown Giveaways</b>, which makes me so happy! Seeing as this is the season of goodwill and giving, I am delighted to be giving away heaps of goodies throughout the Candy Cane Countdown. These are hand-picked items which I absolutely love, so I just know that you're going to love them too.
 
 ### My First Giveaway Is...
+<b>THIS GIVEAWAY IS NOW CLOSED</b><br />
 This really is very special. I feel hugely honoured to be giving away this cute little penguin necklace, gifted by the fabulous jewellery designer [Jana Reinhardt](https://www.janareinhardt.com/){:target="_blank" rel="noreferrer noopener"}.
 <center>
 <figure>
@@ -83,7 +84,7 @@ I hope that you love this first Candy Cane Countdown giveaway as much as I do, a
 9. The prize will be despatched within 14 days of the winner confirming their address
 10. The winner's name may be mentioned on the Inspiring Life Design blog, YouTube Channels and Social Media (Inspiring Life Design & Corinna Phillips accounts)
 11. The winner's name, email and address will be passed to Jana Reinhardt for the purposes of communication to arrange prize delivery
-12. By participating in this prize draw, entrants confirm they have read, understood and agree to be bound by these terms and conditions.
+12. By participating in this prize draw, entrants confirm they have read, understood and agree to be bound by these terms and conditions
 
 <!-- Pinterest image -->
 ![Candy Cane Countdown Jewellery Giveaway pinterest image](/i/2021/candycane/candycanepin.png)
