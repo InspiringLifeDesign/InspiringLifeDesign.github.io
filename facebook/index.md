@@ -10,11 +10,12 @@ layout: landing_page_image
 </center>
 <center>
 
-<h6 class="title"><span style="color:white">Try The Job1 Free 20 Minute Sample Workout</span></h6>
-<a href="/sunshinestudio/workouts/20minuteworkout"><img src='/i/Buttons/instagram/image-buttons/job1.png' style='width: 300px; margin: auto;' alt='link to request page for Job1 sample workout' /></a><br />
+<!-- NEED TO INSERT FLEXMAS AD -->
+<!-- <h6 class="title"><span style="color:white">Try The Job1 Free 20 Minute Sample Workout</span></h6>
+<a href="/sunshinestudio/workouts/20minuteworkout"><img src='/i/Buttons/instagram/image-buttons/job1.png' style='width: 300px; margin: auto;' alt='link to request page for Job1 sample workout' /></a><br /> -->
 
-<!-- <h6 class="title"><span style="color:white">Candy Cane Countdown Giveaway!</span></h6>
-<a href="/candycane"><img src='/i/Buttons/instagram/image-buttons/candycanegiveaway.png' style='width: 300px; margin: auto;' alt='link to Candy Cane Countdown giveaway' /></a><br /> -->
+<h6 class="title"><span style="color:white">Candy Cane Countdown Giveaway!</span></h6>
+<a href="/candycane"><img src='/i/Buttons/instagram/image-buttons/candycanegiveaway.png' style='width: 300px; margin: auto;' alt='link to Candy Cane Countdown giveaway' /></a><br />
 
 <h6 class="title"><span style="color:white">Get Into Your Best Fitness Ever...</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
@@ -27,18 +28,17 @@ layout: landing_page_image
 <!-- YouTube latest START -->
 
 <h4 class="title"><span style="color:white">My Latest YouTube Videos...</span></h4>
-  <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/a0yBs1enwFU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/ffBxrEJzQtY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/6s2ivzSqVrw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
 
+  <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/a0yBs1enwFU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
   
 <!-- YouTube latest END -->
 
 <div class="separator-2"></div>
 <h4 class="title"><span style="color:white">As Used By Corinna...</span></h4>
-<h6 class="title"><span style="color:white">Cosy Autumn Fall Movies on Hallmark</span></h6>
+<h6 class="title"><span style="color:white">Festive Christmas Movies on Hallmark</span></h6>
 <a href="https://www.amazon.co.uk/gp/video/offers/?benefitId=hallmarkuk&tag=corinnaphilli-21" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/hallmark.png' alt='link to get the Hallmark Channel via Amazon Prime in UK' /></a>
 <br />
  <h6 class="title"><span style="color:white">What I've Been Buying On Amazon</span></h6>
