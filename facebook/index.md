@@ -10,9 +10,8 @@ layout: landing_page_image
 </center>
 <center>
 
-<!-- NEED TO INSERT FLEXMAS AD -->
-<!-- <h6 class="title"><span style="color:white">Try The Job1 Free 20 Minute Sample Workout</span></h6>
-<a href="/sunshinestudio/workouts/20minuteworkout"><img src='/i/Buttons/instagram/image-buttons/job1.png' style='width: 300px; margin: auto;' alt='link to request page for Job1 sample workout' /></a><br /> -->
+<h6 class="title"><span style="color:white">Find Out More About My Festive Flexible Fitness Plan:</span></h6>
+<a href="/sunshinestudio/flexmas"><img src='/i/Buttons/instagram/image-buttons/flexmas.png' style='width: 300px; margin: auto;' alt='link to enquiry page for Flexmas plan' /></a>
 
 <h6 class="title"><span style="color:white">Candy Cane Countdown Giveaway!</span></h6>
 <a href="/candycane"><img src='/i/Buttons/instagram/image-buttons/candycanegiveaway.png' style='width: 300px; margin: auto;' alt='link to Candy Cane Countdown giveaway' /></a><br />
