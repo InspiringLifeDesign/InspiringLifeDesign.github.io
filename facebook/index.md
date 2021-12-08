@@ -32,9 +32,6 @@ layout: landing_page_image
 
 <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/6s2ivzSqVrw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
-
-
-  
 <!-- YouTube latest END -->
 
 <div class="separator-2"></div>
