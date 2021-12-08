@@ -9,9 +9,9 @@ layout: landing_page_image
 
 <img src='/i/candycane/enterhere.png' style='width: 300px; margin: auto;' alt='Candy Cane Countdown giveaway image' /><br />
 <!-- YouTube link -->
-<a href="https://bit.ly/candycane4"><img src='/i/candycane/CCC4YTgiveaway.png' style='width: 300px; margin: auto;' alt='YouTube giveaway image' /></a>
+<a href="https://bit.ly/candycane4"><img src='/i/candycane/CCC4YTgiveaway.png' style='width: 300px; margin: auto;' alt='YouTube giveaway image' /></a><br />
 <!-- Instgram link -->
-<!-- <a href="/sunshinestudio/flexmas"><img src='/i/candycane/giveaway4.png' style='width: 300px; margin: auto;' alt='Instagram giveaway image' /></a> -->
+<a href="https://www.instagram.com/p/CXO01LJItNJ/"><img src='/i/candycane/giveaway4.png' style='width: 300px; margin: auto;' alt='Instagram giveaway image' /></a>
 <br />
  
 <h3>Terms and Conditions</h3>
