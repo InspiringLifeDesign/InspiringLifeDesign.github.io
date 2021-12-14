@@ -31,12 +31,11 @@ layout: landing_page_image
 <!-- Corinna Phillips YouTube latest START -->
   <h4 class="title"><span style="color:white">Latest YouTube Videos...</span></h4>
 
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/ipTFrZdzj7Q?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
 <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/MQytmdL0B3c?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/6s2ivzSqVrw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
 
 <!-- YouTube latest END -->
 
