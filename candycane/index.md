@@ -9,24 +9,21 @@ layout: landing_page_image
 
 <img src='/i/candycane/enterhere.png' style='width: 300px; margin: auto;' alt='Candy Cane Countdown giveaway image' /><br />
 <!-- YouTube link -->
-<a href="https://bit.ly/candycane4"><img src='/i/candycane/CCC4YTgiveaway.png' style='width: 300px; margin: auto;' alt='YouTube giveaway image' /></a><br />
+<a href="https://bit.ly/candycane5"><img src='/i/candycane/CCC5YTgiveaway.png' style='width: 300px; margin: auto;' alt='YouTube giveaway image' /></a><br />
 <!-- Instgram link -->
-<a href="https://www.instagram.com/p/CXO01LJItNJ/"><img src='/i/candycane/giveaway4.png' style='width: 300px; margin: auto;' alt='Instagram giveaway image' /></a>
+<a href="https://www.instagram.com/p/CXeKmP4oje_"><img src='/i/candycane/giveaway5.png' style='width: 300px; margin: auto;' alt='Instagram giveaway image' /></a>
 <br />
  
 <h3>Terms and Conditions</h3>
-1. There is one prize which comprises of a Peppermint Latte Bath Fizzer set,<br />
-a Gingerbread salt & pepper shaker set, a Gingerbread pot steam vent set<br />
-and a Disney Minnie ears headpiece<br />
+1. There is one prize which comprises of a Candy Cane spatula & cookie cutter set,<br />
+a mailbox tree ornament, a Rae Dunn candle and a Disney Mickey & Minnie set of 4 tree ornaments<br />
 2. There are no runner up prizes <br />
-3. Open to anyone worldwide aged 18 and over<br />
-4. Entries from outside the UK are permitted under the agreement that any<br />
-import customs, duties or taxes (should these be imposed) are paid by the winner.<br />
-Corinna accepts no liability or responsibility for payment of any such fees,<br />
-or any postage delays or failures<br />
-5. Closing date for entries is 11.59pm GMT on Sunday 12th December 2021<br />
+3. Open to anyone with a UK mailing address aged 18 and over<br />
+4. Corinna accepts no liability or responsibility for any postage delays,<br />
+breakages or failures by the postal service to deliver<br />
+5. Closing date for entries is 11.59pm GMT on Sunday 19th December 2021<br />
 6. Entrants must complete the steps listed under the Instagram, Facebook or<br />
-YouTube giveaway 3 posts<br />
+YouTube giveaway posts<br />
 7. Entries will be awarded as follows:<br />
 > Follow @corinnamaryphillips on Instagram, like the giveaway post & comment<br />
 "I love this giveaway because..." (fill in the blank) tagging a friend for <b>1 entry</b><br />
@@ -38,7 +35,7 @@ for <b>5 extra entries</b> per additional friend tagged<br />
 (must be a public Instagram account in order for this to be visible<br />
 for verification purposes) for <b>10 extra entries</b><br />
 > Subscribe to Corinna Phillips YouTube channel and leave a comment under<br />
-the giveaway video stating your fave festive food or drink<br />
+the giveaway video stating your fave piece of decor that I share in the video<br />
 for <b>10 extra entries</b><br />
 > Like the Facebook post and leave a comment stating<br />
 "I love this giveaway because..." (fill in the blank) tagging a friend for <b>1 entry</b><br />
