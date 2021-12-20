@@ -8,11 +8,11 @@ layout: landing_page
 <img src='/i/cory-circle.png' alt='Profile image of Corinna'>
 </center>
 
-<h3>The Sunshine STUDIO & Prep School ACADEMY</h3>
+<h3>The Sunshine STUDIO: Fun, easy to follow, at-home workouts</h3>
 
-A secret hideaway of determined ladies, working out virtually together to TAKE BACK CONTROL of their body, fitness and happiness.<br /><br />
-A fun, supportive, safe space where busy women can feel comfortable getting fit from home, taking 20-40 mins a day FOR THEMSELVES.<br /><br />
-With everything they need for optimum health, including simple-to-follow nutrition & fitness programs and being held accountable.<br /><br />
+Come join our secret hideaway of determined ladies, working out virtually together to TAKE BACK CONTROL of our bodies, fitness and happiness.<br /><br />
+A fun, supportive, safe space where busy women can feel comfortable getting fit from home, taking 20-30 mins a day FOR THEMSELVES.<br /><br />
+With everything you need for optimum health, including simple-to-follow nutrition & fitness programs and being held accountable.<br /><br />
 20 minute at-home workouts changed my <b>entire</b> life...I would love for you to GIVE YOURSELF THAT GIFT too x<br /><br />
 Forget spending hours in the gym. Forget counting calories. Forget restricting yourself. Just get ready for <b>real incredible results</b>!<br /><br />
 I'll be there every step of the way alongside you, as your coach and as your friend. Your success is my success!
