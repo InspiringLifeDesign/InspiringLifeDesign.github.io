@@ -10,17 +10,14 @@ layout: landing_page_image
 </center>
 <center>
 
+<h6 class="title"><span style="color:white">Make 2022 Your Best Year Yet And Get Fit With Me:</span></h6>
+<a href="/sunshinestudio"><img src='/i/Buttons/instagram/cmp/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
+
 <h6 class="title"><span style="color:white">Find Out More About My Festive Flexible Fitness Plan:</span></h6>
 <a href="/sunshinestudio/flexmas"><img src='/i/Buttons/instagram/image-buttons/flexmas.png' style='width: 300px; margin: auto;' alt='link to enquiry page for Flexmas plan' /></a>
 
-<h6 class="title"><span style="color:white">Candy Cane Countdown Giveaway!</span></h6>
-<a href="/candycane"><img src='/i/Buttons/instagram/image-buttons/candycanegiveaway.png' style='width: 300px; margin: auto;' alt='link to Candy Cane Countdown giveaway' /></a>
-
 <h6 class="title"><span style="color:white">Peek Behind The Scenes Of My Business...</span></h6>
 <a href="/sunshinestudio/mentorship/behind-scenes"><img src='/i/Buttons/instagram/image-buttons/behind-scenes-button.png' style='width: 300px; margin: auto;' alt='link to Sunshine Social Media Mentorship behind the scenes signup page' /></a>
-
-<h6 class="title"><span style="color:white">Get Into Your Best Fitness Ever...</span></h6>
-<a href="/sunshinestudio"><img src='/i/Buttons/instagram/cmp/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 
 <h6 class="title"><span style="color:white">Join My Social Media Business Mentorship...</span></h6>
 <a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/cmp/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
@@ -31,11 +28,12 @@ layout: landing_page_image
 <!-- Corinna Phillips YouTube latest START -->
   <h4 class="title"><span style="color:white">Latest YouTube Videos...</span></h4>
 
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/YzIFaDKiIt0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
 <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/ipTFrZdzj7Q?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/MQytmdL0B3c?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
 
 <!-- YouTube latest END -->
 

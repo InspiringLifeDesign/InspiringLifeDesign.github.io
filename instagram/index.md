@@ -10,14 +10,11 @@ layout: landing_page_image
 </center>
 <center>
 
+<h6 class="title"><span style="color:white">Make 2022 Your Best Year Yet And Get Fit With Me:</span></h6>
+<a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
+
 <h6 class="title"><span style="color:white">Find Out More About My Festive Flexible Fitness Plan:</span></h6>
 <a href="/sunshinestudio/flexmas"><img src='/i/Buttons/instagram/image-buttons/flexmas.png' style='width: 300px; margin: auto;' alt='link to enquiry page for Flexmas plan' /></a>
-
-<h6 class="title"><span style="color:white">Candy Cane Countdown Giveaway!</span></h6>
-<a href="/candycane"><img src='/i/Buttons/instagram/image-buttons/candycanegiveaway.png' style='width: 300px; margin: auto;' alt='link to Candy Cane Countdown giveaway' /></a>
-
-<h6 class="title"><span style="color:white">Get Into Your Best Fitness Ever...</span></h6>
-<a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 
 <h6 class="title"><span style="color:white">Join My Social Media Business Mentorship...</span></h6>
 <a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/current/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
@@ -26,12 +23,13 @@ layout: landing_page_image
  <div class="separator-2"></div>
 <!-- YouTube latest START -->
   <h4 class="title"><span style="color:white">My Latest YouTube Videos...</span></h4>
-    <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/ipTFrZdzj7Q?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <br><br>
-    
-  <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/MQytmdL0B3c?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/YzIFaDKiIt0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
 
+  <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/ipTFrZdzj7Q?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br><br>
+
+  
 <!-- YouTube latest END -->
 
 <div class="separator-2"></div>
