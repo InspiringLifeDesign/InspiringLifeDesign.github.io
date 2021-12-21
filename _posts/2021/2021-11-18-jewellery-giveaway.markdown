@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Introducing My Candy Cane Countdown With A Gorgeous Jewellery Giveaway"
+title: "Introducing My Candy Cane Countdown With A Gorgeous Jewellery Giveaway (GIVEAWAY NOW CLOSED)"
 tags:
   - "2021"
   - giveaways
