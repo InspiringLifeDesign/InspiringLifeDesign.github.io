@@ -13,9 +13,6 @@ layout: landing_page_image
 <h6 class="title"><span style="color:white">Make 2022 Your Best Year Yet And Get Fit With Me:</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/cmp/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 
-<h6 class="title"><span style="color:white">Find Out More About My Festive Flexible Fitness Plan:</span></h6>
-<a href="/sunshinestudio/flexmas"><img src='/i/Buttons/instagram/image-buttons/flexmas.png' style='width: 300px; margin: auto;' alt='link to enquiry page for Flexmas plan' /></a>
-
 <h6 class="title"><span style="color:white">Peek Behind The Scenes Of My Business...</span></h6>
 <a href="/sunshinestudio/mentorship/behind-scenes"><img src='/i/Buttons/instagram/image-buttons/behind-scenes-button.png' style='width: 300px; margin: auto;' alt='link to Sunshine Social Media Mentorship behind the scenes signup page' /></a>
 
@@ -25,22 +22,19 @@ layout: landing_page_image
 
  <div class="separator-2"></div>
 
-<!-- Corinna Phillips YouTube latest START -->
+<!-- YouTube latest START -->
   <h4 class="title"><span style="color:white">Latest YouTube Videos...</span></h4>
+
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/6K0HK-VXKbg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
 
 <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/YzIFaDKiIt0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/ipTFrZdzj7Q?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
 
 <!-- YouTube latest END -->
 
 <div class="separator-2"></div>
 <h4 class="title"><span style="color:white">As Used By Corinna...</span></h4>
-<h6 class="title"><span style="color:white">Festive Christmas Movies on Hallmark</span></h6>
-<a href="https://www.amazon.co.uk/gp/video/offers/?benefitId=hallmarkuk&tag=corinnaphilli-21" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/hallmark.png' alt='link to get the Hallmark Channel via Amazon Prime in UK' /></a>
 <h6 class="title"><span style="color:white">What I've Been Buying On Amazon</span></h6>
 <a href="https://www.amazon.co.uk/shop/inspiringlifedesign?listId=3U0NM08QFZXW7&ref=idea_share_inf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/amazon.png' alt='link to my Amazon Storefront Instagram list' /></a>
 <h6 class="title"><span style="color:white">New Customers Receive A £25 Gift Bundle<br />With First Shop (minimum spend £85):</span></h6>
@@ -49,6 +43,8 @@ layout: landing_page_image
 <a href="https://inspiringlifedesign.com/takemeto/glossy" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/glossybox.png' alt='link to GlossyBox site' /></a>
 <h6 class="title"><span style="color:white">Use code <i>ropedrop</i> for 10% off:</span></h6>
 <a href="https://www.ourmagicalhome.co.uk/" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/ourmagicalhome.png' alt='link to Our Magical Home Etsy store' /></a>
+<h6 class="title"><span style="color:white">Cheesy Movies on Hallmark</span></h6>
+<a href="https://www.amazon.co.uk/gp/video/offers/?benefitId=hallmarkuk&tag=corinnaphilli-21" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/hallmark.png' alt='link to get the Hallmark Channel via Amazon Prime in UK' /></a>
 <br />
 
  <div class="separator-2"></div>
