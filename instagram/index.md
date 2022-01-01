@@ -10,26 +10,20 @@ layout: landing_page_image
 </center>
 <center>
 
-<h6 class="title"><span style="color:white">Make 2022 Your Best Year Yet And Get Fit With Me:</span></h6>
+<h6 class="title"><span style="color:white">Make 2022 Your Best Year Yet: Get Fit With Me</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 
-<h6 class="title"><span style="color:white">Find Out More About My Festive Flexible Fitness Plan:</span></h6>
-<a href="/sunshinestudio/flexmas"><img src='/i/Buttons/instagram/image-buttons/flexmas.png' style='width: 300px; margin: auto;' alt='link to enquiry page for Flexmas plan' /></a>
-
-<h6 class="title"><span style="color:white">Join My Social Media Business Mentorship...</span></h6>
+<h6 class="title"><span style="color:white">Apply To Join My Business Mentorship</span></h6>
 <a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/current/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
 <br />
 
  <div class="separator-2"></div>
 <!-- YouTube latest START -->
   <h4 class="title"><span style="color:white">My Latest YouTube Videos...</span></h4>
-     <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/YzIFaDKiIt0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <br><br>
-
-  <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/ipTFrZdzj7Q?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/6K0HK-VXKbg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br><br>   
+    <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/YzIFaDKiIt0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br><br>
-
-  
 <!-- YouTube latest END -->
 
 <div class="separator-2"></div>
@@ -40,10 +34,10 @@ layout: landing_page_image
 
 <div class="separator-2"></div>
   <h4 class="title"><span style="color:white">As Used By Corinna...</span></h4>
-  <h6 class="title"><span style="color:white">Festive Christmas Movies on Hallmark</span></h6>
-<a href="https://www.amazon.co.uk/gp/video/offers/?benefitId=hallmarkuk&tag=corinnaphilli-21" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/hallmark.png' alt='link to get the Hallmark Channel via Amazon Prime in UK' /></a>
  <h6 class="title"><span style="color:white">What I've Been Buying On Amazon</span></h6>
 <a href="https://www.amazon.co.uk/shop/inspiringlifedesign?listId=3U0NM08QFZXW7&ref=idea_share_inf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/amazon.png' alt='link to my Amazon Storefront Instagram list' /></a>
+<h6 class="title"><span style="color:white">Indulge In Hallmark Movies</span></h6>
+<a href="https://www.amazon.co.uk/gp/video/offers/?benefitId=hallmarkuk&tag=corinnaphilli-21" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/hallmark.png' alt='link to get the Hallmark Channel via Amazon Prime in UK' /></a>
 <h6 class="title"><span style="color:white">Use code <i>CORINNA-RO6</i> for 20% off:</span></h6>
 <a href="/takemeto/glossy" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/glossybox.png' alt='link to GlossyBox site' /></a>
 <h6 class="title"><span style="color:white">Use code <i>ropedrop</i> for 10% off:</span></h6>
