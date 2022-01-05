@@ -25,11 +25,12 @@ layout: landing_page_image
 <!-- YouTube latest START -->
   <h4 class="title"><span style="color:white">Latest YouTube Videos...</span></h4>
 
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/kBhJw6uL6t4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/NPEhj2uwZ3k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/6K0HK-VXKbg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/npqVKQrg6ls?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
+
 
 <!-- YouTube latest END -->
 
@@ -43,7 +44,7 @@ layout: landing_page_image
 <a href="https://inspiringlifedesign.com/takemeto/glossy" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/glossybox.png' alt='link to GlossyBox site' /></a>
 <h6 class="title"><span style="color:white">Use code <i>ropedrop</i> for 10% off:</span></h6>
 <a href="https://www.ourmagicalhome.co.uk/" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/ourmagicalhome.png' alt='link to Our Magical Home Etsy store' /></a>
-<h6 class="title"><span style="color:white">Cheesy Movies on Hallmark</span></h6>
+<h6 class="title"><span style="color:white">Indulge yourself with Hallmark Movies:</span></h6>
 <a href="https://www.amazon.co.uk/gp/video/offers/?benefitId=hallmarkuk&tag=corinnaphilli-21" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/hallmark.png' alt='link to get the Hallmark Channel via Amazon Prime in UK' /></a>
 <br />
 

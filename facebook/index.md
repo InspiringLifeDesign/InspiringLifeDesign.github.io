@@ -22,9 +22,9 @@ layout: landing_page_image
 
 <!-- YouTube latest START -->
 <h4 class="title"><span style="color:white">My Latest YouTube Videos...</span></h4>
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/kBhJw6uL6t4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/NPEhj2uwZ3k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/6K0HK-VXKbg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/npqVKQrg6ls?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
 
 <!-- YouTube latest END -->
