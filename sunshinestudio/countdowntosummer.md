@@ -22,7 +22,6 @@ Working out at home for 30 minutes changed my <b>entire</b> life...I would love 
 Forget spending hours in the gym. Forget counting calories. Forget restricting yourself. Just get ready for <b>real incredible results</b>!<br /><br />
 I'll be there every step of the way alongside you, as your coach and as your friend. Your success is my success!
 
-<h3>We start Monday 5th April - deadline to enrol is April 5th!</h3>
 <br />
 
 <h3>Ready To Join/Have Questions? Fill Out This Quick Form & I'll Be In Touch Within 24 Hours...</h3>
