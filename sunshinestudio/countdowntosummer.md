@@ -94,4 +94,3 @@ I'll be there every step of the way alongside you, as your coach and as your fri
 	</div>
 	<button type="submit" class="btn btn-default">Submit</button>
 </form>
-
