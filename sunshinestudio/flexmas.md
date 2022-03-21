@@ -6,11 +6,11 @@ layout: landing_page
 <img src='/i/sunshinestudio/flexmas/flexmas-promo.png' alt='2021 Flexmas image'>
 </center>
 
-<h2>Join Corinna in the Sunshine Studio for FLEXMAS 2021!</h2>
+<h2>Join Corinna in the Sunshine Studio for FLEXMAS 2022!</h2>
 The <b>Flexmas</b> plan is designed to work around your hectic schedule giving you peace of mind that you are doing the best for yourself this festive season.<br /><br />
 Everything you need to get started immediately is included in the Flexmas plan bundle, all you need is a device to stream on.<br /><br />
-When you join Corinna for Flexmas, it's not just for the Christmas season, it's for <b>a whole year</b> of health, wellness and coaching by Corinna, including access to all of her challenges. Which means you're not just treating yourself for December, you're setting yourself up for an incredible 2022!<br /><br />
-<i>Prices vary depending on the starter bundle package you choose (Corinna will personally find you the right bundle and best deal for your needs). Right now bundles start from £120 / $140 USD / $165 CAD / €165 EUR for a year's membership. A total solution health and fitness plan for the equivalent of £10 a month from the comfort of your own home is a bargain not to be missed and these discounted prices are set to go up soon, so don't miss out on the best deal...</i>
+When you join Corinna for Flexmas, it's not just for the Christmas season, it's for <b>a whole year</b> of health, wellness and coaching by Corinna, including access to all of her challenges. Which means you're not just treating yourself for December, you're setting yourself up for an incredible 2023!<br /><br />
+<i>Prices vary depending on the starter bundle package you choose (Corinna will personally find you the right bundle and best deal for your needs). Right now bundles start from £140 / $160 USD / $185 CAD / €185 EUR for a year's membership. A total solution health and fitness plan for a little over £10 a month from the comfort of your own home is a bargain not to be missed and these discounted prices are set to go up soon, so don't miss out on the best deal...</i>
 
 <h3>About The Sunshine Studio</h3>
 Welcome to a secret hideaway of like-minded ladies, practicing self care together to TAKE BACK CONTROL of their bodies, fitness and happiness.<br />
