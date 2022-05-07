@@ -16,6 +16,8 @@ email: hello@inspiringlifedesign.com
 
 # Google analytics ID
 google-analytics: UA-103634480-1
+# Google analytics 4 measurement ID
+ga4-measurement-id: G-9ZQGS6X9B7
 
 # Default post URLs
 permalink: /posts/:title.html

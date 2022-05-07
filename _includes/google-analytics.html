@@ -8,3 +8,11 @@
   ga('send', 'pageview');
 
 </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZQGS6X9B7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.ga4-measurement-id }}');
+</script>
