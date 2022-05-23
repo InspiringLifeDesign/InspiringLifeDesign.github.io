@@ -1,7 +1,7 @@
 ---
 layout: landing_page
 ---
-
+![Sunshine Studio hero image](/i/sunshinestudio/landingpages/sunshinestudio.png)
 <center>
 <h2>It's Time To Dream Big!</h2>
 <i>The Sunshine Social Media Mentorship</i><br />
@@ -88,3 +88,6 @@ layout: landing_page
     
 	<button type="submit" class="btn btn-default">Submit</button>
 </form>
+
+
+![Beachbody Independent Coach information](/i/sunshinestudio/landingpages/beachbodyfooter.png)
