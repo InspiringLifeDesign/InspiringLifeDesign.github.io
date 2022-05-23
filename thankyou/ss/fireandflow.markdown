@@ -4,7 +4,7 @@ sitemap:
   exclude: true  
 ---
 ![sunshinestudiohero](/i/sunshinestudio/landingpages/sunshinestudio.png)
-![sunshinestudiohero](/i/sunshinestudio/landingpages/fireandflow.png)
+![sunshinestudiohero](/i/sunshinestudio/landingpages/fireflow.png)
 
 Thank you for confirming your email. It's time to get excited about the incredible new workout program Fire and Flow...this program has something for everyone!
 
