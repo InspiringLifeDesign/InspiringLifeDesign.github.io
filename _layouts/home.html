@@ -61,10 +61,13 @@
 							<article class="blogpost">
 								<header>
 									<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                  {% comment %}
+									<!-- There are 2 commented out dates so that when the date gets uncommented, one can be left as an example for another time -->
+									{% comment %}
 									{% include post-info.html date=post.date %}
 									{% endcomment %}
+									{% comment %}
 									{% include post-info.html date=post.date %}
+									{% endcomment %}
 
 								</header>
 								<div class="blogpost-content">
