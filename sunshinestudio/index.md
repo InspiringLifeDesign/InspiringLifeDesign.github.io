@@ -1,14 +1,13 @@
 ---
 layout: landing_page
 ---
-
+![Sunshine Studio hero image](/i/sunshinestudio/landingpages/sunshinestudio.png)
 <center>
-<h2>The Sunshine Studio</h2>
-<!-- <i>Get Ready For Summer With Me!</i><br /> -->
+
 <img src='/i/cory-circle.png' alt='Profile image of Corinna'>
 </center>
 
-<h3>The Sunshine STUDIO: Fun, easy to follow, at-home workouts</h3>
+<h3>The Sunshine Studio: Fun, easy to follow, at-home workouts</h3>
 
 Come join our secret hideaway of determined ladies, working out virtually together to TAKE BACK CONTROL of our bodies, fitness and happiness.<br /><br />
 A fun, supportive, safe space where busy women can feel comfortable getting fit from home, taking 20-30 mins a day FOR THEMSELVES.<br /><br />
@@ -87,3 +86,5 @@ I'll be there every step of the way alongside you, as your coach and as your fri
 	</div>
 	<button type="submit" class="btn btn-default">Submit</button>
 </form>
+
+![Beachbody Independent Coach information](/i/sunshinestudio/landingpages/beachbodyfooter.png)

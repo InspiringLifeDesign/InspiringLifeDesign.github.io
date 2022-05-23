@@ -35,3 +35,5 @@ I get it, not everyone wants a chat! If you're itching to get started right away
 [France Customers Best Value Bundle](https://www.teambeachbody.com/shop/fr/d/BODTSPBBPEssentials?referringRepID=2495505){:target="_blank" rel="noreferrer noopener"}
 
 No matter how you choose to sign-up, I'll be here for you as your coach to offer recommendations, support and extra resources.
+
+![Beachbody Independent Coach information](/i/sunshinestudio/landingpages/beachbodyfooter.png)

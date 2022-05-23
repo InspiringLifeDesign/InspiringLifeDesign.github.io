@@ -22,3 +22,5 @@ Look out for...
 So be on the look out in your inbox (don't forget to check spam and mark emails from Corinna as "safe"), and in the meantime why not take a look at this sneak peek preview of Fire and Flow&trade;:
 
 <iframe width="1000" height="560" src="https://player.vimeo.com/video/663517275" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+![Beachbody Independent Coach information](/i/sunshinestudio/landingpages/beachbodyfooter.png)

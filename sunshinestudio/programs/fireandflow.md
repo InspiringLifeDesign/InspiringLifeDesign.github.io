@@ -10,3 +10,4 @@ layout: landing_page
 
 <script async data-uid="b2979ff2dd" src="https://inspiring-life-design.ck.page/b2979ff2dd/index.js"></script>
 
+![Beachbody Independent Coach information](/i/sunshinestudio/landingpages/beachbodyfooter.png)
