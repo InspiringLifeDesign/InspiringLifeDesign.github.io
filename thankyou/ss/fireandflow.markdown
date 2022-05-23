@@ -8,7 +8,7 @@ sitemap:
 
 Thank you for confirming your email. It's time to get excited about the incredible new workout program Fire and Flow...this program has something for everyone!
 
-You'll soon receive an email from The Sunshine Studio with everything you need to know including a free sample workout from the program for you to try at home.
+You'll soon receive an email from The Sunshine Studio with everything you need, including a free sample workout from the program for you to try at home.
 
 Look out for...
 
