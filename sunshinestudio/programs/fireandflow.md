@@ -2,10 +2,10 @@
 layout: landing_page
 ---
 
-![sunshinestudiohero](/i/sunshinestudio/landingpages/sunshinestudio.png)
-![sunshinestudiohero](/i/sunshinestudio/landingpages/fireandflow.png)
+![sunshinestudio](/i/sunshinestudio/landingpages/sunshinestudio.png)
+![Fire and Flow](/i/sunshinestudio/landingpages/fireflow.png)
+![Message from Corinna 3](/i/sunshinestudio/landingpages/corinnainsert.png)
 
-<br />
-To find out how Fire and Flow&trade; will help you feel amazing AND what it's like to be a member of the Sunshine Studio, drop your email address...
+<h3>Drop your details below for your information pack and a free taster workout for you to try:</h3>
 
 <script async data-uid="b2979ff2dd" src="https://inspiring-life-design.ck.page/b2979ff2dd/index.js"></script>
