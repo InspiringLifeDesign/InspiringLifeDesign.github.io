@@ -15,3 +15,5 @@ Want all the details? Complete the form below and let's chat!<br />
 Corinna x
 
 <script async data-uid="94ff8b7eca" src="https://inspiring-life-design.ck.page/94ff8b7eca/index.js"></script>
+
+![Beachbody Independent Coach information](/i/sunshinestudio/landingpages/beachbodyfooter.png)

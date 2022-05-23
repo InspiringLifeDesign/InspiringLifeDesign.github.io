@@ -32,3 +32,5 @@ You can email <a href="mailto:corinna@inspiringlifedesign.com">corinna@inspiring
 	</div>
 	<button type="submit" class="btn btn-default">Submit</button>
 </form>
+
+![Beachbody Independent Coach information](/i/sunshinestudio/landingpages/beachbodyfooter.png)
