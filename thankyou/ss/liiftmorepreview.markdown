@@ -1,12 +1,12 @@
 ---
 layout: "landing_page"
-title: "Congrats...You'll Be The First To Hear About LIIFT MORE!"
 sitemap:
   exclude: true  
 ---
- <div class="separator-2"></div>
+![Sunshine Studio hero image](/i/sunshinestudio/landingpages/sunshinestudio.png)
+![LIIFT More](/i/sunshinestudio/landingpages/liiftmore.png)
  
-### Free Thank You Gift!
+### Congrats...You'll Be The First To Hear About LIIFT MORE - here's a thank you gift!
 
 I'm so excited you are interested in the newest weight lifting program coming this summer! Until then, here's a little free gift for you...
 
