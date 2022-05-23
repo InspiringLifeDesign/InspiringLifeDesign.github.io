@@ -1,116 +1,80 @@
 {
     "main": [
-              {
-               "title": "Financial Freedom",
-               "url": "/financial-freedom/index.html",
+            {
+             "title": "Income Hustles",
+             "url": "/income-hustles/index.html",
                "submenu": [
                            {
-                            "title": "Make Money With An Income Hustle",
-                            "url": "/income-hustles/index.html",
-                            "submenu": [
-                                        {
-                                         "title": "Workshops & Masterminds",
-                                         "url": "/income-hustles/masterminds.html"
-                                        },
-                                        {
-                                         "title": "Book Publishing",
-                                         "url": "/income-hustles/book-publishing.html"
-                                        },
-                                        {
-                                         "title": "Blogging",
-                                         "url": "/income-hustles/blogging.html"
-                                        },
-                                        {
-                                          "title": "Other Hustles",
-                                          "url": "/income-hustles/other-hustles.html"
-                                        },
-                                        {
-                                        "title": "Income Hustle Events",
-                                        "url": "/tag/income-hustle-events.html"
-                                        }
-                                       ]
+                            "title": "Dream Big Coaching",
+                            "url": "/dreambig/"
+                           },
+                           {
+                            "title": "Workshops & Masterminds",
+                            "url": "/income-hustles/masterminds.html"
+                           },
+                           {
+                            "title": "Book Publishing",
+                            "url": "/income-hustles/book-publishing.html"
+                           },
+                           {
+                           "title": "Blogging",
+                           "url": "/income-hustles/blogging.html"
+                           },
+                           {
+                            "title": "Other Hustles",
+                            "url": "/income-hustles/other-hustles.html"
+                           },
+                           {
+                            "title": "Income Hustle Event Blogs",
+                            "url": "/tag/income-hustle-events.html"
                            },
                            {
                             "title": "FREE Course: Profit from Online Workshops",
                             "url": "/signup/signup_page.html"
-                           },
-                           {
-                            "title": "Corinna's Financial Freedom Progress",
-                            "url": "/tag/financial-freedom.html"
-                           },
-                           {
-                            "title": "Corinna's Income & Profit Reports",
-                            "url": "/financial-freedom/income-and-profit-reports.html"
                            }
                           ]
-             },
-             {
-              "title": "Lifestyle",
-              "url": "/tag/lifestyle.html",
-              "submenu": [
-              {
-                "title": "Corinna's Goals",
-                "url": "/tag/goals.html"
-              },
-              {
-                "title": "Charity",
-                "url": "/tag/charity.html"
-              },
-              {
-                "title": "Disney",
-                "url": "/lifestyle/disney/index.html"
-              }
-            ]
-        },
-        {
-            "title": "Transformation",
-            "url": "/tag/transformation.html",
-            "submenu": [
-              {
-                "title": "Personal Development Events",
-                "url": "/tag/personal-development-events.html"
-              },
-              {
-                "title": "Life Changing Books",
-                "url": "/transformation/books/index.html"
-              }
-            ]
-        },
-        {
-            "title": "Shop",
-            "url": "/shop/index.html",
-            "submenu": [
-              {
-                "title": "Workshops",
-                "url": "/shop/shop-workshops"
-              },
-              {
-                "title": "Coaching & Mentoring",
-                "url": "/shop/shop-coach"
-              },
-              {
-                "title": "Virtual Assistance",
-                "url": "/shop/shop-va"
-              },
-              {
-                "title": "Recommended Products",
-                "url": "/shop/shop-recommended"
-              }
-            ]
-        },
-        {
-            "title": "Recommendations",
-            "url": "/blogroll.html"
-        },
-        {
-            "title": "About",
-            "url": "/tag/about-corinna.html",
-            "submenu": [
-              {
-                "title": "Media Kit",
-                "url": "/printables/ILD_Media_Kit.pdf"
-              }
-            ]
-         }
-    ]
+               },
+               {
+                "title": "Financial Freedom",
+                "url": "/financial-freedom/index.html",
+                  "submenu": [
+                              {
+                               "title": "Corinna's Financial Freedom Progress",
+                               "url": "/tag/financial-freedom.html"
+                              },
+                              {
+                               "title": "Corinna's Income & Profit Reports",
+                               "url": "/financial-freedom/income-and-profit-reports.html"
+                              }
+                             ]
+               },
+               {
+                "title": "Transformation",
+                "url": "/tag/transformation.html",
+                  "submenu": [
+                              {
+                               "title": "Personal Development Events",
+                               "url": "/tag/personal-development-events.html"
+                              },
+                              {
+                               "title": "Life Changing Books",
+                               "url": "/transformation/books/index.html"
+                              }
+                             ]
+               },
+               {
+                "title": "Recommendations",
+                "url": "/blogroll.html"
+               },
+               {
+                "title": "About",
+                "url": "/tag/about-corinna.html",
+                  "submenu": [
+                              {
+                               "title": "Media Kit",
+                               "url": "/printables/ILD_Media_Kit.pdf"
+                              }
+                             ]
+               }
+               ]
 }
