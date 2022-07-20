@@ -1,10 +1,9 @@
 ---
-layout: no_sidebar_no_breadcrumb
+layout: landing_page
 title: Next Steps...
 
 ---
 ***
-### Just a couple more steps:
 
 #### 1. Go to your email inbox and find the email just sent
 <i>HINT: If you can't find the email, be sure to check your junk and promotion folders. When you find the email, drag it into your “primary” inbox.</i>
