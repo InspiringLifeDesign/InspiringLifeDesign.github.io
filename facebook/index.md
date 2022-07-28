@@ -10,6 +10,10 @@ layout: landing_page_image
 </center>
 <center>
 
+<h6 class="title"><span style="color:white">ENDS THIS WEEK: Find out how I lost 10lbs in just 4 weeks:</span></h6>
+<a href="https://www.facebook.com/groups/608716827353508/?ref=share"><img src='/i/fbgroup.jpg' alt='link to Gonna Do This Facebook Group'/></a>
+<br />
+
 <h6 class="title"><span style="color:white">Make 2022 Your Best Year Yet: Get Fit With Me</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 <br />
