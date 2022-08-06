@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect: https://ownyourfuturechallenge.com/projectnext?source=orderyt&a=1899
+redirect: https://timetothrivechallenge.com/projectnext?source=ildprojectnext&a=1899
 ---
 
