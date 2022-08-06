@@ -1,22 +1,27 @@
 ---
 layout: "landing_page"
-title: "Don't buy Project Next until you watch this!!"
 sitemap:
   exclude: true  
 ---
- <div class="separator-2"></div>
- 
-{% include youtubeforcourse.html videoid="nCzk4wDv8Zc" %}
 
 <center>
-<h1>BONUS offer expires</h1>
+<iframe width="840" height="474" src="https://www.youtube-nocookie.com/embed/nCzk4wDv8Zc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h1>HURRY this all goes away...</h1>
 <h2>
-Midnight 11th (Pacific time) / 8am 12th (UK time) August<br />
+11th/12th August<br />
 </h2>
 <h1><span id="demo"></span></h1>
 
 <a href="https://timetothrivechallenge.com/projectnext?source=ildpromise&a=1899" target="_blank">
   <img src="/i/Buttons/pnandbonuses.png" alt="Project Next with Bonus Bundle button">
+</a>
+
+<img src='/i/pn/2022/bonuspage.png' alt='Header image offering additional bonuses for Project Next'>
+
+
+<a href="https://timetothrivechallenge.com/projectnext?source=ildpromise&a=1899" target="_blank">
+  <img src="/i/Buttons/pnbuynow.png" alt="Project Next with Bonus Bundle button">
 </a>
 
 <br><br>
