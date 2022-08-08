@@ -1,7 +1,9 @@
-inspiringlifedesign:
-    container_name: inspiringlifedesign
-    image: davidforster/github-pages
-    ports:
-        - 4001:4000
-    volumes:
-        - .:/home/jekyll/src
+version: "3.8"
+services:
+    inspiringlifedesign:
+        container_name: inspiringlifedesign
+        image: davidforster/github-pages
+        ports:
+            - 4001:4000
+        volumes:
+            - .:/home/jekyll/src
