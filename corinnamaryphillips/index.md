@@ -11,8 +11,8 @@ layout: landing_page_image
  <div class="separator-2"></div>
 <center>
 
-<h6 class="title"><span style="color:white">ENDS THIS WEEK: Find out how I lost 10lbs in just 4 weeks:</span></h6>
-<a href="https://www.facebook.com/groups/608716827353508/?ref=share"><img src='/i/fbgroup.jpg' alt='link to Gonna Do This Facebook Group'/></a>
+<h6 class="title"><span style="color:white">FREE Wellness Group: Fall In Love With Yourself...</span></h6>
+<a href="https://www.facebook.com/groups/fallbackinlovewithyourself/"><img src='/i/sunshinestudio/fallinlove/fallinlove.png' alt='link to Gonna Do This Facebook Group'/></a>
 <br />
 
 <h6 class="title"><span style="color:white">Enquire about personalised coaching & support:</span></h6>
