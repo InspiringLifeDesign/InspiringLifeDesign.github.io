@@ -11,8 +11,6 @@ layout: landing_page_image
  <div class="separator-2"></div>
 
 <center>
-  <h4 class="title"><span style="color:white">COMING SOON!<br />MILLIONAIRE MINDSET MASTERMIND</span></h4>
-  <br />
 <h6 class="title"><span style="color:white">Apply To Join My Social Media Business Team:</span></h6>
 <a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/current/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
 <br />
