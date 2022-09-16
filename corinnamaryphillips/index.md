@@ -11,14 +11,16 @@ layout: landing_page_image
  <div class="separator-2"></div>
 <center>
 
-<h6 class="title"><span style="color:white">FREE Wellness Group: Fall In Love With Yourself...</span></h6>
-<a href="https://www.facebook.com/groups/fallbackinlovewithyourself/"><img src='/i/sunshinestudio/fallinlove/fallinlove.png' alt='link to Gonna Do This Facebook Group'/></a>
-<br />
-
 <h6 class="title"><span style="color:white">Enquire about personalised coaching & support:</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/cmp/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 
 <br />
+
+<!-- Corinna Phillips YouTube START -->
+  <h6 class="title"><span style="color:white">My latest YouTube video...</span></h6>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/oGsm6RUkf00?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+<!-- Corinna Phillips YouTube END -->
 
 <!-- Dream it, Do it START -->
   <h6 class="title"><span style="color:white">"Dream It, Do It" health & wellness coaching...</span></h6>
