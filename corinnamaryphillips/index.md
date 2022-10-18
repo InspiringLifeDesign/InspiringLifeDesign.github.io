@@ -6,7 +6,7 @@ layout: landing_page_image
 <h6>
 <a href="https://www.instagram.com/corinnamaryphillips/" target="_blank" rel="noopener"><span style="color:white">@corinnamaryphillips</span></a>
 </h6>
-  <h6 class="title"><span style="color:white">Corinna Phillips | Weight Loss & Wellness Coach</span></h6>
+  <h6 class="title"><span style="color:white">Corinna Phillips | Business & Weight Loss Coach</span></h6>
 </center>
  <div class="separator-2"></div>
 <center>
@@ -18,7 +18,7 @@ layout: landing_page_image
 
 <!-- Corinna Phillips YouTube START -->
   <h6 class="title"><span style="color:white">My latest YouTube video...</span></h6>
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/oGsm6RUkf00?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/6F_3NzpxdCA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <!-- Corinna Phillips YouTube END -->
 
