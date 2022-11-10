@@ -22,13 +22,13 @@ layout: landing_page_image
 
 <!-- YouTube latest START -->
 <h4 class="title"><span style="color:white">My Latest YouTube Videos...</span></h4>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/2ta8BiR0MGk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
 <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/6F_3NzpxdCA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/h4rJ8Nmq-rg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/gMY-O9jAswo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <!-- YouTube latest END -->
@@ -40,12 +40,6 @@ layout: landing_page_image
 <br />
 <h6 class="title"><span style="color:white">Indulge In Hallmark Movies</span></h6>
 <a href="https://www.amazon.co.uk/gp/video/offers/?benefitId=hallmarkuk&tag=corinnaphilli-21" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/hallmark.png' alt='link to get the Hallmark Channel via Amazon Prime in UK' /></a>
-<br />
-<h6 class="title"><span style="color:white">Use code <i>CORINNA-RO6</i> for 20% off:</span></h6>
-<a href="/takemeto/glossy" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/glossybox.png' alt='link to GlossyBox site' /></a>
-<br />
-<h6 class="title"><span style="color:white">Use code <i>ropedrop</i> for 10% off:</span></h6>
-<a href="https://www.ourmagicalhome.co.uk/" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/current/ourmagicalhome.png' alt='link to Our Magical Home Etsy store' /></a>
 <br />
 
 <div class="separator-2"></div>
