@@ -3,12 +3,31 @@ layout: landing_page_image
 ---
 <center>
 <img src='/i/cory-small.png' alt='Profile image of Corinna'>
-<h4><span style="color:white">Instagram: </span>
-<a href="https://www.instagram.com/inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:white">@inspiringlifedesign</span></a>
-</h4>
-<br />
+<h4><span style="color:white">Instagram Accounts</span></h4>
+<div class="separator-2"></div>
+<a href="https://www.instagram.com/inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:white">@inspiringlifedesign</span></a><br />
+<a href="https://www.instagram.com/corinnamaryphillips/" target="_blank" rel="noopener"><span style="color:white">@corinnamaryphillips</span></a>
+<br /><br />
 </center>
+
 <center>
+<!-- YouTube latest START -->
+<h4 class="title"><span style="color:white">Candy Cane Countdown 2022</span></h4>
+<div class="separator-2"></div>
+<h6 class="title"><span style="color:white">Vlogmas Day 1</span></h6>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/mNkcWsjtJk0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
+<h4 class="title"><span style="color:white">Dream It Do It 2021</span></h4>
+<div class="separator-2"></div>
+
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/h4rJ8Nmq-rg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
+<!-- YouTube latest END -->
+
+<h4 class="title"><span style="color:white">Work With Me</span></h4>
+<div class="separator-2"></div>
 
 <h6 class="title"><span style="color:white">Get Fit With Me</span></h6>
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/current/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
@@ -17,21 +36,6 @@ layout: landing_page_image
 <h6 class="title"><span style="color:white">Apply To Join My Business Mentorship</span></h6>
 <a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/current/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
 <br />
-
-<div class="separator-2"></div>
-
-<!-- YouTube latest START -->
-<h4 class="title"><span style="color:white">My Latest YouTube Videos...</span></h4>
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/An7RcemNlxY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/2ta8BiR0MGk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/h4rJ8Nmq-rg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
-<!-- YouTube latest END -->
 
 <div class="separator-2"></div>
 <h4 class="title"><span style="color:white">As Used By Corinna...</span></h4>
