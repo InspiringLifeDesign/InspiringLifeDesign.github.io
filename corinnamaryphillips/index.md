@@ -6,22 +6,15 @@ layout: landing_page_image
 <h6>
 <a href="https://www.instagram.com/corinnamaryphillips/" target="_blank" rel="noopener"><span style="color:white">@corinnamaryphillips</span></a>
 </h6>
-  <h6 class="title"><span style="color:white">Corinna Phillips | Business & Wellness Coach</span></h6>
+  <h6 class="title"><span style="color:white">Corinna Phillips | Luxury Lifestyle Coach</span></h6>
 </center>
  <div class="separator-2"></div>
 <center>
 
-<h6 class="title"><span style="color:white">Enquire about personalised coaching & support:</span></h6>
-<a href="/sunshinestudio"><img src='/i/Buttons/instagram/cmp/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
-
-<br />
-
 <!-- Corinna Phillips YouTube START -->
-  <h6 class="title"><span style="color:white">My latest YouTube videos...</span></h6>
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/An7RcemNlxY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/2ta8BiR0MGk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <h6 class="title"><span style="color:white">Candy Cane Countdown 2022</span></h6>
+ <i><span style="color:white">Vlogmas Day 1</span></i><br />
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/mNkcWsjtJk0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <!-- Corinna Phillips YouTube END -->
 
@@ -44,6 +37,12 @@ layout: landing_page_image
 <br><br>
 
 <!-- Dream It, Do It END -->
+
+<h6 class="title"><span style="color:white">Enquire about personalised coaching & support:</span></h6>
+<a href="/sunshinestudio"><img src='/i/Buttons/instagram/cmp/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
+
+<br />
+
 
 <div class="separator-2"></div>
 <h4 class="title"><span style="color:white">As seen on my Instagram...</span></h4>
