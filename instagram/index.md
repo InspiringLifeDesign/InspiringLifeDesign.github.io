@@ -11,12 +11,12 @@ layout: landing_page_image
  <div class="separator-2"></div>
 
 <center>
-<h6 class="title"><span style="color:white">Apply To Join My Social Media Business Team:</span></h6>
-<a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/current/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
-<br />
-
-
 <!-- YouTube latest START -->
+  <h4 class="title"><span style="color:white">Candy Cane Countdown 2022</span></h4>
+<h6 class="title"><span style="color:white">Vlogmas Day 1</span></h6>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/mNkcWsjtJk0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
   <h4 class="title"><span style="color:white">A taste of my "Dream It, Do It" coaching...</span></h4>
 
 <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/kBhJw6uL6t4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -38,6 +38,10 @@ layout: landing_page_image
 <br><br>
     
 <!-- YouTube latest END -->
+
+<h6 class="title"><span style="color:white">Apply To Join My Social Media Business Team:</span></h6>
+<a href="/sunshinestudio/mentorship"><img src='/i/Buttons/instagram/current/mentorship.png' alt='link to Sunshine Studio mentoring information request page' /></a>
+<br />
 
 <div class="separator-2"></div>
 <h6 class="title"><span style="color:white">Successful entrepreneurs always put their health first...</span></h6>
