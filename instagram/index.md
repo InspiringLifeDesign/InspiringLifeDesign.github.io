@@ -18,6 +18,16 @@ layout: landing_page_image
 <div class="separator-2"></div>
 
 <center>
+<!-- Treat Yourself Challenge START -->
+  <h6 class="title"><span style="color:white">Treat Yourself Challenge 2023</span></h6>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/ArscU57dUYw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br /><br />
+<a href="https://inspiring-life-design.ck.page/a191ed2bc2"><img src='/i/Buttons/instagram/cmp/treatyourself.png' alt='link to download the Treat Yourself Challenge chart' /></a>
+<br />
+<!-- Treat Yourself Challenge END -->
+
+<div class="separator-2"></div>
+
 <!-- Inspiring Life Design YouTube START -->
 <h4 class="title"><span style="color:white">A taste of my coaching style...</span></h4>
 
