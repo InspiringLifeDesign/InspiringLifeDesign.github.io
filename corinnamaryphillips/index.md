@@ -35,14 +35,15 @@ layout: landing_page_image
 <!-- Corinna Phillips YouTube END -->
 
  <div class="separator-2"></div>
+<!-- Live a Luxury Life START -->
+   <h6 class="title"><span style="color:white">Luxury lifestyle goodies and coaching...</span></h6>
 
 <a href="https://www.amazon.co.uk/shop/inspiringlifedesign?listId=3U0NM08QFZXW7&ref=idea_share_inf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/amazon.png' alt='link to my Amazon Storefront Instagram list' /></a>
-
 <br />
 <a href="/sunshinestudio"><img src='/i/Buttons/instagram/cmp/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
-
 <br />
 <a href="/sunshinestudio/mentorship/behind-scenes"><img src='/i/Buttons/instagram/image-buttons/behind-scenes-button.png' style='width: 300px; margin: auto;' alt='link to Sunshine Social Media Mentorship behind the scenes signup page' /></a>
 <br />
+<!-- Live a Luxury Life END -->
 
 </center>
