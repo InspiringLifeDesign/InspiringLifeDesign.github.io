@@ -32,7 +32,8 @@ layout: landing_page_image
 <h4 class="title"><span style="color:white">A taste of my coaching style...</span></h4>
 
 <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/5PH-MpYkIN4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
+<a href="https://www.youtube.com/@inspiringlifedesign?sub_confirmation=1"><img src='/i/Buttons/instagram/subscribe.png' alt='link to subscribe to Inspiring Life Design on YouTube' /></a>
+<br>
 
 <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/QzBNy-XrEys?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
@@ -51,7 +52,8 @@ layout: landing_page_image
 
 <h4 class="title"><span style="color:white">From my vlog YouTube channel...</span></h4>
 <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/83AGsfL-Lu8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
+<a href="https://www.youtube.com/channel/UCZCRTrAyc43Xp6-zdR3aG0g?sub_confirmation=1"><img src='/i/Buttons/instagram/subscribe.png' alt='link to subscribe to Corinna on YouTube' /></a>
+<br>
 
 <!-- Corinna Phillips YouTube END -->
 
