@@ -3,10 +3,16 @@ layout: landing_page_image
 ---
 <center>
 <img src='/i/corinnamaryphillips/cmp-small.png' style='width: 100px; height: 100px; margin: auto;' alt='Profile image of Corinna'>
-<h6>
+  <h4 class="title"><span style="color:white">Corinna Phillips | Luxury Lifestyle Coach</span></h4>
+<h7><span style="color:white">YouTube Personal Vlogs - </span></h7>
+<a href="https://www.youtube.com/@corinnamaryphillips/" target="_blank" rel="noopener"><span style="color:white">@corinnamaryphillips</span></a>
+<br />
+<h7><span style="color:white">YouTube Life Design - </span></h7>
+<a href="https://www.youtube.com/@inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:white">@inspiringlifedesign</span></a>
+<br />
+<h7><span style="color:white">Instagram - </span></h7>
 <a href="https://www.instagram.com/corinnamaryphillips/" target="_blank" rel="noopener"><span style="color:white">@corinnamaryphillips</span></a>
-</h6>
-  <h6 class="title"><span style="color:white">Corinna Phillips | Luxury Lifestyle Coach</span></h6>
+<br /><br />
 </center>
  <div class="separator-2"></div>
 <center>
