@@ -11,47 +11,31 @@ layout: landing_page_image
  <div class="separator-2"></div>
 <center>
 
+<!-- Treat Yourself Challenge START -->
+  <h6 class="title"><span style="color:white">Treat Yourself Challenge 2023</span></h6>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/ArscU57dUYw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br /><br />
+<a href="https://inspiring-life-design.ck.page/a191ed2bc2"><img src='/i/Buttons/instagram/cmp/treatyourself.png' alt='link to download the Treat Yourself Challenge chart' /></a>
+<br />
+<!-- Treat Yourself Challenge END -->
+
+ <div class="separator-2"></div>
+
 <!-- Corinna Phillips YouTube START -->
-  <h6 class="title"><span style="color:white">Candy Cane Countdown 2022</span></h6>
- <i><span style="color:white">Vlogmas Day 1</span></i><br />
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/mNkcWsjtJk0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
+  <h6 class="title"><span style="color:white">What's new on my YouTube channel...</span></h6>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/83AGsfL-Lu8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/channel/UCZCRTrAyc43Xp6-zdR3aG0g?sub_confirmation=1"><img src='/i/Buttons/instagram/subscribe.png' alt='link to subscribe to Corinna on YouTube' /></a>
+<br />
 <!-- Corinna Phillips YouTube END -->
 
-<!-- Dream it, Do it START -->
-  <h6 class="title"><span style="color:white">"Dream It, Do It" health & wellness coaching...</span></h6>
+ <div class="separator-2"></div>
 
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/_6LCt0kEA5s?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/UsQ9g1suvzQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/NbgpoTizzgI?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/g1q9gaPVRrE?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/h4rJ8Nmq-rg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
-
-<!-- Dream It, Do It END -->
-
-<h6 class="title"><span style="color:white">Enquire about personalised coaching & support:</span></h6>
-<a href="/sunshinestudio"><img src='/i/Buttons/instagram/cmp/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
-
-<br />
-
-
-<div class="separator-2"></div>
-<h4 class="title"><span style="color:white">As seen on my Instagram...</span></h4>
 <a href="https://www.amazon.co.uk/shop/inspiringlifedesign?listId=3U0NM08QFZXW7&ref=idea_share_inf" target="_blank" rel="noopener"><img src='/i/Buttons/instagram/cmp/amazon.png' alt='link to my Amazon Storefront Instagram list' /></a>
 
 <br />
+<a href="/sunshinestudio"><img src='/i/Buttons/instagram/cmp/sunshinestudio.png' alt='link to Sunshine Studio information request page' /></a>
 
- <div class="separator-2"></div>
-<h6 class="title"><span style="color:white">Behind The Scenes Of My Fitness Business...</span></h6>
+<br />
 <a href="/sunshinestudio/mentorship/behind-scenes"><img src='/i/Buttons/instagram/image-buttons/behind-scenes-button.png' style='width: 300px; margin: auto;' alt='link to Sunshine Social Media Mentorship behind the scenes signup page' /></a>
 <br />
 
