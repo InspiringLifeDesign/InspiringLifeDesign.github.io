@@ -194,9 +194,9 @@ Share this post with your nearest and dearest today and you can start your journ
 ### Previous & Next Posts
 
 <a href="/posts/life-update.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/own-your-future.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
+<a href="/posts/competition-time.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
 In my previous post I shared [My Big Life Update](/posts/life-update.html)<br>
-&nbsp;&nbsp;In my next post it's time to [Take Control Of Your Future](/posts/own-your-future.html)
+&nbsp;&nbsp;It's competition time in my next post [Win A Virgin Experience Days Voucher (ends 18.9.21)](/posts/competition-time.html)
 <br>
 
 ***
