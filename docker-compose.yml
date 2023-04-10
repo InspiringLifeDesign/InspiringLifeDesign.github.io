@@ -1,6 +1,7 @@
 version: "3.8"
 services:
     inspiringlifedesign:
+        platform: linux/amd64
         container_name: inspiringlifedesign
         image: davidforster/github-pages
         ports:
