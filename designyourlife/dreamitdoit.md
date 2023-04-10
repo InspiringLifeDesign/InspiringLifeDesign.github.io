@@ -207,7 +207,7 @@ Don't forget to visit the [**Life Design resources page**](/designyourlife/lifed
   <div class="col-md-4">
    <figure>
    <figcaption><b>Day 23</b></figcaption>
-   {% include youtube.html videoid="sIx2-LJm424g" %}
+   {% include youtube.html videoid="sIx2-LJm424" %}
    </figure>
    <br>
   </div>
