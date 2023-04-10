@@ -9,19 +9,19 @@ layout: landing_page_image
  
      <tr>
  
-       <td style="background-color:red">
+       <td style="background-color:#83f7fd;">
         <a target="_blank" href="https://www.youtube.com/@corinnamaryphillips">
-        <img src="/i/social/youtube-new.png" alt="YouTube" width="25px"/>
+        <img src="/i/social/youtube-new.png" alt="YouTube" width="40px"/>
         </a>
        </td>
    
        <td style="background-color:#83f7fd;">
-       &nbsp; &nbsp; &nbsp;
+       &nbsp; &nbsp; &nbsp; &nbsp;
        </td>
 
        <td style="background-color:#83f7fd;">
         <a target="_blank" href="https://www.instagram.com/corinnamaryphillips/">
-        <img src="/i/social/instagram-new.png" alt="Instagram" width="25px"/>
+        <img src="/i/social/instagram-new.png" alt="Instagram" width="40px"/>
         </a>
        </td>
  
