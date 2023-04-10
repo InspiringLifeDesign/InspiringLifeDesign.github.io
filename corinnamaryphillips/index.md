@@ -5,24 +5,31 @@ layout: landing_page_image
 <img src='/i/corinnamaryphillips/cmp-small.png' style='width: 100px; height: 100px; margin: auto;' alt='Profile image of Corinna'>
 <h4 class="title"><span style="color:white">Corinna Phillips | Luxury Lifestyle Coach</span></h4>
 
-<div class="row">
-  <div class="column">
-<a target="_blank" href="https://www.youtube.com/c/inspiringlifedesign"><img src="youtube.svg" alt="YouTube" width="50px" style="color:red;"/></a>
-  </div>
-  <div class="column">
-  <a target="_blank" href="https://www.instagram.com/corinnamaryphillips/"><img src="instagram.svg" alt="Instagram" width="50px"/></a>
-  </div>
-</div>
+<table>
+ 
+     <tr>
+ 
+       <td style="background-color:red">
+        <a target="_blank" href="https://www.youtube.com/@corinnamaryphillips">
+        <img src="/i/social/youtube-new.png" alt="YouTube" width="25px"/>
+        </a>
+       </td>
+   
+       <td style="background-color:#83f7fd;">
+       &nbsp; &nbsp; &nbsp;
+       </td>
 
-<h7><span style="color:white">YouTube Personal Vlogs - </span></h7>
-<a href="https://www.youtube.com/@corinnamaryphillips/" target="_blank" rel="noopener"><span style="color:white">@corinnamaryphillips</span></a>
+       <td style="background-color:#83f7fd;">
+        <a target="_blank" href="https://www.instagram.com/corinnamaryphillips/">
+        <img src="/i/social/instagram-new.png" alt="Instagram" width="25px"/>
+        </a>
+       </td>
+ 
+     </tr>
+ 
+   </table>
+
 <br />
-<h7><span style="color:white">YouTube Life Design - </span></h7>
-<a href="https://www.youtube.com/@inspiringlifedesign/" target="_blank" rel="noopener"><span style="color:white">@inspiringlifedesign</span></a>
-<br />
-<h7><span style="color:white">Instagram - </span></h7>
-<a href="https://www.instagram.com/corinnamaryphillips/" target="_blank" rel="noopener"><span style="color:white">@corinnamaryphillips</span></a>
-<br /><br />
 </center>
  <div class="separator-2"></div>
 <center>
@@ -39,7 +46,7 @@ layout: landing_page_image
 
 <!-- Corinna Phillips YouTube START -->
   <h6 class="title"><span style="color:white">What's new on my YouTube channel...</span></h6>
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/83AGsfL-Lu8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/_Nf9iDHlkDw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://www.youtube.com/channel/UCZCRTrAyc43Xp6-zdR3aG0g?sub_confirmation=1"><img src='/i/Buttons/instagram/subscribe.png' alt='link to subscribe to Corinna on YouTube' /></a>
 <br />
 <!-- Corinna Phillips YouTube END -->
