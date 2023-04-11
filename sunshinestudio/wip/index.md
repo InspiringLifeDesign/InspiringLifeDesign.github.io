@@ -2,12 +2,9 @@
 layout: landing_page
 ---
 ![Sunshine Studio hero image](/i/sunshinestudio/landingpages/sunshinestudio.png)
-<center>
 
-<img src='/i/cory-circle.png' alt='Profile image of Corinna'>
-</center>
 
-<h3>The Sunshine Studio: Fun, easy to follow, at-home workouts</h3>
+<h3>The Sunshine Studio: Your Home From Home Health & Fitness Solution</h3>
 
 Come join our secret hideaway of determined ladies, working out virtually together to TAKE BACK CONTROL of our bodies, fitness and happiness.<br /><br />
 A fun, supportive, safe space where busy women can feel comfortable getting fit from home, taking 20-30 mins a day FOR THEMSELVES.<br /><br />
