@@ -10,5 +10,3 @@ This is your chance to see Behind The Scenes of my Business Mentorship...I'll sh
 Simply pop your name and email address below and I'll send you an invite to my sneak peek...
 
 <script async data-uid="e0db9a0c06" src="https://inspiring-life-design.ck.page/e0db9a0c06/index.js"></script>
-
-
