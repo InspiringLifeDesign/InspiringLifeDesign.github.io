@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: https://ownyourfuturechallenge.com/freechallenge?source=optin&a=1899
+redirect: https://ownyourfuturechallenge.com/enroll?source=ildlaunchpad&a=1899
 ---
