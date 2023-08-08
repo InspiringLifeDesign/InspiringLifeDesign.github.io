@@ -3,23 +3,23 @@ layout: landing_page
 ---
 
 <center>
-<h2>Social Media Business Mentorship</h2>
+<h2>Fitness Business Mentorship</h2>
 <i>with Corinna Phillips</i><br />
 <img src='/i/cory-circle.png' alt='Profile image of Corinna'>
 </center>
 <center>
 <h3>Our Team. Our Tribe. Our Family.</h3>
-<h4>Apply to join my Sunshine Team and we're gonna build & grow your social media business together</h4><br />
+<h4>Apply to join my Sunshine Team and we're gonna build & grow your fitness business together using social media</h4><br />
 <h4>But this is SO MUCH MORE than a business...</h4>
 <h4>...it's a thriving community and it's a LIFE PURPOSE</h4>
 <h4>And I know you're gonna LOVE it just as much as I do!</h4><br />
 
 <h4><b>Work From Anywhere. Change Lives. Live the Life of your dreams.</b></h4><br />
 
-<h4>Get INSTANT access to our Social Media Business University, become a part of the NUMBER 1 team in the whole business AND have your business up and running within hours. Everything you need to get started is included.</h4>
+<h4>Everything you need to get started is included.</h4>
 </center>
 
-<h3><i>Please complete the form below to receive all the details & start LIVING the LIFE of your DREAMS</i></h3>
+<h3><i>Please complete the form below to find out how you can start living the life of your DREAMS</i></h3>
 <form role="form" action="https://formspree.io/f/meqvqloy" method="POST">
 	<div class="form-group">
 		<label for="InputFirstName"><b>FIRST NAME</b></label>
