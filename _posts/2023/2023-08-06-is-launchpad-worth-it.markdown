@@ -3,6 +3,8 @@ layout: "post"
 title: "Is Launchpad worth it? A review of the 2023 Tony Robbins and Dean Graziosi course"
 tags:
   - "2023"
+  - knowledge business
+  - making money
 affiliate: true
 ---
 
