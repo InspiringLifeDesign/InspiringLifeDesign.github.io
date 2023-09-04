@@ -4,11 +4,6 @@ title: "What New Side Hustle Should You Start This Year?"
 tags:
   - "2020"
   - making money
-  - knowledge business
-  - book publishing
-  - affiliate marketing
-  - blogging
-  - youtube business
 
 ---
 

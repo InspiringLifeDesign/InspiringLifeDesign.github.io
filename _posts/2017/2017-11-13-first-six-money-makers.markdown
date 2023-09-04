@@ -4,7 +4,6 @@ title: "The First 6 Money Makers I've Tried"
 tags:
   - "2017"
   - making money
-  - book publishing
   - other hustles
 affiliate: true 
 ---
