@@ -35,18 +35,6 @@
                                           "url": "/income-hustles/other-hustles.html"
                                         }
                                        ]
-                           },
-                           {
-                            "title": "FREE Course: Profit from Online Workshops",
-                            "url": "/signup/signup_page.html"
-                           },
-                           {
-                            "title": "Corinna's Financial Freedom Progress",
-                            "url": "/tag/financial-freedom.html"
-                           },
-                           {
-                            "title": "Corinna's Income & Profit Reports",
-                            "url": "/financial-freedom/income-and-profit-reports.html"
                            }
                           ]
              },
@@ -67,7 +55,15 @@
               {
                 "title": "Media Kit",
                 "url": "/printables/ILD_Media_Kit.pdf"
-              }
+              },
+              {
+                "title": "Corinna's Financial Freedom Progress",
+                "url": "/tag/financial-freedom.html"
+               },
+               {
+                "title": "Corinna's Income & Profit Reports",
+                "url": "/financial-freedom/income-and-profit-reports.html"
+               }
             ]
          }
     ]
