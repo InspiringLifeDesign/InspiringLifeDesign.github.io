@@ -63,22 +63,14 @@
                           ]
              },
         {
-            "title": "Transformation",
-            "url": "/tag/transformation.html",
+            "title": "Recommendations",
+            "url": "/blogroll.html",
             "submenu": [
-              {
-                "title": "Personal Development Events",
-                "url": "/tag/personal-development-events.html"
-              },
               {
                 "title": "Life Changing Books",
                 "url": "/transformation/books/index.html"
               }
             ]
-        },
-        {
-            "title": "Recommendations",
-            "url": "/blogroll.html"
         },
         {
             "title": "About",
