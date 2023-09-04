@@ -23,28 +23,16 @@
                             "url": "/income-hustles/index.html",
                             "submenu": [
                                         {
-                                         "title": "Dream Big Coaching",
-                                         "url": "/dreambig/"
+                                         "title": "Book Publishing",
+                                         "url": "/income-hustles/book-publishing.html"
                                         },
                                         {
                                          "title": "Workshops & Masterminds",
                                          "url": "/income-hustles/masterminds.html"
                                         },
                                         {
-                                         "title": "Book Publishing",
-                                         "url": "/income-hustles/book-publishing.html"
-                                        },
-                                        {
-                                         "title": "Blogging",
-                                         "url": "/income-hustles/blogging.html"
-                                        },
-                                        {
                                           "title": "Other Hustles",
                                           "url": "/income-hustles/other-hustles.html"
-                                        },
-                                        {
-                                        "title": "Income Hustle Events",
-                                        "url": "/tag/income-hustle-events.html"
                                         }
                                        ]
                            },
