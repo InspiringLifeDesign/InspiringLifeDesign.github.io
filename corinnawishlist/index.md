@@ -238,7 +238,7 @@ title: Corinna's Latest Loves
 
  <div class="col-md-4">
    <figure>
-    <figcaption><b>IPL Multi Function Handset</b><br>£240 in sale<br><i>Use LYDIAM20 for 20% off & free shipping</i>
+    <figcaption><b>IPL Multi Function Handset</b><br>Use LYDIAM20 for 20% off & free shipping<br><i>£240 in sale (£192 with discount)</i>
     </figcaption>
     <a href="https://int.kenzzi.com/collections/black-friday-deals/products/ipl-handset-bundle-kit" target="_blank" rel="noopener noreferrer">
     <img src="/i/corinnawishlist/kenzzi.png" alt="Kenzzi Multi Function handset">
@@ -246,9 +246,22 @@ title: Corinna's Latest Loves
    </figure>
  </div>
 </div>
+<br>
 
+#### L:A BRUKET
+<div class="row">
 
- 
+ <div class="col-md-4">
+   <figure>
+    <figcaption><b>017 Lip Balm</b><br>The best lip balm I've ever used!<br><i>£15</i>
+    </figcaption>
+    <a href="https://www.labruket.com/en-gb/products/recovery-lip-balm-cosn" target="_blank" rel="noopener noreferrer">
+    <img src="/i/corinnawishlist/labruketlipbalm.png" alt="L:A Bruket lip balm">
+    </a>
+   </figure>
+ </div>
+</div>
+
 
 
 
