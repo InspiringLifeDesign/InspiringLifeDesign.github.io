@@ -3,7 +3,7 @@ layout: landing_page_image
 ---
 <center>
 <img src='/i/corinnamaryphillips/cmp-small.png' style='width: 100px; height: 100px; margin: auto;' alt='Profile image of Corinna'>
-<h4 class="title"><span style="color:white">Corinna Phillips | Morning Routine Coach</span></h4>
+<h4 class="title"><span style="color:white">Corinna Phillips | Morning Rituals Coach</span></h4>
 
 <table>
  
