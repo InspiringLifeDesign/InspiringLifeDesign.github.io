@@ -3,7 +3,7 @@ layout: landing_page_image
 ---
 <center>
 <img src='/i/corinnamaryphillips/cmp-small.png' style='width: 100px; height: 100px; margin: auto;' alt='Profile image of Corinna'>
-<h4 class="title"><span style="color:white">Corinna Phillips | Luxury Lifestyle Coach</span></h4>
+<h4 class="title"><span style="color:white">Corinna Phillips | Morning Routine Coach</span></h4>
 
 <table>
  
@@ -34,20 +34,13 @@ layout: landing_page_image
  <div class="separator-2"></div>
 <center>
 
-<!-- Treat Yourself Challenge START -->
-  <h6 class="title"><span style="color:white">Treat Yourself Challenge 2023</span></h6>
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/ArscU57dUYw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br /><br />
-<a href="https://inspiring-life-design.ck.page/a191ed2bc2"><img src='/i/Buttons/instagram/cmp/treatyourself.png' alt='link to download the Treat Yourself Challenge chart' /></a>
-<br />
-<!-- Treat Yourself Challenge END -->
-
- <div class="separator-2"></div>
-
 <!-- Corinna Phillips YouTube START -->
-  <h6 class="title"><span style="color:white">What's new on my YouTube channel...</span></h6>
-<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/_Nf9iDHlkDw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <h6 class="title"><span style="color:white">Faves from my YouTube channel...</span></h6>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/jpJpseWaQ9w?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://www.youtube.com/channel/UCZCRTrAyc43Xp6-zdR3aG0g?sub_confirmation=1"><img src='/i/Buttons/instagram/subscribe.png' alt='link to subscribe to Corinna on YouTube' /></a>
+<br>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/zA6YYoFIWNk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/_Nf9iDHlkDw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 <!-- Corinna Phillips YouTube END -->
 
