@@ -27,8 +27,7 @@ Here are the tools discussed in this module:<br>
 Create your own images, PDF documents and beautiful designs. Canva offers a great free to use version for beginners, and a very reasonably priced subscription service *Canva Pro* for more customisation and features<br>
 **[Stripe](https://stripe.com){:target="_blank" rel="noopener"}** - Take online payments<br>
 Plug stripe into a website or sales funnel to allow payments to be taken online. There are also options to allow in-person card payments to be taken<br>
-**[Mindmint Software](https://deanandtonylive.com/reservation?source=ILDmmcourse&a=1899){:target="_blank" rel="nofollow noopener"}** - through the Knowledge Business Blueprint<br>
-Sign-up for the free training offered by Tony Robbins, Dean Graziosi and Russell Brunson to learn more
+**[Mastermind Software](https://gamehaschangedevent.com/save-my-spot?source=ildcourse&a=1899){:target="_blank" rel="nofollow noopener"}** - the total solution software for running your event (created by Dean Graziosi & Tony Robbins)<br> This has replaced the Mindmint software. Before June 13th 2024 you can register for a free event to find out more about the software AND try the mastermind software for 30 days for just $1.<br>
 
 
 ***
@@ -46,10 +45,10 @@ Sign-up for the free training offered by Tony Robbins, Dean Graziosi and Russell
 
 <br><br>
 <center>
-<a href="https://deanandtonylive.com/reservation?source=ILDmmcoursebanner&a=1899" target="blank" rel="nofollow noopener"><img src="/i/ads/kbb/970x90.jpg" /></a>
+<a href="https://gamehaschangedevent.com/save-my-spot?source=ildcourse&a=1899" target="blank" rel="nofollow noopener"><img src="/i/ads/kbb/970x90.jpg" /></a>
 </center>
 
 <br><br><br>
 
-<sub>I am an independent Mastermind.com TM Affiliate, not an employee. I receive referral payments from Mastermind.com TM. The opinions expressed here are my own and are not official statements of Mastermind.com TM or its parent company, Mastermind.com LLC.<br>
-I sometimes use affiliate links in my posts. This means that if you buy a service or product using my link I receive a small commission at no extra expense to you. You can navigate independently to the sites mentioned if you prefer not to use my affiliate links. I only link to products or services which I personally use & recommend.</sub>
+<sub>I am an independent Mind Mint Affiliate, not an employee. I receive referral payments from Mind Mint. The opinions expressed here are my own and are not official statements of Mind Mint or its subsidiary Mastermind Consulting, LLC<br>
+I sometimes use affiliate links on my site. This means that if you buy a service or product using my link I receive a small commission at no extra expense to you. You can navigate independently to the sites mentioned if you prefer not to use my affiliate links. I only link to products or services which I personally use & recommend.</sub>
