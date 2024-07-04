@@ -73,19 +73,6 @@ title: Corinna's Latest Loves
 
  <div class="col-md-4">
  <br>
-   <figure>
-    <figcaption>
-    <b>The Signature Gloves</b><br>Women's plum leather lined gloves <br><i>£95, in size Medium</i>
-    </figcaption>
-
-    <a href="https://www.fairfaxandfavor.com/products/the-signature-gloves-plum-leather" target="_blank" rel="noopener noreferrer">
-    <img src="/i/corinnawishlist/plumgloves.png" alt="Plum Fairfax & Favor gloves">
-    </a>
-   </figure>
-  </div>
-
- <div class="col-md-4">
- <br>
   <figure>
    <figcaption><b>The Regina</b><br>Black suede, tall boot<br><i>£375, size 5 sporting calf fit</i>
    </figcaption>
@@ -97,22 +84,6 @@ title: Corinna's Latest Loves
 
 </div>
 <br>
-
-#### Holland Cooper
-
-<div class="row">
-  <div class="col-md-4">
-   <figure>
-    <figcaption>
-    <b>Monogram Slides</b><br>Tan leather<br><i>£89, size 4</i>
-    </figcaption>
-
-    <a href="https://www.hollandcooper.com/products/monogram-slides-tan-leather" target="_blank" rel="noopener noreferrer">
-    <img src="/i/corinnawishlist/tanhcslides.png" alt="Tan Holland Cooper slides">
-    </a>
-   </figure>
-  </div>
-</div>
 
 #### Barbour
 <div class="row">
@@ -144,68 +115,8 @@ title: Corinna's Latest Loves
    </figure>
   </div>
 
- <div class="col-md-4">
-  <figure>
-   <figcaption><b>Charlbury Quilted Gilet</b><br>Ink navy<br><i>£155</i>
-   </figcaption>
-
-   <a href="https://www.hollandcooper.com/products/charlbury-quilted-gilet-ink-navy?variant=41944330731716" target="_blank" rel="noopener noreferrer">
-   <img src="/i/corinnawishlist/inknavycharlbury.png" alt="Ink Navy Holland Cooper Charlbury quilted gilet">
-   </a>
-  </figure>
- </div>
- 
- <div class="col-md-4">
-  <figure>
-   <figcaption><b>Rachel Mini Dress</b><br>Black<br><i>£179</i>
-   </figcaption>
-   <a href="https://www.hollandcooper.com/products/rachel-mini-dress-black" target="_blank" rel="noopener noreferrer">
-    <img src="/i/corinnawishlist/blackrachelmini.png" alt="Black Holland Cooper Rachel mini dress">
-   </a>
-  </figure>
- </div>
-
- <div class="col-md-4">
- <br>
-  <figure>
-   <figcaption><b>Knightsbridge Blazer</b><br>Blackwatch tartan<br><i>£179, size 16</i>
-   </figcaption>
-   <a href="https://www.hollandcooper.com/products/knightsbridge-blazer-blackwatch?variant=12444054782049" target="_blank" rel="noopener noreferrer">
-    <img src="/i/corinnawishlist/knightsbridge.png" alt="Blackwatch Holland Cooper Knightsbridge Blazer">
-   </a>
-  </figure>
- </div>
-
-  <div class="col-md-4">
- <br>
-  <figure>
-   <figcaption><b>Penny Jacquard Shirt</b><br>Emerald<br><i>£149, size 16</i>
-   </figcaption>
-   <a href="https://www.hollandcooper.com/products/penny-jacquard-shirt-emerald?variant=42249501147332" target="_blank" rel="noopener noreferrer">
-    <img src="/i/corinnawishlist/pennyjacquard.png" alt="Emerald Holland Cooper Penny Jacquard shirt">
-   </a>
-  </figure>
- </div>
-
 </div>
 <br>
-
-
-#### Fairfax and Favor
-
-<div class="row">
-  <div class="col-md-4">
-   <figure>
-    <figcaption>
-    <b>The Victoria Women's Coat</b><br>Navy wool<br><i>£495, size 16</i>
-    </figcaption>
-
-    <a href="https://www.fairfaxandfavor.com/products/the-victoria-wool-coat-navy#" target="_blank" rel="noopener noreferrer">
-    <img src="/i/corinnawishlist/victoriacoat.png" alt="Navy wool Fairfax and Favor coat">
-    </a>
-   </figure>
-  </div>
-</div>
 
 
 ### Beauty
@@ -247,20 +158,6 @@ title: Corinna's Latest Loves
  </div>
 </div>
 <br>
-
-#### L:A BRUKET
-<div class="row">
-
- <div class="col-md-4">
-   <figure>
-    <figcaption><b>017 Lip Balm</b><br>The best lip balm I've ever used!<br><i>£15</i>
-    </figcaption>
-    <a href="https://www.labruket.com/en-gb/products/recovery-lip-balm-cosn" target="_blank" rel="noopener noreferrer">
-    <img src="/i/corinnawishlist/labruketlipbalm.png" alt="L:A Bruket lip balm">
-    </a>
-   </figure>
- </div>
-</div>
 
 
 
