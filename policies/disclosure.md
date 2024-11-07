@@ -9,4 +9,4 @@ From time to time I use affiliate links and advertisements on Inspiring Life Des
 
 I only write about and promote products, tools and services which I find value in and which I believe others may find value in too. I would never promote anything which I did not believe in for the sake of earning a commission.
 
-Inspiring Life Design is a participant in the Amazon EU Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk.
+Inspiring Life Design is a participant in the Amazon EU Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk. As an Amazon Associate I earn from qualifying purchases.
