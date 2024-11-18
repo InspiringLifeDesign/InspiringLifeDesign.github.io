@@ -98,25 +98,16 @@ Good luck!
 
 ***
 
-### Join the Life Designer list!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/what-did-brits-spend-their-money-on-last-christmas.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/how-did-i-get-on-with-my-2019-goals.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-[Want to know what Brits spent their money on in Christmas 2018?](/posts/what-did-brits-spend-their-money-on-last-christmas.html)<br>
-&nbsp;&nbsp;My next post reviews [how I got on with my 2019 goals](/posts/how-did-i-get-on-with-my-2019-goals.html).
+In my **PREVIOUS** post discover [what Brits spent their money on in Christmas 2018](/posts/what-did-brits-spend-their-money-on-last-christmas.html).<br>
+My **NEXT** post reviews [how I got on with my 2019 goals](/posts/how-did-i-get-on-with-my-2019-goals.html).
 <br>
 
 ***
