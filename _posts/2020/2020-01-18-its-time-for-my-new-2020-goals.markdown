@@ -17,7 +17,7 @@ If you missed last week's update, you can catch-up on [how I got on with my goal
 
 In a move away from my usual goal setting process, I decided to set goals for the next 6 months instead of for the full year. The reason for this is because I often find part-way through the year that my aspirations have shifted slightly, or new opportunities have come along that I'd like to pursue. I would prefer to have a review point scheduled around late June time to set goals for the remaining 6 months of the year.
 
-I follow an approach to dividing my goals into categories, having learnt about this while doing Tony Robbins' [Time Of Your Life program](http://www.kqzyfj.com/click-9093862-13505563?url=http%3A%2F%2Fstore.tonyrobbins.com%2Fproducts%2Fthe-time-of-your-life&cjsku=944-00-20){:target="_blank" rel="noopener" rel="nofollow"} *(affiliate link)* last year.
+I follow an approach to dividing my goals into categories, having learnt about this while doing Tony Robbins' [Time Of Your Life program](https://www.tonyrobbins.com/products/the-time-of-your-life){:target="_blank" rel="noopener" rel="nofollow"} last year.
 
 I have 8 personal categories and 4 business categories:
 
@@ -57,7 +57,7 @@ So here we go with my goals for 2020...
 
 #### Category: Spiritual & Growth
 
-**GOAL 1:** Finish Tony Robbins' [Ultimate Edge audio program](http://www.kqzyfj.com/click-9093862-13505563?url=http%3A%2F%2Fstore.tonyrobbins.com%2Fproducts%2Fultimate-edge&cjsku=288-00-10){:target="_blank" rel="noopener" rel="nofollow"} *(affiliate link)*
+**GOAL 1:** Finish Tony Robbins' [Ultimate Edge audio program](https://www.tonyrobbins.com/products/ultimate-edge0){:target="_blank" rel="noopener" rel="nofollow"}
 
 I received this program as one of the bonuses with the Knowledge Broker Blueprint course that I did last year. I've been working through it alongside some of my friends who I chat to every weekday morning on my daily intention call.
 
@@ -210,25 +210,16 @@ This post has ended up being much longer than I originally anticipated! If you'r
 
 ***
 
-### Get my Profit From Online Workshops Course for FREE!
-You will learn how to make your first income by running simple online workshops or events, about subjects that you already know and love.
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-<a href="/signup/signup_page.html" target="_blank" rel="noopener"><img src='/i/products/courses/profit_from_workshops_400x275.png' alt='Profit From Online Workshops Course' /></a>
-<br>
-Discover my simple 10 step process - perfect for beginners and entry level side hustlers!
+{% include listsignup.html list_id="type1" %}
 
-INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
-
-[**CLICK HERE to get FREE access to *Profit From Online Workshops* today!**](/signup/signup_page)
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/how-did-i-get-on-with-my-2019-goals.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/how-to-breakthrough-overwhelm.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I shared [how I got on with my 2019 goals](/posts/how-did-i-get-on-with-my-2019-goals.html)<br>
-&nbsp;&nbsp;In my next post I write about [How To Breakthrough Overwhelm To Start Making Progress](/posts/how-to-breakthrough-overwhelm.html)
+In my **PREVIOUS** post I shared [how I got on with my 2019 goals](/posts/how-did-i-get-on-with-my-2019-goals.html).<br>
+In my **NEXT** post I write about [How To Breakthrough Overwhelm To Start Making Progress](/posts/how-to-breakthrough-overwhelm.html).
 <br>
 
 ***
