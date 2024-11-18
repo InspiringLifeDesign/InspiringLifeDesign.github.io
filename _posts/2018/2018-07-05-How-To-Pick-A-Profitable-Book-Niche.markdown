@@ -80,10 +80,8 @@ Sometimes it's easy to get sucked into *analysis paralysis* so don't over resear
 
 ### Previous & Next Posts
 
-<a href="/posts/5-things-to-start-self-publishing" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/june-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was about [5 things you need to get started with self publishing](/posts/5-things-to-start-self-publishing).<br>
-&nbsp;&nbsp;In my next post you can read about [my June income and profit](/posts/june-2018-income-report.html).
+My **PREVIOUS** post was about [5 things you need to get started with self publishing](/posts/5-things-to-start-self-publishing).<br>
+In my **NEXT** post you can read about [my June income and profit](/posts/june-2018-income-report.html).
 
 ***
 
