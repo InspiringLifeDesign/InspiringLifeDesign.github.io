@@ -117,25 +117,16 @@ I will share a selection of tiny step stories on my Instagram account. Be sure t
 
 ***
 
-### Get my Profit From Online Workshops Course for FREE!
-You will learn how to make your first income by running simple online workshops or events, about subjects that you already know and love.
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-<a href="/signup/signup_page.html" target="_blank" rel="noopener"><img src='/i/products/courses/profit_from_workshops_400x275.png' alt='Profit From Online Workshops Course' /></a>
-<br>
-Discover my simple 10 step process - perfect for beginners and entry level side hustlers!
+{% include listsignup.html list_id="type1" %}
 
-INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
-
-[**CLICK HERE to get FREE access to *Profit From Online Workshops* today!**](/signup/signup_page)
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/its-time-for-my-new-2020-goals.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/how-soon-will-i-be-financially-free.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I shared [my new goals for 2020](/posts/its-time-for-my-new-2020-goals.html)<br>
-&nbsp;&nbsp;In my next post I have another update on my [Financial Freedom progress](/posts/how-soon-will-i-be-financially-free.html)
+In my **PREVIOUS** post I shared [my new goals for 2020](/posts/its-time-for-my-new-2020-goals.html).<br>
+In my **NEXT** post I have another update on my [Financial Freedom progress](/posts/how-soon-will-i-be-financially-free.html).
 <br>
 
 ***
