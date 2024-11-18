@@ -23,7 +23,7 @@ Throughout February and March I was working on a part time IT contract as a Busi
 </figure>
 </center>
 <br>
-Casting my mind back to February I had fun learning how to arrange flowers (expertly tutored by one of my friends - YouTube video to come hopefully!), plus I also spent a day at the Apple Store in Birmingham taking advantage of their many free learning sessions. It was a fab day where I learnt video skills such as capturing cinematic shots, and how to create cool video edits such as jump shots. 
+Casting my mind back to February I had fun learning how to arrange flowers (expertly tutored by one of my friends), plus I also spent a day at the Apple Store in Birmingham taking advantage of their many free learning sessions. It was a fab day where I learnt video skills such as capturing cinematic shots, and how to create cool video edits such as jump shots. 
 
 <center>
 <figure>
@@ -79,7 +79,7 @@ Her dance school [Capella Academy](https://capellaacademy.co.uk/){:target="_blan
 </figure>
 </center>
 <br>
-On to April and things certainly didn't slow down! I went to see Disney on Ice which was absolutely brilliant. Then my attention turned to [Tony Robbins' Unleash The Power Within event](https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink){:target="_blank" rel="noopener"} (<i>affiliate link</i>) where I was serving on the crew. 
+On to April and things certainly didn't slow down! I went to see Disney on Ice which was absolutely brilliant. Then my attention turned to [Tony Robbins' Unleash The Power Within event](https://www.tonyrobbins.com/events/unleash-the-power-within){:target="_blank" rel="noopener"} where I was serving on the crew. 
 
 <center>
 <figure>
@@ -88,7 +88,7 @@ On to April and things certainly didn't slow down! I went to see Disney on Ice w
 </figure>
 </center>
 <br>
-It's the second year that I've been on the crew, and what an uplifting experience it is. If you haven't been to Tony's Unleash The Power Within event yet, I highly recommend you [make the investment to go](https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink){:target="_blank" rel="noopener"} (<i>affiliate link</i>). It may sound like a lot of money up-front, but believe me it's so worth it. A completely transformational and life changing experience. 
+It's the second year that I've been on the crew, and what an uplifting experience it is. If you haven't been to Tony's Unleash The Power Within event yet, I highly recommend you [make the investment to go](https://www.tonyrobbins.com/events/unleash-the-power-within){:target="_blank" rel="noopener"}. It may sound like a lot of money up-front, but believe me it's so worth it. A completely transformational and life changing experience. 
 
 <center>
 <figure>
@@ -492,25 +492,16 @@ Here's my bar chart tracking how my profit is faring month on month compared to 
 
 ***
 
-### Join the Life Designer list!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-****
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/easter-prize-giveaway.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/summer-prize-giveaway.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post offered an opportunity to enter [an Easter prize giveaway](/posts/easter-prize-giveaway.html).<br>
-&nbsp;&nbsp;My next post offered an opportunity to enter [the UK Money Bloggers Summer Giveaway (now closed)](/posts/summer-prize-giveaway.html)
+My **PREVIOUS** post offered an opportunity to enter [an Easter prize giveaway](/posts/easter-prize-giveaway.html).<br>
+My **NEXT** post offered an opportunity to enter [the UK Money Bloggers Summer Giveaway (now closed)](/posts/summer-prize-giveaway.html)
 <br><br>
 You can find all my [previous income and profit reports here](/financial-freedom/income-and-profit-reports.html).
 
