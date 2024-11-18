@@ -29,10 +29,8 @@ This is my first year attending the conference. In fact the reason I know of thi
 
 ### Previous & Next Posts
 
-<a href="/posts/Starting-New-Adventure.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/Dallas-2017-Fincon.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was about [starting a new adventure in blogging](/posts/Starting-New-Adventure.html).<br>
-&nbsp;&nbsp;In my next post you can read about [my expectations of Fincon 2017](/posts/Dallas-2017-Fincon.html).
+My **PREVIOUS** post was about [starting a new adventure in blogging](/posts/Starting-New-Adventure.html).<br>
+In my **NEXT** post you can read about [my expectations of Fincon 2017](/posts/Dallas-2017-Fincon.html).
 
 ***
 
