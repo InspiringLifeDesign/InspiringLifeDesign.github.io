@@ -32,7 +32,7 @@ Today I have featured on the **[Personal Development Essentials](https://podcast
 
 A few weeks back I visited Agi to learn from him what goes into making a podcast show, and while I was there we recorded an episode for his podcast.
 
-We talked about my experiences of going to [Unleash The Power Within](https://www.youtube.com/watch?v=x8KLeZcVvAk&t=181s){:target="_blank" rel="noopener"} both as a participant and as a crew member; about the [Knowledge Business Blueprint](/kbb){:target="_blank" rel="noopener"} (*affiliate link*) and the Tony Robbins community; about [self book publishing](/posts/5-money-making-reasons-to-publish-books.html){:target="_blank" rel="noopener"}; and about my passion to help people find [financial freedom](/posts/freedom-plan-part-1.html){:target="_blank" rel="noopener"}.
+We talked about my experiences of going to [Unleash The Power Within](https://www.youtube.com/watch?v=x8KLeZcVvAk&t=181s){:target="_blank" rel="noopener"} both as a participant and as a crew member; about the Knowledge Business Blueprint program and the Tony Robbins community; about [self book publishing](/posts/5-money-making-reasons-to-publish-books.html){:target="_blank" rel="noopener"}; and about my passion to help people find [financial freedom](/posts/freedom-plan-part-1.html){:target="_blank" rel="noopener"}.
 
 Of course, he was also keen to find out about my recent trip to Las Vegas where I met [Tony Robbins](https://www.tonyrobbins.com/){:target="_blank" rel="nooopener"} in person, as well as other fantastic online entrepreneurs such as [Dean Graziosi](https://www.deangraziosi.com/){:target="_blank" rel="nooopener"} (*creator of the KBB, best selling author, speaker and entrepreneur*), [Russell Brunson](http://www.russellbrunson.com/hi){:target="_blank" rel="nooopener"} (*Click Funnels founder & author*), [Stefan James](https://stefanjames.com/){:target="_blank" rel="nooopener"} (entrepreneur & founder of *[Project Life Mastery](https://projectlifemastery.com/){:target="_blank" rel="nooopener"}*), [Jenna Kutcher](https://jennakutcherblog.com/){:target="_blank" rel="nooopener"} (*podcaster, entrepreneur & photographer*) and [John Lee Dumas](https://www.eofire.com/){:target="_blank" rel="nooopener"} (*Entrepreneur on Fire podcast*).
 
@@ -62,10 +62,6 @@ If you're interested in having a listen I've popped a few links below to where y
 <li> Episode 57 <a href="https://open.spotify.com/episode/5w1eAq6EIQZgB6IcMoI6jL" target="_blank" rel="noopener">Time: our most precious, non-renewable asset</a></li>
 </ul>
 
-If you're interested in learning more about the Knowledge Business Blueprint which we discuss in the podcast, then you can access the **[free training](/kbb){:target="_blank" rel="noopener"}** (*affiliate link*) from Tony Robbins, Dean Graziosi & Russell Brunson. They talk about the vast opportunities in the online education industry to make a difference and create an income at the same time.
-
-I am also finishing up work on my free course **"How To Make Money From Masterminds"** which you'll be able to access right here on Inspiring Life Design. This is a perfect entry level [income hustle](/income-hustles/index.html){:target="_blank" rel="noopener"} if you're looking for ways to expand your income. Look out for further news of this course coming soon!
-
 <br><br>
 *Have you ever featured on a podcast or youtube channel? How did you find it? If you haven't, I'm always looking for people to feature in interviews on my YouTube channel so let me know in the comments - maybe we can collaborate!*
 
@@ -83,25 +79,16 @@ I am also finishing up work on my free course **"How To Make Money From Mastermi
 
 ***
 
-### Join the Life Designer list!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/summer-prize-giveaway.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/what-did-brits-spend-their-money-on-last-christmas.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was about the [Summer 2019 prize giveaway (now closed)](/posts/summer-prize-giveaway.html).<br>
-&nbsp;&nbsp;In my next post [find out what Brits spent their money on in Christmas 2018](/posts/what-did-brits-spend-their-money-on-last-christmas.html)
+My **PREVIOUS** post was about the [Summer 2019 prize giveaway](/posts/summer-prize-giveaway.html) (now closed).<br>
+In my **NEXT** post [find out what Brits spent their money on in Christmas 2018](/posts/what-did-brits-spend-their-money-on-last-christmas.html).
 <br>
 
 ***
@@ -112,4 +99,3 @@ My last post was about the [Summer 2019 prize giveaway (now closed)](/posts/summ
 </center>
 <!-- END ADVERTISER: Personal Dev 1 -->
 <br>
-<sub>I am an independent Mastermind.com TM Affiliate, not an employee. I receive referral payments from Mastermind.com TM. The opinions expressed here are my own and are not official statements of Mastermind.com TM or its parent company, Mastermind.com LLC.</sub>
