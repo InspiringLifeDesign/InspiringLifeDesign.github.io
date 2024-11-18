@@ -375,26 +375,12 @@ I'm not going to list any things here in this post because it's already June as 
 
 ![April 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201804income_profit.png)
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-<br>
-
 ***
 
 ### Previous & Next Posts
 
-<a href="/posts/changes-after-tony-robbins.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/may-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was about [the life changes I made after seeing Tony Robbins](/posts/changes-after-tony-robbins.html).<br>
-&nbsp;&nbsp;In my next post you can read about [how I got on with my income and profit in May](/posts/may-2018-income-report.html).
+My **PREVIOUS** post was about [the life changes I made after seeing Tony Robbins](/posts/changes-after-tony-robbins.html).<br>
+In my **NEXT** post you can read about [how I got on with my income and profit in May](/posts/may-2018-income-report.html).
 
 ***
 
