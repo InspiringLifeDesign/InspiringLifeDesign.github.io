@@ -508,25 +508,16 @@ Here's a run down of how I got on:
 <br><br>
 ![October income and profit report pinterest image](/i/income_report/2018/october/pin201810income_profit.png)
 
-### Join the Life Designer list!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-****
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/my-goal-is-to-be-financially-free.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/special-kind-of-advent.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I wrote about [my progress toward financial independence](/posts/my-goal-is-to-be-financially-free.html).<br>
-&nbsp;&nbsp;My next post discusses a novel idea of [a special advent calendar you can start anytime of the year](/posts/special-kind-of-advent.html).
+In my **PREVIOUS** post I wrote about [my progress toward financial independence](/posts/my-goal-is-to-be-financially-free.html).<br>
+My **NEXT** post discusses a novel idea of [a special advent calendar you can start anytime of the year](/posts/special-kind-of-advent.html).
 <br><br>
 You can find all my [previous 2018 income and profit reports here](/financial-freedom/income-and-profit-reports.html).
 
