@@ -280,10 +280,8 @@ During February I plan to focus my efforts on the following money generating act
 
 ### Previous & Next Posts
 
-<a href="/posts/challenge-third-week.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/dreaming-of-fire.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I gave an update on [our progress with the #Challenge2018 savings challenge](/posts/challenge-third-week.html).<br>
-&nbsp;&nbsp;In my next post you can read about [why I'm seeking financial independence](/posts/dreaming-of-fire.html).
+In my **PREVIOUS** post I gave an update on [our progress with the #Challenge2018 savings challenge](/posts/challenge-third-week.html).<br>
+In my **NEXT** post you can read about [why I'm seeking financial independence](/posts/dreaming-of-fire.html).
 
 ***
 
