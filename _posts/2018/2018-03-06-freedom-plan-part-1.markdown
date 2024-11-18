@@ -44,213 +44,9 @@ I have outlined below the steps I recommend for calculating your expenses.
 <!-- END ADVERTISER: Latest 1 -->
 <br>
 ### Calculating Your Expenses
-Since there's going to be some sums involved in this section, you may want to create a spreadsheet to log your expenses in. Alternatively, I have already created a **template spreadsheet** for my Life Designer subscribers. If you would like me to send you a copy of the template you can join my mailing list where you will be subscribed to receive updates from me about blog posts, side hustles and any fantastic offers I receive that I can pass onto you.
-<script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
-<div class="ck_form_container ck_inline" data-ck-version="6">
-  <div class="ck_form ck_naked">
-  <div class="ck_form_fields">
-    <div id="ck_success_msg" style="display:none;">
-      <p>Thanks for requesting to become a #lifedesigner! PLEASE CHECK YOUR EMAIL now to confirm your request and access the Expenses Spreadsheet Template.</p>
-    </div>
+Since there's going to be some sums involved in this section, you may want to create a spreadsheet to log your expenses in. Alternatively, I have already created a **template spreadsheet** that you can access [here](/thankyou/expenses-download-201803-A1){:target="_blank"}.
 
-    <!--  Form starts here  -->
-    <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/354620/subscribe" data-remote="true">
-      <input type="hidden" value="{&quot;form_style&quot;:&quot;naked&quot;,&quot;embed_style&quot;:&quot;inline&quot;,&quot;embed_trigger&quot;:&quot;scroll_percentage&quot;,&quot;scroll_percentage&quot;:&quot;70&quot;,&quot;delay_seconds&quot;:&quot;10&quot;,&quot;display_position&quot;:&quot;br&quot;,&quot;display_devices&quot;:&quot;all&quot;,&quot;days_no_show&quot;:&quot;15&quot;,&quot;converted_behavior&quot;:&quot;show&quot;}" id="ck_form_options">
-      <input type="hidden" name="id" value="354620" id="landing_page_id">
-      <input type="hidden" name="ck_form_recaptcha" value="" id="ck_form_recaptcha">
-      <div class="ck_errorArea">
-        <div id="ck_error_msg" style="display:none">
-          <p>There was an error submitting your subscription. Please try again.</p>
-        </div>
-      </div>
-      <div class="ck_control_group ck_email_field_group">
-        <label class="ck_label" for="ck_emailField" style="display: none">Email Address</label>
-        <input type="text" name="first_name" class="ck_first_name" id="ck_firstNameField" placeholder="First Name">
-        <input type="email" name="email" class="ck_email_address" id="ck_emailField" placeholder="Email Address" required>
-      </div>
-      <div class="ck_control_group ck_captcha2_h_field_group ck-captcha2-h" style="position: absolute !important;left: -999em !important;">
-        <input type="text" name="captcha2_h" class="ck-captcha2-h" id="ck_captcha2_h" placeholder="We use this field to detect spam bots. If you fill this in, you will be marked as a spammer.">
-      </div>
-
-
-      <button class="subscribe_button ck_subscribe_button btn fields" id="ck_subscribe_button">
-        Subscribe
-      </button>
-    </form>
-  </div>
-
-</div>
-
-</div>
-
-
-<style type="text/css">/* Layout */
-  .ck_form.ck_naked {
-  /* divider image */
-	background: transparent;
-	line-height: 1.5em;
-	overflow: hidden;
-	color: #666;
-	font-size: 16px;
-	border: none;
-	-webkit-box-shadow: none;
-	-moz-box-shadow: none;
-	box-shadow: none;
-	clear: both;
-	margin: 20px 0px;
-	text-align: center;
-}
-
-.ck_form.ck_naked p {
-	padding: 0px;
-}
-
-.ck_form, .ck_form * {
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
-}
-
-.ck_form.ck_naked .ck_form_fields {
-	width: 100%;
-	float: left;
-	padding: 5%;
-}
-/* Form fields */
-
-.ck_errorArea {
-	display: none; /* temporary */
-}
-
-#ck_success_msg {
-	padding: 10px 10px 0px;
-	border: solid 1px #ddd;
-	background: #eee;
-}
-
-.ck_form.ck_naked input[type="text"], .ck_form.ck_naked input[type="email"] {
-	font-size: 18px;
-	padding: 10px 8px;
-	width: 34%;
-	border: 1px solid #d6d6d6; /* stroke */
-	-moz-border-radius: 0px;
-	-webkit-border-radius: 0px;
-	border-radius: 0px; /* border radius */
-	background-color: #fff; /* layer fill content */
-	margin-bottom: 5px;
-	height: auto;
-	float: left;
-	margin: 0px;
-	margin-right: 1%;
-	height: 42px;
-}
-
-.ck_form input[type="text"]:focus, .ck_form input[type="email"]:focus {
-	outline: none;
-	border-color: #aaa;
-}
-
-.ck_form.ck_naked .ck_subscribe_button {
-    width: 100%;
-    color: #fff;
-    margin: 0px;
-    padding:  9px 0px;
-    font-size: 18px;
-    background: #8c3b70;
-    -moz-border-radius: 0px;
-    -webkit-border-radius: 0px;
-    border-radius: 0px; /* border radius */
-    cursor: pointer;
-    border: none;
-    text-shadow: none;
-    width: 30%;
-    float: left;
-    height: 42px;
-  }
-
-
-.ck_converted_content {
-  display: none;
-	padding: 5%;
-	background: #fff;
-}
-
-/* max width 500 */
-
-	.ck_form.ck_naked.width500 .ck_subscribe_button {
-		width: 100%;
-		float: none;
-		margin-top: 5px;
-	}
-
-	.ck_form.ck_naked.width500 input[type="text"], .ck_form.ck_naked.width500 input[type="email"] {
-		width: 49%;
-	}
-
-	.ck_form.ck_naked.width500 input[type="email"] {
-		margin-right: 0px;
-		width: 50%;
-	}
-
-/* max width 400 */
-
-	.ck_form.ck_naked.width400 .ck_subscribe_button, .ck_form.ck_naked.width400 input[type="text"], .ck_form.ck_naked.width400 input[type="email"] {
-		width: 100%;
-		float: none;
-		margin-top: 5px;
-	}
-
-.ck_slide_up, .ck_modal, .ck_slide_up .ck_naked, .ck_modal .ck_naked  {
-	min-width: 400px;
-}
-
-.page .ck_form.ck_naked {
-	margin: 50px auto;
-	max-width: 700px;
-}
-
-
-/* v6 */
-
-.ck_slide_up.ck_form_v6, .ck_modal.ck_form_v6, .ck_slide_up.ck_form_v6 .ck_naked, .ck_modal.ck_form_v6 .ck_naked {
-  min-width: 0 !important;
-}
-
-.ck_form_v6 #ck_success_msg {
-	padding: 0px 10px;
-}
-
-@media all and (max-width: 403px) {
-  .ck_form_v6.ck_modal .ck_naked {
-    padding-top: 30px;
-  }
-}
-
-@media all and (max-width: 499px) {
-  .ck_form_v6.ck_modal .ck_naked + .ck_close_link {
-    color: #fff;
-    top: 10px;
-  }
-}
-
-.ck_form_v6.ck_slide_up .ck_naked + .ck_close_link {
-  right: 10px;
-  top: -5px;
-}
-
-@media all and (min-width: 600px) {
-  .ck_form_v6.ck_slide_up .ck_naked + .ck_close_link {
-    right: 35px;
-  }
-}
-
-
-
-
-
-</style>
-<sub>Please also see my [privacy policy](/policies/privacy_v01){:target="_blank"} for how I will use your data</sub> 
-<br><br>
+<br>
 Right, let's get started then...
 #### 1. List your automated regular monthly expenses
 Make a list of all your **monthly** payments that **automatically** leave your bank account(s). You should be able to easily see these by looking at last month's bank statement. Alternatively if you use online or telephone banking you can check under direct debit and standing order sections for your monthly payments.
@@ -348,31 +144,19 @@ Using the above example this would be:
 The amount you have here is your **TOTAL MONTHLY EXPENSES**.
 <br><br>
 ### You're Halfway To Creating Your Freedom Plan!
-That's all there is to it for calculating your expenses. In [**Part Two**](/posts/freedom-plan-part-2) we'll use the figures you've just calculated to create a plan for how you intend to cover your expenses, to ultimately become financially free. We will further discuss the two terms mentioned at the start of this post **Financial Freedom** and **Income Freedom**, covering aspects such as investing and generating income from side hustles. By the end of Part Two you'll have your Freedom Plan! Check back next week for the second installment or [join my mailing list](/signup/signup_page) to be notified of new posts as they are published.
+That's all there is to it for calculating your expenses. In [**Part Two**](/posts/freedom-plan-part-2) we'll use the figures you've just calculated to create a plan for how you intend to cover your expenses, to ultimately become financially free. We will further discuss the two terms mentioned at the start of this post **Financial Freedom** and **Income Freedom**, covering aspects such as investing and generating income from side hustles. By the end of Part Two you'll have your Freedom Plan! Check back next week for the second installment.
 <br><br>
 *If you had a go at calculating your expenses, were you surprised with the total result? Did you find my instructions easy to follow? Have I forgotten anything? As always, I'd love to hear from you with your thoughts in the comments below...*
 
 ![Create Your Freedom Plan pinterest image, background sunny beach scene](/i/2018/create-freedom-plan-1-pin.png)
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
 
 ****
 
 ### Previous & Next Posts
 
-<a href="/posts/cash-this-week.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/freedom-plan-part-2.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I shared [how you can make extra cash this week](/posts/cash-this-week.html).<br>
-&nbsp;&nbsp;In my next post you can continue finding out [how to create your own freedom plan](/posts/freedom-plan-part-2.html).
+In my **PREVIOUS** post I shared [how you can make extra cash this week](/posts/cash-this-week.html).<br>
+In my **NEXT** post you can continue finding out [how to create your own freedom plan](/posts/freedom-plan-part-2.html).
 
 ***
 
