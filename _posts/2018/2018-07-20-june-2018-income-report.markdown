@@ -372,25 +372,12 @@ Here's how I got on:
 <br><br>
 ![June 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201806income_profit.png)
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
 ****
 
 ### Previous & Next Posts
 
-<a href="/posts/How-To-Pick-A-Profitable-Book-Niche.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post I talked about [how to pick a profitable book niche](/posts/How-To-Pick-A-Profitable-Book-Niche.html).<br>
-&nbsp;&nbsp;In my next post you can read about [how to plan for the best Disneyland Paris trip ever](/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html).
+My **PREVIOUS** post I talked about [how to pick a profitable book niche](/posts/How-To-Pick-A-Profitable-Book-Niche.html).<br>
+In my **NEXT** post you can read about [how to plan for the best Disneyland Paris trip ever](/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html).
 
 ***
 
