@@ -115,10 +115,8 @@ To summarise the message of this post. It's important to establish good guidelin
 
 ### Previous & Next Posts
 
-<a href="/posts/what-to-pack-to-get-most-from-dlp.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/best-free-family-festival.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was part of my Disney series: [What To Pack To Get The Most From Disneyland Paris](/posts/what-to-pack-to-get-most-from-dlp.html).<br>
-&nbsp;&nbsp;Next you can read about [the annual FREE Coventry Godiva festival](/posts/best-free-family-festival.html), perfect for frugal daytrippers!
+My **PREVIOUS** post was part of my Disney series: [What To Pack To Get The Most From Disneyland Paris](/posts/what-to-pack-to-get-most-from-dlp.html).<br>
+**NEXT** you can read about [the annual FREE Coventry Godiva festival](/posts/best-free-family-festival.html), perfect for frugal daytrippers!
 
 <br>
 If you'd like to start at the beginning of my series on geting started with online book publishing, here are the previous posts:
