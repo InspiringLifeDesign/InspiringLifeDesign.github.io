@@ -135,10 +135,8 @@ My initial thoughts on making money from blogging is that there is a lot of time
 
 ### Previous & Next Posts
 
-<a href="/posts/Five-Biggest-Lessons-from-Fincon17.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/save-one-thousand-pounds.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was about [the 5 biggest lessons I learned at Fincon2017](/posts/Five-Biggest-Lessons-from-Fincon17.html).<br>
-&nbsp;&nbsp;In my next post you can find out about [a new year challenge](/posts/save-one-thousand-pounds.html)!
+My **PREVIOUS** post was about [the 5 biggest lessons I learned at Fincon2017](/posts/Five-Biggest-Lessons-from-Fincon17.html).<br>
+In my **NEXT** post you can find out about [a new year challenge](/posts/save-one-thousand-pounds.html)!
 
 ***
 
