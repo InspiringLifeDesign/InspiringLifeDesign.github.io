@@ -281,25 +281,12 @@ There are some similarites between the MagiPark app and the official Disneyland 
 <br><br>
 ![How To Plan For The Best Disneyland Paris Trip Ever Pinterest image](/i/2018/disney/how-to-plan-for-dlp-pin.png)
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
 ****
 
 ### Previous & Next Posts
 
-<a href="/posts/june-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/july-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I updated you on [my June 2018 Income & Profit Report](/posts/june-2018-income-report.html).<br>
-&nbsp;&nbsp;In my next post you can read about [my July 2018 Income & Profit report](/posts/july-2018-income-report.html).
+In my **PREVIOUS** post I updated you on [my June 2018 Income & Profit Report](/posts/june-2018-income-report.html).<br>
+In my **NEXT** post you can read about [my July 2018 Income & Profit report](/posts/july-2018-income-report.html).
 
 ***
 
