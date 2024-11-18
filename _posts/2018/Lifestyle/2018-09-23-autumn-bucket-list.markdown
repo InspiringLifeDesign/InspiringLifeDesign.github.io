@@ -70,9 +70,6 @@ I had great fun carving a pumpkin for halloween a couple of years ago. I got my 
 
 #### 6. Eat toffee while enjoying the fireworks with family for bonfire night
 When I was a little girl we used to go to a family bonfire night at my Aunty's where we were always given homemade toffee to eat around the fire. I have no idea how to make toffee and it's not particularly something I want to have a go at, but I do love [Thornton's toffee](https://amzn.to/2OIsIUc){:target="_blank" rel="noopener"} (<i>affiliate link</i>)! I'd love to buy a box for us all to share around the bonfire which I'm hoping my parents will host again this year (along with fireworks of course).
-<center>
-<a target="_blank"  href="https://www.amazon.co.uk/gp/product/B00P901CLC/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00P901CLC&linkCode=as2&tag=ild0b-21&linkId=7240c7da4dc83c7b39aedeb72c920473"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B00P901CLC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B00P901CLC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
 
 #### 7. Create a seasonal t-shirt design
 I'm so excited that I've recently been accepted to the Amazon Merch program, which means that I can start designing t-shirts to sell through their print-on-demand service. I haven't created my first design yet, so I'd really love to get at least one t-shirt design uploaded during the Autumn.
@@ -82,15 +79,9 @@ I love a good Christmas Fete. Last year I helped run a stall at my niece's prima
 
 #### 9. Make hot chocolate with marshmallows
 I love the scene in the movie [The Holiday](https://www.imdb.com/title/tt0457939/){:target="_blank" rel="nofollow" rel="noopener"} where they make hot chocolate before bedtime. As a special treat I love a good hot chocolate with whipped cream and marshmallows. I like to drink mine sat in front of the fire, possibly with some gingerbread biscuits. My favourite hot chocolate of the moment is [Hans Sloane Drinking Chocolate](https://amzn.to/2zoeYst){:target="_blank" rel="noopener"} (<i>affiliate link</i>) because it comes as small pieces of chocolate which you can either melt in hot milk or hot water. It makes a really chocolatey drink - delicious!  I may combine this bucket list item with number 10...
-<center>
-<a target="_blank"  href="https://www.amazon.co.uk/gp/product/B00MXY19XS/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00MXY19XS&linkCode=as2&tag=ild0b-21&linkId=d89d6445f3a5eff9f5d945b5c1471ed6"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B00MXY19XS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B00MXY19XS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
 
 #### 10. Watch my first Christmas film of the year
 The odds are that I'll be watching [The Holiday](https://amzn.to/2NyM0iu){:target="_blank" rel="noopener"} (<i>affiliate link</i>) this Autumn. It's such a heartwarming, feel good festive film. There's a few Christmas films I love, but every so often I get a craving for a particular film, and right now it's The Holiday! This would be perfect to watch as the nights draw in and the weather gets colder.
-<center>
-<a target="_blank"  href="https://www.amazon.co.uk/gp/product/B00IK7H6R0/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00IK7H6R0&linkCode=as2&tag=ild0b-21&linkId=f71760a000aaf3da21bd468d1b0f353d"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B00IK7H6R0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B00IK7H6R0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
 
 <br>
 ### Want More Autumn Bucket Lists?
@@ -121,25 +112,35 @@ I would also like to tag **Charlotte** at [**Looking After Your Pennies**](https
 
 ***
 
-### Join the Life Designer list!
+### Join Corinna's newsletter!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+Want to be first to hear about Corinna's favourite finds? All the freebies, offers and deals she finds get shared in her Newsletter. Want in? Sign up here...
+<iframe
+  src="https://thehub-api.mastermind.com/widget/form/FQZMwH6W4qClaHNwks0v"
+  style="width:100%;height:100%;border:none;border-radius:10px"
+  id="inline-FQZMwH6W4qClaHNwks0v" 
+  data-layout="{'id':'INLINE'}"
+  data-trigger-type="alwaysShow"
+  data-trigger-value=""
+  data-activation-type="alwaysActivated"
+  data-activation-value=""
+  data-deactivation-type="neverDeactivate"
+  data-deactivation-value=""
+  data-form-name="CMP Newsletter Sign Up Form FOR ILD"
+  data-height="400"
+  data-layout-iframe-id="inline-FQZMwH6W4qClaHNwks0v"
+  data-form-id="FQZMwH6W4qClaHNwks0v"
+  title="CMP Newsletter Sign Up Form FOR ILD"
+      >
+</iframe>
+<script src="https://thehub-api.mastermind.com/js/form_embed.js"></script>
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
+****
 
 ### Previous & Next Posts
 
-<a href="/posts/august-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/perfect-family-city-breaks-in-europe-this-autumn.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I gave an update on my [Income and Profit progress in August](/posts/august-2018-income-report.html).<br>
-&nbsp;&nbsp;In my next post I share ideas for
+In my **PREVIOUS** post I gave an update on my [Income and Profit progress in August](/posts/august-2018-income-report.html).<br>
+In my **NEXT** post I share ideas for
 [Perfect Family City Breaks In Europe](/posts/perfect-family-city-breaks-in-europe-this-autumn.html).
 <br>
 
