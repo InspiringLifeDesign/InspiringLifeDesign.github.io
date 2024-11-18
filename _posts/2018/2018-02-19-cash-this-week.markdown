@@ -72,18 +72,12 @@ Of course there are many other sites which offer payment for completing their su
 <br><br>
 ![Get Extra Cash In Your Pocket This Week Pinterest image](/i/2018/get-extra-cash-in-your-pocket-pin.png)
 
-### Join my newsletter!
-
-If you'd like to receive my newsletter then you can [**sign-up here**](/signup/signup_page).
-
 ****
 
 ### Previous & Next Posts
 
-<a href="/posts/dreaming-of-fire.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/freedom-plan-part-1.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post talked about [why I'm dreaming of financial independence](/posts/dreaming-of-fire.html).<br>
-&nbsp;&nbsp;In my next post you can learn [how to create your own freedom plan](/posts/freedom-plan-part-1.html).
+My **PREVIOUS** post talked about [why I'm dreaming of financial independence](/posts/dreaming-of-fire.html).<br>
+In my **NEXT** post you can learn [how to create your own freedom plan](/posts/freedom-plan-part-1.html).
 
 ***
 
