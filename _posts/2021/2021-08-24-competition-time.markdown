@@ -80,17 +80,17 @@ This giveaway has been arranged by <a href="https://www.thefinancialwilderness.c
 <!-- Pinterest image -->
 ![Virgin Experience Day Competition pinterest image](/i/2021/competition/competition-time-pin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/sunny-days-are-coming-get-fit-with-me-in-this-sizzling-summer-countdown.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/jewellery-giveaway.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I invited you to [Get Ready For Summer With Me](/posts/sunny-days-are-coming-get-fit-with-me-in-this-sizzling-summer-countdown.html)<br>
-&nbsp;&nbsp;My next post introduces my [Candy Cane Countdown to Christmas](/posts/jewellery-giveaway.html)
+In my **PREVIOUS** post I invited you to [Get Ready For Summer With Me](/posts/sunny-days-are-coming-get-fit-with-me-in-this-sizzling-summer-countdown.html).<br>
+My **NEXT** post introduces my [Candy Cane Countdown to Christmas](/posts/jewellery-giveaway.html).
 <br>
-
-
 
 ***
 
