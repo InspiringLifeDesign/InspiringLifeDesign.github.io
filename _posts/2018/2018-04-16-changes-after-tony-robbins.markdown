@@ -35,11 +35,6 @@ I take a daily supplement of essential oils as suggested at the event - my choic
 After trying the samples of **bulletproof coffee** at the event, I now make this at home - it's delicious. I have one cup about 5 days a week. The [Bulletproof Diet](https://amzn.to/2vjXFJa){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) was created by Dave Asprey whose more recent book [Headstrong](https://amzn.to/2H3MrOr){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) I have just finished listening to in audiobook format.<br><br>
 Dave is a bio-hacker who looks for ways to optimise health and brain power. His personal goal is to <b>live to be 180</b> years old! He researches and delves deep into the science around what is best for our human bodies, then applies what he has learnt to his own life, as well as sharing his findings via his books and website.
 
-<center>
-<a target="_blank"  href="https://www.amazon.co.uk/gp/product/1623368383/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1623368383&linkCode=as2&tag=ild0b-21&linkId=fda7ec64bd0096fbf01ccd975427bbf9"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=1623368383&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=1623368383" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<br>
-<a target="_blank"  href="https://www.amazon.co.uk/gp/product/0062652419/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0062652419&linkCode=as2&tag=ild0b-21&linkId=1983545740070b3ae60119269ffe6018"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=0062652419&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=0062652419" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
 <br>
 #### 5. Grass Fed Meat
 As well as switching to an organic diet, we now try to only eat grass fed or pastured meat. Every 2 weeks we have a meat selection box delivered from Green Pasture Farms (their website has been temporarily down during 2018, but they've assured us they'll be back up and running later in 2018). We've also tried [Eversfield Organic](https://www.eversfieldorganic.co.uk/){:target="_blank"} meat deliveries which have been excellent. The reason for opting for grass fed meat is because of the reading I did in the [Bulletproof Diet](https://amzn.to/2vjXFJa){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) and from [Headstrong](https://amzn.to/2H3MrOr){:target="_blank" rel="nofollow"} (<i>affiliate link</i>). We go for the **Budget Paleo Meat Box** at £50 plus £6.45 delivery, which usually has enough meat to cover 11 meals for 2 people. It has been really fun researching and experimenting with the different cuts of meats we have received, there's been more than one occasion where we've had no idea how to cook it, so have had to jump online for ideas!
@@ -71,9 +66,9 @@ The final thing I've changed is about pushing myself to go the extra mile in thi
 
 ****
 
-Since writing this post, I have served as a member of Crew at Unleash The Power Within 2018 & 2019 in London. This again is a life changing experience, where we can put into practice some of the things learned after attending the event.
+Since writing this post, I have served as a member of Crew at Unleash The Power Within 2018, 2019 & 2023 in the UK. This again is a life changing experience, where we can put into practice some of the things learned after attending the event.
 
-If you are interested in attending one of Tony's amazing events you can find out about all of them at <a href="http://www.anrdoezrs.net/click-9093862-12703194" target="_top"> TonyRobbins.com</a> (<i>affiliate link</i>). If you have any questions about attending an event, drop me an email or leave a comment below, I'd be happy to answer your questions and would love to hear from you.
+If you have any questions about attending an event, drop me an email or leave a comment below, I'd be happy to answer your questions and would love to hear from you.
 <br>    
 *Have you ever attended one of Tony's events? Perhaps you too are a Firewalker? If you'd like to ask me any questions about the event I'd be happy to answer...*
 <br><br>
@@ -82,25 +77,10 @@ If you are interested in attending one of Tony's amazing events you can find out
 
 ***
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-****
-
 ### Previous & Next Posts
 
-<a href="/posts/march-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/april-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was about my [March 2018 Income and Profit](/posts/march-2018-income-report.html).<br>
-&nbsp;&nbsp;In my next post you can read about my [April 2018 Income and Profit](/posts/april-2018-income-report.html).
+My **PREVIOUS** post was about my [March 2018 Income and Profit](/posts/march-2018-income-report.html).<br>
+In my **NEXT** post you can read about my [April 2018 Income and Profit](/posts/april-2018-income-report.html).
 
 ***
 
