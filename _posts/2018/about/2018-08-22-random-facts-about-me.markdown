@@ -140,25 +140,12 @@ Here's a few other blogger's random facts posts you may be interested in:
 
 ![20 Really Random Facts About Me pinterest image](/i/2018/about/random-facts-about-me-pin.png)
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
 ***
 
 ### Previous Post
 
-<a href="/posts/how-to-find-a-ghostwriter.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/what-to-pack-to-get-most-from-dlp.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I talked about [how to find a ghost writer to work with](/posts/how-to-find-a-ghostwriter.html).<br>
-&nbsp;&nbsp;My next post reveals [what to pack to get the most from Disneyland Paris](/posts/what-to-pack-to-get-most-from-dlp.html).
+In my **PREVIOUS** post I talked about [how to find a ghost writer to work with](/posts/how-to-find-a-ghostwriter.html).<br>
+My **NEXT** post reveals [what to pack to get the most from Disneyland Paris](/posts/what-to-pack-to-get-most-from-dlp.html).
 
 You can find all of my online book publishing series [here](/income-hustles/book-publishing.html){:target="_blank"}.
 
