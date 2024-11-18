@@ -500,8 +500,8 @@ Here's my bar chart tracking how my profit is faring month on month compared to 
 
 ### Previous & Next Posts
 
-My **PREVIOUS** post offered an opportunity to enter [an Easter prize giveaway](/posts/easter-prize-giveaway.html).<br>
-My **NEXT** post offered an opportunity to enter [the UK Money Bloggers Summer Giveaway (now closed)](/posts/summer-prize-giveaway.html)
+My **PREVIOUS** post offered an opportunity to enter [an Easter prize giveaway](/posts/easter-prize-giveaway.html) (now closed).<br>
+My **NEXT** post offered an opportunity to enter [the UK Money Bloggers Summer Giveaway](/posts/summer-prize-giveaway.html) (now closed).
 <br><br>
 You can find all my [previous income and profit reports here](/financial-freedom/income-and-profit-reports.html).
 
