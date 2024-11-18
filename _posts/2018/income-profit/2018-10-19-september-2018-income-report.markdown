@@ -465,25 +465,16 @@ Here's a run down of how I got on:
 <br><br>
 ![September income and profit report pinterest image](/i/income_report/2018/pin201809income_profit.png)
 
-### Join the Life Designer list!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-****
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/what-would-you-do-if-you-were-given-1-million.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/how-to-complete-the-editing-of-your-ebook.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I wrote about [what I would do if I received 1 million pounds](/posts/what-would-you-do-if-you-were-given-1-million.html).<br>
-&nbsp;&nbsp;My next post is part of a series about making money from book publishing: [How To Edit Your Book](/posts/how-to-complete-the-editing-of-your-ebook.html).
+In my **PREVIOUS** post I wrote about [what I would do if I received 1 million pounds](/posts/what-would-you-do-if-you-were-given-1-million.html).<br>
+My **NEXT** post is part of a series about making money from book publishing: [How To Edit Your Book](/posts/how-to-complete-the-editing-of-your-ebook.html).
 <br>
 
 ***
