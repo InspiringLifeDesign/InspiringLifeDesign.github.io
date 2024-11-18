@@ -344,25 +344,12 @@ I didn't actually set specific actions for May due to being so busy in April and
 
 ![May 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201805income_profit.png)
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
 ***
 
 ### Previous & Next Posts
 
-<a href="/posts/april-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/5-things-to-start-self-publishing.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was about my [April 2018 Income and Profit](/posts/april-2018-income-report.html).<br>
-&nbsp;&nbsp;In my next post you can read about [5 things you need to get started with online book publishing](/posts/5-things-to-start-self-publishing.html).
+My **PREVIOUS** post was about my [April 2018 Income and Profit](/posts/april-2018-income-report.html).<br>
+In my **NEXT** post you can read about [5 things you need to get started with online book publishing](/posts/5-things-to-start-self-publishing.html).
 
 ***
 
