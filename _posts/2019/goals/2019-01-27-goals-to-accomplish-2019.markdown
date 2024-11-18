@@ -38,11 +38,9 @@ I would ultimately like to be able to provide coaching and mentoring, courses an
 
 If you'd like to follow along with my financial freedom journey and even start/share your own journey with me, please consider signing up at the following:
 
-* [Join my Life Designer email list](/signup/signup_page){:target="_blank"}
 * [Subscribe on YouTube](https://www.youtube.com/channel/UCFMCt3HfmLwWyqr5QSETThQ){:target="_blank" rel="nofollow" rel="noopener"} (not all YouTube content is shared on the blog so you will get notified of new videos by subscribing)
 * Follow me on:
     * [Instagram](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="nofollow" rel="noopener"}
-    * [Twitter](https://twitter.com/lifedesigntoday){:target="_blank" rel="nofollow" rel="noopener"}
     * [Facebook](https://www.facebook.com/inspiringlifedesign){:target="_blank" rel="nofollow" rel="noopener"}
     * [Pinterest](https://www.pinterest.co.uk/inspiringlifedesign/_followers/){:target="_blank" rel="nofollow" rel="noopener"}
 
@@ -64,7 +62,7 @@ Hopefully we will take a 2 week holiday to Europe with family (probably France) 
 ***
 
 #### 5. Learn a new skill
-One of the favourite things I learned from [Tony Robbins' Unleash The Power Within](https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink){:target="_blank" rel="noopener"} (<i>affiliate link</i>), is that we should never stop learning. [Here's some of the things](/posts/changes-after-tony-robbins.html){:target="_blank" rel="noopener"} I learned in previous years. 
+One of the favourite things I learned from [Tony Robbins' Unleash The Power Within](https://www.tonyrobbins.com/events/unleash-the-power-within){:target="_blank" rel="noopener"}, is that we should never stop learning. [Here's some of the things](/posts/changes-after-tony-robbins.html){:target="_blank" rel="noopener"} I learned in previous years. 
 
 When we stop learning we stop growing > when we stop growing, well we become bored & stale. Or as Tony puts it:
 
@@ -96,10 +94,10 @@ At some point I intend to choose a charitable initiative to support which I can 
 #### 8. Make a plan for how/when I can attend Tony Robbins' Mastery University
 My final goal for 2019 is a planning goal. I really want to go to more Tony Robbins events. There are 3 which together form his **Mastery University** program:
 
-* <a href="http://www.kqzyfj.com/click-9093862-13505563?url=http%3A%2F%2Fstore.tonyrobbins.com%2Fproducts%2Fdate-with-destiny-ala-carte&cjsku=DWD-ALA" target="_blank" rel="noopener">
-Date With Destiny</a> (<i>affiliate link</i>)
-* Life Mastery
-* Wealth Mastery
+* <a href="https://www.tonyrobbins.com/events/date-with-destiny" target="_blank" rel="noopener">
+Date With Destiny</a>
+* <a href="https://www.tonyrobbins.com/events/life-mastery" target="_blank" rel="noopener">Life Mastery</a>
+* <a href="https://www.tonyrobbins.com/events/wealth-mastery" target="_blank" rel="noopener">Wealth Mastery</a>
 
 To sign-up for Mastery University at one of Tony's events is super expensive (in the region of £6k), plus there are travel and accommodation costs on top of this as the events are not run in the UK. I know realistically that I cannot afford to go to any of these events this year, but I **can** make a plan for how I can save up enough money to go in a future year. That's what this goal is all about.
 
@@ -120,25 +118,16 @@ To sign-up for Mastery University at one of Tony's events is super expensive (in
 
 ***
 
-### Join my Life Designer email list and Facebook Group!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications when new posts come out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/november-december-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/valentines-gift-guide.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post gave the final update on [my income and profit totals for 2018](/posts/november-december-2018-income-report.html)<br>
-&nbsp;&nbsp;In my next post I share my [Valentine's gift guide that's suitable for every budget](/posts/valentines-gift-guide.html)
+My **PREVIOUS** post gave the final update on [my income and profit totals for 2018](/posts/november-december-2018-income-report.html)<br>
+In my **NEXT** post I share my [Valentine's gift guide that's suitable for every budget](/posts/valentines-gift-guide.html)
 <br>
 
 ***
