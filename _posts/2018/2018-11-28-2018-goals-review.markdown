@@ -153,25 +153,16 @@ So in terms of my 2018 philanthropic strategy, it has ended up being “continue
 
 ***
 
-### Join the Life Designer list!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/10-years-left-to-live.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/my-2018-advent-calendar.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I pondered another thought experiment [what would I do with just 10 years left to live?](/posts/10-years-left-to-live.html)<br>
-&nbsp;&nbsp;In my next post I talk about the gifts I received in my [2018 homemade advent calendar](/posts/my-2018-advent-calendar.html)
+In my **PREVIOUS** post I pondered another thought experiment [what would I do with just 10 years left to live?](/posts/10-years-left-to-live.html)<br>
+In my **NEXT** post I talk about the gifts I received in my [2018 homemade advent calendar](/posts/my-2018-advent-calendar.html)
 <br>
 
 ***
