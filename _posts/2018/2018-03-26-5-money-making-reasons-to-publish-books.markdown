@@ -130,11 +130,7 @@ The flip side to my approach is that publishing a book under your own name can p
 ### 5. Enjoy The Online Publishing Community
 Online publishing can sometimes feel like a lonely endeavour. For much of the time you are working on things by yourself, you could go days without needing interaction with anyone else. That's why it's so nice that there is a great community of fellow online publishers out there. 
 
-Everyone I've come across in this field has been super friendly and helpful. I'm a member of several Facebook groups specifically for book publishing. I also have my own beginners [Publishing Facebook Group](https://www.facebook.com/groups/inspiringlifedesignpublishers/){:target="_blank" rel="nofollow"} where everyone can feel comfortable asking their "stupid" questions, which we all have from time to time. This is open to any of my #lifedesigners who have subscribed to receive Inspiring Life Design updates.
-
-[**Subscribe here**](/signup/signup_page){:target="_blank"} to receive updates from me if you haven't done so already.
-<br><br>
-I’m taking part in the Monday Money linky with [Lynn from Mrs Mummy Penny](https://www.mrsmummypenny.co.uk/){:target="_blank"} and [Faith from Much More With Less](https://www.muchmorewithless.co.uk/){:target="_blank"}.
+Everyone I've come across in this field has been super friendly and helpful. I'm a member of several Facebook groups specifically for book publishing.
 
 <!-- START ADVERTISER: Latest ad 1 -->
 <center>
@@ -150,10 +146,8 @@ I’m taking part in the Monday Money linky with [Lynn from Mrs Mummy Penny](htt
 
 ### Previous & Next Posts
 
-<a href="/posts/february-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/write-about-what-you-love.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I talked about [my February Income & Profit Report](/posts/february-2018-income-report.html).<br>
-&nbsp;&nbsp;My next post is all about [writing what you love to make money](/posts/write-about-what-you-love.html).
+In my **PREVIOUS** post I talked about [my February Income & Profit Report](/posts/february-2018-income-report.html).<br>
+My **NEXT** post is all about [writing what you love to make money](/posts/write-about-what-you-love.html).
 <br><br>
 If you'd like to find out more about book publishing as a side hustle, you can read the series of posts I've written on how to get started, take a look at [**this page**](/income-hustles/book-publishing.html) which has a timeline of all the publishing articles I've written.
 
