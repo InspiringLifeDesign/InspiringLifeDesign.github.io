@@ -371,25 +371,10 @@ Here's what I'm working on to increase my profits for future months:
 
 ***
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
-
 ### Previous & Next Posts
 
-<a href="/posts/freedom-plan-part-2.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/5-money-making-reasons-to-publish-books.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I talked about [part two of creating your freedom plan](/posts/freedom-plan-part-2.html).<br>
-&nbsp;&nbsp;In my next post I reveal [5 reasons you'll love making money publishing books](/posts/5-money-making-reasons-to-publish-books.html).
+In my **PREVIOUS** post I talked about [part two of creating your freedom plan](/posts/freedom-plan-part-2.html).<br>
+In my **NEXT** post I reveal [5 reasons you'll love making money publishing books](/posts/5-money-making-reasons-to-publish-books.html).
 
 ***
 
