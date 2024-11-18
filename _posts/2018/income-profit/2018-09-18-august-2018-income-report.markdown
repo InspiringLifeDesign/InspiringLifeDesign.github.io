@@ -438,25 +438,36 @@ Here's a run down of how I got on with them:
 <br><br>
 ![August income and profit report pinterest image](/i/income_report/2018/pin201808income_profit.png)
 
-### Join the Life Designer list!
+### Join Corinna's newsletter!
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
+Want to be first to hear about Corinna's favourite finds?<br />
+All the freebies, offers and deals she finds get shared in her Newsletter. Want in? Sign up here...
+<iframe
+  src="https://thehub-api.mastermind.com/widget/form/FQZMwH6W4qClaHNwks0v"
+  style="width:100%;height:100%;border:none;border-radius:10px"
+  id="inline-FQZMwH6W4qClaHNwks0v" 
+  data-layout="{'id':'INLINE'}"
+  data-trigger-type="alwaysShow"
+  data-trigger-value=""
+  data-activation-type="alwaysActivated"
+  data-activation-value=""
+  data-deactivation-type="neverDeactivate"
+  data-deactivation-value=""
+  data-form-name="CMP Newsletter Sign Up Form FOR ILD"
+  data-height="400"
+  data-layout-iframe-id="inline-FQZMwH6W4qClaHNwks0v"
+  data-form-id="FQZMwH6W4qClaHNwks0v"
+  title="CMP Newsletter Sign Up Form FOR ILD"
+      >
+</iframe>
+<script src="https://thehub-api.mastermind.com/js/form_embed.js"></script>
 
 ****
 
 ### Previous & Next Posts
 
-<a href="/posts/best-free-family-festival.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/autumn-bucket-list.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post talked about what a great free day out [Coventry Godiva Festival](/posts/best-free-family-festival.html) is.<br>
-&nbsp;&nbsp;In my next post I share [My Autumn Bucket List](/posts/autumn-bucket-list.html).
+My **PREVIOUS** post talked about what a great free day out [Coventry Godiva Festival](/posts/best-free-family-festival.html) is.<br>
+In my **NEXT** post I share [My Autumn Bucket List](/posts/autumn-bucket-list.html).
 <br>
 
 ***
