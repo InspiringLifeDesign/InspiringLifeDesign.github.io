@@ -53,10 +53,8 @@ Some may say that it's a long way to go for just 5 days, but I'm excited and con
 
 ### Previous & Next Posts
 
-<a href="/posts/Show-Me-The-Money-Conference.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/Five-Biggest-Lessons-from-Fincon17.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was about [attending the UK Money Blogger's SHOMO event](/posts/Show-Me-The-Money-Conference.html).<br>
-&nbsp;&nbsp;In my next post you can learn about [my five biggest lessons from Fincon 2017](/posts/Five-Biggest-Lessons-from-Fincon17.html).
+My **PREVIOUS** post was about [attending the UK Money Blogger's SHOMO event](/posts/Show-Me-The-Money-Conference.html).<br>
+In my **NEXT** post you can learn about [my five biggest lessons from Fincon 2017](/posts/Five-Biggest-Lessons-from-Fincon17.html).
 
 ***
 
