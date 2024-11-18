@@ -84,12 +84,6 @@ So do you think that blogging could be a good Side Hustle for you? It can certai
 
 If you have a blog, or are considering starting one let me know because we can share tips, links to each others blogs and frankly I'd just like to read what you're writing about!
 <br>
-<!-- START ADVERTISER: TYDIM ad 1 -->
-<center>
-{% include advert.html ad_id="tydim1" %}
-</center>
-<!-- END ADVERTISER: TYDIM1 -->
-<br>
 
 ***
 
