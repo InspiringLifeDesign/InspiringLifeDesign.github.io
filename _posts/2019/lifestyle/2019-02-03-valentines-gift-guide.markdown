@@ -83,7 +83,7 @@ If you’re not worried about being frugal where Valentines Day is concerned, he
 - If you’re **buying for a lady**, then you can never go far wrong with accessories:
   - A hand bag
   - Jewellery
-    - A few years back I received a gorgeous red heart Thomas Sabo charm for my bracelet, it was the perfect Valentine's gift! [Here's a gorgeous heart charm](https://www.awin1.com/cread.php?awinmid=5566&awinaffid=452089&clickref=&p=https%3A%2F%2Fwww.johngreed.com%2Fthomas-sabo-love-coins-affinity-red-heart-pendant){:target="_blank" rel="noopener" rel="nofollow"} (<i>affiliate link</i>) that's actually on offer at £64.50 down from £129 (*correct at the time of publishing*)
+    - A few years back I received a gorgeous red heart Thomas Sabo charm for my bracelet, it was the perfect Valentine's gift! [Here's a gorgeous heart charm](https://www.thomassabo.com/GB/en_GB/pd/charm-pendant/2094-699-10-VG.html){:target="_blank" rel="noopener" rel="nofollow"} that retails for £55 (*correct at the time of re-publishing in 2024*)
   - Underwear
   - Nightwear
   - Shoes
@@ -159,25 +159,16 @@ Alternatively, if you simply find a way to make the proposal unique and special 
 
 ***
 
-### Join my Life Designer email list and Facebook Group!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications when new posts come out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/goals-to-accomplish-2019.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/my-january-2019-monthly-goals-update.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I shared [my 8 goals for 2019](/posts/goals-to-accomplish-2019.html)<br>
-&nbsp;&nbsp;In my next post I share how I got on with [my goals in January](/posts/my-january-2019-monthly-goals-update.html)
+In my **PREVIOUS** post I shared [my 8 goals for 2019](/posts/goals-to-accomplish-2019.html)<br>
+In my **NEXT** post I share how I got on with [my goals in January](/posts/my-january-2019-monthly-goals-update.html)
 <br>
 
 ***
