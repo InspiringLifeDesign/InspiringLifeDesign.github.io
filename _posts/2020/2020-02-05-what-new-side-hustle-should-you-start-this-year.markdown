@@ -15,8 +15,6 @@ Have you been getting to the end of a month and finding that you've spent <i>all
 
 If you're curious about what side hustle could be perfect for you, why not take this [Side Hustle quiz](https://makemoneywithoutajob.com/which-side-hustle-is-perfect-for-you/){:target="_blank" rel="noopener"} to get your recommendations.
 
-If you're already subscribed to my [email newsletter](/signup/signup_page.html){:target="_blank" rel="noopener"}, or if you follow my [Instagram](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="noopener"} stories, you'll already know that I've been having a long think about the direction to take Inspiring Life Design this year.
-
 Inspiring Life Design has always had a large focus on ways to make money to boost income. While I've been working on the target niche for my brand, it's become clear to me that I need to refine this down a bit more.
 
 Rather than covering *any and all* ways of making additional income, my passion lies in creating **sustainable longer term** income streams which are effectively mini businesses in their own right.
@@ -133,28 +131,16 @@ Money making opportunities start as soon as you reach 1,000 subscribers and a mi
 <!-- Pinterest image -->
 ![What new side hustle should you start this year pinterest image](/i/2020/what-new-side-hustle-should-you-start-this-year-pin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-<!-- Email list CTA -->
-### Get my Profit From Online Workshops Course for FREE!
-You will learn how to make your first income by running simple online workshops or events, about subjects that you already know and love.
+{% include listsignup.html list_id="type1" %}
 
-<a href="/signup/signup_page.html" target="_blank" rel="noopener"><img src='/i/products/courses/profit_from_workshops_400x275.png' alt='Profit From Online Workshops Course' /></a>
-<br>
-Discover my simple 10 step process - perfect for beginners and entry level side hustlers!
-
-INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
-
-[**CLICK HERE to get FREE access to *Profit From Online Workshops* today!**](/signup/signup_page)
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/how-soon-will-i-be-financially-free.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/how-did-i-get-on-with-my-january-goals.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I gave an update on [how soon I will be financially free](/posts/how-soon-will-i-be-financially-free.html)<br>
-&nbsp;&nbsp;In my next post read about [how I got on with my January goals](/posts/how-did-i-get-on-with-my-january-goals.html)
+In my **PREVIOUS** post I gave an update on [how soon I will be financially free](/posts/how-soon-will-i-be-financially-free.html).<br>
+In my **NEXT** post read about [how I got on with my January goals](/posts/how-did-i-get-on-with-my-january-goals.html).
 <br>
 
 ***
