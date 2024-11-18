@@ -411,26 +411,12 @@ Here's a review of how I got on with the plans I made last month:
 
 ![March 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201803income_profit.png)
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-<br>
-
 ***
 
 ### Previous & Next Posts
 
-<a href="/posts/write-about-what-you-love.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/changes-after-tony-robbins.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was about [writing what you love to make money](/posts/write-about-what-you-love.html).<br>
-&nbsp;&nbsp;In my next post I talk about [the life changes I made after seeing Tony Robbins](/posts/changes-after-tony-robbins.html).
+My **PREVIOUS** post was about [writing what you love to make money](/posts/write-about-what-you-love.html).<br>
+In my **NEXT** post I talk about [the life changes I made after seeing Tony Robbins](/posts/changes-after-tony-robbins.html).
 
 ***
 
