@@ -58,6 +58,7 @@ There are five M&amp;S Easter Hampers&nbsp;up for grabs, worth £50 each.&nbsp;
 
 If the hamper is no longer available when the winners are drawn then the winners will be offered an alternative hamper from M&amp;S worth £50 each.&nbsp;
 <h2>Enter to win</h2>
+<span style="color:red"><b>GIVEAWAY NOW CLOSED</b></span><br />
 To enter simply complete any or all of the Rafflecopter entry widget options below.&nbsp;
 
 The competition closes at midnight on 29th March 2020. If the hamper selected is sold out then we will offer an alternative M&amp;S hamper worth £50. You can see the widget for the full terms and conditions of this giveaway.
@@ -79,28 +80,16 @@ Good luck!
 
 ![Spring prize giveaway pinterest image](/i/2020/springgiveaway/spring-giveaway-pin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-<!-- Email list CTA -->
-### Get my Profit From Online Workshops Course for FREE!
-You will learn how to make your first income by running simple online workshops or events, about subjects that you already know and love.
+{% include listsignup.html list_id="type1" %}
 
-<a href="/signup/signup_page.html" target="_blank" rel="noopener"><img src='/i/products/courses/profit_from_workshops_400x275.png' alt='Profit From Online Workshops Course' /></a>
-<br>
-Discover my simple 10 step process - perfect for beginners and entry level side hustlers!
-
-INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
-
-[**CLICK HERE to get FREE access to *Profit From Online Workshops* today!**](/signup/signup_page)
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/how-did-i-get-on-with-my-january-goals.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/life-update.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-[How Did I Get On With My Goals In January?](/posts/how-did-i-get-on-with-my-january-goals.html)<br>
-&nbsp;&nbsp;Get ready for my [huge life update](/posts/life-update.html) in my next post
+In my **PREVIOUS** post find out [How I Got On With My Goals In January](/posts/how-did-i-get-on-with-my-january-goals.html).<br>
+In my **NEXT** post get ready for my [huge life update](/posts/life-update.html).
 <br>
 
 ***
