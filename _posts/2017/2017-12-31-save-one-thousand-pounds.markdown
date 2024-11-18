@@ -56,8 +56,8 @@ To make things a bit more interesting, I thought it would be fun to track our pr
 All you need to do to is:
 
 1.  Sign-up to the challenge.
-*Edit: Unfortunately sign-ups for #Challenge2018 are now closed. However you can join the waitlist for future challenges here:*
-<script async id="_ck_337007" src="https://forms.convertkit.com/337007?v=6"></script>
+*Edit: Unfortunately sign-ups for #Challenge2018 are now closed.*
+
 2. Make your copy of the [Google Sheet](https://docs.google.com/spreadsheets/d/1i1E-jIoObX94_FcJNrnCRZKrzkx1hG89UYs8aj-sd0w/edit?usp=sharing){:target="_blank" rel="nofollow"} and start saving
 
 3. Whenever you save a new amount (or as often as you choose to let me know) email me how much you have saved
@@ -77,10 +77,8 @@ IMPORTANT NOTE: If you sign-up for the challenge your **name** and **amount save
 
 ### Previous & Next Posts
 
-<a href="/posts/first-six-money-makers.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/challenge-third-week.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was about [the first six money makers I've tried](/posts/first-six-money-makers.html).<br>
-&nbsp;&nbsp;In my next post you can find out [how #Challenge2018 is going 3 weeks in](/posts/challenge-third-week.html)!
+My **PREVIOUS** post was about [the first six money makers I've tried](/posts/first-six-money-makers.html).<br>
+In my **NEXT** post you can find out [how #Challenge2018 is going 3 weeks in](/posts/challenge-third-week.html)!
 
 ***
 
