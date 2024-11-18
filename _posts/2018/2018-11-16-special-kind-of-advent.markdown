@@ -100,7 +100,6 @@ Any little thing you can do will help, and better yet I’m going to bet that it
 
 I would love to see any posts or photos that you share about #FoodBankAdvent, so please consider tagging me:
 
-- **Twitter**: [@lifedesigntoday](https://twitter.com/lifedesigntoday){:target="_blank" rel="noopener"}
 - **Instagram**: [@inspiringlifedesign](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="noopener"}
 - **Facebook**: [facebook.com/inspiringlifedesign](https://www.facebook.com/inspiringlifedesign/){:target="_blank" rel="noopener"}
 - **YouTube**: [Inspiring LifeDesign](https://www.youtube.com/channel/UCFMCt3HfmLwWyqr5QSETThQ){:target="_blank" rel="noopener"}
@@ -123,25 +122,16 @@ Whatever you choose to do, I wish you a wonderful countdown to Christmas.
 
 ***
 
-### Join the Life Designer list!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/october-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/10-years-left-to-live.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post shared [how I got on with my income hustle profits in October](/posts/october-2018-income-report.html).<br>
-&nbsp;&nbsp;My next post is another thought experiment [What Do You Do If You Only Had 10 Years Left To Live?](/posts/10-years-left-to-live.html)
+My **PREVIOUS** post shared [how I got on with my income hustle profits in October](/posts/october-2018-income-report.html).<br>
+My **NEXT** post is another thought experiment [What Do You Do If You Only Had 10 Years Left To Live?](/posts/10-years-left-to-live.html)
 <br>
 
 ***
