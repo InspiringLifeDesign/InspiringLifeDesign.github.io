@@ -41,9 +41,9 @@ As the affiliate launch ended in May I decided to change my business focus, swit
 
 After the course launch my commissions were paid out a couple of months later, stretched over several months because some people had chosen the pay-monthly option to buy the course. June was by far my best month, achieving a profit of <b>£7,169.75</b>.
 
-What this proved to me is that it is entirely possible for me to achieve a profit of £7,000 in a month via my various online income streams. Which is incredible. However, I don't have an amazing launch to support every month of the year. This is not a consistent income stream. So although I have managed to prove that I can achieve this goal, because I was not consistently making £7K by year end (far from it!) I feel that I have to mark this goal as not achieved.
+What this proved to me is that it is entirely possible for me to achieve a profit of £7,000 in a month via my various online income streams. Which is incredible. However, I don't have an amazing launch to support every month of the year. This is not a consistent income stream. So although I have managed to prove that I can achieve this goal, because I was not consistently making £7K by year end (far from it!) I feel that I have to mark this goal as <i>partly</i> achieved.
 
-<b>OVERALL RESULT:</b> <span style="color:red"><b>NOT ACHIEVED</b></span><br>
+<b>OVERALL RESULT:</b> <span style="color:orange"><b>PARTLY ACHIEVED</b></span><br>
 
 #### 3. Grow my Inspiring Life Design brand
 At the start of the year I'd made the definition of this goal purposefully ambiguous. The goal expressed my underlying desire to grow the reach and help I could offer to others through the brand.
@@ -153,7 +153,7 @@ I specifically set myself a learning goal last year because I understood the imp
 
 I enjoyed lots of learning experiences including:
 
-- Serving on the crew for Tony Robbins' [Unleash The Power Within event](https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink){:target="_blank" rel="noopener"} (<i>affiliate link</i>)
+- Serving on the crew for Tony Robbins' [Unleash The Power Within event](https://www.tonyrobbins.com/events/unleash-the-power-within){:target="_blank" rel="noopener"}
 - Taking several of the Birmingham Apple Store's free training classes
 - Tony Robbins' Business Mastery in Las Vegas
 - Finishing the Knowledge Broker Blueprint online course and completing all the accompanying exercises
@@ -213,27 +213,17 @@ So that's my 2019 review! I will be posting a new video sharing my 2020 goals wi
 
 ![How Did I Get On With My 2019 Goals pinterest image](/i/2020/goals/how-did-i-get-on-with-my-2019-goals-pin.png)
 
-***
 
-### Get my Profit From Online Workshops Course for FREE!
-You will learn how to make your first income by running simple online workshops or events, about subjects that you already know and love.
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-<a href="/signup/signup_page.html" target="_blank" rel="noopener"><img src='/i/products/courses/profit_from_workshops_400x275.png' alt='Profit From Online Workshops Course' /></a>
-<br>
-Discover my simple 10 step process - perfect for beginners and entry level side hustlers!
+{% include listsignup.html list_id="type1" %}
 
-INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
-
-[**CLICK HERE to get FREE access to *Profit From Online Workshops* today!**](/signup/signup_page)
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/festive-prize-giveaway.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/its-time-for-my-new-2020-goals.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post shared an opportunity [for a festive prize giveaway (now closed)](/posts/festive-prize-giveaway.html)<br>
-&nbsp;&nbsp;In my next post you can discover [my new goals for 2020](/posts/its-time-for-my-new-2020-goals.html)
+My **PREVIOUS** post shared an opportunity [for a festive prize giveaway](/posts/festive-prize-giveaway.html) (now closed).<br>
+In my **NEXT** post you can discover [my new goals for 2020](/posts/its-time-for-my-new-2020-goals.html).
 <br>
 
 ***
