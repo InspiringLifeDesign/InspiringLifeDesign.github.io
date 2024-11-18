@@ -413,25 +413,12 @@ Here's a run down of how I got on with them:
 <br><br>
 ![July income and profit report pinterest image](/i/income_report/2018/pin201807income_profit.png)
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
 ****
 
 ### Previous & Next Posts
 
-<a href="/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/how-to-find-a-ghostwriter.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I talked about [how to plan before you go to Disneyland Paris](/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html).<br>
-&nbsp;&nbsp;In my next post you can read about [how to find a ghost writer for your first book](/posts/how-to-find-a-ghostwriter.html).
+In my **PREVIOUS** post I talked about [how to plan before you go to Disneyland Paris](/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html).<br>
+In my **NEXT** post you can read about [how to find a ghost writer for your first book](/posts/how-to-find-a-ghostwriter.html).
 
 ***
 
