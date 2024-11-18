@@ -15,7 +15,7 @@ If you haven't already seen them, you can read about the [goals I've set for the
 
 In today's post I am giving you a quick run-down on how I got on with each goal in January.
 
-I divide my goals into categories which are essentially different roles I undertake, having learnt about this while doing Tony Robbins' [Time Of Your Life program](http://www.kqzyfj.com/click-9093862-13505563?url=http%3A%2F%2Fstore.tonyrobbins.com%2Fproducts%2Fthe-time-of-your-life&cjsku=944-00-20){:target="_blank" rel="noopener" rel="nofollow"} *(affiliate link)* last year.
+I divide my goals into categories which are essentially different roles I undertake, having learnt about this while doing Tony Robbins' [Time Of Your Life program](https://www.tonyrobbins.com/products/the-time-of-your-life){:target="_blank" rel="noopener"} last year.
 
 I have 8 personal categories and 4 business categories:
 
@@ -49,7 +49,7 @@ Under each of these categories I track my individual goals...
 
 #### Category: Spiritual & Growth
 
-**GOAL 1:** Finish Tony Robbins' [Ultimate Edge audio program](http://www.kqzyfj.com/click-9093862-13505563?url=http%3A%2F%2Fstore.tonyrobbins.com%2Fproducts%2Fultimate-edge&cjsku=288-00-10){:target="_blank" rel="noopener" rel="nofollow"} *(affiliate link)*
+**GOAL 1:** Finish Tony Robbins' [Ultimate Edge audio program](https://www.tonyrobbins.com/products/ultimate-edge){:target="_blank" rel="noopener"}
 
 This goal has been on-hold for me in January. This is because I had been working through this fortnightly with someone from my morning intention calls, however he went away for all of January and did not have much internet access. I may resume this in February or possibly even push it to March. 
 
@@ -165,7 +165,10 @@ By the end of June I am hoping to have scheduled content in advance so that I am
 
 Despite focusing on increasing the regularity of posts on my site I didn't manage to increase my email list subscriptions at all in January, so I still have a long way to go for this goal. I need to consider more ways that I can encourage new traffic to visit my site.
 
-If you haven't signed-up yet, I send out a weekly email where we deep-dive into different types of side-hustles that you can create to set-up ongoing income streams. There's also offers and freebies from time to time. [Sign-up today and get access to my ***Profit From Online Workshops Course*** for free](/signup/signup_page.html){:target="_blank" rel="noopener"}.
+If you haven't signed-up yet, I send out an email newsletter where I share offers, freebies & news from behind-the-scenes:
+<!-- START EMAIL LIST SIGN-UP: Type 2 -->
+{% include listsignup.html list_id="type2" %}
+<!-- END EMAIL LIST SIGN-UP: Type 2 -->
 
 **GOAL 16:** Increase Inspiring Life Design Domain Authority From 25 to 26
 
@@ -197,7 +200,7 @@ I always knew it would be tough to grow my [Instagram](https://www.instagram.com
 
 **GOAL 21:** Grow Twitter Follower Count From 1,434 To 2,000
 
-Well this is embarrassing! My [Twitter](https://twitter.com/lifedesigntoday){:target="_blank" rel="noopener"} count actually *decreased* in January, to 1,428 - so that's a <span style="color:green">loss</span> of 6 followers.
+Well this is embarrassing! My Twitter count actually *decreased* in January, to 1,428 - so that's a <span style="color:green">loss</span> of 6 followers.
 
 I'm not really worried on this one - I like to keep an eye on how things are going with Twitter, but it hasn't been my priority social media, so it's no surprise that my engagement and following is a bit down.
 
@@ -230,28 +233,16 @@ I didn't spend any time on creating new products in January. I dedicated my time
 <!-- Pinterest image -->
 ![How did I get on with my January goals pinterest image](/i/2020/goals/how-did-i-get-on-with-my-january-goals-pin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-<!-- Email list CTA -->
-### Get my Profit From Online Workshops Course for FREE!
-You will learn how to make your first income by running simple online workshops or events, about subjects that you already know and love.
+{% include listsignup.html list_id="type1" %}
 
-<a href="/signup/signup_page.html" target="_blank" rel="noopener"><img src='/i/products/courses/profit_from_workshops_400x275.png' alt='Profit From Online Workshops Course' /></a>
-<br>
-Discover my simple 10 step process - perfect for beginners and entry level side hustlers!
-
-INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
-
-[**CLICK HERE to get FREE access to *Profit From Online Workshops* today!**](/signup/signup_page)
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/what-new-side-hustle-should-you-start-this-year.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/spring-prize-giveaway.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I wrote about 5 [side hustles to consider starting in 2020](/posts/what-new-side-hustle-should-you-start-this-year.html)<br>
-&nbsp;&nbsp;Meet more UK Money Bloggers in my next post about [the Spring 2020 prize giveaway (now closed)](/posts/spring-prize-giveaway.html)
+In my **PREVIOUS** post I wrote about 5 [side hustles to consider starting in 2020](/posts/what-new-side-hustle-should-you-start-this-year.html).<br>
+In my **NEXT** post meet more UK Money Bloggers in [the Spring 2020 prize giveaway](/posts/spring-prize-giveaway.html) (now closed).
 <br>
 
 ***
