@@ -93,25 +93,10 @@ If you have a blog, or are considering starting one let me know because we can s
 
 ***
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
-
 ### Previous & Next Posts
 
-<a href="/posts/5-money-making-reasons-to-publish-books" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/march-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I wrote about [why you'll love publishing books as a way to make money](/posts/5-money-making-reasons-to-publish-books).<br>
-&nbsp;&nbsp;My next post is all about [my income and profit for March](/posts/march-2018-income-report.html).
+In my **PREVIOUS** post I wrote about [why you'll love publishing books as a way to make money](/posts/5-money-making-reasons-to-publish-books).<br>
+My **NEXT** post is all about [my income and profit for March](/posts/march-2018-income-report.html).
 
 ***
 
