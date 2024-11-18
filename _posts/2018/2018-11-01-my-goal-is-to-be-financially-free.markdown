@@ -129,25 +129,16 @@ I'm a little surprised that the combined progress was only 3% more than investme
 
 ***
 
-### Join the Life Designer list!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/how-to-complete-the-editing-of-your-ebook.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/october-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I talked about [How To Complete The Editing Of Your Ebook](/posts/how-to-complete-the-editing-of-your-ebook.html).<br>
-&nbsp;&nbsp;My next post shares [how I got on with my income hustle profits in October](/posts/october-2018-income-report.html).
+In my **PREVIOUS** post I talked about [How To Complete The Editing Of Your Ebook](/posts/how-to-complete-the-editing-of-your-ebook.html).<br>
+My **NEXT** post shares [how I got on with my income hustle profits in October](/posts/october-2018-income-report.html).
 <br>
 
 ***
