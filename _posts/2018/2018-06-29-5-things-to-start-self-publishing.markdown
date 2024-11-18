@@ -80,10 +80,8 @@ The final thing you will need before you decide to venture into the world of sel
 
 ### Previous & Next Posts
 
-<a href="/posts/may-2018-income-report" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/How-To-Pick-A-Profitable-Book-Niche.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was about [my income and profit for May](/posts/may-2018-income-report).<br>
-&nbsp;&nbsp;In my next post discover [how to pick a profitable book niche](/posts/How-To-Pick-A-Profitable-Book-Niche.html) as you get started with book publishing.
+My **PREVIOUS** post was about [my income and profit for May](/posts/may-2018-income-report).<br>
+In my **NEXT** post discover [how to pick a profitable book niche](/posts/How-To-Pick-A-Profitable-Book-Niche.html) as you get started with book publishing.
 
 ***
 
