@@ -148,14 +148,16 @@ Once I've worked through a book once or twice checking for the above points, I'm
 
 ![How to complete the editing of your ebook pinterest image](/i/2018/publishing/how-to-complete-the-editing-pin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/september-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/my-goal-is-to-be-financially-free.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I gave an update on [my income & profit for September 2018](/posts/september-2018-income-report.html).<br>
-&nbsp;&nbsp;In my next post I talk about [my progress to becoming financially independent](/posts/my-goal-is-to-be-financially-free.html).
+In my **PREVIOUS** post I gave an update on [my income & profit for September 2018](/posts/september-2018-income-report.html).<br>
+In my **NEXT** post I talk about [my progress to becoming financially independent](/posts/my-goal-is-to-be-financially-free.html).
 <br><br>
 You may find these other posts about getting started with book publishing useful:
 
