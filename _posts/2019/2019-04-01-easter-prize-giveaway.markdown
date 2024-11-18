@@ -112,25 +112,16 @@ Good luck!
 
 ***
 
-### Join the Life Designer list!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/financially-free-update.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/feb-to-apr-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I updated on my [progress toward becoming financially free](/posts/financially-free-update.html).<br>
-&nbsp;&nbsp;My next post spills the beans [on my profits for February to April 2019](/posts/feb-to-apr-2019-income-report.html).
+In my **PREVIOUS** post I updated on my [progress toward becoming financially free](/posts/financially-free-update.html).<br>
+My **NEXT** post spills the beans [on my profits for February to April 2019](/posts/feb-to-apr-2019-income-report.html).
 <br>
 
 ***
