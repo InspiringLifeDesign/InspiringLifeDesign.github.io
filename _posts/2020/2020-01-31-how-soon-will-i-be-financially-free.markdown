@@ -153,28 +153,16 @@ Hopefully the markets will also be kind this year and help my investments to gro
 <!-- Pinterest image -->
 ![How Soon Will I Become Financially Free pinterest image](/i/2020/fire/202001-how-soon-will-i-be-financially-free-pin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-<!-- Email list CTA -->
-### Get my Profit From Online Workshops Course for FREE!
-You will learn how to make your first income by running simple online workshops or events, about subjects that you already know and love.
+{% include listsignup.html list_id="type1" %}
 
-<a href="/signup/signup_page.html" target="_blank" rel="noopener"><img src='/i/products/courses/profit_from_workshops_400x275.png' alt='Profit From Online Workshops Course' /></a>
-<br>
-Discover my simple 10 step process - perfect for beginners and entry level side hustlers!
-
-INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
-
-[**CLICK HERE to get FREE access to *Profit From Online Workshops* today!**](/signup/signup_page)
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/how-to-breakthrough-overwhelm.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/what-new-side-hustle-should-you-start-this-year.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I wrote about [how to break through overwhelm to start making progress](/posts/how-to-breakthrough-overwhelm.html)<br>
-&nbsp;&nbsp;In my next post discover [what new side hustle you should start this year](/posts/what-new-side-hustle-should-you-start-this-year.html)
+In my **PREVIOUS** post I wrote about [how to break through overwhelm to start making progress](/posts/how-to-breakthrough-overwhelm.html).<br>
+In my **NEXT** post discover [what new side hustle you should start this year](/posts/what-new-side-hustle-should-you-start-this-year.html).
 <br>
 
 ***
