@@ -48,10 +48,7 @@ I have a couple of reasons for wanting to share my journey:
 ### So how can I help you?
 I will be sharing all the methods I use to make money as I find them. I'll be telling you the pros and cons of each money making venture and helping you to get started with your own "Freedom Plan". I will be here to help as you're starting out and I'm hoping that we can share ideas, tips and success stories to help each other succeed in our individual journeys.
 
-My goal is to help <b>as many people as possible</b> to start making extra money, with a view to helping them <b>quit their jobs</b> as they become self sufficient - I sincerely hope that you will be one of them! 
-
-If you're interested in discovering new money making ventures as I uncover them, please sign-up for my email list - I promise no spam, no sharing of your email address, just plenty of great ideas, actionable suggestions and "how to" info straight to your inbox:
-<script async id="_ck_198146" src="https://forms.convertkit.com/198146?v=6"></script>
+My goal is to help <b>as many people as possible</b> to start making extra money, with a view to helping them <b>quit their jobs</b> as they become self sufficient - I sincerely hope that you will be one of them!
   
     
 *If you have any suggestions for great ways to make money please do share them...that's what this website is all about!*
@@ -59,9 +56,8 @@ If you're interested in discovering new money making ventures as I uncover them,
 ***
 
 ### Next Post
+In my **NEXT** post you can hear a little bit about [the UK Money Blogger's SHOMO event](/posts/Show-Me-The-Money-Conference.html).
 
-<a href="/posts/Show-Me-The-Money-Conference.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my next post you can hear a little bit about [the UK Money Blogger's SHOMO event](/posts/Show-Me-The-Money-Conference.html).
 
 ***
 
