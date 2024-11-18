@@ -60,6 +60,7 @@ In the last year, Jana Reinhardt have created several exclusive pieces intended 
 What a fabulous jewellery company. So are you excited to enter this first Candy Cane Countdown giveaway? Here's all the details you need...
 
 ### How To Enter
+<b>THIS GIVEAWAY IS NOW CLOSED</b><br />
 Use the Rafflecopter Widget below to enter. You'll need to fill out your basic details to be in for the competition.
 
 You also have the opportunity to claim bonus entries by performing additional actions such as subscribing to me on YouTube, leaving comments on my videos or following me on Instagram. You can do as many or as few of these as you like for bonus entries.
@@ -89,14 +90,16 @@ I hope that you love this first Candy Cane Countdown giveaway as much as I do, a
 <!-- Pinterest image -->
 ![Candy Cane Countdown Jewellery Giveaway pinterest image](/i/2021/candycane/candycanepin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/competition-time.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<!-- <a href="/posts/january-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a> -->
-In my last post I offered the chance to win a [Virgin Experience Day](/posts/competition-time.html) (NOW CLOSED)<br>
-<!-- &nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html) -->
+In my **PREVIOUS** post I offered the chance to win a [Virgin Experience Day](/posts/competition-time.html) (now closed).<br>
+In my **NEXT** post read my [review of the 2023 Mastermind Course: Launchpad](/posts/is-launchpad-worth-it.html).
 <br>
 
 ***
