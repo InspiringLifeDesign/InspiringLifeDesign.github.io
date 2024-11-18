@@ -157,7 +157,7 @@ I'm pretty happy with this progress. I am hopeful over the next 3 months to see 
 ### Previous & Next Posts
 
 In my **PREVIOUS** post I shared my [income and profit results for January 2019](/posts/january-2019-income-report.html).<br>
-My **NEXT** post offers an opportunity to enter [the UK Money Bloggers Easter prize giveaway!](/posts/easter-prize-giveaway.html)
+My **NEXT** post offers an opportunity to enter [the UK Money Bloggers Easter prize giveaway](/posts/easter-prize-giveaway.html) (now closed).
 <br>
 
 ***
