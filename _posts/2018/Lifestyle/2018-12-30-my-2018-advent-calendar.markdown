@@ -122,27 +122,16 @@ I would highly recommend having fun with this kind of homemade advent calendar i
 
 ![My 2018 Advent Calendar, pinterest image](/i/2018/lifestyle/my-2018-advent-calendar-pin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-### Join the Life Designer list!
+{% include listsignup.html list_id="type1" %}
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/2018-goals-review.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/challenge-2018-mission-accomplished.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I reviewed [my 2018 goals](/posts/2018-goals-review.html).<br>
-&nbsp;&nbsp;In my next post I share [how you can save up £1,000 in a year](/posts/challenge-2018-mission-accomplished.html)
+In my **PREVIOUS** post I reviewed [my 2018 goals](/posts/2018-goals-review.html).<br>
+In my **NEXT** post I share [how you can save up £1,000 in a year](/posts/challenge-2018-mission-accomplished.html)
 <br>
 
 ***
