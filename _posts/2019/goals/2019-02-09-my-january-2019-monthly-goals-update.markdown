@@ -141,7 +141,7 @@ I haven't actually finished any of them yet, but I'm enjoying learning lots of n
 
 As well as learning as much as I can from reading, I want to try to do some sort of course or training to learn new skills. In January I booked up for some of the free drop-in sessions at my nearest Apple Store. I am going in February to learn more about video skills.
 
-In early January I discovered that I've been accepted onto the Crew for Tony Robbins' [Unleash The Power Within](https://upwuk.com/?aff=inspiringlifedesign&ls=AffiliateLink){:target="_blank" rel="noopener"} (<i>affiliate link</i>) event in London this April. Which will be another great opportunity to surround myself with like-minded people and learn new things.
+In early January I discovered that I've been accepted onto the Crew for Tony Robbins' [Unleash The Power Within](https://www.tonyrobbins.com/events/unleash-the-power-within){:target="_blank" rel="noopener"} event in London this April. Which will be another great opportunity to surround myself with like-minded people and learn new things.
 
 #### 6. Invest £30K into ISA's toward my longterm Financial Independence goal
 This year I want to put £20K into a 2018/2019 ISA and a further £10K into a 2019/2020 ISA. Although I am expecting an amount of money later this year from an inheritance, I don't actually have a firm idea of where the money for the ISAs is going to come from!
@@ -156,9 +156,10 @@ That leaves £568.16 still to go!
 #### 8. Make a plan for how/when I can attend Tony Robbins' Mastery University
 The **Mastery University** is a program made of 3 events:
 
-* <a href="http://www.tkqlhce.com/click-9093862-13505563?url=http%3A%2F%2Fstore.tonyrobbins.com%2Fproducts%2Fdate-with-destiny-ala-carte&cjsku=DWD-ALA" target="_blank" rel="noopener">Date With Destiny</a> (<i>affiliate link</i>)
-* Life Mastery
-* Wealth Mastery
+* <a href="https://www.tonyrobbins.com/events/date-with-destiny" target="_blank" rel="noopener">
+Date With Destiny</a>
+* <a href="https://www.tonyrobbins.com/events/life-mastery" target="_blank" rel="noopener">Life Mastery</a>
+* <a href="https://www.tonyrobbins.com/events/wealth-mastery" target="_blank" rel="noopener">Wealth Mastery</a>
 
 I haven't made any progress with plans for how I can afford to go to this yet, so this is one to look into later in the year. I may get more information and motivation for this when I'm at Unleash The Power Within in April.
 
@@ -179,25 +180,16 @@ I haven't made any progress with plans for how I can afford to go to this yet, s
 
 ***
 
-### Join my Life Designer email list and Facebook Group!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications when new posts come out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/valentines-gift-guide.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/january-2019-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post offered a [gift guide for Valentine's Day 2019](/posts/valentines-gift-guide.html)<br>
-&nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html)
+My **PREVIOUS** post offered a [gift guide for Valentine's Day 2019](/posts/valentines-gift-guide.html)<br>
+In my **NEXT** post find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html)
 <br>
 
 ***
