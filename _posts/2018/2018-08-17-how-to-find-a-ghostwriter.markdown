@@ -119,18 +119,12 @@ This has been a brief introduction to the ghost writer recruitment process. The 
 <br><br>
 ![How to find a Ghost Writer for your first book pinterest image](/i/2018/how-to-find-a-ghost-writer-for-your-first-book-pin.png)
 
-### Do You Want To Get Started With Online Publishing?
-
-I plan to launch a program called **Publishin8**. Over the course of 8 weeks you will learn how to create and publish your very own book. If you'd like to find out more when this program launches then [**sign-up here**](/signup/publishin8.html){:target="_blank"}.
-
 ***
 
 ### Previous & Next Posts
 
-<a href="/posts/july-2018-income-report.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/random-facts-about-me.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I talked about my [income and profit for July](/posts/july-2018-income-report.html).<br>
-&nbsp;&nbsp;In my next post you can find out [20 random facts about me](/posts/random-facts-about-me.html)!
+In my **PREVIOUS** post I talked about my [income and profit for July](/posts/july-2018-income-report.html).<br>
+In my **NEXT** post you can find out [20 random facts about me](/posts/random-facts-about-me.html)!
 
 
 If this is the first post that you have read in my How To Publish Books series, you may also want to check out [5 things you need to get started with online publishing](/posts/5-things-to-start-self-publishing.html){:target="_blank"} and [how to pick a profitable book niche](/posts/How-To-Pick-A-Profitable-Book-Niche.html){:target="_blank"}.
