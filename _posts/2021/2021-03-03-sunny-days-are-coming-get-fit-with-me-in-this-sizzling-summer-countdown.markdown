@@ -50,47 +50,60 @@ It's truly been a game changer for me. It could be for you too.
 </center>
 
 ### Your Opportunity To Be A Part Of Something Very Special
-I'm super excited to share my **2021 Countdown To Summer** program. A total solution to get your body in the shape you want it to be, right in time for summer.
-
+<span style="color:red"><i><b>UPDATE:</b> Countdown To Summer is <b>not</b> currently available, however subscribe to <a href="/signup" target="_blank" rel="noopener">Corinna's Newsletter</a> to be first to hear about future launches</i></span><br /><br />
+<span style="color:#dddddd">
+I'm super excited to share my **2021 Countdown To Summer** program. A total solution to get your body in the shape you want it to be, right in time for summer.<br /><br />
+</span>
+<span style="color:#dddddd">
 And the best part? It's all available online - you don't even need to leave your house! But you'll feel like you've never been in a more supportive community, with encouragement & support from me and determined ladies all around the world!
-
-### What Does The Program Include?
-There's a whole bundle of goodness to tempt you to join our sizzling sun-loving community! 
-
+</span><br />
+<h3><span style="color:#dddddd">What Does The Program Include?</span></h3>
+<span style="color:#dddddd">
+There's a whole bundle of goodness to tempt you to join our sizzling sun-loving community!
+</span>
+<span style="color:#dddddd">
 For starters how about:
+</span>
 
-- **Countdown To Summer** live chats, vision board workshops and progress checkpoints
-- Incredible library of online workout programs 24 hours a day, 365 days of the year
-  - Range of 3 to 90 day programs that build momentum, stamina and fitness levels
-  - All fitness levels, from absolute beginner/totally unfit to intensified workouts
-  - Variety of workouts to suit your preference (don't worry I will help you choose): HIIT, Kick boxing, Dance, Barre, Circuit, weight lifting, strengthening, yoga, pilates...
-  - Meditation & stretches
-- Choice of 2 nutrition programs, find an eating solution that works for you
-- Nutrition and/or supplements to make your life easier
-- 24hour virtual workout room - don't workout alone, feel the burn with other kick-ass ladies!
-- Personal invitation to my **Sunshine Studio community** packed with tools & resources for having fun while getting fit! We're talking cocktails, fun food, summer fashion & beauty prep
-- Coaching and mentoring from me, for the accountability you need to stay on track. **This time you WILL DO IT, I got you!**
+- <span style="color:#dddddd"><b>Countdown To Summer</b> live chats, vision board workshops and progress checkpoints</span>
+- <span style="color:#dddddd">Incredible library of online workout programs 24 hours a day, 365 days of the year</span>
+  - <span style="color:#dddddd">Range of 3 to 90 day programs that build momentum, stamina and fitness levels</span>
+  - <span style="color:#dddddd">All fitness levels, from absolute beginner/totally unfit to intensified workouts</span>
+  - <span style="color:#dddddd">Variety of workouts to suit your preference (don't worry I will help you choose): HIIT, Kick boxing, Dance, Barre, Circuit, weight lifting, strengthening, yoga, pilates...</span>
+  - <span style="color:#dddddd">Meditation & stretches</span>
+- <span style="color:#dddddd">Choice of 2 nutrition programs, find an eating solution that works for you</span>
+- <span style="color:#dddddd">Nutrition and/or supplements to make your life easier</span>
+- <span style="color:#dddddd">24hour virtual workout room - don't workout alone, feel the burn with other kick-ass ladies!</span>
+- <span style="color:#dddddd">Personal invitation to my **Sunshine Studio community** packed with tools & resources for having fun while getting fit! We're talking cocktails, fun food, summer fashion & beauty prep</span>
+- <span style="color:#dddddd">Coaching and mentoring from me, for the accountability you need to stay on track</span>
 
+<span style="color:#dddddd">
 All this and more, because I love to look after my Sunshine Studio ladies. I'm a gift giver extraordinaire! It's my mission and my passion to get you the body you want and deserve!
-
-### I'm Not In The UK, Can I Still Join?
+</span>
+<h3><span style="color:#dddddd">I'm Not In The UK, Can I Still Join?</span></h3>
+<span style="color:#dddddd">
 As well as the UK, you can also join this sizzling summer countdown if you live in the USA, Canada or France!
+</span>
 
 <center>
     <img src='/i/2021/sunny-days-are-coming-4.jpg' alt='Girls laughing and holding water cups in a cheers'>
 </center>
 
-### How Much Does It Cost?
-There are a range of pricing options depending on which starter bundle pack you choose and how much workout equipment is included. 
-
+<h3><span style="color:#dddddd">How Much Does It Cost?</span></h3>
+<span style="color:#dddddd">
+There are a range of pricing options depending on which starter bundle pack you choose and how much workout equipment is included.
+</span>
+<span style="color:#dddddd">
 You could get started from as little as £160 (or currency equivalent) for a full year's subscription and all of the great benefits listed above. That's the equivalent of just under £13.50 a month - you'd struggle to find a gym membership for so low, and it wouldn't include the great coaching and community you get with this Summer Countdown program.
-
+</span>
+<span style="color:#dddddd">
 I can show you the different starter options so that you can make the right choice for you.
+</span>
 
-### Will I Get Results?
-Proof is in the pudding (or not in my case!) I have been working out following one of the programs since mid January and so far I have lost 14lbs (in 1.5 months). THIS WORKS! 
-
-You have to make a commitment and put the effort in, but you have all of the support you need to get the job done.
+<h3><span style="color:#dddddd">Will I Get Results?</span></h3>
+<span style="color:#dddddd">
+Proof is in the pudding (or not in my case!) I have been working out following one of the programs since mid January and so far I have lost 14lbs (in 1.5 months). THIS WORKS! You have to make a commitment and put the effort in, but you have all of the support you need to get the job done.
+</span>
 
 <center>
     <img src='/i/2021/sunny-days-are-coming-transformation-1.jpg' alt='Example transformation 1'>
@@ -99,11 +112,12 @@ You have to make a commitment and put the effort in, but you have all of the sup
 </center>
 
 ### Okay, Tell Me More
-Getting started is super easy and once you're ready to join you get instant access!
+<span style="color:red"><i><b>UPDATE:</b> Countdown To Summer is <b>not</b> currently available, however subscribe to <a href="/signup" target="_blank" rel="noopener">Corinna's Newsletter</a> to be first to hear about future launches</i></span><br /><br />
+<!-- Getting started is super easy and once you're ready to join you get instant access! -->
 
-Simply fill in these questions to find out more and I'll get back to you via email within 24 hours. You will be able to ask me anything you like before deciding whether this is the right solution for you.
+<!-- Simply fill in these questions to find out more and I'll get back to you via email within 24 hours. You will be able to ask me anything you like before deciding whether this is the right solution for you. -->
 
-I am so excited for you to discover what a life changing way to get fit and feel a part of an amazing community this is!
+<!-- I am so excited for you to discover what a life changing way to get fit and feel a part of an amazing community this is!
 <form role="form" action="https://formspree.io/f/mzbkqjqa" method="POST">
 	<div class="form-group">
 		<label for="InputFirstName"><b>FIRST NAME</b></label>
@@ -172,7 +186,7 @@ I am so excited for you to discover what a life changing way to get fit and feel
 		<input type="checkbox" name="LivesOutsideOfBBCountries_OTHER">OTHER<br />
 	</div>
 	<button type="submit" class="btn btn-default">Submit</button>
-</form>
+</form> -->
 
 If you have any questions for me you can email me at corinna@inspiringlifedesign.com
 
@@ -180,23 +194,21 @@ If you have any questions for me you can email me at corinna@inspiringlifedesign
     <img src='/i/2021/sunny-days-are-coming-3.jpg' alt='Woman wearing large sunhat with feet in pool'>
 </center>
 
-### There's Power In Numbers
-Why not get your family and friends to join in with you too? There's power in striving for a shared goal together.
-Share this post with your nearest and dearest today and you can start your journey together!
-
 ***
 
 <!-- Pinterest image -->
 ![Summer Countdown 2021 pinterest image](/i/2021/sunny-days-are-coming-pin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/life-update.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/competition-time.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my previous post I shared [My Big Life Update](/posts/life-update.html)<br>
-&nbsp;&nbsp;It's competition time in my next post [Win A Virgin Experience Days Voucher (ends 18.9.21)](/posts/competition-time.html)
+In my **PREVIOUS** post I shared [My Big Life Update](/posts/life-update.html).<br>
+In my **NEXT** post it's competition time: [Win A Virgin Experience Days Voucher](/posts/competition-time.html) (now closed).
 <br>
 
 ***
