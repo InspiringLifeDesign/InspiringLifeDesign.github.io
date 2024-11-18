@@ -32,7 +32,7 @@ May this year hold everything that you wish for. In particular I hope that you m
 Looking back on 2018 I am very happy with the progress that I made. It’s easy to look at the things which didn’t quite go to plan and feel frustrated about those, but it’s so important and gratifying to look at the wins from the year. Here’s just a few of my wins from 2018:
 
 - Became more consistent with blogging (though there’s always room for improvement!)
-- Grew my [**Instagram**](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="nofollow" rel="noopener"} & [**Twitter**](https://twitter.com/lifedesigntoday){:target="_blank" rel="nofollow" rel="noopener"} accounts significantly
+- Grew my [**Instagram**](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="nofollow" rel="noopener"} & Twitter accounts significantly
 - Launched new books in Kindle and paperback format
 - Took training in [blogging](/posts/write-about-what-you-love.html){:target="_blank"} and publishing
 - Served as a Crew Member at <a href="http://www.anrdoezrs.net/click-9093862-12703194" target="_top">Tony Robbins</a> (<i>affiliate link</i>) Unleash The Power Within
@@ -56,7 +56,7 @@ I first wrote about #Challenge2018 [back in January last year](/posts/save-one-t
 
 We would cross a box out each time we saved an amount. By the end of the year all 52 boxes were marked as done and we had £1,000 in our savings pots!
 
-I maintained a special [#Challenge2018 Tracking page](/challenge_2018.html){:target="_blank"} so that we could easily see our progress alongside each other, which helped for motivation. We also shared our savings amounts and words of encouragement in the Facebook Group ([which is open to anyone subscribed to my **email list**](/signup/signup_page.html){:target="_blank" rel="noopener"}).
+I maintained a special [#Challenge2018 Tracking page](/challenge_2018.html){:target="_blank"} so that we could easily see our progress alongside each other, which helped for motivation.
 
 ### Celebrating
 As Christmas rolled around each of the participants told me that they’d finished the challenge early! I can’t begin to tell you what an incredible feeling it was to know that I had £1,000 to spend on whatever I chose, but even better, that everyone else had successfully done it too!
@@ -109,9 +109,9 @@ However, there were several times when I didn’t have chance to update the trac
 
 So I have decided to make a chart for a 2019 savings challenge and make this available to you. You can print it off (like I did last year - I kept it in my bullet journal) or update in a spreadsheet format. 
 
-However I’m not going to track everyone’s saving amounts each week on this website. I don’t think it’s necessary for the successful completion of the savings challenge. What I would say is that if you would like motivation and encouragement while doing the challenge, you can join my **Facebook Group** ([by signing up to my **email list**](/signup/signup_page.html){:target="_blank" rel="noopener"}) - I’ll be happy to offer ideas for money making or support in there. 
+However I’m not going to track everyone’s saving amounts each week on this website. I don’t think it’s necessary for the successful completion of the savings challenge.
 
-I also found it quite fun to share my progress on other social media platforms such as [**Instagram**](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="nofollow" rel="noopener"} and [**Twitter**](https://twitter.com/lifedesigntoday){:target="_blank" rel="nofollow" rel="noopener"}, which helped keep me accountable! If you do this, please be sure to tag me **@inspiringlifedesign** on Instagram or **@lifedesigntoday** on Twitter.
+I also found it quite fun to share my progress on other social media platforms such as [**Instagram**](https://www.instagram.com/inspiringlifedesign/){:target="_blank" rel="nofollow" rel="noopener"} and Twitter, which helped keep me accountable! If you do this, please be sure to tag me **@inspiringlifedesign** on Instagram.
 
 ### Adding More Variations
 Earlier this year I was chatting to someone on Instagram about the save £1,000 challenge, and they said that they thought it was too big a stretch for them to manage £1,000. Which gave me an idea.
@@ -179,25 +179,16 @@ Hopefully there’s something for everyone there!
 
 ***
 
-### Join my Life Designer email list and Facebook Group!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
+{% include listsignup.html list_id="type1" %}
 
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications when new posts come out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/my-2018-advent-calendar.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/november-december-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I shared [the gifts I received in my 2018 homemade advent calendar](/posts/my-2018-advent-calendar.html)<br>
-&nbsp;&nbsp;In my next post I share my side hustle [end of year income and profit position for 2018](/posts/november-december-2018-income-report.html)
+In my **PREVIOUS** post I shared [the gifts I received in my 2018 homemade advent calendar](/posts/my-2018-advent-calendar.html)<br>
+In my **NEXT** post I share my side hustle [end of year income and profit position for 2018](/posts/november-december-2018-income-report.html)
 <br>
 
 ***
