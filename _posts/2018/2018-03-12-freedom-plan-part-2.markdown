@@ -226,10 +226,7 @@ Your Freedom Plan will most likely fall into one of the following three categori
 
 I have created printable templates which you can download and fill out for each of these 3 plan types. All you need to do is decide which one works best for you, print it off, and fill in your information. Then put the plan on a wall somewhere you will see it daily to remind you of your intentions and the actions you need to take.
 
-I have also created a spreadsheet to help determine how many years it will take to achieve Financial Freedom - this is useful for filling out Printables 1 & 3 below. If you would like to become a #lifedesigner subscriber for regular updates on new posts and money making tips, you will also receive **free access** to my resources area with all the tools I discuss on the blog. You can sign-up below to receive **instant access to the spreadsheet**:
-<script async id="_ck_357773" src="https://forms.convertkit.com/357773?v=7"></script>
-
-If you've previously subscribed and are already a #lifedesigner you should already have received your link to the resources area. [Let me know](mailto:hello@inspiringlifedesign.com) if you need any help with access.
+I have also created a [spreadsheet](/thankyou/financial-plan-download-201803-A1){:target="_blank"} to help determine how many years it will take to achieve Financial Freedom - this is useful for filling out Printables 1 & 3 below.
 
 Here are the free printables for you to use:
 
@@ -283,26 +280,10 @@ Fill in the sections of this printable as follows:
 
 ***
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-
-****
-
 ### Previous & Next Posts
 
-<a href="/posts/freedom-plan-part-1" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/february-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I talked about [part one of creating your freedom plan](/posts/freedom-plan-part-1).<br>
-&nbsp;&nbsp;In my next post I provide an update on [my February income & profit report](/posts/february-2018-income-report.html).
+In my **PREVIOUS** post I talked about [part one of creating your freedom plan](/posts/freedom-plan-part-1).<br>
+In my **NEXT** post I provide an update on [my February income & profit report](/posts/february-2018-income-report.html).
 
 ***
 
