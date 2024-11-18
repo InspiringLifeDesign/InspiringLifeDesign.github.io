@@ -14,7 +14,7 @@ affiliate: true
 
 I finally managed to film my [next YouTube video](https://www.youtube.com/watch?v=5Om6In9XYFY&t=1s){:target="_blank" rel="noopener"} and get it posted this week. I've done a full life update, which explains why I disappeared off the radar earlier this year. Watch the video to get the lowdown, or if you just want the highlights, here's the bulletpoints:
 
-- I got really busy supporting the second launch of the [Knowledge Broker Blueprint (KBB) course](https://deanandtonylive.com/reservation?source=ILDpostadverts&a=1899){:target="_blank" rel="noopener" rel="nofollow"} (*affiliate link*)
+- I got really busy supporting the second launch of the Knowledge Broker Blueprint (KBB) course
 - Then I was busy helping my KBB Bootcamp students work through the course, fulfilling all the bonuses I offered
 - In mid April I stepped back from all my online business because I was in my 3rd trimester of pregnancy. I had a lot of medical appointments to go to, plus I opted to self-isolate as the Coronavirus pandemic hit
 - In late May I gave birth to our gorgeous baby boy, remaining in hospital until the start of June
@@ -51,28 +51,14 @@ I finally managed to film my [next YouTube video](https://www.youtube.com/watch?
 <!-- Pinterest image -->
 ![My Big News life update pinterest image](/i/2020/life-update-pin.png)
 
-***
-
-<!-- Email list CTA -->
-### Get my Profit From Online Workshops Course for FREE!
-You will learn how to make your first income by running simple online workshops or events, about subjects that you already know and love.
-
-<a href="/signup/signup_page.html" target="_blank" rel="noopener"><img src='/i/products/courses/profit_from_workshops_400x275.png' alt='Profit From Online Workshops Course' /></a>
-<br>
-Discover my simple 10 step process - perfect for beginners and entry level side hustlers!
-
-INCLUDES MY GREAT BONUS: Tried & tested templates for a hassle-free start-up
-
-[**CLICK HERE to get FREE access to *Profit From Online Workshops* today!**](/signup/signup_page)
-
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+{% include listsignup.html list_id="type1" %}
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
-<a href="/posts/spring-prize-giveaway.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/sunny-days-are-coming-get-fit-with-me-in-this-sizzling-summer-countdown.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was a [Spring Giveaway (now closed)](/posts/spring-prize-giveaway.html)<br>
-&nbsp;&nbsp;Come get fit with me in my [Countdown To Summer](/posts/sunny-days-are-coming-get-fit-with-me-in-this-sizzling-summer-countdown.html)
+My **PREVIOUS** post was a [Spring Giveaway](/posts/spring-prize-giveaway.html) (now closed).<br>
+In my **NEXT** post, come get fit with me in my [Countdown To Summer](/posts/sunny-days-are-coming-get-fit-with-me-in-this-sizzling-summer-countdown.html).
 <br>
 
 ***
