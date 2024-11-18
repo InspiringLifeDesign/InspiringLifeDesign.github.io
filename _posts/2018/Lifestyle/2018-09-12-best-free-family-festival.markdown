@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Is Godiva Festival The Best Free Family Festival Ever?"
+title: "Is Godiva Festival The Best Lost-Cost Family Festival Ever?"
 tags:
   - "2018"
   - lifestyle
@@ -14,7 +14,7 @@ tags:
 </table>
 </center>
 
-### For the past 20 years Coventry has been hosting a rather special summer event. A family festival on a grand scale, taking place over 3 days with music, food, drink, fairground rides and plenty of other attractions to keep everyone entertained. Best of all - it's free!
+### For the past 20 years Coventry has been hosting a rather special summer event. A family festival on a grand scale, taking place over 3 days with music, food, drink, fairground rides and plenty of other attractions to keep everyone entertained. Best of all - it's very low cost!
 
 ***
 
@@ -187,25 +187,10 @@ For money savers and frugalisters alike, Coventry's Godiva Festival has to be a 
 
 ***
 
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
-***
-
 ### Previous & Next Posts
 
-<a href="/posts/how-to-get-best-results-from-your-writer.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/august-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I shared [How To Get The Best Results From Your Ebook Writer](/posts/how-to-get-best-results-from-your-writer.html).<br>
-&nbsp;&nbsp;In my next post I share [my side hustle income & profit for August 2018](/posts/august-2018-income-report.html).
+In my **PREVIOUS** post I shared [How To Get The Best Results From Your Ebook Writer](/posts/how-to-get-best-results-from-your-writer.html).<br>
+In my **NEXT** post I share [my side hustle income & profit for August 2018](/posts/august-2018-income-report.html).
 <br>
 
 ***
