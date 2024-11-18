@@ -73,10 +73,6 @@ It could be as easy as making your own hot drink to take with you from home each
 ### But I Hate Going Without!
 That's ok. You can set your mission to **make the money** you need each week. There are many ways to make money whether online or out in the *real world*! All it takes is a bit of time and effort once you know what your money making options are! That's where  **InspiringLifeDesign** comes in. My passion is finding and experimenting with new ways to make money, and I'm sharing all my learnings with you. 
 
-Sign-ups for **#Challenge2018** closed on 31st January 2018, however you can join the waitlist for future challenges, that way I can let you know as soon as they're about to start:
-
-<script async id="_ck_337007" src="https://forms.convertkit.com/337007?v=6"></script>
-
 ### Week 3 Progress
 If you follow me on [Instagram](https://www.instagram.com/inspiringlifedesign/){:target="_blank"} or [Facebook](https://www.facebook.com/inspiringlifedesign/){:target="_blank"}, you'll already know that I've been keeping everyone updated with how much I've been saving each week.
 
@@ -118,10 +114,8 @@ If you're a Life Designer participating in the challenge, you may want to consid
 
 ### Previous & Next Posts
 
-<a href="/posts/save-one-thousand-pounds.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/january-2018-income-report.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was introducing [the idea of the #Challenge2018 savings challenge](/posts/save-one-thousand-pounds.html).<br>
-&nbsp;&nbsp;In my next post you can find out [how I got on with my January 2018 income & profit](/posts/january-2018-income-report.html).
+My **PREVIOUS** post was introducing [the idea of the #Challenge2018 savings challenge](/posts/save-one-thousand-pounds.html).<br>
+In my **NEXT** post you can find out [how I got on with my January 2018 income & profit](/posts/january-2018-income-report.html).
 
 ***
 
