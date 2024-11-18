@@ -125,11 +125,8 @@ On the subject of rainy weather, particularly if you choose not to take an umbre
 
 I remember when I visited the Disneyland Park last time, that when it rained there were Disney stalls selling ponchos, but these were really expensive. I have no idea whether ponchos are still sold in the park, or for how much, but I suspect that this could add up to quite an expensive purchase if buying one for all members of the family.
 
-<center>
-<a target="_blank"  href="https://www.amazon.co.uk/gp/product/B075B2TTT8/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B075B2TTT8&linkCode=as2&tag=ild0b-21&linkId=15fe212d5c33650cc058f5f3f7487558"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=GB&ASIN=B075B2TTT8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ild0b-21" ></a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ild0b-21&l=am2&o=2&a=B075B2TTT8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
 <br>
-I bought [this set of 5 ponchos](https://www.amazon.co.uk/gp/product/B075B2TTT8/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B075B2TTT8&linkCode=as2&tag=ild0b-21&linkId=c7c84f34acda1571b83487f01e8aeca3){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) for £6.50 on Amazon before we went. The delivery was free because I have [Amazon Prime membership](http://www.amazon.co.uk/tryprimefree?tag=ild0b-21){:target="_blank"} (if you're interested in trying Amazon Prime you can receive a 30 day free trial using [this referral link](http://www.amazon.co.uk/tryprimefree?tag=ild0b-21){:target="_blank"}) (<i>affiliate links</i>). We simply popped a poncho pack each into the bottom of our bags in case we needed them. Of course it turned out that we didn't need them at all, but I was pleased to be prepared and we still have them for another trip now.
+I bought [a set of 5 ponchos](https://www.amazon.co.uk/gp/product/B075B2TTT8/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B075B2TTT8&linkCode=as2&tag=ild0b-21&linkId=c7c84f34acda1571b83487f01e8aeca3){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) for £6.50 on Amazon before we went. The delivery was free because I have [Amazon Prime membership](http://www.amazon.co.uk/tryprimefree?tag=ild0b-21){:target="_blank"} (if you're interested in trying Amazon Prime you can receive a 30 day free trial using [this referral link](http://www.amazon.co.uk/tryprimefree?tag=ild0b-21){:target="_blank"}) (<i>affiliate links</i>). We simply popped a poncho pack each into the bottom of our bags in case we needed them. Of course it turned out that we didn't need them at all, but I was pleased to be prepared and we still have them for another trip now.
 
 <br>
 #### 7. Spare Batteries & Memory Cards
@@ -181,28 +178,13 @@ My final tip is not really about something to pack, but rather what not to pack!
 
 ![What To Pack To Get The Most From Disneyland Paris, pinterest image about blog post](/i/2018/disney/what-to-pack-to-get-most-from-dlp-pin.png)
 
-***
-
-### Join the Life Designer list!
-
-If you'd like to be notified each time I publish a new post, why not become a <b>Life Designer</b> (it's completely <b>free</b>!) and you get all this:
-
-- Updates on how to make money
-- Invite to private Facebook Group
-- Advance access to Challenges, Coaching & Courses
-- Notifications whenever a new post comes out
-
-[**Join the Life Designer mailing list here**](/signup/signup_page).
-
 
 ****
 
 ### Previous & Next Posts
 
-<a href="/posts/random-facts-about-me.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/how-to-get-best-results-from-your-writer.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-In my last post I shared [20 Random Facts About Me](/posts/random-facts-about-me.html).<br>
-&nbsp;&nbsp;My next post is about book publishing. Find out [How To Get The Most From Your Ebook Writer](/posts/how-to-get-best-results-from-your-writer.html).
+In my **PREVIOUS** post I shared [20 Random Facts About Me](/posts/random-facts-about-me.html).<br>
+My **NEXT** post is about book publishing. Find out [How To Get The Most From Your Ebook Writer](/posts/how-to-get-best-results-from-your-writer.html).
 
 You may also be interested in the first Disneyland Paris post in this series:<br>
 [How To Plan For The Best Disneyland Paris Trip Ever](/posts/how-to-plan-for-best-disneyland-paris-trip-ever.html){:target="_blank"}.
