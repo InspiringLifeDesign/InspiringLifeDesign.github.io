@@ -106,10 +106,8 @@ The things I hoped to take from Fincon were:
 
 ### Previous & Next Posts
 
-<a href="/posts/Dallas-2017-Fincon.html" style="float: left"><img src='/i/backward.png' alt='backward arrow for previous post' /></a> &nbsp;
-<a href="/posts/first-six-money-makers.html" style="float: right"><img src='/i/forward.png' alt='forward arrow for next post' /></a>
-My last post was about [my expectations of Fincon2017](/posts/Dallas-2017-Fincon.html).<br>
-&nbsp;&nbsp;In my next post you can read about [the first six money makers I've tried](/posts/first-six-money-makers.html).
+My **PREVIOUS** post was about [my expectations of Fincon2017](/posts/Dallas-2017-Fincon.html).<br>
+In my **NEXT** post you can read about [the first six money makers I've tried](/posts/first-six-money-makers.html).
 
 ***
 
