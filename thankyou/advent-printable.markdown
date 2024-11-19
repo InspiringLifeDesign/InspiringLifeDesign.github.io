@@ -5,8 +5,6 @@ sitemap:
   exclude: true  
 ---
  <div class="separator-2"></div>
- 
-### I'm excited you've decided to join the Life Designer family
 
 ![Picture of Corinna](/i/Cory.jpg){:style="width: 200px; height: 200px;"}
 
