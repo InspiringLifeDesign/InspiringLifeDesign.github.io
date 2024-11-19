@@ -169,7 +169,7 @@ We do this by getting involved in a **Side Hustle** or two!
 ##### What's a Side Hustle?
 A Side Hustle is simply a term used to describe a way to make some extra cash, allowing you the flexibility to pursue what you're most interested in. People often start out making money from their hobbies.
 
-There are hundreds of different Side Hustle possibilities, made easier these days with all the various online opportunities. Some hustles are more time intensive than others, some may even offer the ultimate promise of **passive income** once they are up and running. I have already talked about [My First 6 Money Makers](/posts/first-six-money-makers.html){:target="_blank"}, and I will be sharing more ways to **start and grow your own side hustles**. To be sure you never miss a post, [**join my mailing list here**](/signup/signup_page)!
+There are hundreds of different Side Hustle possibilities, made easier these days with all the various online opportunities. Some hustles are more time intensive than others, some may even offer the ultimate promise of **passive income** once they are up and running. I have already talked about [My First 6 Money Makers](/posts/first-six-money-makers.html){:target="_blank"}, and I will be sharing more ways to **start and grow your own side hustles**.
 <br><br>
 ##### Six Side Hustles To Get You Started
 Here are a handful of Side Hustle opportunities you may want to consider:
