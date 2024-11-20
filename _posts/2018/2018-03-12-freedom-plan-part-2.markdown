@@ -278,7 +278,11 @@ Fill in the sections of this printable as follows:
 
 ![Create Your Freedom Plan Part 2 pinterest image, background sunny beach scene](/i/2018/create-freedom-plan-2-pin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
@@ -294,7 +298,3 @@ In my **NEXT** post I provide an update on [my February income & profit report](
 <!-- END ADVERTISER: Latest 4 -->
 
 ***
-
-
-
-
