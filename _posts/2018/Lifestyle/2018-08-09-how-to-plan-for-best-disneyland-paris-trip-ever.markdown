@@ -281,7 +281,11 @@ There are some similarites between the MagiPark app and the official Disneyland 
 <br><br>
 ![How To Plan For The Best Disneyland Paris Trip Ever Pinterest image](/i/2018/disney/how-to-plan-for-dlp-pin.png)
 
-****
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
