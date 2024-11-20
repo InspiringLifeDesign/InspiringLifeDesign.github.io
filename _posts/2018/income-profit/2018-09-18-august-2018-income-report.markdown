@@ -438,31 +438,11 @@ Here's a run down of how I got on with them:
 <br><br>
 ![August income and profit report pinterest image](/i/income_report/2018/pin201808income_profit.png)
 
-### Join Corinna's newsletter!
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-Want to be first to hear about Corinna's favourite finds?<br />
-All the freebies, offers and deals she finds get shared in her Newsletter. Want in? Sign up here...
-<iframe
-  src="https://thehub-api.mastermind.com/widget/form/FQZMwH6W4qClaHNwks0v"
-  style="width:100%;height:100%;border:none;border-radius:10px"
-  id="inline-FQZMwH6W4qClaHNwks0v" 
-  data-layout="{'id':'INLINE'}"
-  data-trigger-type="alwaysShow"
-  data-trigger-value=""
-  data-activation-type="alwaysActivated"
-  data-activation-value=""
-  data-deactivation-type="neverDeactivate"
-  data-deactivation-value=""
-  data-form-name="CMP Newsletter Sign Up Form FOR ILD"
-  data-height="400"
-  data-layout-iframe-id="inline-FQZMwH6W4qClaHNwks0v"
-  data-form-id="FQZMwH6W4qClaHNwks0v"
-  title="CMP Newsletter Sign Up Form FOR ILD"
-      >
-</iframe>
-<script src="https://thehub-api.mastermind.com/js/form_embed.js"></script>
+{% include listsignup.html list_id="type1" %}
 
-****
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
