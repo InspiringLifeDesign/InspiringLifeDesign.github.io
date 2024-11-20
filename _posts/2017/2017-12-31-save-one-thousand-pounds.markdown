@@ -75,6 +75,12 @@ IMPORTANT NOTE: If you sign-up for the challenge your **name** and **amount save
 
 ***
 
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
+
 ### Previous & Next Posts
 
 My **PREVIOUS** post was about [the first six money makers I've tried](/posts/first-six-money-makers.html).<br>
@@ -87,5 +93,3 @@ In my **NEXT** post you can find out [how #Challenge2018 is going 3 weeks in](/p
 {% include advert.html ad_id="latest1" %}
 </center>
 <!-- END ADVERTISER: Latest 1 -->
-
-***
