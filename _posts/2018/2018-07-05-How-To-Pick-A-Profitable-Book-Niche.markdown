@@ -74,9 +74,12 @@ Sometimes it's easy to get sucked into *analysis paralysis* so don't over resear
 *Let me know in the comments if you are interested in a future post going into more detail about [Kindle Spy](http://bit.ly/ILDkdspy){:target="_blank" rel="nofollow"} (<i>affiliate link</i>) and it's advantages!*
 <br><br>
 ![How to pick a profitable book niche pinterest image](/i/2018/how-to-pick-a-profitable-niche-pin.png)
-<br>
 
-****
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
