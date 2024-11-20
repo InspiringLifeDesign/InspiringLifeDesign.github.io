@@ -369,7 +369,11 @@ Here's what I'm working on to increase my profits for future months:
 
 ![February 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201802income_profit.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
@@ -384,9 +388,4 @@ In my **NEXT** post I reveal [5 reasons you'll love making money publishing book
 </center>
 <!-- END ADVERTISER: Latest 3 -->
 
-***   
-
-
-
-
-
+***
