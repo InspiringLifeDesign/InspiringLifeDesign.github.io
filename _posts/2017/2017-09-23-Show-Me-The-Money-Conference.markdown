@@ -23,9 +23,14 @@ This is my first year attending the conference. In fact the reason I know of thi
     <figcaption>On the train headed for the Shomos in London</figcaption>
 </figure>
 </center>
-<br>
 
 ***
+
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
@@ -39,5 +44,3 @@ In my **NEXT** post you can read about [my expectations of Fincon 2017](/posts/D
 {% include advert.html ad_id="latest1" %}
 </center>
 <!-- END ADVERTISER: Latest 1 -->
-
-***
