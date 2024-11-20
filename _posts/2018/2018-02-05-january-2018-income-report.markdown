@@ -278,6 +278,12 @@ During February I plan to focus my efforts on the following money generating act
 
 ***
 
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
+
 ### Previous & Next Posts
 
 In my **PREVIOUS** post I gave an update on [our progress with the #Challenge2018 savings challenge](/posts/challenge-third-week.html).<br>
@@ -292,7 +298,3 @@ In my **NEXT** post you can read about [why I'm seeking financial independence](
 <!-- END ADVERTISER: Latest 3 -->
 
 ***
-
-
-
-
