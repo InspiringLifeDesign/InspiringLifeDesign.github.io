@@ -110,32 +110,11 @@ I would also like to tag **Charlotte** at [**Looking After Your Pennies**](https
 
 ![Autumn Bucket List pinterest image](/i/2018/lifestyle/autumn-bucket-list-pin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-### Join Corinna's newsletter!
+{% include listsignup.html list_id="type1" %}
 
-Want to be first to hear about Corinna's favourite finds? All the freebies, offers and deals she finds get shared in her Newsletter. Want in? Sign up here...
-<iframe
-  src="https://thehub-api.mastermind.com/widget/form/FQZMwH6W4qClaHNwks0v"
-  style="width:100%;height:100%;border:none;border-radius:10px"
-  id="inline-FQZMwH6W4qClaHNwks0v" 
-  data-layout="{'id':'INLINE'}"
-  data-trigger-type="alwaysShow"
-  data-trigger-value=""
-  data-activation-type="alwaysActivated"
-  data-activation-value=""
-  data-deactivation-type="neverDeactivate"
-  data-deactivation-value=""
-  data-form-name="CMP Newsletter Sign Up Form FOR ILD"
-  data-height="400"
-  data-layout-iframe-id="inline-FQZMwH6W4qClaHNwks0v"
-  data-form-id="FQZMwH6W4qClaHNwks0v"
-  title="CMP Newsletter Sign Up Form FOR ILD"
-      >
-</iframe>
-<script src="https://thehub-api.mastermind.com/js/form_embed.js"></script>
-
-****
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
