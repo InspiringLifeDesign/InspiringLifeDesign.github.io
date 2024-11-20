@@ -86,6 +86,11 @@ If you have a blog, or are considering starting one let me know because we can s
 <br>
 
 ***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
@@ -101,5 +106,3 @@ My **NEXT** post is all about [my income and profit for March](/posts/march-2018
 <!-- END ADVERTISER: TYDIM1 -->
 
 ***
-
-
