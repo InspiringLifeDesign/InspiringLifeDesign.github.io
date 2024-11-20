@@ -112,6 +112,12 @@ If you're a Life Designer participating in the challenge, you may want to consid
 
 ***
 
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
+
 ### Previous & Next Posts
 
 My **PREVIOUS** post was introducing [the idea of the #Challenge2018 savings challenge](/posts/save-one-thousand-pounds.html).<br>
@@ -124,8 +130,3 @@ In my **NEXT** post you can find out [how I got on with my January 2018 income &
 {% include advert.html ad_id="latest1" %}
 </center>
 <!-- END ADVERTISER: Latest 1 -->
-
-***
-
-
-
