@@ -72,7 +72,11 @@ Of course there are many other sites which offer payment for completing their su
 <br><br>
 ![Get Extra Cash In Your Pocket This Week Pinterest image](/i/2018/get-extra-cash-in-your-pocket-pin.png)
 
-****
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
