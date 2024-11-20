@@ -411,7 +411,11 @@ Here's a review of how I got on with the plans I made last month:
 
 ![March 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201803income_profit.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
