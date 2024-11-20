@@ -133,6 +133,12 @@ My initial thoughts on making money from blogging is that there is a lot of time
 
 ***
 
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
+
 ### Previous & Next Posts
 
 My **PREVIOUS** post was about [the 5 biggest lessons I learned at Fincon2017](/posts/Five-Biggest-Lessons-from-Fincon17.html).<br>
