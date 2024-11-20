@@ -92,6 +92,8 @@ The things I hoped to take from Fincon were:
 - **Connecting with my fellow UK Money Bloggers** *(POST FINCON UPDATE: This was perhaps one of the biggest wins for me from my journey to Fincon. I had briefly met a couple of the UK Blogger attendees when I attended the UK Money Blogger Conference in September but with it being only for 1 day I hadn't had the opportunity to really have a good chat with anyone. I thoroughly enjoyed getting to know <a href="https://www.miss-thrifty.co.uk/" target="_blank">Miss Thrifty</a>, <a href="https://emmadrew.info/" target="_blank">Emma Drew</a> and her husband Tony, Cora (<a href="https://theminimillionaire.com/" target="_blank">Mini Millionaire</a>) and Maria (<a href="https://www.themoneyprinciple.co.uk/about-us/" target="_blank">The Money Principle</a>). I look forward to future conversations and catch-ups with them through the UK Blogger community.)*
 - **Networking** with like minded people from around the world who share my passion for personal finance *(POST FINCON UPDATE: This is definitely a massive TICK! It would be impossible to go to Fincon without meeting like minded people and networking with them. I found this one of the most fun and exciting parts of the event)*
 
+*Have you ever attended Fincon or any convention related to your interests and hobbies? I'd love to hear your stories. Please leave me a comment below, and ask me any questions about Fincon that you like!*
+
 <center>
 <figure>
     <img src='/i/Fincon_pink_lady.jpg' alt='The 5 Biggest Lessons From Fincon 2017, Corinna dressed as pink lady' />
@@ -100,9 +102,13 @@ The things I hoped to take from Fincon were:
 </center>
 <br>
 
-*Have you ever attended Fincon or any convention related to your interests and hobbies? I'd love to hear your stories. Please leave me a comment below, and ask me any questions about Fincon that you like!*
-
 ***
+
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
