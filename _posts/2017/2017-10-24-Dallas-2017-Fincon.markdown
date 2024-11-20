@@ -51,6 +51,12 @@ Some may say that it's a long way to go for just 5 days, but I'm excited and con
 
 ***
 
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
+
 ### Previous & Next Posts
 
 My **PREVIOUS** post was about [attending the UK Money Blogger's SHOMO event](/posts/Show-Me-The-Money-Conference.html).<br>
@@ -63,5 +69,3 @@ In my **NEXT** post you can learn about [my five biggest lessons from Fincon 201
 {% include advert.html ad_id="latest1" %}
 </center>
 <!-- END ADVERTISER: Latest 1 -->
-
-***
