@@ -73,9 +73,12 @@ If you have any questions about attending an event, drop me an email or leave a 
 *Have you ever attended one of Tony's events? Perhaps you too are a Firewalker? If you'd like to ask me any questions about the event I'd be happy to answer...*
 <br><br>
 ![My 10 Simple Life Changes Inspiried By Tony Robbins Pinterest image](/i/2018/changes-after-tony-robbins-pin.png)
-<br>
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
