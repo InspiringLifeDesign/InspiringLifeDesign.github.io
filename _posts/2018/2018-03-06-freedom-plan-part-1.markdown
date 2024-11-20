@@ -150,8 +150,11 @@ That's all there is to it for calculating your expenses. In [**Part Two**](/post
 
 ![Create Your Freedom Plan pinterest image, background sunny beach scene](/i/2018/create-freedom-plan-1-pin.png)
 
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
-****
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
@@ -165,9 +168,4 @@ In my **NEXT** post you can continue finding out [how to create your own freedom
 {% include advert.html ad_id="latest2" %}
 </center>
 <!-- END ADVERTISER: Latest 2 -->
-
-***
-
-
-
 
