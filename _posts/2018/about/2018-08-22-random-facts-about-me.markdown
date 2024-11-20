@@ -140,7 +140,11 @@ Here's a few other blogger's random facts posts you may be interested in:
 
 ![20 Really Random Facts About Me pinterest image](/i/2018/about/random-facts-about-me-pin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous Post
 
@@ -156,8 +160,3 @@ You can find all of my online book publishing series [here](/income-hustles/book
 {% include advert.html ad_id="latest3" %}
 </center>
 <!-- END ADVERTISER: Latest 3 -->
-
-
-
-
-
