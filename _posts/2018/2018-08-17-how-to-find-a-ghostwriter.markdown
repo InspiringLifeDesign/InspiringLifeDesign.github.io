@@ -119,7 +119,11 @@ This has been a brief introduction to the ghost writer recruitment process. The 
 <br><br>
 ![How to find a Ghost Writer for your first book pinterest image](/i/2018/how-to-find-a-ghost-writer-for-your-first-book-pin.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
