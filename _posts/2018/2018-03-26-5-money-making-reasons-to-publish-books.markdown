@@ -142,7 +142,11 @@ Everyone I've come across in this field has been super friendly and helpful. I'm
 
 ![5 Reasons You'll Love Publishing Books To Make Money Pinterest image](/i/2018/5-reasons-youll-love-publishing-books-to-make-money-pin.jpg)
 
-****
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
