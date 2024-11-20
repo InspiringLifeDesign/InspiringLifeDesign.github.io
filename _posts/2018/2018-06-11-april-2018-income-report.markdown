@@ -375,7 +375,11 @@ I'm not going to list any things here in this post because it's already June as 
 
 ![April 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201804income_profit.png)
 
-***
+<!-- START EMAIL LIST SIGN-UP: Type 1 -->
+
+{% include listsignup.html list_id="type1" %}
+
+<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 
@@ -391,13 +395,3 @@ In my **NEXT** post you can read about [how I got on with my income and profit i
 <!-- END ADVERTISER: Latest 3 -->
 
 ***
-
-
-
-
-
-
-
-
-
-
