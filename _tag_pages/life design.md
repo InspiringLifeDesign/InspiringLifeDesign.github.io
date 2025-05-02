@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: transformation
+title: life design
 ---
 Hello, tag!
