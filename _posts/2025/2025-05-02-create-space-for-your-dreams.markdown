@@ -80,6 +80,10 @@ You don’t have to wait.
 <i>How do you create space for your dreams? Do you have a clear vision of what your dreams are? Let me know in the comments...</i>
 <br />
 
+<center>
+    <img src='/i/2025/pin-make-time-for-dreams.png' alt='pinterest image Corinna watching sunset living her dream'>
+</center>
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}
