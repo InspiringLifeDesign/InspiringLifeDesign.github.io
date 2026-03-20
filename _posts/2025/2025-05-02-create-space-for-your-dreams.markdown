@@ -93,7 +93,7 @@ You don’t have to wait.
 ### Previous & Next Posts
 
 In my **PREVIOUS** post I asked whether [the Launchpad programme by Tony Robbins and Dean Graziosi](/posts/is-launchpad-worth-it.html) was worth it (now superceded by the Mastermind Business System).<br>
-<!-- &nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html) -->
+In my **NEXT** post I share [the 7 little words that supercharge your habits](/posts/supercharge-your-habits.html).
 <br>
 
 ***

@@ -114,7 +114,7 @@ Let’s keep doing the small things that make a big difference. Every day.
 ### Previous & Next Posts
 
 In my **PREVIOUS** post I talked about [how to create space for your dreams](/posts/create-space-for-your-dreams.html)<br>
-<!-- &nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html) -->
+In my **NEXT** post I introduce [my new AI For Life Design series](/posts/ai-for-life-design.html).
 <br>
 
 ***

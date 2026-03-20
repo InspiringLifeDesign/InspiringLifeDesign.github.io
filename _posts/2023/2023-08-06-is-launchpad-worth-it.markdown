@@ -165,7 +165,7 @@ Corinna is always more than happy to help with any questions you may have about 
 ### Previous & Next Posts
 
 In my **PREVIOUS** post I offered the chance to win [Jana Reinhardt jewellery](/posts/jewellery-giveaway.html) (now closed).<br>
-<!-- &nbsp;&nbsp;Find out how much [Income & Profit I made from my side hustles in January](/posts/january-2019-income-report.html) -->
+In my **NEXT** post I share [how to create space for your dreams, even when life feels full](/posts/create-space-for-your-dreams.html).
 <br>
 
 ***
