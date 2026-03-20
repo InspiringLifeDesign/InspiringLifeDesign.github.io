@@ -6,3 +6,4 @@ services:
             - 4001:4000
         volumes:
             - .:/home/jekyll/src
+        entrypoint: /usr/bin/jekyll serve --source /home/jekyll/src --destination /srv --watch --force_polling --strict_front_matter --drafts --future --host 0.0.0.0
