@@ -4,5 +4,5 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '{{ site.ga4-measurement-id }}');
+  gtag('config', '{{ site.ga4-measurement-id }}', { 'client_storage': 'none' });
 </script>
