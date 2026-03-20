@@ -99,7 +99,6 @@ The series starts now. Let's do this together.
 ### Previous & Next Posts
 
 In my **PREVIOUS** post I shared [the 7 little words that supercharge your habits](/posts/supercharge-your-habits.html).<br>
-In my **NEXT** post I share [a beginner's guide to ChatGPT and the main AI tools](/posts/chatgpt-for-beginners.html).<br>
 
 ***
 
