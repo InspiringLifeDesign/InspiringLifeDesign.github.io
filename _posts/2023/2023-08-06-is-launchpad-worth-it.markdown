@@ -156,6 +156,8 @@ Corinna is always more than happy to help with any questions you may have about 
 <i>So what do you think? Will you be investing in Launchpad? Have you done any of Tony or Dean's other courses? Let Corinna know in the comments below...</i>
 <br />
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

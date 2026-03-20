@@ -90,6 +90,8 @@ The series starts now. Let's do this together.
 <i>Where are you with AI right now? Are you a total beginner, or have you already started experimenting? I'd love to hear in the comments below...</i>
 <br />
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

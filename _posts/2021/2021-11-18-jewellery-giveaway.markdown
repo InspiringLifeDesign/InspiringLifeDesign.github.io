@@ -90,6 +90,8 @@ I hope that you love this first Candy Cane Countdown giveaway as much as I do, a
 <!-- Pinterest image -->
 ![Candy Cane Countdown Jewellery Giveaway pinterest image](/i/2021/candycane/candycanepin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

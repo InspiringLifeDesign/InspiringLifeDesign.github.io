@@ -369,6 +369,8 @@ Here's what I'm working on to increase my profits for future months:
 
 ![February 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201802income_profit.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

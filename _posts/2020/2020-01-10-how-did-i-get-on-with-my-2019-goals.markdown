@@ -214,6 +214,8 @@ So that's my 2019 review! I will be posting a new video sharing my 2020 goals wi
 ![How Did I Get On With My 2019 Goals pinterest image](/i/2020/goals/how-did-i-get-on-with-my-2019-goals-pin.png)
 
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

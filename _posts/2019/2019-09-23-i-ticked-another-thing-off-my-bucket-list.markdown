@@ -79,6 +79,8 @@ If you're interested in having a listen I've popped a few links below to where y
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

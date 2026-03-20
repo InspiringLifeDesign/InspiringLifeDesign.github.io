@@ -148,6 +148,8 @@ Once I've worked through a book once or twice checking for the above points, I'm
 
 ![How to complete the editing of your ebook pinterest image](/i/2018/publishing/how-to-complete-the-editing-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

@@ -75,6 +75,8 @@ The final thing you will need before you decide to venture into the world of sel
 <br><br>
 ![5 Things You Need To Get Started With Online Publishing Pinterest image](/i/2018/5-Things-To-Start-Online-Publishing-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

@@ -131,6 +131,8 @@ Money making opportunities start as soon as you reach 1,000 subscribers and a mi
 <!-- Pinterest image -->
 ![What new side hustle should you start this year pinterest image](/i/2020/what-new-side-hustle-should-you-start-this-year-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

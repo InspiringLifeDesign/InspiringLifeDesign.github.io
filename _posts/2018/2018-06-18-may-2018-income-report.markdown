@@ -344,6 +344,8 @@ I didn't actually set specific actions for May due to being so busy in April and
 
 ![May 2018 Income & Profit Report pinterest image](/i/income_report/2018/pin201805income_profit.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

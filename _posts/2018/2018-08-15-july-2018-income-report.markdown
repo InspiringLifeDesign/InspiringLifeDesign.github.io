@@ -413,6 +413,8 @@ Here's a run down of how I got on with them:
 <br><br>
 ![July income and profit report pinterest image](/i/income_report/2018/pin201807income_profit.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

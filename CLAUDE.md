@@ -42,7 +42,8 @@ Standard post structure:
 1. Centered header image: `<center><img src='/i/YEAR/filename.jpg' alt='...'></center>`
 2. Body content mixing Markdown and HTML
 3. Italic closing question to readers: `<i>Question for readers...</i>`
-4. Email sign-up include: `{% include listsignup.html list_id="type1" %}`
+4. Share buttons: `{% include sharethis.html %}`
+5. Email sign-up include: `{% include listsignup.html list_id="type1" %}`
 5. Previous & Next post links
 6. Ad include: `{% include advert.html ad_id="latest1" %}`
 

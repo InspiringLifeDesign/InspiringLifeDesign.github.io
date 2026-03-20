@@ -185,6 +185,8 @@ For money savers and frugalisters alike, Coventry's Godiva Festival has to be a 
 
 ![Is Godiva Festival The Best Free Festival Ever, pinterest image](/i/2018/godiva/godiva-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

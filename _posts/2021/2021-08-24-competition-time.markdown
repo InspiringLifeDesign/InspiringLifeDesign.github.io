@@ -80,6 +80,8 @@ This giveaway has been arranged by <a href="https://www.thefinancialwilderness.c
 <!-- Pinterest image -->
 ![Virgin Experience Day Competition pinterest image](/i/2021/competition/competition-time-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

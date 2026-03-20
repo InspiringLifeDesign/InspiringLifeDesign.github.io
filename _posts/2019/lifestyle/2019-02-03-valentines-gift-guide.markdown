@@ -159,6 +159,8 @@ Alternatively, if you simply find a way to make the proposal unique and special 
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

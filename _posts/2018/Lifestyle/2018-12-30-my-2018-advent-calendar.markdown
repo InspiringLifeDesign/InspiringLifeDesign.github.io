@@ -122,6 +122,8 @@ I would highly recommend having fun with this kind of homemade advent calendar i
 
 ![My 2018 Advent Calendar, pinterest image](/i/2018/lifestyle/my-2018-advent-calendar-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

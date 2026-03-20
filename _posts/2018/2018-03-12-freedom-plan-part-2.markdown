@@ -278,6 +278,8 @@ Fill in the sections of this printable as follows:
 
 ![Create Your Freedom Plan Part 2 pinterest image, background sunny beach scene](/i/2018/create-freedom-plan-2-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

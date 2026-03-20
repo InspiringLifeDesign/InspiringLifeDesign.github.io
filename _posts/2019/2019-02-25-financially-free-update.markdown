@@ -148,6 +148,8 @@ I'm pretty happy with this progress. I am hopeful over the next 3 months to see 
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

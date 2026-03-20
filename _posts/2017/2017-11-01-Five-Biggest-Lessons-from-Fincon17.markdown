@@ -104,6 +104,8 @@ The things I hoped to take from Fincon were:
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

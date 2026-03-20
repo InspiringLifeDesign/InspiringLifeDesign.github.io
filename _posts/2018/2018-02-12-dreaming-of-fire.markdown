@@ -57,6 +57,8 @@ It's still early days for the site, I have a lot of ideas that I want to share a
 <br><br>
 ![Dreaming Of FIRE pinterest image](/i/2018/dreaming-of-fire.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

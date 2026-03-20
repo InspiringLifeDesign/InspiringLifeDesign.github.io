@@ -199,6 +199,8 @@ If you have any questions for me you can email me at corinna@inspiringlifedesign
 <!-- Pinterest image -->
 ![Summer Countdown 2021 pinterest image](/i/2021/sunny-days-are-coming-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

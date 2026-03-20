@@ -153,6 +153,8 @@ Hopefully the markets will also be kind this year and help my investments to gro
 <!-- Pinterest image -->
 ![How Soon Will I Become Financially Free pinterest image](/i/2020/fire/202001-how-soon-will-i-be-financially-free-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

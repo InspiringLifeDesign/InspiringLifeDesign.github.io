@@ -111,6 +111,8 @@ To summarise the message of this post. It's important to establish good guidelin
 
 ![How to get the best results from your Ebook writer, pinterest image](/i/2018/how-to-get-value-for-money-from-writer.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

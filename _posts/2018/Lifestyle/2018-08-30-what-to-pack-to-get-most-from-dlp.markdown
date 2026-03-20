@@ -178,6 +178,8 @@ My final tip is not really about something to pack, but rather what not to pack!
 
 ![What To Pack To Get The Most From Disneyland Paris, pinterest image about blog post](/i/2018/disney/what-to-pack-to-get-most-from-dlp-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

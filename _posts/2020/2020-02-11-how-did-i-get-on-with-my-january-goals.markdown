@@ -233,6 +233,8 @@ I didn't spend any time on creating new products in January. I dedicated my time
 <!-- Pinterest image -->
 ![How did I get on with my January goals pinterest image](/i/2020/goals/how-did-i-get-on-with-my-january-goals-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

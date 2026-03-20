@@ -122,6 +122,8 @@ Whatever you choose to do, I wish you a wonderful countdown to Christmas.
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

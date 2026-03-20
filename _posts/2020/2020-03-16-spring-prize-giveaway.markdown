@@ -80,6 +80,8 @@ Good luck!
 
 ![Spring prize giveaway pinterest image](/i/2020/springgiveaway/spring-giveaway-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

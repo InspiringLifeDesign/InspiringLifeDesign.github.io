@@ -26,6 +26,8 @@ This is my first year attending the conference. In fact the reason I know of thi
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

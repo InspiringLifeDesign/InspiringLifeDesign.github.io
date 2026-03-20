@@ -397,6 +397,8 @@ Last year in my Income and Profit posts I would list the things which did/didn't
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

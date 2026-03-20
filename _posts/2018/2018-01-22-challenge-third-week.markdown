@@ -112,6 +112,8 @@ If you're a Life Designer participating in the challenge, you may want to consid
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

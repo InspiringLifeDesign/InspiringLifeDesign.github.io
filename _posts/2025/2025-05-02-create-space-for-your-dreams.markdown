@@ -84,6 +84,8 @@ You don’t have to wait.
     <img src='/i/2025/pin-make-time-for-dreams.png' alt='pinterest image Corinna watching sunset living her dream'>
 </center>
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

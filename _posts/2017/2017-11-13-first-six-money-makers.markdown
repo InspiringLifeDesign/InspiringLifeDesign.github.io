@@ -133,6 +133,8 @@ My initial thoughts on making money from blogging is that there is a lot of time
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

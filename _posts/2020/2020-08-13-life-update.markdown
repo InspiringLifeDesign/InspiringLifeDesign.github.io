@@ -51,6 +51,8 @@ I finally managed to film my [next YouTube video](https://www.youtube.com/watch?
 <!-- Pinterest image -->
 ![My Big News life update pinterest image](/i/2020/life-update-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 {% include listsignup.html list_id="type1" %}
 <!-- END EMAIL LIST SIGN-UP: Type 1 -->

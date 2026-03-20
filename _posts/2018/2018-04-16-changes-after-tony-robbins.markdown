@@ -74,6 +74,8 @@ If you have any questions about attending an event, drop me an email or leave a 
 <br><br>
 ![My 10 Simple Life Changes Inspiried By Tony Robbins Pinterest image](/i/2018/changes-after-tony-robbins-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

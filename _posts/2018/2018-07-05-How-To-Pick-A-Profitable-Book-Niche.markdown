@@ -75,6 +75,8 @@ Sometimes it's easy to get sucked into *analysis paralysis* so don't over resear
 <br><br>
 ![How to pick a profitable book niche pinterest image](/i/2018/how-to-pick-a-profitable-niche-pin.png)
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

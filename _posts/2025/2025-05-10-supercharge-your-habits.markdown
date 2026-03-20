@@ -105,6 +105,8 @@ Let’s keep doing the small things that make a big difference. Every day.
     <img src='/i/2025/pin-7-word-mantra.png' alt='pinterest image woman in scenic setting with overlay of Say These Words Every Day And Watch Your Life Change'>
 </center>
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

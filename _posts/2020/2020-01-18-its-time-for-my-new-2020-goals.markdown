@@ -210,6 +210,8 @@ This post has ended up being much longer than I originally anticipated! If you'r
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

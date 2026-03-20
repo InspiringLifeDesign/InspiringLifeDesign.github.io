@@ -492,6 +492,8 @@ Here's my bar chart tracking how my profit is faring month on month compared to 
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

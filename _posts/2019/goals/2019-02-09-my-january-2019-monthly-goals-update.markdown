@@ -180,6 +180,8 @@ I haven't made any progress with plans for how I can afford to go to this yet, s
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}

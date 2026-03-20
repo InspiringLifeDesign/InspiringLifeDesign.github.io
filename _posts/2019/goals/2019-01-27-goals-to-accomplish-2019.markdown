@@ -118,6 +118,8 @@ To sign-up for Mastery University at one of Tony's events is super expensive (in
 
 ***
 
+{% include sharethis.html %}
+
 <!-- START EMAIL LIST SIGN-UP: Type 1 -->
 
 {% include listsignup.html list_id="type1" %}
