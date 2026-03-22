@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "ChatGPT For Beginners: Meet The Main AI Tools And Get Set Up Today"
+description: "New to AI? Meet ChatGPT, Claude, Gemini and Copilot in plain English, then get ChatGPT set up on your phone or laptop today. No tech skills required."
+image: /i/2026/chatgpt-for-beginners-header.png
 tags:
   - "2026"
   - ai for life design

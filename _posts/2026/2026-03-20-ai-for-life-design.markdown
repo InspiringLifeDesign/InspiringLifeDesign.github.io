@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "AI For Life Design: A Beginner's Series For People Who Think AI Is Not For Them"
+description: "Introducing the AI for Life Design series - a beginner-friendly guide to using AI in everyday life, for people who think AI just isn't for them."
+image: /i/2026/ai-for-life-design-intro-header.png
 tags:
   - "2026"
   - ai for life design
