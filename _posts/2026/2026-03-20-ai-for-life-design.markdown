@@ -86,7 +86,7 @@ And please, use the comments. Tell me where you are on your AI journey. Are you 
 
 The series starts now. Let's do this together.
 
-And yes - I used Claude to help me write this post. It felt only right to practise what I preach.
+And yes - I used AI to help me write this post. It felt only right to practise what I preach.
 
 <br />
 <i>Where are you with AI right now? Are you a total beginner, or have you already started experimenting? I'd love to hear in the comments below...</i>
