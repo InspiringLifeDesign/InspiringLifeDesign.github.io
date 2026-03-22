@@ -65,7 +65,7 @@ And many more dreams are in motion, quietly unfolding.
 
 ### Life Won’t Get Lighter. You’ll Get Stronger.
 
-There’s a quiet power in knowing you’re moving, even if the pace feels slow. When you decide to make space for your dreams—even 15 minutes a day—you’re sending a signal to the universe and to yourself: *I’m ready.*
+There’s a quiet power in knowing you’re moving, even if the pace feels slow. When you decide to make space for your dreams-even 15 minutes a day-you’re sending a signal to the universe and to yourself: *I’m ready.*
 
 You don’t need a six-hour creative retreat to move forward (though those are lovely). You just need to claim your slice of the day and *choose*.
 
