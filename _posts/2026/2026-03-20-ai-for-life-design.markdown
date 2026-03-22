@@ -103,6 +103,7 @@ And yes - I used AI to help me write this post. It felt only right to practise w
 ### Previous & Next Posts
 
 In my **PREVIOUS** post I shared [the 7 little words that supercharge your habits](/posts/supercharge-your-habits.html).<br>
+In my **NEXT** post I share [a beginner's guide to ChatGPT - meet the main AI tools and get set up today](/posts/chatgpt-for-beginners.html).<br>
 
 ***
 
