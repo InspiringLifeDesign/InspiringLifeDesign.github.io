@@ -6,7 +6,6 @@ image: /i/cash_this_week.png
 tags:
   - "2018"
   - making money
-  - other hustles
 affiliate: true
 ---
 ![Get Extra Cash In Your Pocket This Week header](/i/cash_this_week.png)

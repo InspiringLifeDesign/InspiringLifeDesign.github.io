@@ -5,7 +5,6 @@ description: "A first-hand account of the UK Money Bloggers SHOMO conference 201
 image: /i/shomos2017.png
 tags:
   - "2017"
-  - blogging
 
 ---
 ![Show Me The Money Bloggers 3 Conference and the SHOMO Awards 2017 logo](/i/shomos2017.png)

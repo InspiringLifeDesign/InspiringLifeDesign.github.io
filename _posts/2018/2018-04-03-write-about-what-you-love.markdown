@@ -6,7 +6,6 @@ image: /i/2018/write-about-what-you-love-and-make-money-too.jpg
 tags:
   - "2018"
   - making money
-  - blogging
 affiliate: true
 ---
 ![Write About What You Love And Make Money Too header image](/i/2018/write-about-what-you-love-and-make-money-too.jpg)

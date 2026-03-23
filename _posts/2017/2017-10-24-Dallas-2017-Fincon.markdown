@@ -5,7 +5,6 @@ description: "Heading to Fincon 2017 in Dallas for the world's top personal fina
 image: /i/Fincon17_logo.jpg
 tags:
   - "2017"
-  - blogging
 
 ---
 

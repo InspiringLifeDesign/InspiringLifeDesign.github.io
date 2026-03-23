@@ -6,7 +6,6 @@ image: /i/2018/thought-experiments/10-years-left/10-years-left-to-live-header.pn
 tags:
   - "2018"
   - lifestyle
-  - thought experiments
 
 ---
 <center>

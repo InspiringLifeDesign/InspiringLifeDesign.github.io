@@ -5,7 +5,6 @@ description: "Discover the top 5 lessons from Fincon 2017 - know your why, set c
 image: /i/Fincon17_logo.jpg
 tags:
   - "2017"
-  - blogging
 
 ---
 

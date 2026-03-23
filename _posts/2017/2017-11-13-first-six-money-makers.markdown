@@ -6,7 +6,6 @@ image: /i/6_Money_Makers.png
 tags:
   - "2017"
   - making money
-  - other hustles
 affiliate: true 
 ---
 ![The First 6 Money Makers I've Tried header image](/i/6_Money_Makers.png)

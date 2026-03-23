@@ -6,7 +6,6 @@ image: /i/2018/thought-experiments/thought-experiment-1.png
 tags:
   - "2018"
   - lifestyle
-  - thought experiments
 
 ---
 <center>
