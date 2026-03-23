@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "5 Things You Need To Get Started With Online Publishing"
+description: "Ready to self-publish a book? Here are the 5 essential things you need to get started with online publishing on Amazon KDP and begin earning passive income."
+image: /i/2018/5-Things-To-Start-Online-Publishing-pin.png
 tags:
   - "2018"
   - making money

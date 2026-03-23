@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "My Big News - Life Update Time!"
+description: "A personal life update revealing pregnancy, the birth of baby Finn during the COVID-19 pandemic and how motherhood has reshaped my life design journey."
+image: /i/2020/baby-finn.jpg
 tags:
   - "2020"
   - about corinna

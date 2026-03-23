@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "How To Find A Ghost Writer For Your First Book"
+description: "Step-by-step guide to finding and hiring a ghost writer for your first self-published book using Fiverr or Upwork, including what to look for and how to vet candidates."
+image: /i/2018/how-to-find-a-ghost-writer-for-your-first-book-pin.png
 tags:
   - "2018"
   - book publishing

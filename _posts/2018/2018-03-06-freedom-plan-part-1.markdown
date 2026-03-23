@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Create Your Freedom Plan - Part One"
+description: "Part one of creating your financial freedom plan: learn how to calculate your total annual expenses as the essential first step toward financial independence."
+image: /i/2018/freedom_plan_1.png
 tags:
   - "2018"
   - financial freedom

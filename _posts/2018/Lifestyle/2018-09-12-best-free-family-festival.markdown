@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Is Godiva Festival The Best Lost-Cost Family Festival Ever?"
+description: "An honest review of Coventry's free Godiva Festival - a brilliant low-cost family day out with live music, fairground rides, great food and something for everyone."
+image: /i/2018/godiva/tony-christie.png
 tags:
   - "2018"
   - lifestyle

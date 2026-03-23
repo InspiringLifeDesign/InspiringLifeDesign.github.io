@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "5 Reasons You'll Love Publishing Books To Make Money"
+description: "Discover 5 compelling reasons to start self-publishing books as a side hustle - from passive income potential to creative freedom and growing royalties on Amazon."
+image: /i/2018/5-reasons-youll-love-publishing-books-to-make-money.jpg
 tags:
   - "2018"
   - making money

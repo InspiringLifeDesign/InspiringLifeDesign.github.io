@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "My January 2019 Monthly Goals Report"
+description: "January 2019 monthly goals update - checking in on progress across all 8 annual goals including income targets, brand growth, health and personal development milestones."
+image: /i/2019/goals/my-january-2019-monthly-goals-update-pin.png
 tags:
   - "2019"
   - goals

@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Let's get £1,000 richer this year!"
+description: "Week 3 update on Challenge 2018 - the savings challenge to put aside an extra £1,000 in a year using small, manageable weekly contributions."
+image: /i/one-thousand-challenge.png
 tags:
   - "2018"
   - saving money

@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "My 10 Simple Life Changes Inspired By Tony Robbins"
+description: "10 practical life changes made after attending Tony Robbins Unleash The Power Within - from cold showers and gratitude to goal setting and positive state changes."
+image: /i/2018/changes-after-tony-robbins-pin.png
 tags:
   - "2018"
   - personal development events

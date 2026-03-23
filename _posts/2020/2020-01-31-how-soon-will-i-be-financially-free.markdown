@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "How Soon Will I Be Financially Free?"
+description: "January 2020 financial independence update: investments at 39%, income hustles at 48%, combined score at 75% of target. How close is retirement on my own terms?"
+image: /i/2020/fire/202001-how-soon-will-i-be-financially-free-header.png
 tags:
   - "2020"
   - financial freedom

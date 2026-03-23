@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "The 7 Little Words That Supercharge Your Habits"
+description: "Use the 7-word mantra from The Slight Edge to supercharge your habits - a daily reminder that makes habit stacking stick and keeps you consistent long-term."
+image: /i/2025/7-word-mantra.png
 tags:
   - "2025"
   - life design

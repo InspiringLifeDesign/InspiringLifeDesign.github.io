@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "What New Side Hustle Should You Start This Year?"
+description: "5 sustainable side hustle ideas to start this year - from knowledge businesses and self-publishing to affiliate marketing, blogging and building a YouTube channel."
+image: /i/2020/what-new-side-hustle-should-you-start-this-year-header.png
 tags:
   - "2020"
   - making money

@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "How To Pick A Profitable Book Niche"
+description: "Learn how to research and choose a profitable niche for your self-published book using Amazon bestseller lists, keyword research and competition analysis tools."
+image: /i/2018/how-to-pick-a-profitable-niche-pin.png
 tags:
   - "2018"
   - making money

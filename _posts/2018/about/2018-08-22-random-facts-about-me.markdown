@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "20 Really Random Facts About Me: Q&A Time"
+description: "Get to know Corinna with 20 fun and random facts - from hobbies and hidden talents to personality quirks and personal passions in this candid Q&A post."
+image: /i/2018/about/random-facts-about-me.png
 tags:
   - "2018"
   - about corinna

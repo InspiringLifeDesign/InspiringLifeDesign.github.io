@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Challenge 2018: Mission Accomplished!"
+description: "Challenge 2018 is complete! Celebrating the successful £1,000 savings challenge and revealing the brand new 2019 savings charts to keep the momentum going."
+image: /i/2019/challenge2018/challenge-2018-done.png
 tags:
   - "2019"
   - challenge2018

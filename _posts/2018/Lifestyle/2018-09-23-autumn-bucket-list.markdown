@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "My Autumn Bucket List To Welcome In The New Season"
+description: "10 cosy autumn bucket list ideas to embrace the new season - from bonfires and baking to woodland walks, comfort food and creative projects to try this fall."
+image: /i/2018/lifestyle/autumn-bucket-list-1.png
 tags:
   - "2018"
   - lifestyle

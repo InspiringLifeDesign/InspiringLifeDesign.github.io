@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Fincon 2017 and the Plutus Awards in Dallas"
+description: "Heading to Fincon 2017 in Dallas for the world's top personal finance conference - packed with sessions, networking and the prestigious Plutus Awards."
+image: /i/Fincon17_logo.jpg
 tags:
   - "2017"
   - blogging

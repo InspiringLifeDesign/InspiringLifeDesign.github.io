@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "I ticked another thing off my bucket list!"
+description: "Exciting bucket list milestone: being featured as a guest on the Personal Development Essentials podcast and sharing life design insights with a whole new audience."
+image: /i/2019/podcast-feature/bucket-list.png
 tags:
   - "2019"
   - transformation

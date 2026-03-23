@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "The Goals I'd Like To Accomplish This Year"
+description: "My 8 ambitious goals for 2019 - from hitting a £7K profit month and growing my brand to taking holidays, learning new skills and making progress toward financial freedom."
+image: /i/2019/goals/goals-to-accomplish-2019-header.png
 tags:
   - "2019"
   - goals

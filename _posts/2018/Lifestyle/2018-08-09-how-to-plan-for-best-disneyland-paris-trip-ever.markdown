@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "How To Plan For The Best Disneyland Paris Trip Ever"
+description: "Your complete guide to planning a magical Disneyland Paris trip - from choosing the best hotel and park tickets to money-saving tips and must-do experiences."
+image: /i/2018/disney/disneyland-hotel-day.png
 tags:
   - "2018"
   - lifestyle

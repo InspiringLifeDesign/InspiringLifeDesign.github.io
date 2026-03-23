@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Perfect Family City Breaks in Europe this Autumn (AD)"
+description: "Top European family city breaks for autumn - explore Paris, Ljubljana, Vienna, Dubrovnik and Budapest with kids, including tips on what to see and when to go."
+image: /i/2018/lifestyle/perfect-family-city-breaks-in-europe-this-autumn-3.png
 tags:
   - "2018"
   - lifestyle

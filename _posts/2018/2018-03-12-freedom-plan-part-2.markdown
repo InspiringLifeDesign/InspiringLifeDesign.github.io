@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Create Your Freedom Plan - Part Two"
+description: "Part two of your financial freedom plan: build a strategy using investing and income side hustles to cover your expenses and achieve financial independence."
+image: /i/2018/freedom_plan_2.png
 tags:
   - "2018"
   - financial freedom

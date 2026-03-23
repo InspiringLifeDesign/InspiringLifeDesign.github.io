@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "If You Only Have 10 Years Left To Live, What Do You Do?"
+description: "A raw, honest response to the FIRE bloggers thought experiment: what would you do with only 10 years left to live? Covering finances, bucket list and legacy goals."
+image: /i/2018/thought-experiments/10-years-left/10-years-left-to-live-header.png
 tags:
   - "2018"
   - lifestyle

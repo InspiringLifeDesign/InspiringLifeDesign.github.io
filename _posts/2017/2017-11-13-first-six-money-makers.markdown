@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "The First 6 Money Makers I've Tried"
+description: "An honest review of the first 6 side hustles tested: self publishing, matched betting, cashback, eBay, free gambling offers and blogging for income."
+image: /i/6_Money_Makers.png
 tags:
   - "2017"
   - making money

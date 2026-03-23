@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "How To Get The Best Results From Your Ebook Writer"
+description: "Maximise value from your ghost writer by creating detailed Writer's Notes, setting clear expectations and managing communication throughout the book writing process."
+image: /i/2018/how-to-get-value-for-money-from-writer.png
 tags:
   - "2018"
   - book publishing

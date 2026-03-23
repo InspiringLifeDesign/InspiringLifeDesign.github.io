@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "It's Time For My New 2020 Goals"
+description: "Revealing 24 new goals for the first half of 2020 across 7 life categories including income, financial freedom, health, travel, learning and personal development."
+image: /i/2020/goals/its-time-for-my-new-2020-goals-pin.png
 tags:
   - "2020"
   - goals

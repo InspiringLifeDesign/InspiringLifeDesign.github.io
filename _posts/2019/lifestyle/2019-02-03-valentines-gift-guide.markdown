@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "A Valentine's Day Gift Guide, No Matter What Your Budget"
+description: "A Valentine's Day gift guide for every budget - from free romantic gestures and thoughtful homemade ideas to special splurges that will really impress your partner."
+image: /i/2019/lifestyle/valentines-day-gift-guide-header.png
 tags:
   - "2019"
   - lifestyle

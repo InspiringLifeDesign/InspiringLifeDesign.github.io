@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "How Have I Got On With My 2018 Goals?"
+description: "Year-end 2018 goals review covering financial freedom progress, side hustle income growth, personal development milestones and lifestyle goals achieved this year."
+image: /i/2018/2018-goals-review-header.png
 tags:
   - "2018"
   - goals

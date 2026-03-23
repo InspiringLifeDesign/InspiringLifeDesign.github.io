@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "A Special Kind Of Advent Calendar You Can Start Today"
+description: "Try the FoodBankAdvent reverse advent calendar this Christmas - fill a box with food bank donations each day in December and give back to those who need it most."
+image: /i/2018/foodbankadvent/blogheader.png
 tags:
   - "2018"
   - charity

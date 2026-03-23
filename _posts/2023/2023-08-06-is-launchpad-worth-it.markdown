@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Is Launchpad worth it? A review of the 2023 Tony Robbins and Dean Graziosi course"
+description: "An in-depth, honest review of the 2023 Tony Robbins and Dean Graziosi Launchpad course bundle - what is included, how much it costs and whether it is worth buying."
+image: /i/2023/launchpad-header.png
 tags:
   - "2023"
   - knowledge business

@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Get Extra Cash In Your Pocket This Week"
+description: "Want to earn extra cash quickly? Discover how the Prolific academic survey site pays real money for your opinions - a legitimate side hustle you can start today."
+image: /i/cash_this_week.png
 tags:
   - "2018"
   - making money

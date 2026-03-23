@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "How To Create Space For Your Dreams - Even When Life Feels Too Full"
+description: "Discover how to create space for your dreams right now using clarity, vision boards, intentional planning and the power of small consistent daily actions."
+image: /i/2025/create-space-for-dreams-header.JPG
 tags:
   - "2025"
   - life design

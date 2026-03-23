@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Starting A New Adventure"
+description: "Follow Corinna's journey from day one as she explores side hustles, self publishing and income freedom to escape the 9-5 rat race."
+image: /i/Mainlogo1500x500.jpg
 tags:
   - "2017"
   - about corinna

@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "What Would You Do If You Were Given One Million Pounds?"
+description: "A FIRE bloggers thought experiment: if you were given one million pounds today, how would you spend or invest it? Read one honest, stream-of-consciousness response."
+image: /i/2018/thought-experiments/thought-experiment-1.png
 tags:
   - "2018"
   - lifestyle

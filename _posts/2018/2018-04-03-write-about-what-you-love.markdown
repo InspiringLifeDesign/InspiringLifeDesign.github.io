@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Write About What You Love And Make Money Too"
+description: "Review of Emma Drew's Turn Your Dreams Into Money blogging course - can you really earn income writing about your passions? Here is an honest assessment."
+image: /i/2018/write-about-what-you-love-and-make-money-too.jpg
 tags:
   - "2018"
   - making money

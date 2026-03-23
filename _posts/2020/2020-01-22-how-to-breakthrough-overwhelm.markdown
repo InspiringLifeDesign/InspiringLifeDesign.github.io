@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "How To Breakthrough Overwhelm To Start Making Progress"
+description: "Feeling stuck and overwhelmed? Use this 5-step strategy to cut through the noise, regain focus and start making real, consistent progress toward your goals today."
+image: /i/2020/how-to-breakthrough-overwhelm-header.png
 tags:
   - "2020"
   - transformation

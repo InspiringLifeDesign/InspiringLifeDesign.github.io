@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "How would you like to save an extra £1,000 in the New Year?"
+description: "Join Challenge 2018 and save an extra £1,000 over 52 weeks with a simple, flexible savings plan that builds the habit of putting money aside regularly."
+image: /i/Challenge_2018.png
 tags:
   - "2017"
   - saving money

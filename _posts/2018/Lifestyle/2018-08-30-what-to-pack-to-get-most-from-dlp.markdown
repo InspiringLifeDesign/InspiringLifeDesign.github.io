@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "What To Pack To Get The Most From Disneyland Paris"
+description: "12 essential packing tips for Disneyland Paris - what to bring to stay comfortable, save money and make the most of every moment at the happiest place in Europe."
+image: /i/2018/disney/what-to-pack-to-get-most-from-dlp-1.jpg
 tags:
   - "2018"
   - lifestyle

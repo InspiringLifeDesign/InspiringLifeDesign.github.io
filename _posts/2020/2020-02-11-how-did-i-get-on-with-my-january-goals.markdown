@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "How Did I Get On With My January Goals?"
+description: "January 2020 monthly goals report - checking in on progress across all life categories including income, financial freedom, health, travel and personal development."
+image: /i/2020/goals/how-did-i-get-on-with-my-january-goals-pin.png
 tags:
   - "2020"
   - goals

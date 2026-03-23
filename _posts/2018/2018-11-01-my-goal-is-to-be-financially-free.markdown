@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "My Goal Is To Be Financially Free, How Am I Doing?"
+description: "A baseline financial independence progress report tracking investment growth and side hustle income against the target needed to become financially free."
+image: /i/2018/fire/my-goal-is-to-be-financially-free-header.png
 tags:
   - "2018"
   - financial freedom

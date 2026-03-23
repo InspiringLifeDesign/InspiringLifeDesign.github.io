@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Dreaming Of F.I.R.E."
+description: "What is Financial Independence Retire Early and why pursue it? Discover the motivation behind FIRE and how side hustles can help you achieve income freedom."
+image: /i/2018/dreaming-of-fire.png
 tags:
     - "2018"
     - financial freedom

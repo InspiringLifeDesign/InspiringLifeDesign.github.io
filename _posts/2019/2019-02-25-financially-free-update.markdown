@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "My Plan Is To Be Financially Free, How Am I Doing?"
+description: "Q1 2019 financial independence update: investments reach 32% of target and income hustles hit 12% - tracking progress on the journey toward financial freedom."
+image: /i/2018/fire/my-goal-is-to-be-financially-free-header.png
 tags:
   - "2019"
   - financial freedom

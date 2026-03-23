@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "How Did I Get On With My 2019 Goals?"
+description: "Year-end 2019 goals review - how close did I get to the £7K profit month target, brand growth goals and financial freedom milestones? An honest self-assessment."
+image: /i/2020/goals/how-did-i-get-on-with-my-2019-goals-pin.png
 tags:
   - "2020"
   - goals

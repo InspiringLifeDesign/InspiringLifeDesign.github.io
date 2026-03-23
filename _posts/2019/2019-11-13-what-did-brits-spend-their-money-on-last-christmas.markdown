@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "What Did Brits Spend Their Money On Last Christmas?"
+description: "Data from the Emma app reveals exactly what Brits spent money on last Christmas - from gifts and food to travel and entertainment. Are your habits typical?"
+image: /i/2019/collaborations/what-did-brits-spend-their-money-on-last-christmas.png
 tags:
   - "2019"
   - financial freedom

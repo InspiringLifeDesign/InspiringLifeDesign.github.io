@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "My 2018 Advent Calendar"
+description: "A peek inside my homemade three-way 2018 advent calendar - combining beauty treats, festive activities and mini books for a truly personal Christmas countdown."
+image: /i/2018/lifestyle/advent-calendar-pic.png
 tags:
   - "2018"
   - lifestyle

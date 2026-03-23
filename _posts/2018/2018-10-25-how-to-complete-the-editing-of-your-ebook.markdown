@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "How To Complete The Editing of Your Ebook"
+description: "A practical guide to editing your ebook manuscript before publication - including how to brief an editor, what to check and how to prepare your book for Amazon KDP."
+image: /i/2018/publishing/how-to-complete-the-editing-header.png
 tags:
   - "2018"
   - book publishing
