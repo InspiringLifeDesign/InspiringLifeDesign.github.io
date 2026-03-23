@@ -65,7 +65,8 @@ Do a final SEO check before publishing any post.
 
 ## Publishing rules
 
-- NEVER use `git add _posts/` broadly — always stage post files individually to avoid accidentally publishing drafts
+- NEVER use `git add _posts/` or `git add -A _posts/` broadly — always stage post files individually by full path to avoid accidentally publishing drafts
+- When editing many existing posts at once, `git add -u _posts/` is safe as it only stages modifications to already-tracked files and will never pick up untracked drafts
 - Before publishing, rename the file to today's date (e.g. `2026-03-22-slug.markdown`) even if the draft was started earlier
 - NEVER push a NEXT post link until the post it links to is also published
 - Add the NEXT link to the previous post at the same time as publishing the new post
