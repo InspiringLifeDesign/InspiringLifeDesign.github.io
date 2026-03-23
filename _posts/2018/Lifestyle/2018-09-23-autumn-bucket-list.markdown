@@ -5,7 +5,7 @@ description: "10 cosy autumn bucket list ideas to embrace the new season - from 
 image: /i/2018/lifestyle/autumn-bucket-list-1.png
 tags:
   - "2018"
-  - lifestyle
+  - everyday life
 affiliate: true
 ---
 <center>

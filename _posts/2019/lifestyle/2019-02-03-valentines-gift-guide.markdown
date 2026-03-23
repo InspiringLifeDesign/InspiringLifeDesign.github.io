@@ -5,7 +5,7 @@ description: "A Valentine's Day gift guide for every budget - from free romantic
 image: /i/2019/lifestyle/valentines-day-gift-guide-header.png
 tags:
   - "2019"
-  - lifestyle
+  - everyday life
 affiliate: true
 ---
 

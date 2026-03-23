@@ -5,7 +5,7 @@ description: "A FIRE bloggers thought experiment: if you were given one million 
 image: /i/2018/thought-experiments/thought-experiment-1.png
 tags:
   - "2018"
-  - lifestyle
+  - everyday life
 
 ---
 <center>

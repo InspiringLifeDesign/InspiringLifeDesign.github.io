@@ -5,7 +5,7 @@ description: "A raw, honest response to the FIRE bloggers thought experiment: wh
 image: /i/2018/thought-experiments/10-years-left/10-years-left-to-live-header.png
 tags:
   - "2018"
-  - lifestyle
+  - everyday life
 
 ---
 <center>

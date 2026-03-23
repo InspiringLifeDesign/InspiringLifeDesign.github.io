@@ -5,7 +5,7 @@ description: "An honest review of Coventry's free Godiva Festival - a brilliant 
 image: /i/2018/godiva/tony-christie.png
 tags:
   - "2018"
-  - lifestyle
+  - everyday life
   - saving money
 
 ---

@@ -5,7 +5,7 @@ description: "A peek inside my homemade three-way 2018 advent calendar - combini
 image: /i/2018/lifestyle/advent-calendar-pic.png
 tags:
   - "2018"
-  - lifestyle
+  - everyday life
 
 ---
 

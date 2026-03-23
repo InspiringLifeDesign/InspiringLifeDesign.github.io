@@ -5,7 +5,7 @@ description: "Top European family city breaks for autumn - explore Paris, Ljublj
 image: /i/2018/lifestyle/perfect-family-city-breaks-in-europe-this-autumn-3.png
 tags:
   - "2018"
-  - lifestyle
+  - everyday life
   - travel
 
 ---

@@ -5,7 +5,7 @@ description: "12 essential packing tips for Disneyland Paris - what to bring to 
 image: /i/2018/disney/what-to-pack-to-get-most-from-dlp-1.jpg
 tags:
   - "2018"
-  - lifestyle
+  - everyday life
   - travel
 affiliate: true
 ---

@@ -6,7 +6,7 @@ image: /i/2020/baby-finn.jpg
 tags:
   - "2020"
   - about corinna
-  - lifestyle
+  - everyday life
 affiliate: true
 ---
 

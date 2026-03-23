@@ -5,7 +5,7 @@ description: "Your complete guide to planning a magical Disneyland Paris trip - 
 image: /i/2018/disney/disneyland-hotel-day.png
 tags:
   - "2018"
-  - lifestyle
+  - everyday life
   - saving money
   - travel
 
