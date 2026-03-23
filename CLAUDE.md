@@ -31,6 +31,8 @@ Create `_posts/YEAR/YYYY-MM-DD-post-slug.markdown` with this front matter:
 ---
 layout: "post"
 title: "Post Title Here"
+description: "150-160 character keyword-rich summary of the post."
+image: /i/YEAR/header-image.jpg
 tags:
   - "2026"        # year tag always required
   - tag-name      # must match a file in _tag_pages/
@@ -41,13 +43,37 @@ affiliate: true   # only add if post contains affiliate links
 Standard post structure:
 1. Centered header image: `<center><img src='/i/YEAR/filename.jpg' alt='...'></center>`
 2. Body content mixing Markdown and HTML
-3. Italic closing question to readers: `<i>Question for readers...</i>`
-4. Share buttons: `{% include sharethis.html %}`
-5. Email sign-up include: `{% include listsignup.html list_id="type1" %}`
-5. Previous & Next post links
-6. Ad include: `{% include advert.html ad_id="latest1" %}`
+3. AI disclosure line (if AI-assisted): `And yes - I used Claude to help me write this post. It felt only right to practise what I preach.`
+4. Italic closing question to readers: `<i>Question for readers...</i>`
+5. Share buttons: `{% include sharethis.html %}`
+6. Email sign-up include: `{% include listsignup.html list_id="type1" %}`
+7. Previous & Next post links
+8. Ad include: `{% include advert.html ad_id="latest1" %}`
 
 Note: Pinterest pin images are no longer included in posts. Pins are batch-created separately after multiple posts are published.
+
+## SEO requirements
+
+Every post must have:
+- `description` in front matter: 150-160 characters, keyword-rich, no em dashes
+- `image` in front matter: path to the header image (enables OpenGraph sharing)
+- Title leading with searchable keywords
+- Subheadings (H3s) containing relevant keywords where natural
+- Descriptive, keyword-relevant image alt text
+
+Do a final SEO check before publishing any post.
+
+## Publishing rules
+
+- NEVER use `git add _posts/` broadly — always stage post files individually to avoid accidentally publishing drafts
+- Before publishing, rename the file to today's date (e.g. `2026-03-22-slug.markdown`) even if the draft was started earlier
+- NEVER push a NEXT post link until the post it links to is also published
+- Add the NEXT link to the previous post at the same time as publishing the new post
+
+## Writing style
+
+- Do not use em dashes (—); use hyphens (-) instead
+- Prefer commas or brackets over hyphens when structuring sentences
 
 Images go in `i/YEAR/` for post images and `i/ads/` for ad banners.
 
@@ -73,6 +99,7 @@ Edit `_data/navigation.json`. The structure supports up to three levels of nesti
 
 - `{% include advert.html ad_id="latest1" %}` — renders an ad by ID (IDs defined in `_includes/advert.html`)
 - `{% include listsignup.html list_id="type1" %}` — newsletter sign-up embed (Mastermind platform)
+- `{% include sharethis.html %}` — share buttons (Pinterest, Facebook, WhatsApp)
 - `{% include youtube.html videoid="XXXXXXX" %}` — embeds a YouTube video
 - `{% include vimeo.html videoid="XXXXXXX" %}` — embeds a Vimeo video
 
