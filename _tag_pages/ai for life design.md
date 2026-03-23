@@ -1,4 +1,4 @@
 ---
-layout: tag_page
+layout: tag_page_cards
 title: ai for life design
 ---
