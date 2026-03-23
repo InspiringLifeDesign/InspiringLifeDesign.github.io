@@ -1,5 +1,5 @@
 ---
-layout: tag_page
+layout: tag_page_cards
 title: financial freedom
 ---
 Hello, tag!
