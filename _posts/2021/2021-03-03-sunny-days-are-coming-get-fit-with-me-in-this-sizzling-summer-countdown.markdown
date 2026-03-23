@@ -3,7 +3,6 @@ layout: "post"
 title: "Sunny Days Are Coming, Get Fit With Me In This Sizzling Summer Countdown"
 tags:
   - "2021"
-  - body
 ---
 
 <center>

@@ -3,7 +3,6 @@ layout: "post"
 title: "Competition Time - Win A £100 Virgin Experience Days Voucher (NOW CLOSED)"
 tags:
   - "2021"
-  - money
 ---
 
 <center>

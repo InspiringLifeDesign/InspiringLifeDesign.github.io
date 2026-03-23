@@ -6,7 +6,6 @@ image: /i/Challenge_2018.png
 tags:
   - "2017"
   - saving money
-  - challenge2018
 
 ---
 ![How would you like to save an extra £1,000 in the New Year Challenge 2018 image](/i/Challenge_2018.png)

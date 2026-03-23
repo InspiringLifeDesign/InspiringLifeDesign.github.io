@@ -6,7 +6,6 @@ image: /i/2018/disney/disneyland-hotel-day.png
 tags:
   - "2018"
   - lifestyle
-  - disney
   - saving money
   - travel
 

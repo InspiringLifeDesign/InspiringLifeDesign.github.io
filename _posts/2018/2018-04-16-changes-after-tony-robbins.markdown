@@ -5,9 +5,7 @@ description: "10 practical life changes made after attending Tony Robbins Unleas
 image: /i/2018/changes-after-tony-robbins-pin.png
 tags:
   - "2018"
-  - personal development events
   - lifestyle
-  - transformation
 
 affiliate: true
 ---

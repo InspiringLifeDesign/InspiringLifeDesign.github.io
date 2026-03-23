@@ -5,7 +5,6 @@ description: "An in-depth, honest review of the 2023 Tony Robbins and Dean Grazi
 image: /i/2023/launchpad-header.png
 tags:
   - "2023"
-  - knowledge business
   - making money
 affiliate: true
 ---

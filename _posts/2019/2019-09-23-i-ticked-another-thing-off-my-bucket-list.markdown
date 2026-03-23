@@ -5,8 +5,7 @@ description: "Exciting bucket list milestone: being featured as a guest on the P
 image: /i/2019/podcast-feature/bucket-list.png
 tags:
   - "2019"
-  - transformation
-  
+
 affiliate: true
 ---
 

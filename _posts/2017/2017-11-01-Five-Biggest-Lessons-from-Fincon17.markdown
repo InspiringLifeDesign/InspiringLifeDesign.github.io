@@ -6,7 +6,6 @@ image: /i/Fincon17_logo.jpg
 tags:
   - "2017"
   - blogging
-  - income hustle events
 
 ---
 

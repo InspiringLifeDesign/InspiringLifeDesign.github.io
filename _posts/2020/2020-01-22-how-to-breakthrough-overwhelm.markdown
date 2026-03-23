@@ -5,7 +5,6 @@ description: "Feeling stuck and overwhelmed? Use this 5-step strategy to cut thr
 image: /i/2020/how-to-breakthrough-overwhelm-header.png
 tags:
   - "2020"
-  - transformation
 
 ---
 

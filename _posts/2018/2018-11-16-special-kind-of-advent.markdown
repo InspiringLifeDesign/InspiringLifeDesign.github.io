@@ -5,7 +5,6 @@ description: "Try the FoodBankAdvent reverse advent calendar this Christmas - fi
 image: /i/2018/foodbankadvent/blogheader.png
 tags:
   - "2018"
-  - charity
 
 ---
 

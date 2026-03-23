@@ -6,7 +6,6 @@ image: /i/2018/disney/what-to-pack-to-get-most-from-dlp-1.jpg
 tags:
   - "2018"
   - lifestyle
-  - disney
   - travel
 affiliate: true
 ---
