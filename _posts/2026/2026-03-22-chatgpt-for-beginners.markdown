@@ -106,6 +106,8 @@ If you're not already signed up to my newsletter, pop your details in below and 
 
 In my **PREVIOUS** post I introduced [my new AI For Life Design series](/posts/ai-for-life-design.html).<br>
 <br>
+In my **NEXT** post I share [12 everyday ways to use AI to make your life easier](/posts/12-everyday-ways-to-use-ai-to-make-your-life-easier.html).<br>
+<br>
 
 ***
 
