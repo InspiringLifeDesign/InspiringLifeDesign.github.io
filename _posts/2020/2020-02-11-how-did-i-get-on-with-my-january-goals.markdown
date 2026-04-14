@@ -168,9 +168,6 @@ By the end of June I am hoping to have scheduled content in advance so that I am
 Despite focusing on increasing the regularity of posts on my site I didn't manage to increase my email list subscriptions at all in January, so I still have a long way to go for this goal. I need to consider more ways that I can encourage new traffic to visit my site.
 
 If you haven't signed-up yet, I send out an email newsletter where I share offers, freebies & news from behind-the-scenes:
-<!-- START EMAIL LIST SIGN-UP: Type 2 -->
-{% include listsignup.html list_id="type2" %}
-<!-- END EMAIL LIST SIGN-UP: Type 2 -->
 
 **GOAL 16:** Increase Inspiring Life Design Domain Authority From 25 to 26
 
@@ -237,11 +234,6 @@ I didn't spend any time on creating new products in January. I dedicated my time
 
 {% include sharethis.html %}
 
-<!-- START EMAIL LIST SIGN-UP: Type 1 -->
-
-{% include listsignup.html list_id="type1" %}
-
-<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 

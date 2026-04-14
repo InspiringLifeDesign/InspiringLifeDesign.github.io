@@ -492,11 +492,6 @@ So that's my round-up income and profit report for 2018! Overall I'm pleased wit
 
 {% include sharethis.html %}
 
-<!-- START EMAIL LIST SIGN-UP: Type 1 -->
-
-{% include listsignup.html list_id="type1" %}
-
-<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 

@@ -182,11 +182,6 @@ Hopefully there’s something for everyone there!
 
 {% include sharethis.html %}
 
-<!-- START EMAIL LIST SIGN-UP: Type 1 -->
-
-{% include listsignup.html list_id="type1" %}
-
-<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 

@@ -146,11 +146,6 @@ Everyone I've come across in this field has been super friendly and helpful. I'm
 
 {% include sharethis.html %}
 
-<!-- START EMAIL LIST SIGN-UP: Type 1 -->
-
-{% include listsignup.html list_id="type1" %}
-
-<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 

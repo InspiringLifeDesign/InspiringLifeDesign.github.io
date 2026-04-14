@@ -115,11 +115,6 @@ To summarise the message of this post. It's important to establish good guidelin
 
 {% include sharethis.html %}
 
-<!-- START EMAIL LIST SIGN-UP: Type 1 -->
-
-{% include listsignup.html list_id="type1" %}
-
-<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Previous & Next Posts
 

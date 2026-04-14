@@ -59,11 +59,6 @@ My goal is to help <b>as many people as possible</b> to start making extra money
 
 {% include sharethis.html %}
 
-<!-- START EMAIL LIST SIGN-UP: Type 1 -->
-
-{% include listsignup.html list_id="type1" %}
-
-<!-- END EMAIL LIST SIGN-UP: Type 1 -->
 
 ### Next Post
 In my **NEXT** post you can hear a little bit about [the UK Money Blogger's SHOMO event](/posts/Show-Me-The-Money-Conference.html).
